@@ -2,10 +2,10 @@ project:
   type: book
 
 book:
-  title: "LIBRO EXAMENES EFA 2023"
-  subtitle: ""
-  author: "[_Profesor Alberto Bernat_](https://www.linkedin.com/in/albertobernat/)"
-  cover-image: EFPA_logo.png
+  title: "Exámenes de certificación <br> European Financial Advisor - EFA™  <br> (Asociación Europea de Planificación Financiera - EFPA™)"
+  subtitle: "Ejercicios y exámenes resueltos"
+  author: "[_Profesor Alberto Bernat_](https://www.linkedin.com/in/albertobernat/)  <br> Máster en Dirección y Planificación Financiera  <br> Universidad Europea Miguel de Cervantes <br>  Economista (Colegiado nº. 3.685) <br>   Asesor Financiero (EFA nº. 14.672)"
+  cover-image: EFPA_logo.png"
   date: "now"
 
     
@@ -20,7 +20,7 @@ bibliography: references.bib
 format:
   html:
     lang: "es"
-    title-block-author-single: "autor"
+    title-block-author-single: ""
     theme: [cosmo, style.scss]
     cover-image: images/portada_2020.png
     css: styles.css
