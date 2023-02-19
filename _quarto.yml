@@ -2,7 +2,6 @@ project:
   type: book
 
 book:
-  language: "es"
   title: "LIBRO EXAMENES EFA 2023"
   subtitle: ""
   author: "[_Profesor Alberto Bernat_](https://www.linkedin.com/in/albertobernat/)"
@@ -20,6 +19,8 @@ bibliography: references.bib
 
 format:
   html:
+    lang: "es"
+    title-block-author-single: "autor"
     theme: [cosmo, style.scss]
     cover-image: images/portada_2020.png
     css: styles.css

@@ -9,16 +9,16 @@
   {
     "objectID": "intro.html",
     "href": "intro.html",
-    "title": "1  Introduction",
+    "title": "1  Preguntas tipo test",
     "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "Si en un país, los tipos de interés están al 0.5%, la inflación al 4% y el crecimiento del PIB en el -0.5%. ¿Qué se espera que haga el país para aumentar su producción?\n\neooo\nreooo\n\n\nDisminuir tipos de interés.\nReducir la cantidad de dinero en circulación para que los individuos consuman más.\nDevaluar la moneda para incrementar las exportaciones.\nNinguna de las anteriores.\n\n\n\n\n\n\n\n\n\n\n\nLa respuesta correcta es la c.\nA pesar de que la devaluación de la moneda puede ser generadora de inflación, se puede interpretar que el problema más importante de la economía es el crecimiento económico negativo, y por ello debe tomarse alguna medida encaminada a fomentar el aumento del PIB, por ello una devaluación, puede generar aspectos competitivos favorables, en la medida que pueda fomentar el aumento de las exportaciones y la reducción de las importaciones, lo que llevaría a aumentar el PIB.\nEl tipo de interés ya está en unos niveles muy bajos y por ello el margen de actuación de la Política Monetaria es escaso o nulo.\nReducir la cantidad de dinero en circulación para que los individuos consuman más, parece absurdo ya que la reducción de dinero produciría un aumento de los tipos de interés, lo que en principio sería un factor perjudicial para fomentar el crecimiento económico."
   },
   {
     "objectID": "summary.html",
     "href": "summary.html",
-    "title": "2  Summary",
+    "title": "2  Exámenes",
     "section": "",
-    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
+    "text": "Si en un país, los tipos de interés están al 0.5%, la inflación al 4% y el crecimiento del PIB en el -0.5%. ¿Qué se espera que haga el país para aumentar su producción?\n\neooo\nreooo\n\n\nDisminuir tipos de interés.\nReducir la cantidad de dinero en circulación para que los individuos consuman más.\nDevaluar la moneda para incrementar las exportaciones.\nNinguna de las anteriores.\n\n\n\n\n\n\n\n\n\n\n\nLa respuesta correcta es la c.\nA pesar de que la devaluación de la moneda puede ser generadora de inflación, se puede interpretar que el problema más importante de la economía es el crecimiento económico negativo, y por ello debe tomarse alguna medida encaminada a fomentar el aumento del PIB, por ello una devaluación, puede generar aspectos competitivos favorables, en la medida que pueda fomentar el aumento de las exportaciones y la reducción de las importaciones, lo que llevaría a aumentar el PIB.\nEl tipo de interés ya está en unos niveles muy bajos y por ello el margen de actuación de la Política Monetaria es escaso o nulo.\nReducir la cantidad de dinero en circulación para que los individuos consuman más, parece absurdo ya que la reducción de dinero produciría un aumento de los tipos de interés, lo que en principio sería un factor perjudicial para fomentar el crecimiento económico."
   },
   {
     "objectID": "references.html",
@@ -26,5 +26,12 @@
     "title": "References",
     "section": "",
     "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "LIBRO EXAMENES EFA 2023",
+    "section": "",
+    "text": "INTRODUCCIÓN"
   }
 ]
