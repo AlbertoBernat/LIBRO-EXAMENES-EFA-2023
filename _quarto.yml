@@ -2,9 +2,12 @@ project:
   type: book
 
 book:
-  title: "LIBRO-EXAMENES-EFA-2023-X"
-  author: "Jane Doe"
-  date: "2/19/2023"
+  title: "LIBRO EXAMENES EFA 2023"
+  subtitle: ""
+  author: "[_Profesor Alberto Bernat_](https://www.linkedin.com/in/albertobernat/)"
+  cover-image: EFPA_logo.png
+  date: ""
+
   chapters:
     - index.qmd
     - intro.qmd

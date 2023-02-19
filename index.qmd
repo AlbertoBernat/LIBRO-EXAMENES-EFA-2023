@@ -1,15 +1,1955 @@
-# Preface {.unnumbered}
+# INTRODUCCIÓN {.unnumbered}
 
-This is a Quarto book.
+esto es
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
 
-```{r}
-1 + 1
+# Instrumentos y Mercados Financieros
+
+## Comprender los factores macroeconómicos que afectan a los rendimientos de la inversión
+
+1.  Si en un país, los tipos de interés están al 0.5%, la inflación al 4% y el crecimiento del PIB en el -0.5%. ¿Qué se espera que haga el país para aumentar su producción?
+
+```{=html}
+<!-- -->
 ```
+a)  Disminuir tipos de interés.
 
-::: callout-important
-$$
-\frac{\frac{1\cdot \:42.5}{\left(1+0.0327\right)^1}+\frac{2\cdot \:42.5}{\left(1+0.0327\right)^2}+\frac{3\cdot \:42.5}{\left(1+0.0327\right)^3}+\frac{4\cdot \:42.5}{\left(1+0.0327\right)^4}+\frac{5\cdot \:1042.5}{\left(1+0.0327\right)^5}}{1044.53721}=4.61828\dots 
-$$
+b)  Reducir la cantidad de dinero en circulación para que los individuos consuman más.
+
+c)  Devaluar la moneda para incrementar las exportaciones.
+
+d)  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la c**.
+
+A pesar de que la devaluación de la moneda puede ser generadora de inflación, se puede interpretar que el problema más importante de la economía es el crecimiento económico negativo, y por ello debe tomarse alguna medida encaminada a fomentar el aumento del PIB, por ello una devaluación, puede generar aspectos competitivos favorables, en la medida que pueda fomentar el aumento de las exportaciones y la reducción de las importaciones, lo que llevaría a aumentar el PIB.
+
+El tipo de interés ya está en unos niveles muy bajos y por ello el margen de actuación de la Política Monetaria es escaso o nulo.
+
+Reducir la cantidad de dinero en circulación para que los individuos consuman más, parece absurdo ya que la reducción de dinero produciría un aumento de los tipos de interés, lo que en principio sería un factor perjudicial para fomentar el crecimiento económico.
 :::
+
+</details>
+
+------------------------------------------------------------------------
+
+2.  Si una empresa española produce jamones en España y los exporta a Japón, a efectos del PIB que contribución se produce:
+
+```{=html}
+<!-- -->
+```
+a)  El PIB español aumenta
+
+b)  El PIB español se mantiene
+
+c)  El PIB japonés disminuye
+
+d)  a y c son correctas
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+
+Aumenta el PIB español porque los jamones se producen en España y se exportan a otro país, por otra parte el PIB japonés disminuye porque la empresa española exporta a Japón y para el PIB japonés se considera una importación.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+3.  ¿Cuál de las siguientes frases es sinónimo de un futura tendencia expansiva?
+
+```{=html}
+<!-- -->
+```
+a)  Paso de 55 a 45 en el ISM.
+
+b)  Paso de 95 a 90 en el IFO.
+
+c)  Paso de 45 a 55 en el IFO.
+
+d)  Paso de 45 a 55 en el ISM.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+
+El Indicador ISM es un indicador avanzado de producción americano. Se elabora mensualmente una encuesta a los jefes de compra de 250 empresas en la cual se les pide que respondan si la actividad será igual, mayor o inferior a la del mes anterior. A partir de los resultados se interpretará si va a haber una **tendencia expansiva** (en el caso de que la actividad sea mayor) o recesiva (en el caso de que la actividad sea menor) en la economía.
+
+El Indicador IFO es un indicador avanzado de producción alemán. Se elabora una encuesta a 10.000 empresas alemanas acerca de las actividades presentes de cada empresa y de las actividades previstas en los próximos seis meses. Si la tendencia es alcista, tiende a interpretarse como una **recuperación de la economía**, y viceversa. Aunque es un indicador alemán, su interpretación suele extrapolarse al resto de la economía europea. Este indicador se elabora de forma mensual.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+4.  Si el incremento del PIB americano ha pasado de ser el 2% al 8%. ¿Por qué ha podido pasar?
+
+```{=html}
+<!-- -->
+```
+a)  Porque en Estados Unidos siempre aumenta el PIB, ya que su economía es la principal economía mundial y nunca atraviesa fases de recesión.
+
+b)  Porque han aumentado mucho las importaciones.
+
+c)  Porque han aumentado mucho las exportaciones.
+
+d)  Todas las respuestas anteriores son correctas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la c**.
+
+Porque han aumentado mucho las exportaciones, ya que las importaciones restan valor al PIB, por lo que un aumento de éstas hará disminuir el PIB, en cambio las exportaciones suman al PIB por lo que su aumento hará incrementar el PIB.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+5.  ¿Qué soluciones tiene Australia para reducir la tasa de paro?
+
+```{=html}
+<!-- -->
+```
+a)  Que el Banco Central reduzca tipos de interés
+
+b)  Que se deprecie el dólar australiano
+
+c)  Aplicar incentivos para la contratación de gente joven y mayor de 55 años
+
+d)  Todas las acciones anteriores son correctas
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+
+Si el Banco Central disminuye tipos de interés, a las empresas les costará menos endeudarse, por lo que incrementarán sus inversiones. Este aumento de las inversiones hará que se necesite a más gente para llevarlas a cabo.
+
+Si se deprecia el dólar australiano las empresas australianas producirán más, ya que parte de su producción la venderán en el extranjero, por lo que necesitarán a más gente para trabajar. Si aplican incentivos para la contratación de personas, las empresas adaptarán estas ventajas contratando a gente.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+6.  Cual de las siguientes respuestas es correcta en el supuesto que el déficit público de Rusia aumente.
+
+```{=html}
+<!-- -->
+```
+a)  Aumenta el déficit público debido a que han disminuido los ingresos derivados de los impuestos
+
+b)  Aumenta debido a un incremento del gasto público mayor al esperado
+
+c)  Se espera que los bonos emitidos por el gobierno tengan un tipo de interés mayor
+
+d)  Todas las respuestas anteriores son correctas
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+
+El déficit público se genera cuando los gastos del Estado son mayores a sus ingresos. Por lo que una disminución de los ingresos, un incremento del gasto o ambas cosas a la vez harán aumentar el déficit público. Si aumenta el déficit público, Rusia deberá emitir deuda para obtener ingresos adicionales, para incentivar a que los inversores compren su deuda, deberá aumentar el tipo de interés.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+7.  ¿Cuál de las siguientes fases corresponden a un período de crecimiento del PIB?:
+
+```{=html}
+<!-- -->
+```
+a)  Expansión
+
+b)  Recesión
+
+c)  Estancamiento
+
+d)  Contracción
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la a**.
+
+La única fase que corresponde a un período de crecimiento es la "Expansión". El resto de fases descritas debieran coincidir con reducción del crecimiento del PIB o estabilidad del mismo.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+8.  ¿Cuál es el agregado que se suele utilizar para medir el crecimiento de una economía?:
+
+```{=html}
+<!-- -->
+```
+a)  FBCF
+
+b)  PIB
+
+c)  IPC
+
+d)  PER
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la b**.
+
+El agregado universal más utilizado es el PIB o Producto Interior Bruto. El PIB desde el punto de vista de la demanda queda integrado por la suma de consumo privado nacional, consumo público, formación bruta del capital fijo o inversión, variación de las existencias (inventarios) y exportación de bienes y servicios, restando de dichas cifras las importaciones.
+
+La Formación Bruta del Capital Fijo es una componente del PIB, mientras que el IPC o Índice de Precios al Consumo hace referencia a la inflación o crecimiento general de los precios de la economía, pero se utiliza como referencia de crecimiento de una economía.
+
+El PER (Price earning ratio) es un ratio bursátil.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+9.  ¿Qué se suele entender comúnmente por recesión?:
+
+```{=html}
+<!-- -->
+```
+a)  Cualquier reducción que se produzca en el PIB de un período respecto al período anterior
+
+b)  Tres meses consecutivos con tasas de variación del PIB negativas
+
+c)  Tres trimestres consecutivos con tasas de variación del PIB negativas
+
+d)  Ninguna de las anteriores
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+
+A pesar de que pueden existir algunas opiniones discrepantes, ya que no se trata de un criterio universal o matemáticamente indiscutible, es frecuente considerar que recesión son dos trimestres consecutivos con tasas de variación del PIB negativas.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+10. ¿Qué tipo de indicador es el de ventas minoristas?
+
+```{=html}
+<!-- -->
+```
+a)  Indicador de demanda
+
+b)  Indicador de oferta
+
+c)  Indicador de producción
+
+d)  Indicador de precios
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la a**.
+
+Si se tuviera que definir indicador de demanda, se podría decir que es aquel que refleja diversos aspectos de la evolución del consumo privado y el comportamiento de los consumidores. Por ello el indicador "Ventas al por menor" se ubica en el grupo de indicadores de demanda.
+
+No es indicador de sentimiento porque no se basa en encuestas periódicas sobre las expectativas de los agentes económicos, tampoco es indicador de oferta pues no se basa en datos económicos que reflejen diversos aspectos de la evolución de la producción, y tampoco es un indicador de la evolución de los precios.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+11. En una fase de ciclo en situación expansiva y con alza importante de precios, el director y/o ejecutor de la Política Monetaria podría tomar decisiones encaminadas a:
+
+```{=html}
+<!-- -->
+```
+a)  Subir los tipos de interés a corto plazo.
+
+b)  Bajar los tipos de interés a corto plazo.
+
+c)  Bajar los tipos de interés a largo plazo.
+
+d)  Ninguno de los anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la a**.
+
+Al producirse una situación que conlleva "sobrecalentamiento" de la economía, una decisión habitual de los Bancos Centrales es la subida de tipos de interés, para que con ello se fomente el ahorro, la inversión empresarial y se modere el consumo, lo que podría llevar a una menor presión sobre el crecimiento de los precios, a pesar de que también puede frenar el nivel de crecimiento del PIB.
+
+Bajar los tipos de interés por parte del Banco Central, podría ser una decisión coherente en un contexto de bajo crecimiento positivo, crecimiento nulo o negativo del PIB, y con ello se propiciaría un desincentivo para el ahorro, una mayor inversión empresarial y un mayor consumo y mayor crecimiento del PIB.
+
+En lo que respecta a la influencia de los Bancos Centrales sobre los tipos de interés a largo plazo, debe decirse que la misma es escasa al menos de forma directa a través de las intervenciones en los mercados, si que pueden ser más influyentes las expectativas que puedan generar los responsables de las políticas monetarias.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+12. Un factor de cierta importancia para frenar la inflación es:
+
+```{=html}
+<!-- -->
+```
+a)  Aumento del déficit público
+
+b)  Reducción del déficit público
+
+c)  Políticas monetarias claramente expansivas
+
+d)  Aumento de los impuestos indirectos
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la b**.
+
+De todas las respuestas la única posible es la que hace referencia a la reducción del déficit público, ya que se interpreta que el mismo puede venir por la vía de la reducción del gasto público, lo que supone una menor aportación al crecimiento del PIB, lo que puede generar no sólo menor consumo público, sino también menor crecimiento económico privado, menor formación bruta del capital y en definitiva todo ello son factores atenuantes del crecimiento económico y también en consecuencia de la presión inflacionista.
+
+El aumento del déficit público y las políticas monetarias expansivas (reducción de los tipos de interés y aumento de la cantidad de dinero en circulación) son generadores de posible crecimiento económico, en ocasiones más a corto que a largo plazo, pero son generadoras de aumento general de los precios.
+
+Los impuestos indirectos en la medida que se repercuten en el precio final de los bienes y servicios, conllevan también un aumento de la inflación.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+13. ¿Qué tipo de indicador es el IFO alemán?:
+
+```{=html}
+<!-- -->
+```
+a)  Indicador de demanda
+
+b)  Indicador de oferta
+
+c)  Indicador de precios
+
+d)  Indicador de sentimiento
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+
+El IFO es un índice de clima empresarial, que se publica mensualmente por parte del Instituto de Investigación Económica de Alemania y que informa sobre el sentimiento de diversos sectores productivos y sus expectativas. Asimismo, el IFO se puede considerar un índice adelantando de actividad económica.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+14. ¿Qué tipo de indicador es el de "Utilización de la capacidad productiva Capacity utilization?:
+
+```{=html}
+<!-- -->
+```
+a)  Indicador de demanda
+
+b)  Indicador de oferta
+
+c)  Indicador de precios
+
+d)  Indicador de sentimiento
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la b**.
+
+Se trata de un indicador de oferta, pues está vinculado, como su propio nombre indica, con aspectos vinculados a la evolución de la producción.
+
+No es un índice de precios, no es de sentimiento pues se basa en datos objetivos y no es indicador de demanda, ya que no da información sobre el consumo privado o el comportamiento de los consumidores.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+15. De las siguientes situaciones, ¿cuál parece más lógica que suceda en plena etapa de recesión intensa?:
+
+```{=html}
+<!-- -->
+```
+a)  Paro al alza
+
+b)  Sentimiento económico al alza
+
+c)  Tipos de interés al alza
+
+d)  Bolsa al alza
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la a**.
+
+Lo habitual es que con un PIB en fase de recesión se genere desempleo, es decir incremento de las tasas de paro.
+
+El resto de cuestiones parecen contradictorias con una fase de recesión intensa, que normalmente debiera conllevar un sentimiento económico a la baja o por los menos en niveles muy bajos.
+
+No parece coherente subir los tipos de interés en fases de recesión intenso, sino todo lo contrario, y lo habitual es que la Bolsa se encuentre en fase bajista, a pesar de que la evolución de los mercados bursátiles puede presentar ciertos desfases temporales respecto a la evolución de la economía, debido a que con frecuencia se indica que los precios de las acciones suelen descontar expectativas de futuras situaciones económicas, potencialmente diferentes de la realidad actual.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+16. De las siguientes situaciones ¿cuál parece más lógica que suceda en plena etapa de expansión intensa?
+
+```{=html}
+<!-- -->
+```
+a)  Demanda a la baja
+
+b)  Paro a la baja
+
+c)  PIB a la baja
+
+d)  Bolsa a la baja
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la b**.
+
+Lo habitual es que con un PIB en fase de expansión intensa, ello genere reducción del desempleo, es decir caída de las tasas de paro y aumento de las tasas de empleo.
+
+El resto de cuestiones parece contradictorias con una fase de expansión intensa, ya que si el crecimiento económico es intenso el PIB estará aumentando, el nivel de demanda no debiera ir a la baja, sino todo lo contrario y en lo que respecta a la Bolsa, lo habitual es que se encuentre en fase alcista, a pesar de que la evolución de los mercados bursátiles puede presentar ciertos desfases temporales respecto a la evolución de la economía, debido a que con frecuencia se indica que los precios de las acciones suelen descontar expectativas de futuras situaciones económicas, potencialmente diferentes de la realidad actual.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+17. Si el euro se deprecia, se espera que:
+
+```{=html}
+<!-- -->
+```
+a)  El PIB europeo aumente
+
+b)  El PIB europeo disminuya
+
+c)  Que disminuya el turismo en Europa
+
+d)  Que el PIB de los países con los que mantiene relaciones comerciales aumente
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la a**.
+
+La depreciación del euro, o si fuera la situación más drástica una devaluación, debiera estar propiciada para aumentar el PIB medio de los países que integran dicha zona económica y monetaria.
+
+De hecho con la depreciación del euro, se podría estar buscando una ventaja competitiva que se pondría de manifiesto inicialmente a través del sector exterior, ya que las exportaciones serían más competitivas y debieran de aumentar, mientras que las importaciones se encarecerían y debieran disminuir, por todo ello el PIB debiera aumentar.
+
+Todo ello, en un contexto de explicación simplificada, y sin tener en cuenta otros muchos posibles efectos colaterales a corto, medio y largo plazo.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+18. Ante una situación de recesión, el BCE puede:
+
+```{=html}
+<!-- -->
+```
+a)  Aumentar los tipos de interés para favorecer la inversión
+
+b)  Disminuir los tipos de interés para favorecer la inversión
+
+c)  Esperar a que mejore la economía porque hasta entonces él no puede intervenir
+
+d)  Comprar acciones en Bolsa para subir el valor de éstas
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la b**.
+
+Una actuación académicamente poco cuestionable es que el Banco Central Europeo acuda a la variable instrumental de los tipos de interés de corto plazo para fomentar el crecimiento económico, por medio de una reducción de los citados tipos de interés que debieran desincentivar el ahorro y fomentar la inversión empresarial y el consumo, lo que podría coadyuvar, con estas medidas y quizá con otras complementarias, a frenar la recesión o entrar en un nuevo ciclo económico expansivo.
+
+El Banco Central Europeo puede intervenir en los mercados monetarios y de cambios cuando lo considere oportuno, y si estima que no es conveniente intervenir pues no lo hace.
+
+Por lo que respecta a la compra de acciones en Bolsa, se considera que entre las funciones de un Banco Central no está la intervención en mercados bursátiles, ya que el precio de las acciones debe fluctuar según las condiciones de oferta y demanda de dichos mercados sin injerencias oficiales.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+19. Si el nivel de inflación es elevado se espera:
+
+```{=html}
+<!-- -->
+```
+a)  Un aumento del tipo de interés
+
+b)  Una disminución de la inversión de las empresas
+
+c)  Una bajada del poder adquisitivo de los consumidores
+
+d)  Todas las respuestas anteriores son correctas
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+
+Debe responderse que todas las respuestas son correctas, ya que tanto el aumento del tipo de interés, como la disminución empresarial y la bajada de poder adquisitivo de los inversores son consecuencias lógicas y coherentes con un nivel de inflación elevado.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+20. Si el BCE aumenta el tipo de interés, se espera:
+
+```{=html}
+<!-- -->
+```
+a)  Un aumento del valor de las acciones de las empresas europeas debido a la entrada de capitales provenientes de Estados Unidos
+
+b)  Una disminución del valor de las acciones de empresas europeas que cotizan en Estados Unidos.
+
+c)  Una disminución del valor de las acciones de empresas americanas debido al trasvase de fondos desde Europa a Estados Unidos
+
+d)  Todas las anteriores son correctas
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la b**.
+
+$\uparrow$ tipos de interés en Europa:
+
+a)  $\uparrow$ coste de la deuda $\Rightarrow$ $\downarrow$ inversiones $\Rightarrow$ $\downarrow$ beneficios
+
+b)  Nueva emisión de deuda pública con tipo de interés MAYOR $\Rightarrow$ trasvase de fondos del mercado de renta variable al de renta fija $\Rightarrow$ $\uparrow$ demanada de valores de deuda $\Rightarrow$ $\downarrow$ valor de las acciones.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+21. La reserva federal de Estados Unidos decide disminuir los tipos de interés. ¿Por qué crees que ha podido tomar esta decisión?
+
+```{=html}
+<!-- -->
+```
+a)  Para reducir la tasa de desempleo
+
+b)  Para incentivar el consumo del país
+
+c)  Para disminuir el coste de la deuda de las empresas
+
+d)  Todas las respuestas anteriores son correctas
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+
+Las tres respuestas son correctas, y todas ellas con mayor o menor incidencia son factores que pueden producirse gracias a la reducción de los tipos de interés de la Reserva Federal, que con su actuación pretende generar un incremento del PIB, a pesar de que ello pueda ser un factor que en mayor o menor medida genere inflación.
+
+Los Bancos Centrales según la situación coyuntural, anteponen crecimiento económico a inflación o viceversa, si bien es cierto que la actuación de la Reserva Federal se plantea de forma más agresiva que la del Banco Central Europeo. En la corta experiencia del Banco Central Europeo, parece haberse dado mayor importancia al control de los precios, mientras que la Reserva Federal no perdiendo la referencia del crecimiento de los precios, parece anteponer habitualmente el crecimiento económico como objetivo prioritario.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+22. Si el indicador ISM (NAPM) se sitúa por encima de 50 significa:
+
+```{=html}
+<!-- -->
+```
+a)  Que la confianza de los productores americanos ha aumentado
+
+b)  Que la confianza de los productores alemanes ha aumentado
+
+c)  Que la confianza de los productores americanos ha disminuido
+
+d)  Que la confianza de los consumidores americanos ha disminuido
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la a**.
+
+El ISM (NAPM) es un indicador adelantado de actividad y sentimiento, es un indicador manufacturero y se elabora por parte de la Nacional Association of Purchasing Managers sobre las expectativas de la actividad industrial, incorporando información sobre nuevos pedidos, empleo, producción, inventarios, plazos de entrega, etc.
+
+Se considera que si el NPAM está por encima de 50 la economía USA está en expansión y la confianza de los productores americanos ha aumentado.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+23. Indicar cuál de las siguientes frases acerca de la inflación es correcta:
+
+```{=html}
+<!-- -->
+```
+a)  La inflación es un indicador retardado, aunque ayuda a definir la política monetaria de los bancos centrales
+
+b)  Una inflación positiva y controlada permite que los principales índices bursátiles aumenten de valor
+
+c)  La deflación implica que el consumo se reduzca
+
+d)  Todas las respuestas anteriores son correctas
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+
+Todas las respuestas anteriores son correctas y por debe remarcarse D). Es cierto que la inflación es un indicador retardado, ya que se conoce con varias semanas de retraso respecto a que se ha producido la misma, y por ello retrasa la toma de decisiones por parte de las autoridades monetarias. Es por ello, que algunas autoridades monetarias tales como el BCE o la Reserva Federal, prefieren tomar sus decisiones en función de la evolución de los agregados monetarios, ya que a través de ellos, se pueden tomar medidas preventivas con antelación a que se llegue a producir el aumento de los precios, si bien también hay autores que consideran que los agregados monetarios no siempre son lo suficientemente fiables a efectos predictivos.
+
+En la medida que la inflación es positiva y controlada, se entiende que no se va a entrar en una situación de deflación, ya que ello generaría una reducción del consumo, debido a que si alguien cree que los precios van a bajar pospone sus decisiones de consumo e inversión para fechas futuras, lo que provoca una reducción del PIB.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+24. Los indicadores adelantados se caracterizan por:
+
+```{=html}
+<!-- -->
+```
+a)  Suelen predecir cambios en la fase del ciclo económico con más de un año de antelación
+
+b)  Se basan en encuestas a productores y/o consumidores acerca de sus expectativas
+
+c)  El índice Tankan Survey no es un indicador adelantado.
+
+d)  Su publicación coincide temporalmente y numéricamente con la publicación del PIB
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la b**.
+
+Los indicadores adelantados o avanzados se basan en encuestas a productores y/o consumidores sobre determinadas expectativas simples o compuestas.
+
+No se puede decir que los indicadores adelantados predicen cambios del ciclo económico con más de un año de antelación, ya que aunque algunos puedan pronunciarse sobre dichas expectativas, concretar la temporalidad de las mismas es una cuestión muy discrecional, donde puede haber todo tipo de previsiones.
+
+El indice Tankan Survey si que es un índice adelantado que efectúa el Banco de Japón a 10.000 empresas sobre sus expectativas industriales, financieras y
+
+Los indicadores adelantados no coinciden temporalmente con la publicación del PIB, ya que entonces no serían adelantados, y tampoco tienen porque coincidir numéricamente pues ello sería como reconocer que todas las previsiones efectuadas en base a indicadores de sentimiento se confirman plenamente.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+25. ¿De todos estos Indicadores cuál no es un Indicador de Demanda?
+
+```{=html}
+<!-- -->
+```
+a)  Ventas minoristas
+
+b)  ISM manufacturero
+
+c)  Ingresos personales
+
+d)  Balanza Comercial
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la b**.
+
+Ventas minoriostas, Ingresos Personales y Balanza Comercial son indicadores de Demanda.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+26. ¿Cómo definiríamos el Indicador de ventas de nuevas viviendas?
+
+```{=html}
+<!-- -->
+```
+a)  Indicador de sentimiento
+
+b)  Indicador de oferta
+
+c)  Indicador de precios
+
+d)  Indicador de demanda
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+
+Las ventas de nuevas viviendas es un indicador de la fortaleza de la demanda y no es un indicador ni de oferta ya que se utilizaría el de permisos de nuevas viviendas, ni de precios, ni de sentimiento ya que es un indicador con datos reales.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+27. ¿Qué tipo de indicador es el indicador de "ingresos y gastos personales"?
+
+```{=html}
+<!-- -->
+```
+a)  Indicador de oferta.
+
+b)  Indicador de demanda.
+
+c)  Indicador de precios.
+
+d)  Indicador de sentimiento.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la b**.
+
+Se trata de un indicador de demanda, ya que está vinculado tanto a los ingresos reales como al gasto en bienes y servicios.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+28. ¿Cuál de los siguientes indicadores es considerado de demanda?
+
+```{=html}
+<!-- -->
+```
+a)  Consumo Personal.
+
+b)  ISM manufacturero.
+
+c)  Permisos de nuevas viviendas.
+
+d)  PER.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la a**.
+
+El consumo personal es un indicador de demanda mientras que tanto el ISM manufacturero como los permisos de nuevas viviendas son indicadores de oferta y el PER es un ratio de renta variable.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+29. ¿De los siguientes indicadores cuál no es un indicador de oferta?
+
+```{=html}
+<!-- -->
+```
+a)  Inventarios
+
+b)  Ventas minoristas
+
+c)  ISM manufacturero
+
+d)  Utilización de la capacidad productiva
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la b**.
+
+Tanto los inventarios como el ISM manufacturero y la utilización de la capacidad productiva son indicadores de oferta mientras que las ventas minoristas es un indicador de demanda.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+30. Un dato del ISM manufacturero o ISM de servicios superior a 50, el mercado lo interpreta como:
+
+```{=html}
+<!-- -->
+```
+a)  Si es menor que 50 se interpretará como expansión.
+
+b)  Si es mayor que 50 se interpretará como contracción.
+
+c)  No es importante si es mayor o menor que 50.
+
+d)  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+
+El Índice ISM se considera un indicador líder de la economía estadounidense debido a la temporalidad de su publicación (a principios de cada mes) y a la naturaleza de las encuestas de que se compone. Tanto para el ISM manufacturero como para el ISM de servicios la referencia en los mercados es:
+
+-   Para valores del Índice ISM superior a 50, señalan expansión.
+
+-   Para valores del Índice ISM iguales a 50, será neutral.
+
+-   Para valores del Índice ISM por debajo de 50, señalan contracción.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+31. ¿Que diferencia hay entre el ISM manufacturero y el ISM de Servicios?
+
+```{=html}
+<!-- -->
+```
+a)  Son indicadores de demanda
+
+b)  ISM manufacturero es una encuesta realizada al sector industrial e ISM de servicios es una encuesta realizada al sector servicios
+
+c)  Son indicadores de precios
+
+d)  Son similares
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la b**.
+
+Ambos son indicadores de oferta y se diferencian en que son encuestas realizadas al sector industrial (manufacturero) y al sector servicios (servicios), no son indicadores de demanda ni son iguales.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+32. ¿Qué se entiende por el Indicador PMI de Chicago?
+
+```{=html}
+<!-- -->
+```
+a)  Un indicador de demanda del sector industrial
+
+b)  Un indicador de oferta del sector industrial
+
+c)  Un indicador de precios del sector industrial
+
+d)  Todas las respuestas anteriores son correctas
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la b**.
+
+El PMI Chicago (Purchase Manager Index) es un indicador de oferta del sector industrial del área de Chicago. Siendo una zona geográfica tan industrial se utiliza en los mercados como un indicador adelantado del ISM manufacturero a nivel nacional.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+33. ¿Qué se entiende por el Indicador de pedidos de bienes duraderos?
+
+```{=html}
+<!-- -->
+```
+a)  Un indicador de demanda
+
+b)  Un indicador de precios pagados
+
+c)  Un indicador de sentimiento
+
+d)  Indicador de oferta
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+
+Es un indicador de oferta que refleja los pedidos realizados por la industria sobre bienes duraderos (más de 3 años). Para eliminar la volatilidad del indicador se excluyen los pedidos de aviones comerciales que por su elevado importe generan mucha volatilidad en el indicador.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+34. ¿Qué se entiende por el indicador de Confianza del Consumidor?
+
+```{=html}
+<!-- -->
+```
+a)  Un indicador de demanda
+
+b)  Un indicador de oferta
+
+c)  Un indicador de precios
+
+d)  Un indicador de sentimiento
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+
+El consumer confidence o confianza del consumidor es un indicador de sentimiento en este caso de los consumidores donde por medio de una encuesta a 5.000 familias se extraen unas conclusiones referentes a expectativas sobre gastos, ingresos, mercado laboral, etc...
+
+Es el indicador de sentimiento más seguido por los mercados y el índice o dato que se extrae tiene bastante influencia sobre los agentes económicos.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+35. ¿Qué relación existe entre el ISM manufacturero, IFO y TANKAN?
+
+```{=html}
+<!-- -->
+```
+a)  No existe ninguna relación entre ellos
+
+b)  Los 3 son indicadores de demanda
+
+c)  Los 3 son indicadores de oferta
+
+d)  Dos son indicadores de oferta y uno de demanda
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la c**.
+
+El ISM manufacturero, el IFO y el TANKAN son indicadores de oferta publicados en EEUU, Alemania y Japón respectivamente.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+36. Un dato del índice de precios al consumo mayor que el esperado por el mercado, tendrá el siguiente efecto en los activos financieros:
+
+```{=html}
+<!-- -->
+```
+a)  Será positivo para la renta variable siempre y cuando esté generado por el crecimiento económico
+
+b)  Será negativo para la renta fija
+
+c)  Podrá afectar de forma tanto positiva como negativa a la divisa dependiendo de por qué se ha generado el aumento
+
+d)  Todas las respuestas anteriores son correctas
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+
+Son todas correctas ya que a la hora de analizar un dato macroeconómico lo importante no es si el dato es alto o bajo sino en función de las expectativas de los analistas y el nivel de tipos de interés de la economía.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+37. Un dato del índice ISM manufacturero por encima de 50 y mayor que el esperado por el mercado tendrá el siguiente efecto en los activos financieros:
+
+```{=html}
+<!-- -->
+```
+a)  Negativo para la renta variable
+
+b)  Negativo para la renta fija al descontar el mercado mayores expectativas de crecimiento
+
+c)  Negativo para la divisa.
+
+d)  Todas las respuestas son correctas
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la b**.
+
+Un indicador sobre la opinión del sector manufacturero tanto de expectativas actuales y futuras donde la opinión del sector es positiva en cuanto a inversión, creación de empleo, capacidad utilizada, será positivo para la renta variable, negativo para la renta fija y positivo para la divisa.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+38. Un dato del indicador de creación de empleo no agrícola mayor que el esperado por el mercado tendrá el siguiente efecto en los activos financieros:
+
+```{=html}
+<!-- -->
+```
+a)  Positivo para la renta variable
+
+b)  Negativo para la renta fija
+
+c)  Positivo para la divisa
+
+d)  Todas las respuestas son correctas
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+
+Un dato de creación de empleo no agrícola mayor que el esperado por los analistas implicará unas expectativas de mayor consumo ( más consumidores se incorporan al mercado que será positivo para la renta variable), mayor crecimiento económico e inflación (negativo para la renta fija) y apreciación de la divisa.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+39. Un dato del indicador de ventas minoristas menor que el esperado por el mercado tendrá el siguiente efecto en los activos financieros:
+
+```{=html}
+<!-- -->
+```
+a)  Positivo para la renta variable
+
+b)  Negativo para la renta fija
+
+c)  Positivo para la divisa
+
+d)  Ninguna de las anteriores
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+
+Como indicador de demanda que es, refleja el gasto en el sector de distribución de los consumidores y si el dato es menor que el esperado será negativo para la renta variable, positivo para la renta fija y negativo para la divisa, ya que reflejará menor gasto-consumo-crecimiento.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+40. Un dato del indicador de producción industrial mayor que el esperado por el mercado tendrá el siguiente efecto en los activos financieros:
+
+```{=html}
+<!-- -->
+```
+a)  Negativo para la renta variable
+
+b)  Negativo para la renta fija
+
+c)  Negativo para la divisa
+
+d)  Todos son correctos
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la b**.
+
+Como indicador de oferta, la producción industrial mide la producción en las fábricas, minas y energía, con lo que un dato mejor que el esperado por el mercado será positivo para la renta variable, negativo para la renta fija y positivo para la divisa.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+41. ¿Qué nos mide el ratio de capacidad utilizada o instalada?
+
+```{=html}
+<!-- -->
+```
+a)  El gasto del consumidor
+
+b)  El nivel de precios pagados por el sector industrial
+
+c)  La existencia o no de exceso de capacidad de la industria
+
+d)  Ninguna de las anteriores
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la c**.
+
+La capacidad instalada o utilizada es muy seguida por los analistas porque da una pista sobre que % de la capacidad de la industria se está utilizando o si existe exceso de capacidad.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+42. ¿Qué nos mide el indicador de inventarios?
+
+```{=html}
+<!-- -->
+```
+a)  Un indicador de demanda
+
+b)  Un indicador de precios
+
+c)  Un indicador de sentimiento
+
+d)  Ninguna de las respuestas anteriores es correcta
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+
+El Indicador sobre inventarios es un indicador de oferta y nos mide la acumulación de existencias o inventarios en las empresas. Una acumulación puede entenderse como positiva porque se espera un incremento de la demanda o negativo porque no han podido vender. Se sigue un ratio que nos mide inventarios sobre ventas para analizar la rotación de existencias.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+43. Un dato del indicador de balanza comercial (reducción del déficit) mayor que el esperado por el mercado tendrá el siguiente efecto en los activos financieros:
+
+```{=html}
+<!-- -->
+```
+a)  Positivo para la renta variable
+
+b)  Positivo para la renta fija
+
+c)  Positivo para la divisa
+
+d)  Todas las anteriores son correctas
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+
+Un menor déficit comercial será positivo para la renta variable, la renta fija y la divisa.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+44. ¿Qué prefieren los inversores de renta variable, un dato alto, moderado o bajo de inflación?
+
+```{=html}
+<!-- -->
+```
+a)  Prefieren un dato muy alto de inflación
+
+b)  Prefieren un dato muy bajo o deflación (inflación negativa)
+
+c)  Prefieren un dato moderado de inflación
+
+d)  Ninguna de las anteriores
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la c**.
+
+Los inversores de renta variable prefieren que la economía genere inflación (capacidad de las empresas de incrementar los precios y mayores márgenes) pero que no genere incremento de los tipos de interés.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+45. Durante las fases de economía en recesión, los tipos de interés tienden generalmente a:
+
+```{=html}
+<!-- -->
+```
+a)  Aumentar, porque la producción se contrae.
+
+b)  Permanece inalterados, porque los tipos de interés se hallan influidos por el mercado financiero, pero no por las condiciones de la economía real.
+
+c)  Aumentan, porque el Banco central eleva los tipos en su tentativa de relanzar la economía.
+
+d)  Reducirse, porque la demanda de crédito tiende a reducirse.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la D**.
+
+En la fase recesiva, la economía se enfría y las peticiones de créditos bajan, y para activarla los tipos de interés bajan.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+46. Con relación a los indicadores económicos, señale la cierta:
+
+```{=html}
+<!-- -->
+```
+a)  Los indicadores de confianza de los consumidores (Eurostat) son indicadores de coyuntura acíclicos americanos.
+
+b)  Las ventas al por menor (INE) es un indicador avanzado de oferta.
+
+c)  El índice IFO alemán es un indicador avanzado de sentimiento.
+
+d)  El Índice de Producción Industrial es un indicador compuesto, de demanda.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la C**.
+
+Por definición el IFO es un indicador avanzado de producción alemán. Se elabora una encuesta a 10.000 empresas alemanas acerca de las actividades presentes de cada empresa y de las actividades previstas en los próximos seis meses. Si la tendencia es alcista, tiende a interpretarse como una recuperación de la economía, y viceversa. Aunque es un indicador alemán, su interpretación suele extrapolarse al resto de la economía europea. Este indicador se elabora de forma mensual.
+
+Eurostat es la oficina estadística de la Comisión Europea, que produce datos sobre la Unión Europea y promueve la armonización de los métodos estadísticos de los estados miembros. Po lo tanto, sus indicadores de confianza son de todo tipo menos americanos.
+
+Igual que ocurre con el INE (Instituto Nacional de Estadística ), que es un organismo español y NO un indicador avanzado de oferta de las ventas al por menor.
+
+El Índice de Producción Industrial es un indicador de oferta y NO de demanda.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+46. ¿Cuál de los siguientes componentes del PIB influye más en el crecimiento de la economía norteamericana?
+
+```{=html}
+<!-- -->
+```
+a)  Consumo.
+
+b)  Inversión.
+
+c)  Gasto público.
+
+d)  Exportaciones netas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la a**.
+
+La crisis financiera global de 2009 impactó duramente a los Estados Unidos, llevando a la economía más poderosa del mundo a su peor recesión desde los años 1930. De forma lenta pero segura, la economía americana se ha recuperado gracias a un plan de estímulo presupuestario y monetario de largo alcance del gobierno. Las bajas tasas de interés, aumento en el consumo de los hogares y la creación vigorosa de empleos aminoró el impacto de un invierno severo y huelgas importantes de trabajadores en muelles, permitiendo que el PIB se mantuviera estable creciendo 2,6% en 2015.
+
+Se espera que el país mantenga el mismo nivel de crecimiento en 2016, impulsado principalmente por el consumo, así como por la inversión en modernización corporativa. La Reserva Federal de los Estados Unidos aumentó sus tasas de interés 0,25% en diciembre de 2015, dando fin a siete años de política monetaria expansionista.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+48. Si el nivel del Índice de Precios de Consumo Armonizado (IPCA) aumenta por muy encima del 2% se espera:
+
+```{=html}
+<!-- -->
+```
+a)  Un aumento de los tipos de interés por parte del BCE.
+
+b)  Una disminución de la inversión por parte de las empresas.
+
+c)  Una bajada del poder de compra de los consumidores.
+
+d)  Todas las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+
+Por una parte, sabemos que ante una subida del Índice de Precios de Consumo la consecuencia más directa es la bajada del poder de compra de los consumidores.
+
+Por otra parte, «El objetivo principal del Sistema Europeo de Bancos Centrales \[...\] será mantener la estabilidad de precios». (Artículo 127 del Tratado de Funcionamiento de la Unión Europea).
+
+Este artículo es la disposición clave del capítulo sobre política monetaria del Tratado de Funcionamiento de la Unión Europea.
+
+El objetivo del Consejo de Gobierno del Banco Central Europeo es mantener la inflación en un nivel inferior, aunque próximo, al 2% a medio plazo. Por tanto, a fin de lograr su objetivo principal, el Consejo de Gobierno articulará un aumento de los tipos de interés que tendrá como consecuencia Una disminución de la inversión por parte de las empresas.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+49. Si queremos hacer una estimación para los próximos años, de la economía norteamenricana y así poder realizar una previsión del comportamiento de la bolsa, debemos dar especial importancia a:
+
+```{=html}
+<!-- -->
+```
+a.  Los tipos actuales de la Reserva Federal.
+
+b.  El Leading Indicators.
+
+c.  Los beneficios empresariales del último ejercicio.
+
+d.  Los datos de inflación y paro registrados el mes pasado.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la b**.
+
+Los **Indicadores Económicos** se clasifican en tres tipos:
+
+-   **adelantados** (Leading Indicators)
+
+-   **coincidentes** (Coincident Indicators)
+
+-   **atrasados** (Lagging Indicators)
+
+En este caso, se puede decir que si lo que queremos hacer una **estimación para los próximos años de la economía norteamenricana y así poder realizar una previsión del comportamiento de la bolsa**, lo más razonable sería tomar información de ciertos **indicadores adelantados** de ciclo. Por lo cual, ni los tipos actuales de la Reserva Federal, ni los beneficios empresariales del último ejercicio y tampoco los datos de inflación y paro registrados el mes pasado nos servirán ya que no forman parte del conjunto de indicadores adelantados.
+
+Por ejemplo, **podemos tomar el Leading Economic Index desarrollado por The Conference Board que incorpora datos de diez indicadores adelantados de ciclo que tradicionalmente han cambiado de tendencia antes que el propio ciclo económico**, es decir, que **este índice tiene una gran correlación con los mercados de renta variable, ya que prevé lo que pasará en la economía real**.
+
+Este indicador nos ayudará a tomar mejores decisiones ya que están soportadas por mayor información que si utilizamos un sólo indicador adelantado.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+50. ¿Cúal de las características de los indicadores avanzados son ciertas?:
+
+```{=html}
+<!-- -->
+```
+a)  Suelen predecir cambios en la fase del ciclo económico con más de un año de antelación.
+
+b)  Se basan en encuestas a productores y consumidores a cerca de sus expectativas.
+
+c)  El índice Tankan ofrece información acerca de las expectativas de los consumidores japoneses.
+
+d)  Todas las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la b**.
+
+Los Indicadores adelantados son indicadores que por lo general cambian antes de que cambie el ciclo económico. Por lo tanto, son útiles como predictores a **corto plazo** de la economía.
+
+Están basados en encuestas a productores y consumidores a cerca de sus expectativas.
+
+El índice Tankan es un indicador avanzado de producción japonés. Que se elabora a partir de una encuesta a 10.000 **empresas japonesas** en la que se recogen sus expectativas para el futuro. Su periodicidad es trimestral. Se calcula como el porcentaje de expectativas positivas menos las expectativas negativas.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+51. Si el Estado del país ha aumentado la inversión en trenes de alta velocidad, puertos y el gasto en educación es de esperar que:
+
+```{=html}
+<!-- -->
+```
+a.  Haya aumentado el déficit público.
+
+b.  El déficit público del país ha disminuido.
+
+c.  La inflación disminuya.
+
+d.  Las nuevas emisiones de bonos de ese Estado se harán a un tipo de interés menor.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la a**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+52. En una fase de ciclo en situación expansiva y con alza importante en precios, las autoridades monetarias podrían tomar decisiones encaminadas a:
+
+```{=html}
+<!-- -->
+```
+a.  Bajar los tipos de interés a corto plazo.
+
+b.  Subir los tipos de interés a corto plazo.
+
+c.  Aumentar la masa monetaria.
+
+d.  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la b**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+53. El desempleo que se produce cuando las características de la oferta (cualificación, disponibilidad geográfica o funcional) no se ajusta a las que demandan las empresas o viceversa, es el denominado:
+
+```{=html}
+<!-- -->
+```
+a.  Friccional.
+
+b.  Estacional.
+
+c.  Cíclico.
+
+d.  Estructural.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+54. ¿Cuál es el agregado que se suele utilizar para medir el crecimiento de la inversión de una economía?:
+
+```{=html}
+<!-- -->
+```
+a.  FBCF
+
+b.  PIB
+
+c.  IPC
+
+d.  PER
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la a**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+55. Si el yuang se aprecia, se espera que:
+
+```{=html}
+<!-- -->
+```
+a.  El PIB chino aumente.
+
+b.  El PIB chino disminuya.
+
+c.  Que aumente el turismo en China.
+
+d.  La a y la b son correctas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la b**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+56. ¿Cuál de los siguientes factores provocan aumentos de la inflación?:
+
+```{=html}
+<!-- -->
+```
+a.  Aumento de los tipos de interés
+
+b.  Reducción del déficit público
+
+c.  Políticas monetarias claramente expansivas
+
+d.  Reducción de los impuestos indirectos
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+57. ¿Qué tipo de indicador es el de "Deflactor del PIB"?:
+
+```{=html}
+<!-- -->
+```
+a.  Indicador de demanda
+
+b.  Indicador de oferta
+
+c.  Indicador de producción
+
+d.  Indicador de precios
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+58. De las siguientes situaciones, ¿cuál parece más lógica que suceda en plena etapa de recesión intensa?:
+
+```{=html}
+<!-- -->
+```
+a.  Aumento de la Población Activa
+
+b.  Inflación al alza
+
+c.  Tipos de interés al alza
+
+d.  Tasa de desempleo al alza
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+59. Ante una situación de recesión, la Fed puede:
+
+```{=html}
+<!-- -->
+```
+a.  Aumentar los tipos de interés para favorecer el crecimiento
+
+b.  Disminuir los tipos de interés para favorecer la inversión
+
+c.  Reducir el déficit público para controlar la inflación
+
+d.  Comprar acciones en Bolsa para subir el valor de éstas
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la b**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+60. Si el nivel de inflación es elevado se espera:
+
+```{=html}
+<!-- -->
+```
+a.  Un aumento del tipo de interés
+
+b.  Una disminución de la inversión de las empresas
+
+c.  Un mayor poder adquisitivo de los consumidores
+
+d.  La a y la b son correctas
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+61. De las siguientes situaciones, ¿cuál parece más lógica que suceda ante un aumento de las exportaciones?
+
+```{=html}
+<!-- -->
+```
+a.  Que aumente el PIB
+
+b.  Que aumente el saldo exterior del país.
+
+c.  Que aumenten los beneficios de las compañías exportadoras
+
+d.  Todas las anteriores son correctas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+62. Indicar cuál de las siguientes frases acerca del desempleo es correcta:
+
+```{=html}
+<!-- -->
+```
+a.  La tasa de desempleo es el porcentaje que representan los desempleados sobre el total de la Población Activa.
+
+b.  La tasa de Actividad se define como el porcentaje que representa la población activa sobre el total de la población en edad de trabajar
+
+c.  La tasa de desempleo es una magnitud que se mueve con retraso. A mayor flexibilidad del mercado laboral, menor es ese retraso.
+
+d.  Todas las respuestas anteriores son correctas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+63. ¿Cuál es el agregado que se suele utilizar para medir el crecimiento del consumo privado de una economía?:
+
+```{=html}
+<!-- -->
+```
+a.  Las ventas al por menor
+
+b.  El déficit Publico
+
+c.  Las exportaciones
+
+d.  FBCF
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la a**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+64. ¿Cuál de las siguientes afirmaciones es correcta durante la fase de recuperación del ciclo económico?:
+
+```{=html}
+<!-- -->
+```
+a.  El crecimiento económico comienza a recuperarse y es aconsejable invertir en bolsa
+
+b.  La inflación está descontrolada y es conveniente invertir en AA.MM. ya que las autoridades monetarias subirán los tipos.
+
+c.  Es aconsejable invertir en renta fija a L/P ante el alto nivel de tipos de interés imperantes en la economía durante esa fase del ciclo.
+
+d.  La a y la c son correctas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la a**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+65. ¿Cuál de las siguientes afirmaciones es correcta en referencia al PIB?:
+
+```{=html}
+<!-- -->
+```
+a.  El PIB se puede calcular como la suma de la demanda interna más el saldo exterior.
+
+b.  El PIB se puede calcular como la suma de la demanda interna más las importaciones menos las exportaciones.
+
+c.  El PIB es el PIN más las amortizaciones.
+
+d.  La a y la c son correctas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
