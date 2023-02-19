@@ -6,7 +6,7 @@ book:
   subtitle: ""
   author: "[_Profesor Alberto Bernat_](https://www.linkedin.com/in/albertobernat/)"
   cover-image: EFPA_logo.png
-  date: ""
+  date: "d-M-yyy"
 
   chapters:
     - index.qmd
@@ -19,6 +19,7 @@ bibliography: references.bib
 format:
   html:
     theme: cosmo
+    cover-image: images/portada_2020.png
   pdf:
     documentclass: scrreprt
 
