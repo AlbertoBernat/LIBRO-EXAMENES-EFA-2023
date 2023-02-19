@@ -7,3 +7,9 @@ To learn more about Quarto books visit <https://quarto.org/docs/books>.
 ```{r}
 1 + 1
 ```
+
+::: callout-important
+$$
+\frac{\frac{1\cdot \:42.5}{\left(1+0.0327\right)^1}+\frac{2\cdot \:42.5}{\left(1+0.0327\right)^2}+\frac{3\cdot \:42.5}{\left(1+0.0327\right)^3}+\frac{4\cdot \:42.5}{\left(1+0.0327\right)^4}+\frac{5\cdot \:1042.5}{\left(1+0.0327\right)^5}}{1044.53721}=4.61828\dots 
+$$
+:::
