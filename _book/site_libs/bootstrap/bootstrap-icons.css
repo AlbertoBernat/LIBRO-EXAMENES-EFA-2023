@@ -4,6 +4,52 @@
 url("./bootstrap-icons.woff?524846017b983fc8ded9325d94ed40f3") format("woff");
 }
 
+
+
+summary::-webkit-details-marker {
+  display: none
+}
+
+.FOO {
+  background-color: #dff0d8;
+  border-color: #d6e9c6;
+  color: #468847;
+  border: 1px solid transparent;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border-radius: 5px;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+summary:after {
+  background: #71a5d4; 
+  border-radius: 5px; 
+  content: "+"; 
+  color: #fff; 
+  float: left; 
+  font-size: 1.25em; 
+  font-weight: bold; 
+  margin: -5px 10px 0 0; 
+  padding: 0; 
+  text-align: center; 
+  width: 20px;
+}
+details[open] summary:after {
+  content: "-";
+}
+
+
+
+
+.logo {
+  position: running(header-logo);
+  height: 3cm; 
+  border-radius: 50%;
+}
+ 
 .bi::before,
 [class^="bi-"]::before,
 [class*=" bi-"]::before {
