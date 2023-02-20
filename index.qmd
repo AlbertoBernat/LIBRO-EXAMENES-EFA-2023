@@ -1,8 +1,6 @@
 # INTRODUCCIÓN {.unnumbered}
 
-
 Desde que en 2017 la [Comisión Nacional del Mercado de Valores (CNMV)](https://www.cnmv.es/portal/home.aspx) publicase la relación de [títulos asociados a distintas organizaciones y universidades que acreditan el cumplimiento de los requisitos recogidos en la Guía Técnica, en atención a lo que establece MiFID II](http://cnmv.es/Docportal/Legislacion/Titulos/ListadoTitulos.pdf) las entidades y profesionales pertenecientes al sector financiero español, se encuentran en la obligación de tener que certificar la posesión de alguno de estos títulos frente a la CNMV.
-
 
 Estos títulos **acreditarán al personal que trabaja en el sector su capacidad para asesorar e informar** o, **solamente la capacidad para poder realizar labores de información** en materia de inversión. Esta capacidad se establece en función del **número de horas de formación y también en función los contenidos que se comprenden dentro de los cursos** para la obtención de los respectivos títulos.
 
@@ -34,8 +32,6 @@ Para conseguir este objetivo se ha logrado crear **la mayor recopilación de pre
 
 La metodología empleada en el presente manual, desarrollada a lo largo de los últimos años, ha permitido a mucha gente poder conseguir su certificación profesional europea en tiempo récord. De modo que si estás leyendo estas líneas, espero y deseo poder ayudarte con este valioso material de estudio a conseguir la tuya.
 
-
-
 ```{block2, type='flushright', html.tag='p'}
 Alberto Bernat  
 Barcelona, España
@@ -48,14 +44,9 @@ knitr::include_graphics("images/by-nc-sa.png")
 
 ```
 
-
 # Preguntas frecuentes {.unnumbered}
 
-<h4>
-
 **¿Qué es EFPA?**
-
-</h4>
 
 La <em>European Financial Planning Association Asociación</em> -EFPA (o Asociación Europea de Planificación Financiera, si lo traducimos al español) es una asociación profesional que promueve la autorregulación dentro de la industria de los servicios financieros.
 
@@ -65,19 +56,11 @@ También las nuevas regulaciones que emanan del legislador europeo, principalmen
 
 Pero EFPA no se queda ahí y también actúa como una plataforma independiente que agrupa, con su registro de certificados y miembros de la asociación, a los profesionales dedicados al asesoramiento y la planificación financiera personal dentro del espacio europeo.
 
-<h4>
-
 **¿Y EFPA España?**
-
-</h4>
 
 Es la delegación en España de esta Asociación y ya cuenta con más de 15.000 asociados desde que se constituyó por allá por el año 2000. Siendo, a día de hoy, la única asociación europea de nuestro país que vela por los intereses de los profesionales del asesoramiento y la planificación financiera personal.
 
-<h4>
-
 **¿Qué son las certificaciones profesionales que otorga EFPA?**
-
-</h4>
 
 La Asociación EFPA en España ofrece varios programas de certificación para los profesionales financieros que miden tanto sus conocimientos como sus competencias basándose en el ejercicio profesional y no meramente académico.
 
@@ -91,49 +74,25 @@ El enfoque de estas certificaciones se basan en la realidad que constituye el ej
 
 El programa de contenidos que se exige para superar los exámenes de EFPA son los mismos en toda Europa homogeneizando así la formación a nivel europeo. Actualmente la Asociación ofrece las siguientes certificaciones:
 
-<h4>
-
 **¿Qué niveles certifica EFPA con sus exámenes?**
 
-</h4>
-
--   <h5>
-
-    **European Investment Assistant (EIA)**
-
-    </h5>
+-   <h5>**European Investment Assistant (EIA)**</h5>
 
 Donde el objetivo de la certificación (EIA) es acreditar al profesional, de los segmentos básicos de las redes comerciales de entidades financieras y aseguradoras, en el ámbito de la <strong>comunicación de información sobre los servicios que presta la entidad</strong>.
 
--   <h5>
-
-    **European Investment Practitioner (EIP)**
-
-    </h5>
+-   <h5>**European Investment Practitioner (EIP)**</h5>
 
 Donde el objetivo de la certificación (EIP) es acreditar al profesional, de los segmentos básicos de las redes comerciales de entidades financieras y aseguradoras, para poder <strong>hacer frente a las presentes exigencias reguladoras con una base sólida de competencias bancarias y financieras</strong>.
 
--   <h5>
-
-    **European Financial Advisor (EFA)**
-
-    </h5>
+-   <h5>**European Financial Advisor (EFA)**</h5>
 
 Donde el objetivo de la certificación (EFA) es acreditar al profesional la <strong>idoneidad profesional para ejercer tareas de consejo, gestión y asesoría financiera a particulares en banca personal o privada, servicios financieros orientados al cliente individual y cualquier función profesional bancaria, de seguros o independiente</strong>, que implique la oferta de un servicio integrado de asesoría patrimonial y financiera.
 
--   <h5>
-
-    **European Financial Planner (EFP)**
-
-    </h5>
+-   <h5>**European Financial Planner (EFP)**</h5>
 
 Donde el objetivo de la certificación (EFP) es acreditar al profesional la <strong>idoneidad profesional para ejercer tareas de planificación financiera personal integral de alto nivel de complejidad y volumen</strong>.
 
-<h4>
-
 **¿Para qué sirve la certificación profesional EIA, EIP, EFA y EFP?**
-
-</h4>
 
 Actualmente tanto a los asistentes de los asesores financieros (EIA), los propios los asesores financieros (EFA), gestores de patrimonio (EFA y EFP) y empleados de banca (EIP) les demandan una formación más transversal, global y continuada que les permita mejorar en los servicios financieros que prestan a sus clientes. Y disponer de cualquiera de estos niveles de certificación per se supone una ampliación permanente de los conocimientos necesarios para progresar profesionalmente en su carrera y ofrecer excelencia.
 
@@ -147,11 +106,7 @@ Igualmente sirve para titulados en las licenciaturas o grados de Administración
 
 Y, finalmente, el EFP te sirve para desarrollar una carrera profesional bien a través de una entidad financiera, hasta agencias o sociedades de valores y empresas de asesoramiento financiero (EAFI). También, si decides crear tu propia compañía de Asesoramiento Financiero, o incorporarte en una de ellas, actuarás con un alto grado de independencia y el cliente se convertirá en el eje de tu modelo de negocio en el que el objetivo será dar respuesta a sus necesidades globales y velar por sus intereses.
 
-<h4>
-
 **¿Qué diferencias hay entre las certificaciones de la asociación?**
-
-</h4>
 
 Bien, pues en función de la capacitación y competencias que queramos acreditar nos situaremos, o bien en el rango del EIA (para asistentes y/o personal que presta información a los clientes), o bien entre el EIP, EFA y EFP (en el caso del asesoramiento financiero y la gestión patrimonial de alto volumen). Siendo las dos opciones intermedias las de mayor calado entre los profesionales del sector ya que las diferencias, tanto como por arriba como por abajo son reducidas.
 
@@ -169,11 +124,7 @@ muchos de los candidatos/as están optando por certificarse com Asesor Europeo (
 
 -   **EFA Nivel II**: incluye el 40% restante del contenido del EFA Completo.
 
-<h4>
-
 **¿Qué diferencias hay entre EIP y EFA?**
-
-</h4>
 
 Como hemos dicho más arriba, una de las acreditaciones más demandadas actualmente es la nueva certificación EIP, que de una forma resumida, incluye el siguiente programa de contenidos:
 
@@ -208,7 +159,7 @@ Como se aprecia en los programas EFPA anteriores, el temario del examen EFA incl
 Por lo tanto podemos optar por empezar esta formación de forma parcial, es decir **podemos acreditarnos como EIP y más tarde como EFA aprovechando lo común de los contenidos**. De forma que el examen EIP (o de nivel I):
 
 | **Módulo** | **Contenidos**                              | **Peso** | **Nº Preguntas** |
-|:----------:|:--------------------------------------------|:--------:|:----------------:|
+|:------------:|:-------------------------------|:------------:|:------------:|
 |  Módulo 1  | Instrumentos y mercados financieros         |  40,00%  |        16        |
 |  Módulo 2  | Fondos y sociedades de inversión mobiliaria |  10,00%  |        4         |
 |  Módulo 3  | Gestión de carteras                         |  12,50%  |        5         |
@@ -219,23 +170,15 @@ Por lo tanto podemos optar por empezar esta formación de forma parcial, es deci
 |  Módulo 8  | Asesoramiento y planificación financiera    |  7,50%   |        3         |
 | **Total**: |                                             | **100%** |      **40**      |
 
-EFPA España ya ha previsto esto y es por ello que ofrece una solución en la cual el aspirante se acredita primero como EIP y más tarde cabe la posibilidad de hacer un "curso puente2 -digamos- que le permitiría al alumno examinarse de aquellos contenidos que son exclusivos de la certificación EFPA. Este examen es conocido como examen de "nivel II" y es convocado por la Asociación 4 veces al año.
+EFPA España ya ha previsto esto y es por ello que ofrece una solución en la cual el aspirante se acredita primero como EIP y más tarde cabe la posibilidad de hacer un "curso puente2 -digamos- que le permitiría al alumno examinarse de aquellos contenidos que son exclusivos de la certificación EFPA. Este examen es conocido como examen de"nivel II" y es convocado por la Asociación 4 veces al año.
 
 Además, la estructura de cada uno de estos exámenes es diferente como vemos a continuación:
 
-<h4>
-
 **Estructura examen EIP**
-
-</h4>
 
 El examen EIP consta de <strong>40 preguntas tipo test</strong>. Es requisito responder, al menos, el 70% de las preguntas del examen correctamente (28 preguntas), para superar satisfactoriamente la prueba. Las respuestas incorrectas o en blanco no restan puntos. Duración del examen es de 1 hora y 30 minutos.
 
-<h4>
-
 **Estructura examen EFA nivel II**
-
-</h4>
 
 Constará de 2 partes:
 
@@ -245,11 +188,7 @@ La segunda parte, consistirá en la <strong>resolución de ejercicios prácticos
 
 Deben aprobarse ambas partes.
 
-<h4>
-
 **Estructura examen EFA completo**
-
-</h4>
 
 Constará de 2 partes:
 
@@ -259,19 +198,11 @@ La segunda parte, consistirá en la <strong>resolución de ejercicios prácticos
 
 Deben aprobarse ambas partes.
 
-<h4>
-
 **¿Necesito algún requisito para acceder a las acreditaciones profesionales de EFPA**
-
-</h4>
 
 EFPA exige unos requisitos mínimos y que estos van en función de qué certificación queramos obtener. A continuación se presenta la comparativa entre la certificación EIP y EFA:
 
-<h4>
-
 **Requisitos examen EIP**
-
-</h4>
 
 Disponer de titulación completa de estudios secundarios.
 
@@ -281,11 +212,7 @@ Acreditar 6 meses de experiencia en el sector financiero.
 
 Realizar la inscripción al examen, a través de la Web de EFPA, cumplimentando los datos requeridos, adjuntando CV, la última titulación académica obtenida y realizar la transferencia de los derechos de examen para finalizar el proceso (181,50 IVA incluido).
 
-<h4>
-
 **Requisitos examen EFA**
-
-</h4>
 
 Disponer de titulación completa de estudios secundarios.
 
@@ -294,4 +221,3 @@ Se requiere 1 año de experiencia para poder obtener la certificación EFA o bie
 Carecer de antecedentes penales por delitos dolosos, no haber sido objeto de expulsión en colegio o asociación profesional y no haberle impuesto sanción firme por infracción grave en la CNMV.
 
 Realizar la inscripción al examen, a través de la Web, cumplimentando los datos requeridos, adjuntando CV, la última titulación académica obtenida y realizar la transferencia de los derechos de examen para finalizar el proceso (225 euros + 21% IVA).
-
