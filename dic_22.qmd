@@ -1,0 +1,33 @@
+# Diciembre 2022 {-}
+
+1.  Si en un país, los tipos de interés están al 0.5%, la inflación al 4% y el crecimiento del PIB en el -0.5%. ¿Qué se espera que haga el país para aumentar su producción?
+
+<!-- -->
+
+a)  Disminuir tipos de interés.
+
+b)  Reducir la cantidad de dinero en circulación para que los individuos consuman más.
+
+c)  Devaluar la moneda para incrementar las exportaciones.
+
+d)  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+A pesar de que la devaluación de la moneda puede ser generadora de inflación, se puede interpretar que el problema más importante de la economía es el crecimiento económico negativo, y por ello debe tomarse alguna medida encaminada a fomentar el aumento del PIB, por ello una devaluación, puede generar aspectos competitivos favorables, en la medida que pueda fomentar el aumento de las exportaciones y la reducción de las importaciones, lo que llevaría a aumentar el PIB.
+
+El tipo de interés ya está en unos niveles muy bajos y por ello el margen de actuación de la Política Monetaria es escaso o nulo.
+
+Reducir la cantidad de dinero en circulación para que los individuos consuman más, parece absurdo ya que la reducción de dinero produciría un aumento de los tipos de interés, lo que en principio sería un factor perjudicial para fomentar el crecimiento económico.
+:::
+
+</details>
+
+------------------------------------------------------------------------

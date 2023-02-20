@@ -2,20 +2,27 @@ project:
   type: book
 
 book:
-  title: "Exámenes de certificación <br> European Financial Advisor - EFA™  <br> (Asociación Europea de Planificación Financiera - EFPA™)"
-  subtitle: "Ejercicios y exámenes resueltos"
-  author: "[_Profesor Alberto Bernat_](https://www.linkedin.com/in/albertobernat/)  <br> Máster en Dirección y Planificación Financiera  <br> Universidad Europea Miguel de Cervantes <br>  Economista (Colegiado nº. 3.685) <br>   Asesor Financiero (EFA nº. 14.672)"
+  title: "Certificación European Financial Advisor - EFA™  <br> <br> Asociación Europea de Planificación Financiera - EFPA™"
+  subtitle: "<br> **Ejercicios y exámenes resueltos**"
+  author: "[_**Profesor Alberto Bernat**_](https://www.linkedin.com/in/albertobernat/) <br> Máster en Dirección y Planificación Financiera  <br> Universidad Europea Miguel de Cervantes <br>  Economista (Colegiado nº. 3.685) <br>   Asesor Financiero (EFA nº. 14.672)"
   cover-image: EFPA_logo.png"
   date: "now"
 
     
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
-    - references.qmd
-
-bibliography: references.bib
+    - part: EJERCICIOS RESUELTOS
+      chapters: 
+      - M1-test.qmd
+      - M2-test.qmd
+    - part: EXÁMENES TEST
+      chapters:
+      - dic_22.qmd
+      - sep_22.qmd
+    - part: EXÁMENES PRÁCTICA
+      chapters:
+      - caso-dic_22.qmd
+      - caso-sep_22.qmd
 
 format:
   html:
@@ -24,8 +31,10 @@ format:
     theme: [cosmo, style.scss]
     cover-image: images/portada_2020.png
     css: styles.css
-  pdf:
+  pdf: 
+    lang: "es"
     documentclass: scrreprt
+    keep-tex: true
 
 editor: visual
 

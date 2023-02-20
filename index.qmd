@@ -1,4 +1,4 @@
-# INTRODUCCIÓN {.unnumbered}
+# [INTRODUCCIÓN]{.smallcaps} {.unnumbered}
 
 Desde que en 2017 la [Comisión Nacional del Mercado de Valores (CNMV)](https://www.cnmv.es/portal/home.aspx) publicase la relación de [títulos asociados a distintas organizaciones y universidades que acreditan el cumplimiento de los requisitos recogidos en la Guía Técnica, en atención a lo que establece MiFID II](http://cnmv.es/Docportal/Legislacion/Titulos/ListadoTitulos.pdf) las entidades y profesionales pertenecientes al sector financiero español, se encuentran en la obligación de tener que certificar la posesión de alguno de estos títulos frente a la CNMV.
 
@@ -24,7 +24,7 @@ Es especialmente relevante la decisión que finalmente ha tomado la **CNMV de co
 
 Además, hay que tener en cuenta también que el examen (tipo test) incluye un total de 40 preguntas (ha realizar en 90 minutos) mientras que el EFA son 50 preguntas (ha realizar igualmente en 90 minutos); asimismo el EIP no incluye examen práctico (cosa que sí incluye el EFA). Donde el examen practico consta de 1h para resolver 2 ejercicios de desarrollo. Todo esto hace que sea más fácil conseguir certificarse frente al regulador con el EIP que hacerlo con la certificación EFA desde que la CNMV se pronuanciase en este sentido.
 
-Tras muchos años de crisis los clientes de las entidades financieras en general se interesan más por la formación y conocimientos de su asesor financiero en matería de Economía y Finanzas. Asimismo es de esperar que este interés del cliente aumente en los proximos años debido a los cambios de regulación, que desde comienzos de 2018, trajo consigo la regulación vigente con la nueva [directiva MiFID II y el reglamento MiFIR](http://cnmv.es/portal/MIFIDII_MIFIR/MapaMiFID.aspx) que la desarrolla.
+Tras muchos años de crisis los clientes de las entidades financieras en general se interesan más por la formación y conocimientos de su asesor financiero en materia de Economía y Finanzas. Asimismo es de esperar que este interés del cliente aumente en los próximos años debido a los cambios de regulación, que desde comienzos de 2018, trajo consigo la regulación vigente con la nueva [directiva MiFID II y el reglamento MiFIR](http://cnmv.es/portal/MIFIDII_MIFIR/MapaMiFID.aspx) que la desarrolla.
 
 Así, el objetivo de este libro es el de ayudar a los candidatos a encoentrar una forma rápida y concisa de enfrentarse al vasto temario que se incluye en cualquiera de los ya referidos títulos.
 
@@ -32,17 +32,11 @@ Para conseguir este objetivo se ha logrado crear **la mayor recopilación de pre
 
 La metodología empleada en el presente manual, desarrollada a lo largo de los últimos años, ha permitido a mucha gente poder conseguir su certificación profesional europea en tiempo récord. De modo que si estás leyendo estas líneas, espero y deseo poder ayudarte con este valioso material de estudio a conseguir la tuya.
 
-```{block2, type='flushright', html.tag='p'}
-Alberto Bernat  
-Barcelona, España
-```
+Alberto Bernat Barcelona, España
 
 La versión on line de este libro está autorizada bajo la [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). Puedes comprar una copia para imprimirla en [www.albertobernat.com](https://sowl.co/yUAeV) o solicitarla a través del correo electrónico a: [contacto\@albertobernat.com](mailto:contacto@albertobernat.com){.email}.
 
-```{r, echo=FALSE, fig.align='left', out.width='10%'}
-knitr::include_graphics("images/by-nc-sa.png")
-
-```
+![](images/by-nc-sa.png)
 
 # Preguntas frecuentes {.unnumbered}
 
@@ -159,7 +153,7 @@ Como se aprecia en los programas EFPA anteriores, el temario del examen EFA incl
 Por lo tanto podemos optar por empezar esta formación de forma parcial, es decir **podemos acreditarnos como EIP y más tarde como EFA aprovechando lo común de los contenidos**. De forma que el examen EIP (o de nivel I):
 
 | **Módulo** | **Contenidos**                              | **Peso** | **Nº Preguntas** |
-|:------------:|:-------------------------------|:------------:|:------------:|
+|:---------------:|:---------------------|:---------------:|:---------------:|
 |  Módulo 1  | Instrumentos y mercados financieros         |  40,00%  |        16        |
 |  Módulo 2  | Fondos y sociedades de inversión mobiliaria |  10,00%  |        4         |
 |  Módulo 3  | Gestión de carteras                         |  12,50%  |        5         |
