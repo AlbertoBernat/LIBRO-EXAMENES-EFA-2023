@@ -26,8 +26,8 @@ book:
       - M10-test.qmd
     - part: EXÁMENES TEST
       chapters:
-      - dic_22.qmd
-      - sep_22.qmd
+      - ano_2021.qmd
+      - ano_2020.qmd
     - part: EXÁMENES PRÁCTICA
       chapters:
       - caso-dic_22.qmd
