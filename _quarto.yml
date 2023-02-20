@@ -46,6 +46,9 @@ format:
     theme: [cosmo, style.scss]
     cover-image: images/portada_2020.png
     css: styles.css
+    apple-touch-icon: "images/touch-icon.png"
+    apple-touch-icon-size: 120
+    favicon: "images/favicon.ico"
   pdf: 
     lang: "es"
     documentclass: scrreprt
