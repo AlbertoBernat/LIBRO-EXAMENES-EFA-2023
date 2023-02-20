@@ -2,7 +2,7 @@ project:
   type: book
 
 book:
-  title: "Certificación European Financial Advisor - EFA™  <br> <br> Asociación Europea de Planificación Financiera - EFPA™"
+  title: "Certificación European Financial Advisor - EFA™   <br> Asociación Europea de Planificación Financiera - EFPA™"
   subtitle: "<br> **Ejercicios y exámenes resueltos**"
   author: "[_**Profesor Alberto Bernat**_](https://www.linkedin.com/in/albertobernat/) <br> Máster en Dirección y Planificación Financiera  <br> Universidad Europea Miguel de Cervantes <br>  Economista (Colegiado nº. 3.685) <br>   Asesor Financiero (EFA nº. 14.672)"
   cover-image: EFPA_logo.png"
@@ -11,10 +11,19 @@ book:
     
   chapters:
     - index.qmd
+    - preguntas-frecuentes.qmd
     - part: EJERCICIOS RESUELTOS
       chapters: 
       - M1-test.qmd
       - M2-test.qmd
+      - M3-test.qmd
+      - M4-test.qmd
+      - M5-test.qmd
+      - M6-test.qmd
+      - M7-test.qmd
+      - M8-test.qmd
+      - M9-test.qmd
+      - M10-test.qmd
     - part: EXÁMENES TEST
       chapters:
       - dic_22.qmd
