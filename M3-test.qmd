@@ -1,1 +1,2321 @@
 # Módulo 3 {.unnumbered}
+
+## Gestión de Carteras {.unnumbered}
+
+1.  Las hipótesis en las que se basa el modelo HEM (Hipótesis de Eficiencia en los Mercados) son:
+
+<!-- -->
+
+a)  Los costes de transacción son conocidos.
+
+b)  La información es perfecta.
+
+c)  Los integrantes del mercado son individuos racionales.
+
+d)  b y c son correctas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Bajo la hipótesis de eficiencia en los mercados, no existen costes de transacción. La información es perfecta, siendo los integrantes del mercado individuos racionales que buscan maximizar su beneficio personal.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+2.  Según el modelo HEM:
+
+<!-- -->
+
+a)  La evolución futura de los precios se puede predecir.
+
+b)  Puede existir información privilegiada.
+
+c)  Los precios de los activos se encontrarán siempre en el óptimo paretiano.
+
+d)  Ninguna es respuesta es correcta.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Según el modelo HEM, la evolución futura de los precios no se puede predecir, ya que si esto ocurriera sería debido a la existencia de información privilegiada (hecho que no ocurre bajo HEM), o el precio no se encuentra en su óptimo paretiano. El modelo HEM postula que los precios tenderán a este óptimo paretiano, si bien no se encontrarán SIEMPRE en él, existiendo periodos de ajuste.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+3.  Señalar la respuesta incorrecta:
+
+<!-- -->
+
+a)  El Análisis Técnico es inútil, si el mercado es eficiente al menos en su forma débil.
+
+b)  El Análisis Fundamental es inútil, si el mercado es eficiente en su forma semi -- fuerte.
+
+c)  El uso de cualquier información, incluso la privilegiada (insider trading), es inútil si el mercado es eficiente en su forma fuerte.
+
+d)  Las técnicas de gestión de carteras nos permiten en HEM batir al mercado de forma sistemática.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Todas las respuestas son correctas excepto la "d", bajo la hipótesis de HEM no se puede construir una estrategia de gestión de carteras que bata al mercado de forma continuada, o lo que es lo mismo, la estrategia de comprar y mantener (buy and hold) arrojará siempre a largo plazo mejores resultados en promedio que una gestión activa de carteras.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+4.  El riesgo sistemático:
+
+<!-- -->
+
+a)  Es aquel que podemos reducirlo al diversificar.
+
+b)  Es aquel riesgo no diversificable.
+
+c)  Afecta únicamente a un grupo reducido de activos.
+
+d)  Son correctas a y c.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+El riesgo no diversificable, sistemático o de mercado, es el riesgo que puede afectar de forma homogénea a una pluralidad de activos. Es el identificado por Beta.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+5.  El activo seguro presenta las siguientes características:
+
+<!-- -->
+
+a)  Su rentabilidad es cero.
+
+b)  Su riesgo es cero.
+
+c)  Su correlación con el resto de activos es uno.
+
+d)  a y b son correctas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+La rentabilidad del activo seguro es conocida, lo cual no implica que sea cero, siendo su riesgo nulo y correlación con el resto de activos igual a cero.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+6.  Tenemos los activos 1 y 2 en nuestra cartera, pesando el primero de ellos un 40% y el segundo un 60%. El riesgo anual del activo 1 es del 20%, siendo la desviación típica anualizada del activo 2 un 30%. Si la correlación entre ambos es 0,5, ¿cuál será el riesgo anualizado de la cartera?.
+
+<!-- -->
+
+a)  20%
+
+b)  15,54%
+
+c)  27,50%
+
+d)  23,06%
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+La varianza de la cartera sería,
+
+$$\sigma^2_p=w_1^2\cdot\sigma_1^2+w_2^2\cdot\sigma_2^2+2\cdot w_1\cdot w_2\cdot\rho_{1,2}\cdot\sigma_1\cdot\sigma_2$$
+
+Su volatilidad,
+
+$$\sigma_p=\sqrt{w_1^2\cdot\sigma_1^2+w_2^2\cdot\sigma_2^2+2\cdot w_1\cdot w_2\cdot\rho_{1,2}\cdot\sigma_1\cdot\sigma_2 }$$
+
+Donde,
+
+-   $w_1$, es la ponderación del activo 1 (40%).
+
+-   $w_2$, es la ponderación del activo 2 (60%).
+
+-   $\sigma_1$, es la volatilidad anualizada del activo 1 (20%).
+
+-   $\sigma_2$, es la volatilidad anualizada del activo 2 (30%).
+
+-   $\rho_{1,2}$, es la correlación entre los activos 1 y 2 (0.5).
+
+Ahora sustituimos los valores y calculamos,
+
+$$\sigma=\sqrt{0.4^2\cdot0.2^2+0.6^2\cdot0.3^2+2\cdot0.4\cdot0.6\cdot0.2\cdot0.3\cdot0.5}=0.2306\left(23.06\%\right)$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+7.  Tenemos los activos 1 y 2 en nuestra cartera, pesando el primero de ellos un 40% y el segundo un 60%. La rentabilidad esperada del activo 1 para este año es del 12%, mientras que la rentabilidad esperada del activo 2 es del 15%. ¿Cuál será la rentabilidad esperada de nuestra cartera?:
+
+<!-- -->
+
+a)  10%.
+
+b)  12,75%.
+
+c)  13,80%.
+
+d)  14,50%.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+Calculamos la rentabilidad de dicha cartera con la siguiente fórmula:
+
+$${ E }_{ p }={ w }_{ 1 }\cdot { R }_{ 1 }+{ w }_{ 2 }\cdot { R }_{ 2 }$$ Donde,
+
+-   $w_1$, es la ponderación del activo 1 (40%).
+
+-   $w_2$, es la ponderación del activo 2 (60%).
+
+-   $R_1$, es la rentabilidad del activo 1 (12%).
+
+-   $R_2$, es la rentabilad del activo 2 (15%).
+
+$$E_p=0.4\cdot0.12+0.6\cdot0.015=0.138(13.8\%)$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+8.  Con la siguiente información:
+
+|                                            |
+|:-------------------------------------------|
+| Rentabilidad mensual del activo A:1%       |
+| Rentabilidad anual del activo B:15%        |
+| volatilidad diaria del activo A:1,265%     |
+| volatilidad trimestral del activo B:3,795% |
+| Téngase en cuenta que son 250 días         |
+| Rentabilidad libre de riesgo anual 2,00%   |
+
+¿Cuál sería el ratio de Sharpe de los dos activos?:
+
+a)  El activo A tiene un ratio de Sharpe de 1 y el activo B de 1,2, por lo que el activo B debería tener más peso en nuestra cartera que el activo A.
+
+b)  El activo A tiene un ratio de Sharpe de 0,5 y el activo B de 1,71; por lo que el activo B debería tener más peso en nuestra cartera que el activo A.
+
+c)  El activo A tiene un ratio de Sharpe de 0,6 y el activo B de 0,5, por lo que el activo A debería pesar más en nuestra cartera que el activo B.
+
+d)  No podemos calcular el ratio de Sharpe con estos datos.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+$$S=\frac{R_i-R_f}{\sigma_i}$$
+
+Las rentabilidades en forma anual.
+
+-   Rentabilidad del activo A: 1% x 12: 12% anual
+
+Las volatilidades en forma anual.
+
+-   Volatilidad del activo A: 1,265% x Raíz (250): 20%.
+
+-   Volatilidad del activo B: 3,795% x Raíz (4): 7,59%.
+
+La rentabilidad que nos ofrecen los activos A y B por encima de la rentabilidad libre de riesgo es respectivamente 10% y 13%. Si este dato lo dividimos por la volatilidad del activo (desviación típica de A es 20% y de B 7,59%), obtenemos que el ratio de Sharpe del activo A es 0,5; mientras que el ratio para el activo B es 1,7127.
+
+Desearemos tener en nuestra cartera valores con el mayor ratio de Sharpe posible, por lo que el activo B debería tener más peso en nuestra cartera que el activo A.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+9.  ¿Cúal de las siguientes afirmaciones es incorrecta?
+
+<!-- -->
+
+a)  La covarianza es igual al coeficiente de correlación por el producto de las desviaciones estándar de las dos acciones
+
+b)  Una covarianza igual a cero significa que no hay relación entre las dos variables
+
+c)  Un valor positivo significa que las acciones normalmente se mueven en el mismo sentido.
+
+d)  Si dos activos tienen correlación negativa perfecta, es imposible reducir la varianza de la cartera.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Las respuestas a, b y c son correctas. En el caso "d", si dos activos mantienen una correlación negativa perfecta, basta con tener los dos activos en cartera para reducir la varianza de la misma.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+10. Una compañía anuncia un dividendo extraordinario, ¿Qué movimiento en precios predeciría la hipótesis del mercado eficiente?
+
+<!-- -->
+
+a)  Un cambio anormal ocurriría antes del anuncio
+
+b)  Un cambio anormal ocurriría en el momento del anuncio
+
+c)  El cambio se produciría gradualmente en algunas semanas
+
+d)  El precio no cambiaría
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+Al encontrarnos bajo la hipótesis de HEM, el efecto sobre el precio de la acción debida a la comunicación de un hecho que no conocía el mercado (dividendo extraordinario) será inmediato, por lo que el cambio en el precio se producirá en el momento del anuncio del dividendo.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+11. Si la hipótesis de mercado eficiente es cierta, los gestores deberían hacer todo lo siguiente excepto:
+
+<!-- -->
+
+a)  Diversificar las carteras
+
+b)  Calibrar el retorno-riesgo de las carteras
+
+c)  Minimizar los costes de transacción
+
+d)  Enfocarse en seleccionar acciones
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Ya que es imposible anticipar los movimientos en los precios de los activos, los gestores deberían centrarse en minimizar los costes de transacción, diversificar las carteras con la finalidad de reducir el riesgo, así como calibrar el retorno- riesgo de las carteras. La selección de acciones carece de sentido en mercado eficiente debido a la imposibilidad de predecir la evolución de los precios de las mismas.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+12. La conclusión de que "el análisis técnico" no añade valor a las carteras
+
+<!-- -->
+
+a)  A largo plazo genera costes innecesarios a las carteras
+
+b)  Apoya la hipótesis débil del mercado eficiente
+
+c)  Contradice la hipótesis débil del mercado eficiente
+
+d)  Ninguna de las anteriores
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+La hipótesis débil de mercado eficiente queda formulada perfectamente a través del modelo Random Walk (camino o proceso aleatorio), poniendo así en tela de juicio las bases del análisis técnico y chartista.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+13. La premisa básica del binomio rentabilidad-riesgo sugiere que los inversores adversos al riesgo deberían obtener
+
+<!-- -->
+
+a)  el tipo de interés libre de riesgo
+
+b)  retornos similares al mercado de acciones
+
+c)  retornos similares al mercado de bonos
+
+d)  retornos reales positivos
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+Los inversores totalmente adversos al riesgo tendrán como preferencia aquellas inversiones con un riesgo nulo, o lo que es lo mismo, deberían obtener el tipo de interés libre de riesgo del mercado.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+14. ¿Cuál de los siguientes constituyen los pasos típicos en el proceso de asignación de activos
+
+<!-- -->
+
+a)  Los rangos de inversión para cada clase de activos
+
+b)  La asignación normal o media para cada clase de activos
+
+c)  Las clases de activos que pueden incluirse
+
+d)  Todas las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Todas las respuestas son correctas.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+15. Conocemos que la rentabilidad media diaria del Ibex 35 en los últimos 12 años ha sido del 0,0444%, mientras que su volatilidad diaria ha sido del 1,39%. ¿Cuál ha sido (si tomamos la rentabilidad libre de riesgo anual como 2%, y número de sesiones por año 250) su Ratio de Sharpe en datos anuales?:
+
+<!-- -->
+
+a)  3,19.
+
+b)  0,50.
+
+c)  0,09.
+
+d)  0,41.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Lo primero que debemos hacer es transformar los datos diarios tanto de rentabilidad como de volatilidad a datos anualizados. Para ello debemos multiplicar la rentabilidad diaria por el número de sesiones que componen un año (para nosotros 250), por lo que si multiplicamos 0,0444% x 250 obtenemos una rentabilidad media anualizada del 11,10%.
+
+Por otro lado debemos pasar de la volatilidad diaria a la volatilidad anualizada, debiendo multiplicar en este caso la volatilidad diaria por la raíz cuadrada del número de sesiones que componen un año, esto es, 1,39% x raíz(250) = 21,98%. Para calcular el Ratio de Sharpe, debemos sustraer a la rentabilidad media anualizada la rentabilidad libre de riesgo, por lo que tendremos que la prima de riesgo pagada por el Ibex 35 es del 9,10%, prima que si la dividimos por la volatilidad anualizada del índice, obtenemos un Ratio de Sharpe de 0,41.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+16. Un inversor pone el 60% de sus activos en la cartera del mercado que ofrece una rentabilidad del 10% y una varianza del 0,04, el resto lo invierte en el activo libre de riesgo que le da una rentabilidad del 5%. El retorno y la STD de la cartera es aproximadamente del :
+
+<!-- -->
+
+a)  8%, 2.4%
+
+b)  6%, 2.4%
+
+c)  8%, 12%
+
+d)  6%, 12%
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+$$E_i = (0.6 \cdot 10 + 0.4 \cdot 5) = 8\%$$ $$ \sigma=  0.6 \cdot \sqrt{0.04} =12\% $$ Nota: hay que recordar que la varianza del activo sin riesgo es cero y que piden la desv. estándar de la cartera no varianza. Tampoco tenemos en cuenta la correlación por ser esta nula.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+17. Cual de las siguientes no es una suposición de la CML:
+
+<!-- -->
+
+a)  Los inversores tienen las mismas expectativas sobre los activos en cuanto a retorno-rentabilidad.
+
+b)  Todas las inversiones son infinitamente divisibles
+
+c)  Todos los inversores tienen la misma aversión al riesgo
+
+d)  El modelo se basa en un horizonte de un periodo.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+La respuesta "c", es falsa ya que la hipotesis dice que los inversores tienen distintos grados de aversión al riesgo.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+18.¿Cual es la correlación entre el activo sin riesgo y la cartera del mercado?
+
+a)  0.00
+
+b)  -1.00
+
+c)  +1.00
+
+d)  0.50
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+El activo sin riesgo por definición no tiene varianza por lo que su correlación debe de ser CERO necesariamente.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+19. Una cartera a la derecha de la cartera del mercado en la CML se crea:
+
+<!-- -->
+
+a)  Invirtiendo en el activo sin riesgo y la cartera de mercado.
+
+b)  Comprado el activo sin riesgo.
+
+c)  Invirtiendo más del 100% en la cartera del mercado y endeudándose.
+
+d)  Diversificando
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+Las carteras que están a la derecha de la cartera del mercado tienen un nivel de riesgo y rentabilidad mayor y así deben formarse endeudándose e invirtiendo más del 100% en la cartera del mercado.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+20. Todas las carteras que están en la CML son:
+
+<!-- -->
+
+a)  Con correlación negativa perfecta.
+
+b)  No tienen relación entre ellas.
+
+c)  Con correlación positiva perfecta.
+
+d)  Distintos unos de otros.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+Al ser la CML una línea recta y todas las carteras eficientes están encima de ella, implica que si dos puntos están encima de la recta tienen correlación positiva perfecta. Es decir la "rho" es igual a 1.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+21. La cartera del mercado que tipos de activos contiene:
+
+<!-- -->
+
+a)  Todos las acciones y bonos
+
+b)  Todas las acciones
+
+c)  Todos los activos sin riesgo, las acciones y los bonos
+
+d)  Todos los activos con riesgo existentes.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+La cartera del mercado contiene solamente activos con riesgo y en su totalidad.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+22. Que riesgo puede hacerse desaparecer al construir una cartera?
+
+<!-- -->
+
+a)  Riesgo total
+
+b)  Riesgo sistemático
+
+c)  Riesgo específico
+
+d)  Riesgo de tipo de interés
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+Mediante la diversificación solo se puede reducir el riesgo diversificable o llamado específico o no sistemático, medido por la volatilidad.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+23. La volatilidad del índice de mercado se ha estimado en un 20%. A partir de la tabla de volatilidades y correlaciones con el mercado de los activos A y B siguiente,
+
+<!-- -->
+
+a)  B tiene mayor riesgo sistemático.
+
+b)  Es debido a que el riesgo sistemático de A es diversificable.
+
+c)  A tiene mayor riesgo específico que B.
+
+d)  B tiene mayor riesgo específico que A.
+
+|              | Activo A | Activo B |
+|--------------|:--------:|:--------:|
+| $\sigma_i$   |  $25\%$  |  $50\%$  |
+| $\rho_{i,m}$ |  $0.60$  |  $0.20$  |
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+**La volatilidad, y por lo tanto el riesgo específico del activo B es mayor que el de A**. Como se deduce de la tabla de volatilidades y correlaciones con el mercado de los activos A y B. Pero, para asegurarnos de qué respuesta es la correcta tendremos que calcular el valor de ambas betas ($\beta_A; \beta_b$). Para ello, empleamos la fórmula más a la derecha de la igualdad ya que es la única que se adapta a los datos que nos dan en el enunciado,
+
+$$\beta_{A}=\frac{Cov(R_A,R_B)}{\sigma^2_m}=\frac{\sigma_A}{\sigma_m}\cdot\rho_{A,m}$$ donde,
+
+$$\beta_{A}=\frac{\sigma_A}{\sigma_m}\cdot\rho_{A,m}=\frac{25\%}{20\%}\cdot0.6=0.75$$
+
+$$\beta_{B}=\frac{\sigma_B}{\sigma_m}\cdot\rho_{B,m}=\frac{50\%}{20\%}\cdot0.2=0.5$$
+
+las betas de A y B resultan 0.75 y 0.5 respectivamente. Por lo tanto, **el riesgo sistemático es menor en el activo B** al ser su beta menor.
+
+$$\beta_A>\beta_B$$
+
+A pesar de que **el riesgo específico (volatilidad) del activo B es mayor**.
+
+$$\sigma_A<\sigma_B$$
+
+Nota: el riesgo sistemático (no diversificable o de mercado) es medido por la $\beta_i$, mientras que el riesgo no sistemático (diversificable o específico) es medido por $\sigma_i$ (volatilidad).
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+24. Dos activos tienen desviaciones estándar del 10% y 30% respectivamente. Una cartera equiponderada con estos activos tiene una volatilidad del 16%. ¿Cuál es la correlación entre las rentabilidades de los activos?
+
+<!-- -->
+
+a)  0.8
+
+b)  0
+
+c)  0.04
+
+d)  -0.6
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+La correlación que obtenemos resolviendo la siguiente ecuación:
+
+$$\sigma^2_p=w_1^2\cdot\sigma_1^2+w_2^2\cdot\sigma_2^2+2\cdot w_1\cdot w_2\cdot\rho_{1,2}\cdot\sigma_1\cdot\sigma_2$$
+
+$$(0.16)^2=(0.5)^2\cdot(0.1)^2+(0.5)^2\cdot(0.3)^2+2\cdot 0.5\cdot0.5\cdot0.1\cdot0.3\cdot\rho_{1,2}$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+25. Disponemos de la siguiente información de mercado:
+
+|          | $E_i$  | $\rho_{i,m}$ | $\sigma_i$ |
+|----------|:------:|:------------:|:----------:|
+| $R_f$    | $4\%$  |     $0$      |   $0\%$    |
+| $E_m$    | $11\%$ |     $1$      |   $15\%$   |
+| Acción A | $14\%$ |    $0.70$    |   $25\%$   |
+| Acción B | $9\%$  |    $0.40$    |   $20\%$   |
+
+¿Cuál es la ecuación de la SML?
+
+a)  $E_i=4\%+11\%\cdot\beta$
+
+b)  $E_i=4\%+\left(\frac{\sigma_{i,m}}{\sigma_i^2}\right)\cdot\left(11\%-4\%\right)$
+
+c)  $E_i=4\ \%+7\%\cdot\beta$
+
+d)  Ninguna de las anteriores
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+$$E_i=4\ \%+\left(11\%-4\%\right)\cdot\beta=4\%+7\%\cdot\beta$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+26. Disponemos de la siguiente información de mercado:
+
+|          | $E_i$  | $\rho_{i,m}$ | $\sigma_i$ |
+|----------|:------:|:------------:|:----------:|
+| $R_f$    | $4\%$  |     $0$      |   $0\%$    |
+| $E_m$    | $11\%$ |     $1$      |   $15\%$   |
+| Acción A | $14\%$ |    $0.70$    |   $25\%$   |
+| Acción B | $9\%$  |    $0.40$    |   $20\%$   |
+
+Calcular las betas de los activos A y B.
+
+a)  1.166 y 0.533
+
+b)  1.06 y 0.610
+
+c)  0.25 y 0.20
+
+d)  0.7 y 0.4
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+$$\beta_{i,m}=\frac{\sigma_{i,m}}{\sigma_m^2}=\frac{\sigma_i}{\sigma_m}\cdot\rho_{i,m}$$ $$\beta_{A,m}=\frac{\sigma_A}{\sigma_m}\cdot\rho_{A,m}=\frac{0.25}{0.15}\cdot0.7=1.166$$
+
+$$\beta_{B,m}=\frac{\sigma_B}{\sigma_m}\cdot\rho_{B,m}=\frac{0.20}{0.15}\cdot0.4=0.533$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+27. Disponemos de la siguiente información de mercado:
+
+|          | $E_i$  | $\rho_{i,m}$ | $\sigma_i$ |
+|----------|:------:|:------------:|:----------:|
+| $R_f$    | $4\%$  |     $0$      |   $0\%$    |
+| $E_m$    | $11\%$ |     $1$      |   $15\%$   |
+| Acción A | $14\%$ |    $0.70$    |   $25\%$   |
+| Acción B | $9\%$  |    $0.40$    |   $20\%$   |
+
+a)  A y B están infravalorados
+
+b)  A y B están sobrevalorados
+
+c)  A está sobrevalorado y B infravalorado
+
+d)  A está infravalorado y B sobrevalorado.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+Según el modelo de CAPM, la rentabilidad de equilibrio para los activos A y B es,
+
+$$E_i=R_f+\left(E_m-E_f\right)\cdot\beta_{i,m}$$
+
+$$E_A=R_f+\left(E_m-E_f\right)\cdot\beta_{A,m}=0.04+\left(0.11-0.04\right)\cdot1.166=0.1219\left(12.19\%\right)$$ $$E_B=R_f+\left(E_m-E_f\right)\cdot\beta_{B,m}=0.04+\left(0.11-0.04\right)\cdot0.533=0.0773\left(7.73\%\right)$$
+
+Por lo tanto, los activos A y B están infravalorados los dos, ya que su rentabilidad esperada está por encima de la rentabilidad justa o de equilibrio. Recomendaríamos comprar.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+28. Disponemos de las siguientes carteras donde invertir. Sabemos que cinco de éstas están en la frontera eficiente,
+
+| Cartera    |  A  |  B   |  C  |   D |   E |   F |   G |   H |
+|:-----------|:---:|:----:|:---:|----:|----:|----:|----:|----:|
+| $E_i$      | 10  | 12.5 | 15  |  16 |  17 |  18 |  18 |  20 |
+| $\sigma_i$ | 23  |  21  | 25  |  29 |  29 |  32 |  35 |  45 |
+
+¿Cuáles son las ineficientes?
+
+a)  A, D y F son ineficientes
+
+b)  B, C y H son carteras ineficientes
+
+c)  A, D y G son carteras ineficientes
+
+d)  Ninguna de las carteras es ineficiente, dependerá de la aversión al riesgo del inversor.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+Según el criterio de media- varianza de Markovitz: A; D y G serían carteras ineficientes.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+29. Supongamos que podemos pedir prestado al 12%. ¿Cuál de las anteriores carteras es mejor según el criterio de Sharpe?
+
+<!-- -->
+
+a)  A, ya que tiene el ratio de Sharpe mínimo
+
+b)  H, ya que tiene el ratio de Sharpe máximo
+
+c)  F, ya que tiene el ratio de Sharpe máximo
+
+d)  G, ya que tiene el ratio de Sharpe máximo
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+La cartera F es la mejor según el criterio de Sharpe, ya que presenta el mayor ratio de Sharpe. Esto es, la mayor rentabilidad esperada por unidad de riesgo.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+30. Supongamos que estamos dispuestos a soportar una volatilidad del 25%. ¿Cuál es la máxima rentabilidad esperada que podemos obtener sin prestar ni pedir prestado? ¿Y si podemos prestar o pedir prestado al 12%, asumiendo que la cartera de mercado es la del ejercicio anterior e invertimos un 21,875% en el activo libre de riesgo?
+
+<!-- -->
+
+a)  15% y 16.6875%
+
+b)  16% y 15%
+
+c)  15% y 20.2%
+
+d)  15% y 18%.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+Respuesta a: Si no podemos invertir ni pedir prestado al libre de riesgo, la cartera eficiente con volatilidad del 25% es la C, que tiene rentabilidad esperada del 15%.
+
+Si podemos invertir o pedir prestado al 12%, la cartera eficiente en el modelo de Tobin se obtiene invirtiendo un 21,875% en el activo libre de riesgo y el resto (1-x)\*(100% 21,875%)= 78,125% en la cartera de mercado F.
+
+Sabemos que,
+
+$$R_c=\left(x\cdot12\%\right)+\left(1-x\right)\cdot R_f$$ $$R_c=\left(x\cdot12\%\right)+\left(1-x\right)\cdot 18\%$$ $$R_c=16.6875\%$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+31. El alfa de Jensen de una cartera:
+
+<!-- -->
+
+a)  Es la diferencia entre la rentabilidad del Fondo y la rentabilidad del Índice si tienen la misma Beta
+
+b)  Es positivo siempre
+
+c)  Indica si un inversor debe vender o comprar
+
+d)  Todas son correctas
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+Se corresponde con la definición y concepto del alfa de Jensen
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+32. El ratio de información:
+
+<!-- -->
+
+a)  Nos indica como está compuesta la cartera del Fondo.
+
+b)  Es aproximadamente el alpha entre el Tracking Error.
+
+c)  Se suele utilizar solo en épocas de rentabilidad positiva.
+
+d)  Mide la rentabilidad del Fondo en relación con la que obtienen los fondos homogéneos asumiendo el mismo nivel de riesgo.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+El ratio de información nos indica el exceso de rentabilidad en función del tracking error del Fondo, de modo que si el Fondo tiene un ratio de información alto el gestor está obteniendo rentabilidad adicional por el hecho de separarse del benchmark
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+33. Si el retorno del fondo A, sigue una distribución normal con media 9% y desviación estándar 3%. Y, el fondo B tiene una rentabilidad esperada del 18% y una desviación estándar de 9%. ¿Cual es la probabilidad de que el inversor pierda dinero en un año determinado?
+
+<!-- -->
+
+a)  0.5% (A) y 2.5% (B)
+
+b)  1% (A) y 95% (B)
+
+c)  5% (A) y 1.25% (B)
+
+d)  0.5 (A) y 5% (B)
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+Perder dinero (rentabilidad negativa) en el primer fondo significa estar, (9%-0%)/3 = 3 desviaciones estándar fuera de su media que implica un 99% o un 0,5% por debajo de la media. En el segundo caso, (18%-0%)/9 = 2 o un 95% de probabilidad. El segundo fondo tiene una rentabilidad mayor aunque comparativamente una desviación estándar comparativamente mayor.
+
+Nota: es importante saber que, en este ejercicio, por los datos que nos señalan en el enunciado, tenemos que descubrir en primer lugar por qué número se ha multiplicado la desviación típica. Para ello restamos una volatilidad de o% al rendimiento esperado y dividimos por la desviación típica, el número resultante determina si este número es 1, 2 o 3 (68%, 95% o 99%)
+
+------------------------------------------------------------------------
+
+La hipótesis de normalidad de los rendimientos financieros asume que si la rentabilidad sigue una Ley Normal,
+
+-   la probabilidad de que la rentabilidad de un activo se encuentre entre $E-\sigma$ y $E+\sigma$ es del 68%,
+
+-   la probabilidad de que la rentabilidad de un activo se encuentre entre $E-2\ \sigma$ y $E+2\ \sigma$ es del 95%
+
+-   la probabilidad de que la rentabilidad de un activo se encuentre entre $E-3\ \sigma$ y $E+3\ \sigma$ es del 99%.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+34. Si el retorno de un fondo sigue una distribución normal con media 10% y el inversor no quiere perder dinero con una probabilidad del 2,5% ¿Cual es la volatilidad máxima que puede soportar su cartera, medida por la desviación estándar?
+
+<!-- -->
+
+a)  5%
+
+b)  10%
+
+c)  0%
+
+d)  15%
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+La probabilidad de un 2.5% significa que el retorno 0% debería estar dos desviaciones estándar fuera de su media por lo que (10%-0%)/ 2 = 5% será la desviación estándar que como máximo soportará el fondo.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+35. ¿Cuál de los siguientes no es un indicador de rentabilidad ajustado por el riesgo?.
+
+<!-- -->
+
+A)  El índice de Sharpe.
+
+B)  El information ratio.
+
+C)  El tracking error.
+
+D)  Ninguna de las precedentes alternativas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la C**.
+
+El tracking error es un indicador de la desviación de la cartera respecto del benchmark.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+36. Dos acciones A y B presentan una desviación típica anual con respecto a su rentabilidad igual, respectivamente, al 20 % y al 12 %, así como un coeficiente de correlación entre rentabilidades igual a 1. ¿Cuál será la desviación típica de una cartera que contuviera ambos títulos igualmente ponderados?.
+
+<!-- -->
+
+a)  4 %
+
+b)  0 %
+
+c)  12 %
+
+d)  16 %
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+En este caso nos piden la desviación típica de una cartera con correlación positiva y perfecta $\rho=+1$. Para calcularla tenemos que aplicar, o bien la **fórmula general de la volatilidad de una cartera** $p$ en función del coeficiente de correlación:
+
+$$\sigma_p=\sqrt{w_{1}^2\cdot\sigma_1^2+w_2^2\cdot\sigma_2^2+2\cdot w_1\cdot w_2\cdot\rho_{1,2}\cdot\sigma_{1}\cdot\sigma_{2}}$$
+
+Donde,
+
+-   $\sigma_p$, es la volatilidad (riesgo) de la cartera $p$.
+
+-   $w_1$, es la ponderación (o proporción) del activo $1$ dentro de la cartera $p$.
+
+-   $\sigma_1$, es la varianza del título $1$.
+
+-   $w_2$, es la ponderación (o proporción) del activo $2$ dentro de la cartera $p$.
+
+-   $\sigma_2$, es la varianza del título $2$.
+
+-   $\rho_{1,2}$, es el coeficiente de correlación entre los activos 1 y 2.
+
+Que al calcular nos da un resultado de,
+
+$$\sigma_p=\sqrt{0.5^2\cdot 0.2^2+0.5^2\cdot0.12^2+2\cdot0.5\cdot0.5\cdot1\cdot0.2\cdot0.12}$$ $$\sigma_p=0.16(16\%)$$ O, también se puede calcular como la **cartera de mínimo riesgo (con correlación positiva y perfecta** $\rho=+1$):
+
+$$\sigma_p=w_1\cdot\sigma_1+w_2\cdot\sigma_2$$ Donde,
+
+-   $\sigma_p$, es la volatilidad (riesgo) de la cartera $p$.
+
+-   $w_1$, es la ponderación (o proporción) del activo $1$ dentro de la cartera $p$.
+
+-   $\sigma_1$, es la varianza del título $1$.
+
+-   $w_2$, es la ponderación (o proporción) del activo $2$ dentro de la cartera $p$.
+
+-   $\sigma_2$, es la varianza del título $2$.
+
+Que al calcular nos da un resultado de,
+
+$$\sigma_p=0.5\cdot0.2+0.5\cdot0.12=0.16(16\%)$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+37. El coeficiente beta de una cartera mide:
+
+<!-- -->
+
+a)  La volatilidad de la cartera.
+
+b)  La rentabilidad esperada de la cartera.
+
+c)  La variación que experimenta la rentabilidad de la cartera frente a una variación unitaria en la rentabilidad de un índice.
+
+d)  La variación que experimenta la rentabilidad de un índice frente a una variación unitaria en la rentabilidad de la cartera.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la C**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+38. ¿Cuál de las siguientes afirmaciones no pertenece a la teoría de las expectativas?.
+
+<!-- -->
+
+a)  Los inversores tienen expectativas homogéneas y son neutrales al riesgo.
+
+b)  Los mercados de bonos son eficientes.
+
+c)  El riesgo de fluctuación en bonos a largo plazo es mayor que para los bonos a corto plazo.
+
+d)  Los inversores seleccionarán los títulos que les proporcione la mayor rentabilidad esperada asociado a su horizonte temporal.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la C**.
+
+Puesto que esa respuesta atendería a la teoría de la preferencia por la liquidez (aversión al riesgo)
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+39. A la hora de selecciona entre un universo de inversión es necesario tener presente:
+
+<!-- -->
+
+a)  El elegido será el de mayor rentabilidad.
+
+b)  El elegido será el de menor riesgo.
+
+c)  Lo básico es el prestigio de la Gestora.
+
+d)  Es necesario homogenizar los Fondos comparados, para posteriormente calcular ratios que nos permitan delimitar cual ofrece mejor perfil rentabilidad-riesgo.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+La comparativa debe hacerse con Fondos homogéneos y con ratios que combinen la rentabilidad y el riesgo.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+40.¿Cuál de lo siguientes datos no se necesita utilizar a la hora de calcular la rentabilidad esperada de una acción utilizando el CAPM?.
+
+a)  Rentabilidad esperada del mercado.
+
+b)  La beta de la acción.
+
+c)  La desviación estándar de la acción.
+
+d)  El tipo de interés libre de riesgo.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+1º Debemos recordar que del modelo *Capital Asset Pricing Model* (CAPM) obtenemos las siguientes **dos expresiones**:
+
+-   *Capital Market Line* (**CML**):
+
+$${ E }_{ p }={ R }_{ f }+\left( \frac { { E }_{ m }-{ R }_{ f } }{ { \sigma  }_{ m } }  \right) { \sigma  }_{ p }$$
+
+-   Security Market Line (**SML**):
+
+$${ E }_{ i }={ R }_{ f }+\left( \frac { { E }_{ m }-{ R }_{ f } }{ { \sigma  }_{ m }^{ 2 } }  \right) { \sigma  }_{ i,m }$$ Alternativamente, haciendo $$ { \beta  }_{ i }=\frac { { \sigma  }_{ i,m } }{ { \sigma  }_{ m }^{ 2 } } $$
+
+en la ecuación anterior, la SML también se expresa como:
+
+$${ E }_{ i }={ R }_{ f }+({ E }_{ m }-{ R }_{ f })\cdot{ \beta  }_{ i }$$
+
+2º Una vez que hemos identificado las expresiones del modelo CAPM podemos comprobar que datos **no necesitamos utilizar** a la hora de calcular la rentabilidad esperada de una acción. En primer lugar, tenemos que descartar la CML ya que esta expresión muestra la relación de la rentabilidad esperada de una cartera y no de un activo individual. Y, en segundo lugar, de las dos expresiones de la SML, vemos que la "rentabilidad esperada del mercado" (${ E }_{ i }$), se encuentra en ambas expresiones, al igual que ocurre con "el tipo de interés libre de riesgo" (${ R }_{ f }$); y, que la "beta de la acción" (${ \beta }_{ i }$), se encuentra en la segunda expresión de la SML.
+
+De modo que podemos afirmar que, **" la desviación estándar de la acción" (**${ \sigma }_{ i }^{ 2 }$) no es necesaria para calcular la rentabilidad esperada de un activo (${ E}_{i}$) en el modelo CAPM.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+41. La hipótesis de normalidad de los rendimientos financieros asume entre otras cosas:
+
+<!-- -->
+
+a.  La campana de Gauss sesgada hacia la izquierda (rendimientos negativos)
+
+b.  La volatilidad variable
+
+c.  La equiprobabilidad de rendimientos positivos y negativos
+
+d.  La campana de Gauss sesgada hacia la derecha (rendimientos positivos)
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+La hipótesis de normalidad de los rendimientos financieros asume que si la rentabilidad sigue una Ley Normal,
+
+-   la probabilidad de que la rentabilidad de un activo se encuentre entre $E-\sigma$ y $E+\sigma$ es del 68%,
+
+-   la probabilidad de que la rentabilidad de un activo se encuentre entre $E-2\ \sigma$ y $E+2\ \sigma$ es del 95%
+
+-   la probabilidad de que la rentabilidad de un activo se encuentre entre $E-3\ \sigma$ y $E+3\ \sigma$ es del 99%.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+42. La volatilidad de una acción es:
+
+<!-- -->
+
+a.  La varianza de sus cotizaciones
+
+b.  La desviación tipica de sus rendimientos
+
+c.  La varianza de sus rentabilidades
+
+d.  La desviación tipica de sus cotizaciones
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+La volatilidad de un título es una medida del riesgo. En concreto es la desviación típica de la rentabilidad (en otras palabras, podemos decir que es la **desviación típica de sus rendimientos**).
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+43. ¿Cual es el método más utilizado para calcular la tasa de rentabilidad cuando se comparan los resultados obtenidos durante varios intervalos de tiempo por diferentes gestores de fondos de inversión?
+
+<!-- -->
+
+a.  La tasa interna de rentabilidad (TIR)
+
+b.  La tasa de rentabilidad ponderada
+
+c.  La media aritmética de sus rentabilidades
+
+d.  La tasa geométrica de rentabilidad (TGR)
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+La **Tasa Geométrica de Rentabilidad (TGR)** (Time-weighted rate of return) es la rentabilidad del gestor de la cartera y se calculará realizando la **media geométrica de las rentabilidades simples** de los **diferentes periodos**.
+
+Esta **es la rentabilidad que mide sólo la actuación del gestor quitando la influencia de las decisiones del inversor de aportar o retirar fondos de la cartera**.
+
+Comparando la TIR y la TGR se puede analizar el grado de acierto de la política de entradas y salidas de capital de la inversión llevada a cabo:
+
+-   Si TIR \> TGR, el inversor ha acertado en sus decisiones.
+
+-   Si TIR =TGR, el resultado es indiferente de la política llevada a cabo.
+
+-   Si TIR \< TGR, el inversor se ha equivocado en su política.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+44. Dos acciones A y B presentan una correlación entre sus rentabilidades igual a 0.6. Esto significa que las rentabilidades de los títulos tienen a moverse:
+
+<!-- -->
+
+a.  En dirección opuesta y con la misma intensidad
+
+b.  En direcciones opuestas y con intensidad diferente
+
+c.  En la misma dirección y con intensidad diferente
+
+d.  En la misma dirección y con la misma intensidad
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+La **covarianza entre x e y indica la relación entre la variación de ambas variables** y su **interpretación** es la siguiente:
+
+-   Si $\sigma_{x,y} > 0$, la relación entre ambas variables es **directa**, es decir, se mueven en el mismo sentido.
+
+-   Si $\sigma_{x,y} < 0$, la relación entre ambas variables es **inversa**, es decir, se mueven en sentido contrario.
+
+-   Si $\sigma_{x,y} = 0$, **no hay relación** entre las variaciones de ambas variables.
+
+La covarianza entre dos variables se ve **afectada por las unidades de medida** en las que se expresen las variables, lo que hace **necesario** introducir un **estadístico** que nos indique la relación entre los datos, **sin depender de las unidades en las que se expresen**.
+
+Se define el **coeficiente de correlación lineal** entre x e y como:
+
+$$\rho _{x,y}=\frac{\sigma _{x,y}}{\sigma _{x}\sigma _{y}}$$
+
+Mide también la relación lineal entre las variables, pero **no depende de las unidades de medida** y está siempre **comprendido entre --1 y 1**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+45. ¿Qué método es el más adecuado para medir la rentabilidad obtenida por un gestor en el pasado?
+
+<!-- -->
+
+a.  Media aritmética
+
+b.  Composición o media geométrica.
+
+c.  TIR
+
+d.  Plusvalias latentes
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+Para medir la rentabilidad obtenida por un **Gestor** el método más adecuado es la **media Geométrica** y para medir la rentabilidad desde el punto de vista del **Inversor** el método más adecuado es la **TIR**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+46. Supongamos que la variable aleatoria "rendimiento esperado"" de un activo financiero sea continua y presente una distribución normal de frecuencias. Si la media de los rendimientos referidos a un periodo temporal dado es el 9% y la desviación estándar es el 3%, ¿cuál es la probabilidad de que el rendimiento del activo se sitúe entre el 3% y el 15%?
+
+<!-- -->
+
+a.  Cerca del 50%
+
+b.  Cerca del 95%
+
+c.  Cerca del 68%
+
+d.  Cerca del 99%
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+Para saber la probabilidad de que el rendimiento del activo se sitúe entre el 3% y el 15% tenemos que conocer la **distribución de probabilidad de una normal**,
+
+$$P\ (E\ + \sigma;\ E\ - \sigma)=68\%$$ $$P\ (E\ + 2\sigma;\ E\ - 2\sigma)=95\%$$
+
+$$P\ (E\ + 3\sigma;\ E\ - 3\sigma)=99\%$$ y hacemos las siguientes cálculos:
+
+-   **CASO 1**
+
+$$P\ (9\%\ + 3\%;9\%\ - 3\%)=68\%$$ luego,
+
+$$P\ (12\%;\ 6\%)=68\%$$
+
+con un **68% de probabilidad la rentabilidad esperada de este activo se situará entre el 12% y el 6%**.
+
+-   **CASO 2**
+
+$$P\ (9\%\ + 2\cdot 3\%;\ 9\%\ - 2\cdot 3\%)=95\%$$
+
+luego,
+
+$$P\ (15\%;\ 3\%)=95\%$$
+
+con un **95% de probabilidad la rentabilidad esperada de este activo se situará entre el 15% y el 3%**.
+
+-   **CASO 3**
+
+$$P\ (9\%\ + 3\cdot 3\%;\ 9\%\ - 3\cdot 3\%)=99\%$$
+
+luego,
+
+$$P\ (18\%;\ 0\%)=99\%$$
+
+con un **99% de probabilidad la rentabilidad esperada de este activo se situará entre el 18% y el 0%**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+47. Considerando una inversión en la que se ha obtenido una rentabilidad del 5% en últimos 3 meses, ¿cuál será su rentabilidad obtenida al final del año si se mantiene la posición?:
+
+<!-- -->
+
+a.  La rentabilidad anual será de 20%
+
+b.  La rentabilidad anual será de 14,89%
+
+c.  La rentabilidad anual será de 21,43%
+
+d.  La rentabilidad anual será de 21,55%
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Si consideramos que la inversión ha obtenido un 5% de rentabilidad en los últimos 3 meses y, asumiendo reinversión de los intereses bajo un régimen de capitalización compuesta, la rentabilidad anualizada de esta operación se calcula del siguiente modo:
+
+Equivalencia de Tantos (capitalización compuesta):
+
+$$(1+i)=(1+i_m)^m$$
+
+donde,
+
+-   $i$ = Tipo efectivo anual (en tanto por uno)
+
+-   $i_m$ = Tipo efectivo mensual, trimestral, etc. (en tanto por uno)
+
+-   $m$ = Frecuencia (número de veces dentro del periodo)
+
+luego si despejamos el tipo efectivo anual $i$ tenemos que,
+
+$$i=[(1+i_m)^m] -1$$ donde al sustituir y calcular,
+
+$$i=[(1+0,05)^4] -1=0,2155(21,55\%)$$
+
+Nota: no confundir la anualización de la rentabilidad esperada con la rentabilidad obtenida por un activo, puesto que se trata de distintos conceptos. En este sentido, **la respuesta a es incorrecta** ya que como dice el propio enunciado "se ha obtenido una rentabilidad del 5% en últimos 3 meses". Y, por tanto estamos ante un hecho cierto y **no** ante una **estimación** (rentabilidad esperada).
+
+En el caso de que nos pidan anualizar la rentabilidad esperada de 3 meses, sería:
+
+$$E _1= N \cdot E_N=4\cdot 5\%=20\%$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+48. Si las rentabilidades anuales de un fondo han sido 40%, 10%, -2% y 8% ¿cuál será su desviación típica?:
+
+<!-- -->
+
+a.  La desviación típica es 16,76%
+
+b.  La desviación típica es 15,68%
+
+c.  La desviación típica es 17,76%
+
+d.  La desviación típica es 16,66%
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+1º Calculamos la media con la siguiente fórmula:
+
+$$\overline { x } =\frac { 1 }{ n } \sum _{ i=1 }^{ n }{ x_{ i } }$$ sustituimos y calculamos,
+
+$$\overline { x }=\frac { 0.4+0.1+(-0.02)+0,08 }{ 4 }=0.14$$
+
+2º calculamos la varianza con la siguiente fórmula:
+
+$$\sigma^2=\frac { \sum _{ i=1 }^{ n }{ ({ x }_{ i }-\overline { x } } )^{ 2 } }{ n }$$ sustituimos y calculamos,
+
+$$\sigma^2= \frac { (0.4-0.14)^2+(0,1-0.14)^2+(-0.02-0.14)^2 +(0.08-0.14)^2}{4}=0.0246$$
+
+3º calculamos la desviación estándar (o volatilidad), que es la raíz cuadrada de la varianza.
+
+$$\sigma =\sqrt { \frac { \sum _{ i=1 }^{ n }{ ({ x }_{ i }-\overline { x } )^{ 2 } } }{ n } } =\sqrt { { \sigma }^{ 2 } }$$ $$\sigma =\sqrt { { \sigma }^{ 2 } } =\sqrt { 0,0312 }=0.1568(15.68\%)$$ Con la calculadora Casio FC-200V:
+
+1.  Función "STAT" (pulsamos sobre ella)
+
+2.  1-var:EXE (pulsamos sobre la tecla "EXE")
+
+3.  Introducimos las rentabilidades anuales en % en el editor de flujos (bajo la columna "x"):
+
+-   1 = 40% + "EXE"
+
+-   2 = 10% + "EXE"
+
+-   3 = -2% + "EXE"
+
+-   4 = 8% + "EXE"
+
+-   5 = simplemente dejamos el cursor sobre esta casilla para más tarde obtener en ella el resultado
+
+4.  "SHIFT" + "S-MENU" (pulsamos primero "SHIFT" y luego "S-MENU", por este orden)
+
+5.  5:VAR + 5 (pulsamos el número 5 en el teclado numérico)
+
+6.  3:x $\sigma$ n + 3 + "EXE" (pulsamos el número 3 en el teclado numérico y la tecla "EXE" a continuación)
+
+Nos muestra el resultado (desviación típica poblacional -volatilidad) en la casilla 5 del editor $15,88$ expresado en porcentaje (%).
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+49. Un título con una rentabilidad esperada del 10% y una volatilidad del 6% que siga una Ley Normal, tiene una probabilidad aproximada del 68% de que su rentabilidad oscile:
+
+<!-- -->
+
+a.  Entre un 4% y un 16%
+
+b.  Entre un 7% y un 27%
+
+c.  Entre un 8%y un 32%
+
+d.  Entre un 12%y un 48%
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+Si el activo presenta una rentabilidad esperada del 10% y una volatilidad del 6% y, además éste sigue una **Ley Normal** podemos afirmar que con una **probabilidad del 68% los rendimientos se encontrarán a +/- una desviación típica** de su rendimiento esperado, esto es,
+
+$$P\ (E\ -\sigma;\ E\ + \sigma)=68\%$$
+
+luego la rentabilidad esperada de este activo se situará en la en el intervalo de,
+
+$$P\ (10\% - 6\%;\ 10\% + 6\%)=68\%$$
+
+$$P\ (4\%;\ 16\%)=68\%$$ Luego para este título tiene una probabilidad aproximada del 68% de que su rentabilidad oscile entre un 4% y un 16%
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+50. Una empresa presenta la siguiente información:
+
+-   Beneficio por acción: 4,32 euros
+
+-   dividendo por acción: 2,81 euros
+
+-   Precio de mercado (cotización): 65,44 euros
+
+-   Precio objetivo: 68,50 euros
+
+¿Qué rentabilidad por dividendo tiene esta empresa?:
+
+a.  La rentabilidad por dividendo es 9,24%
+
+b.  La rentabilidad por dividendo es 6,29%
+
+c.  La rentabilidad por dividendo es 4,29%
+
+d.  La rentabilidad por dividendo es 4,92%
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+La rentabilidad por dividendo (RD) O también denominada comúnmente dividend yield (DY), es el cociente entre el dividendo y el precio, y se puede obtener de dos formas: usando datos de la empresa,
+
+$$RD=\frac{Dv}{CB}$$
+
+Donde,
+
+-   $Dv$, es el dividendo total repartido por la empresa.
+
+-   $CB$, es la capitalización bursátil de la empresa.
+
+0 también usando datos de las acciones,
+
+$$RD=\frac{DPA}{PPA}$$
+
+Donde,
+
+-   $DPA$, es el dividendo por acción.
+
+-   $PPA$, es el **precio de cotización**.
+
+En nuestro caso, aplicando la segunda fórmula tenemos que:
+
+$$RD = \frac{DPA}{P_0}=\frac{2,81}{65,44}=0,0429(4,29\%)$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+51. Se dispone de 1.000 euros para invertir en dos activos. Un activo con riesgo del que se espera una rentabilidad del 18% anual con una desviación estándar del 20%, y un activo sin riesgo que presenta una rentabilidad del 4% anual. ¿Qué cantidad debería invertirse en el activo con riesgo para que la cartera tenga una volatilidad del 15%?
+
+<!-- -->
+
+a.  Deberian invertirse 660 euros
+
+b.  Deberian invertirse 750 euros
+
+c.  Deberian invertirse 780 euros
+
+d.  Deberían invertirse 800 euros
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+En este caso particular nos encontramos con una cartera que solamente está formada por un actrivo arriesgado y un activo sin riesgo. Para soluciarno partimos de la volatilidad de una cartera con covarianza que se define con la siguiente fórmula:
+
+$$\sigma _{c}=\sqrt{w^{2}_{1}\cdot\sigma^{2}_{1}+(1-w_{1})^{2}\cdot\sigma^{2}_{2}+2\cdot w_{1}(1-w_{1})\cdot\sigma _{1}\cdot\sigma_{2}\cdot\sigma_{1,2}}$$ donde al sustituir y calcular obtenemos,
+
+$$0,15=\sqrt{w^{2}_{1}\cdot0,20+(1-w_{1})^{2}\cdot0+2\cdot w_{1}(1-w_{1})\cdot0,20\cdot0\cdot0}$$ que es lo mismo que,
+
+$$0,15=\sqrt{w^{2}_{1}\cdot0,20}$$ luego si despejamos $w_1^2$,
+
+$$w_{1}=\left[\frac{0,15}{0,20}\right]=0,75(75\%)$$ tenemos que la proporción que tenemos que invertir en el activo con riesgo para que la cartera tenga una volatilidad del 15% es el 75% sobre la inversión inicial que será,
+
+$$1.000\cdot 0,75= 750$$ de, **750 euros en el activo arriesgado** ($w_1$) y de **250 euros en el activo libre de riesgo** $(w_2=1-w_1)$.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+52. Los activos A y B tienen una desviación estándar del 10 %y del 20 % respectivamente. La correlación entre el activo A y B es de +1. ¿Cuál será la desviación estándar de una cartera compuesta por la mitad del activo A y por la mitad del activo B?
+
+<!-- -->
+
+a.  La desviación estándar es del 9%
+
+b.  La desviación estándar es del 15%
+
+c.  La desviación estándar es del 13%
+
+d.  La desviación estándar es del 11%
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+Estamos ante un caso en el que la correlación entre los activoa A y B es perfecta (1) y positiva (+), por lo que su volatilidad vendrá dada por:
+
+$$\sigma^2_p=w_1\cdot \sigma_1+(1-w_1)\cdot \sigma_2$$ luego al sustituir y calcular obtenemos,
+
+$$\sigma^2_p=0,50\cdot 0,10+(1-0,50)\cdot 0,20=0,15(15\%)$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+53. La rentabilidad anual de una cartera en los último cuatro años ha sido la siguiente: 14%; 19%; -10% y 14%. Calcular la rentabilidad geométrica de la cartera durante estos 4 años:
+
+<!-- -->
+
+a.  La rentabilidad ha sido de 6,53%
+
+b.  La rentabilidad ha sido de 9,00%
+
+c.  La rentabilidad ha sido de 8,62%
+
+d.  La rentabilidad ha sido de 4,68%
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+En este caso bastará aplicar la fórmula de la TGR,
+
+$$TGR_{1,\ n}=\sqrt{\left(1+RS_1\right)\cdot\left(1+RS_2\right)\cdot...\cdot\left(1+RS_n\right)}-1$$
+
+donde,
+
+-   $TGR$, es la rentabilidad geométrica obtenida desde el periodo $1$, hasta $n$.
+
+-   $RS_n$, es rentabilidad simple del subperiodo $n$.
+
+-   $n$, es el número de subperiodos.
+
+que al sustituir y calcular,
+
+$$TGR=\sqrt [ 4 ]{\left(1+0,14\right)\cdot\left(1+0,19\right)\cdot\left(1+(-0,10)\right)\cdot\left(1+0,14\right)}-1$$ arroja un resultado de,
+
+$$TGR=0,0862(8,62\%)$$
+
+Nota: La **Tasa Geométrica de Rentabilidad** (*Time-weighted rate of return*) es considerada la **rentabilidad del gestor** de la cartera.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+54. Un inversor español tiene en su cartera un fondo de inversión de renta variable USA denominado en dólares. A lo largo del primer año, el valor liquidativo de la participación se revaloriza un 8% mientras que el USD se aprecia un 5% con respecto al EUR. ¿Cuál es la rentabilidad, en euros, que le ha generado este fondo al inversor?
+
+<!-- -->
+
+a.  La rentabilidad generada ha sido de 13,4%
+
+b.  La rentabilidad generada ha sido de 1,43%
+
+c.  La rentabilidad generada ha sido de 3,14%
+
+d.  La rentabilidad generada ha sido de 14,30%
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+El **valor liquidativo aumenta en un 8%** y el valor del **USD aumenta en un 5%**, luego la rentabilidad total vendrá dada por los **dos factores** , es decir la revalorización del propio **activo** pero también la revalorización de la **divisa.** Luego nos podemos plantear la siguiente ecuación:
+
+$$(1 + r) = (1+ r_{activo})\cdot (1+ r_{divisa})$$ de donde despejamos la rentabilidad total ($r$),
+
+$$r= [(1+ r_{activo})\cdot (1+ r_{divisa})]-1$$ y, al sustituir y calcular
+
+$$r= [(1+ 0,08)\cdot (1+ 0,05)]-1$$ tenemos $$r= 0,134(13,4\%)$$
+
+que la **rentabilidad, en euros, que le ha generado este fondo al inversor será del 1,34%**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+55. Un Inversor pone el 60% de su patrimonio en la cartera de mercado que ofrece una rentabilidad del 10% y una varianza del 4%. El resto lo invierte en el activo sin riesgo, que le da una rentabilidad del 4%. El retorno y la desviación típica (volatilidad) de la cartera es aproximadamente de:
+
+<!-- -->
+
+a.  El retorno es de un 16% y el riesgo de 24%
+
+b.  El retorno es de un 13% y el riesgo de 20%
+
+c.  El retorno es de un 24% y el riesgo de 36%
+
+d.  El retorno es de un 8% y el riesgo de 12%
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+En primer lugar tenemos que conocer que estamos en el caso de una cartera formada por dos activos (modelo de Tobin), uno es un activo arriesgado y el otro un **activo sin riesgo**. Además, tenemos que recordar que el activo sin riesgo tiene las siguientes **características**:
+
+-   **rentabilidad cierta**,
+
+$$E\ (r_f)=r_f$$ **riesgo nulo**,
+
+$$\sigma^2_f=0$$ y, **covarianza nula**
+
+$$\sigma^2_{i,f}=0$$ Por lo tanto la **cartera combinada o mixta**, con un activo arriesgado y el activo sin riesgo tendrá las siguientes **características**:
+
+-   **rentabilidad**, como la suma ponderada de las rentabilidades esperadas de los activos que conforman la cartera (dos en este caso):
+
+$$E_p=w_1\cdot E_1+w_2\cdot r_f=w_1\cdot E_1+(1-w_1)\cdot r_f$$
+
+donde,
+
+-   $E_p$, es la rentabilidad esperada de la cartera p.
+
+-   $w_1$, es la ponderación (o proporción) del activo 1 dentro de la cartera p.
+
+-   $E_1$, es rentabilidad esperada del activo 1.
+
+-   $w_2$, es la ponderación (o proporción) del activo 2 dentro de la cartera p.
+
+-   $r_f$, es rentabilidad del activo sin riesgo.
+
+Notesé que la propoprción del activo dos es también $w_2=(1-w_1)$. En nuetro caso este valor será:
+
+$$w_2=(1-w_1)=1-0,60=0,40(40\%)$$
+
+Luego, al sustituir y calcular
+
+$$E_p=0,60\cdot 0,10+0,40\cdot 0,04=0,76(7,6\%)\approx8\%$$ tenemos que **la rentabilidad de la cartera ha sido del 8% aproximadamente**.
+
+-   **varianza** como el producto de la proporción al cuadrado multiplicado por la varianza del activo arriesgado, de forma que:
+
+$$\sigma^2_p=w^2_1\cdot \sigma^2_1$$ + **volatilidad**, como la raíz cuadrada de la varianza
+
+$$\sigma_p=w_1\cdot \sigma_1$$
+
+donde, al sustituir y calcular
+
+$$\sigma_p=w_1\cdot \sigma_1=0,60\sqrt {0,04}=0,12 (12\%)$$ tenemos que **la volatilidad de la cartera ha sido del 12% aproximadamente**.
+
+Nota: podemos hallar la **ponderación** para valores iguales o mayores que cero (positivos), despejando de la expresión anterior:
+
+$$\sigma_p=w_1\cdot \sigma_1  \ge 0\Longrightarrow \ w_1=\frac{\sigma_p}{\sigma_1}$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+56. Cual de las siguientes características del activo seguro no es cierta:
+
+<!-- -->
+
+a.  Su correlación con el resto de los activos en +1
+
+b.  Su covarianza con el resto de los activos es nula
+
+c.  Su rentabilidad es conocida
+
+d.  Su riesgo es cero
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+Las características del activo seguro (activo libre de riesgo) son:
+
+-   **Su correlación con el resto de los activos es nula**
+
+-   Su covarianza con el resto de los activos es nula
+
+-   Su rentabilidad es conocida
+
+-   Su riesgo es cero
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+57. Un fondo de inversión estima que es posibles obtener una rentabilidad del 5% en los próximos 3 meses ¿Cuál será la rentabilidad esperada anualizada para este fondo?
+
+<!-- -->
+
+a.  La rentabilidad anualizada es 5%
+
+b.  La rentabilidad anualizada es 21,55%
+
+c.  La rentabilidad anualizada es 21,43%
+
+d.  La rentabilidad anualizada es 20,00%
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+En este caso en el que los **datos no son conocidos con certeza**, sino que están sometidos a incertidumbre y el gestor debe realizar estimaciones sobre las posibles rentabilidades y sus probabilidades. Luego **estamos ante la rentabilidad esperada del activo** considerada como la **esperanza matemática de la variable definida** (la **rentabilidad** esperada del fondo).
+
+En muchos casos es interesante (a efectos comparativos) disponer de la **rentabilidad expresada en términos anuales**. Para expresar la rentabilidad de un periodo **trimestral**, semestral, cuatrimestral... en términos **anuales**, podemos aplicar una regla proporcional si **suponemos**:
+
+-   Que los **intereses obtenidos no se reinvierten**.
+
+-   Que el comportamiento de **la inversión se va a repetir a lo largo del año**.
+
+Por tanto, si **dividimos el año en N períodos**, la expresión de la rentabilidad anualizada esperada es:
+
+$$E _1= N \cdot E_N$$
+
+En la práctica habitual de mercado, se suele anualizar rentabilidades **mensuales (N=12), semanales (N=52) o diarias (N=250)**.
+
+Por lo tanto, en este caso tenemos que la rentabilidad a 3 meses (N=4) ha sido del 5,00% su rentabilidad anualizada será de:
+
+$$E _1= N \cdot E_N=4\cdot 5\%=20\%$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+58. Una cartera con una rentabilidad del 5,50% mantiene una exposición del 60% RV, 30% RF y el resto en efectivo. La rentabilidad de los indices de RV, RF y mercados monetarios son: 6%, 3% y 2%. ¿Cuál es el exceso de rentabilidad de la cartera?
+
+<!-- -->
+
+a)  0,3%
+
+b)  0,8%
+
+c)  1,4%
+
+d)  3,5%
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+El **exceso de rentabilidad de la cartera refleja la diferencia entre la rentabilidad de la cartera y la rentabilidad de la cartera de mercado (representada por sus respectivos índices)**:
+
+$$ER=E_p-E_m$$
+
+donde,
+
+-   $ER$, es el exceso de rentabilidad
+
+-   $E_p$, es la rentabilidad esperada de la cartera $p$
+
+-   $E_m$, es la rentabilidad de la cartera de mercado (benchmark)
+
+Por lo tanto, conocida la rentabilidad de la cartera (5,50%) calculamos la rentabilidad de la cartera de mercado como:
+
+$$E_m=0,6\cdot 0,06+0,3\cdot 0,03+0,1\cdot 0,02=0,047\approx4,7\% $$ y, calculamos la diferencia entre estas dos rentabilidades:
+
+$$ER=E_p-E_m=5,5\%-4,7\%=0,8\%$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+59. Si una cartera tiene una volatilidad del 25% y la covarianza que hay entre ella y su mercado es de 0,022, siendo la volatilidad de éste último de un 20%. Si las rentabilidades de la cartera y del mercado son 5,2% y 7% respectivamente, siendo la rentabilidad del activo libre del riesgo un 3%. Calcular el tracking-error de la cartera.
+
+<!-- -->
+
+a.  20,12%.
+
+b.  22,45%.
+
+c.  5,04%.
+
+d.  20,37%
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+-   **Datos**:
+
+Volatilidad de la cartera p:
+
+$\sigma_p=0.25$
+
+Varianaza de la cartera p:
+
+$\sigma_p^2=0.25^2$
+
+Covarianza entre la cartera p y el mercado:
+
+$\sigma_{p \ m}=0.022$
+
+Volatilidad del mercado:
+
+$\sigma_m=0.20$
+
+Varianaza del mercado:
+
+$\sigma_m^2=0.20^2$
+
+Rentabilidad de la cartera p:
+
+$E_p=0.052$
+
+Rentabilidad del mercado:
+
+$E_m=0.07$
+
+-   Rentabilidad del activo libre del riesgo:
+
+$R_f=0.03$
+
+En primer lugar, recordamos una de las dos la fórmulas que tenemos para calcular el tracking-error de una cartera,
+
+$$\sigma_{\alpha,p}=\sqrt{\sigma_p^2-\beta_p^2\cdot \sigma_m^2}$$
+
+Donde,
+
+-   $\sigma_{\alpha,p}$, es la desviación típica (volatilidad o riesgo) del alpha de Jensen respecto de la cartera $p$.
+
+-   $\sigma_p^2$, es la varianza de la cartera $p$.
+
+-   $\beta_p^2$, es la beta al cuadrado de la cartera $p$.
+
+-   $\sigma_m$, es la varianza de la cartera de mercado (o *benchmark*) $m$.
+
+Podemos observar, que para poder **calcular el tracking error** con los datos que hemos extraido del enunciado, necesitamos **conocer** primero **el valor de la beta** de la cartera p. Para hallar la beta, lo haremos **a través** del modelo de valoración de activos **CAPM**, concretamente con la **ecuación Security Market Line (SML)**:
+
+$$E\:_{\:p\:}=\:R\:_{\:f\:}+\left(\frac{\:E\:_{\:m\:}-\:R\:_{\:f\:}}{\sigma \:^{2_m}}\right)\sigma _{p,\:m}$$
+
+De forma, que si estas dos ecuaciones son análogas
+
+$${ E }_{ p }={ R }_{ f }+({ E }_{ m }-{ R }_{ f })\cdot{ \beta  }_{ p }$$ es porque beta, es el resultado de dividir la covarianza (entre la cartera p y el mercado) entre la varianza (del mercado):
+
+$$\beta _p=\frac{\sigma _{p,\:m}}{\sigma ^{2_m}}$$
+
+donde, al sustituir y calcular tenemos que la beta de la cartera toma un valor de 0.55:
+
+$$\beta _p=\frac{0.022}{0.20^2}=0.55$$ Nótese que igualmente **podríamos haber despejado la beta, directamente de la SML** para conocer su valor
+
+$$0.052=\:0.03+\left(0.07-\:0.03\right)\cdot \:\beta_{p}=>\beta_{p}=0.55$$
+
+Una vez que tenemos todos los datos, aplicando la fórmula del TE
+
+$$\sigma_{\alpha, \ p}=\sqrt{\sigma^2_p-\beta_p^2\cdot\sigma^2_m}$$
+
+al sustituir y calcular
+
+$$\sigma_{\alpha, \ p}\sqrt{0.25^2-0.55^2\cdot 0.20^2}$$ tenemos que el TE es:
+
+$$\sigma_{\alpha, \ p}=0.22449 (\approx 22,45\%)$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+60. El departamento de análisis de una entidad financiera estima que, para el próximo año, el índice DJ EURO STOXX 50 se revalorizará dependiendo de los cinco escenarios siguientes:
+
+| Escenario | Rentabilidad | Probabilidad |
+|-----------|--------------|--------------|
+| Pesimista | -20%         | 0,1          |
+| Malo      | -8%          | 0,2          |
+| Normal    | 2%           | 0,3          |
+| Bueno     | 10%          | 0,25         |
+| Optimista | 25%          | 0,15         |
+
+Con estos datos, indique cuál es la esperanza matemática así como la desviación tipo (típica o estándar) de la rentabilidad del índice DJ EURO STOXX 50 para el próximo año:
+
+a.  2,25% y 162,1875%.
+
+b.  3,25% y 12,7353%.
+
+c.  3,5686% y 16,25%.
+
+d.  32,4375% y 2,6125%.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+La esperanza matemática, también llamada valor esperado, es igual al sumatorio de las probabilidades de que exista un suceso aleatorio, multiplicado por el valor del suceso aleatorio. ... Teniendo en cuenta, eso sí, que el término esperanza matemática está acuñado por la teoría de la probabilidad. En el ámbito financiero es conocida como la **rentabilidad esperada** y se acepta como **medida del rendimiento** de una inversión. Y la **desviación tipo (típica o estándar)** se considera como una **medida del riesgo**.
+
+Para **calcular la rentabilidad esperada (esperanza matemática)** la expresión que emplearemos es la siguiente:
+
+$$E_p(R)=p_1 \cdot R_1 + p_2 \cdot R_2 +...+ p_n \cdot R_n$$
+
+Que también la podemos expresar de como sigue:
+
+$$E_p=\sum^n_{i=1} p_i\cdot R_i$$
+
+Donde,
+
+-   $E_p$, es rentabilidad media esperada del índice (o cartera) $p$.
+
+-   $p_n$, es probabilidad de que ocurra el suceso considerado.
+
+-   $R_i$, es la rentabilidad simple del subperiodo $i$.
+
+$$E_p=(-20\% \cdot 0,10) + (-8\% \cdot 0,20) + (2\% \cdot 0,30) + (10\% \cdot 0,25) + (25\% \cdot 0,15)$$
+
+$$E_p= - 2\% - 16\% + 0,6\% + 2,5\% + 3,75\% = 3,25\%$$
+
+Para **la desviación tipo (típica o estándar) de la rentabilidad del índice DJ EURO STOXX 50 para el próximo año** emplearemos siguiente expresión:
+
+$$\sigma_p=\sqrt{p_1\cdot\left(R_1-E_p\right)^2+p_2\cdot\left(R_2-E_p\right)^2+.....+ p_n\cdot\left(R_n-E_p\right)^2}$$
+
+Donde,
+
+-   $\sigma_p$, es la volatilidad (riesgo) del índice (o cartera) $p$.
+
+-   $p_n$, es probabilidad de que ocurra el suceso considerado.
+
+-   $R_n$, es la rentabilidad simple del subperiodo $i$.
+
+-   $E_p$, es rentabilidad media esperada del índice (o cartera) $p$.
+
+$$\sqrt{0.1\left(-20-3.25\right)^2+0.2\left(-8-3.25\right)^2+0.3\left(2-3.25\right)^2+0.25\left(10-3.25\right)^2+0.15\left(25-3.25\right)^2}$$
+
+$$\sigma_p=12.735\%$$
+
+**CALCULADORA CASIO FC100/200V**
+
+A través de la calculadora CASIO FC100/200V, se utiliza el menú STAT y a través de Type se introducen los datos a través de 1-VAR:EXE con la frecuencia incorporada en la columna de la derecha.
+
+Una vez introducidos los datos de rentabilidad "X" y frecuencia "FREC", se pulsa la tecla AC para finalizar la entrada de datos, y posteriormente las teclas SHIFT y STAT.
+
+Se pulsa la tecla 5:VAR y la tecla 2 y EXE y se obtiene la cifra de 3,25%, que es la solución correcta.
+
+Se pulsa la tecla 5:VAR y la tecla 3 y EXE y se obtiene la cifra de 12,7353%., que es la otra solución correcta.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+61. ¿Qué activo muestra una menor volatilidad anual?.
+
+| Acción | Volatilidad (%) | Periodicidad |
+|--------|-----------------|--------------|
+| A      | 2,85            | Trimestral   |
+| B      | 2,65            | Mensual      |
+| C      | 3,85            | Semestral    |
+| D      | 1,00            | Semanal      |
+
+a.  El activo A
+
+b.  El activo B
+
+c.  El activo C
+
+d.  El activo D
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+Respuesta **correcta: c**.
+
+Para poder realizar una comparación homogénea, hay que anualizar los datos. De forma que,
+
+| Acción | Volatilidad (%) | Periodicidad | Factor de anualización | Volatilidad anualizada        |
+|--------------|--------------|--------------|--------------|-------------------|
+| A      | 2,85            | Trimestral   | $\sqrt{4}$             | $2.85\cdot \sqrt{4}=5.7$      |
+| B      | 2,65            | Mensual      | $\sqrt{12}$            | $2.65\cdot \sqrt{12}=9.17986$ |
+| C      | 3,85            | Semestral    | $\sqrt{2}$             | $3.85 \cdot \sqrt{2}=5.44472$ |
+| D      | 1,00            | Semanal      | $\sqrt{52}$            | $1\cdot \sqrt{52}=7.21110$    |
+
+Así obtenemos que de estos 4 activos, la menor volatilidad, la presentará el activo C.
+:::
+
+</details>
+
+------------------------------------------------------------------------

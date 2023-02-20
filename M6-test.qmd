@@ -1,1 +1,1453 @@
 # Módulo 6 {.unnumbered}
+
+## Inversión Inmobiliaria {.unnumbered}
+
+1.  Indique la afirmación correcta sobre el mercado inmobiliario:
+
+<!-- -->
+
+a.  Es un mercado a corto plazo, fuertemente especulativo.
+
+b.  El mercado de segunda mano es un determinante de los precios del mercado de nueva construcción.
+
+c.  No requiere la formalización legal de las transacciones.
+
+d.  Todas las anteriores son correctas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+2.  Son ventajas de la inversión colectiva inmobiliaria:
+
+<!-- -->
+
+a.  Facilitar la diversificación de la cartera.
+
+b.  La determinación diaria del valor liquidativo de la participación.
+
+c.  La no existencia de gastos de gestión de la inversión en inmuebles.
+
+d.  Estar exenta de todo tipo de tributación.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+3.  Un fondo de inversión inmobiliaria:
+
+<!-- -->
+
+a.  Puede invertir en todo tipo de inmuebles mientras los alquile.
+
+b.  No es necesario que mantenga un coeficiente de liquidez.
+
+c.  Debe garantizar la posibilidad de reembolso o retirada del participe inversor al menos una vez al año.
+
+d.  Las comisiones son libres.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+4.  Las sociedades de inversión inmobiliaria, en relación a los fondos:
+
+<!-- -->
+
+a.  No requieren coeficiente de liquidez.
+
+b.  Las unidades de inversión son las acciones y en los fondos las participaciones.
+
+c.  Las unidades de inversión son las acciones y en los fondos las participaciones.
+
+d.  Todas las anteriores son correctas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+5.  No corresponde a la Sociedad Gestora de un fondo de inversión inmobiliaria:
+
+<!-- -->
+
+a.  Designar a la sociedad de tasación.
+
+b.  Efectuar los cobros y pagos de los partícipes.
+
+c.  Informar a los partícipes.
+
+d.  Determinar el valor de las participaciones o acciones.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+6.  No corresponde a la Sociedad Depositaria de un fondo de inversión inmobiliaria:
+
+<!-- -->
+
+a.  Custodiar las escrituras de propiedad de los inmuebles.
+
+b.  Vigilar y supervisar a la Sociedad Gestora.
+
+c.  Controlar las suscripciones y reembolsos.
+
+d.  Custodiar los valores financieros que formen parte de la cartera.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+7.  En el mercado de inversiones inmobiliarias es cierto que:
+
+<!-- -->
+
+a.  El crédito hipotecario al promotor no permite la subrogación.
+
+b.  El arrendamiento a particulares tiene un IVA reducido del 6%.
+
+c.  El mercado de producto residencial o vivienda es el más importante.
+
+d.  El inversor final no tiene acceso directo a este mercado.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+8.  Las Sociedades de Inversión Inmobiliaria:
+
+<!-- -->
+
+a.  Tienen un objeto social no exclusivo.
+
+b.  No poseen personalidad jurídica propia ni órganos de gobierno propios.
+
+c.  Son un patrimonio colectivo separado.
+
+d.  Tienen capital fijo.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+9.  Los Fondos de Inversión Inmobiliaria tienen las siguientes limitaciones:
+
+<!-- -->
+
+a.  Permanencia de los inmuebles en el Fondo: 5 años mínimo.
+
+b.  Posibilidad de enajenar inmuebles a entidades del mismo grupo de la Sociedad Gestora.
+
+c.  Compras a entidades vinculadas restringidas sólo al máximo del 25% del activo.
+
+d.  Ninguna respuesta es correcta.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+10. Son funciones del Depositario de un FII:
+
+<!-- -->
+
+a.  No cobra las suscripciones.
+
+b.  Controla las operaciones prohibidas.
+
+c.  No es responsable frente a la Sociedad Gestora.
+
+d.  No pago de reembolsos.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+11. Son requerimientos especiales de la Sociedad Gestora:
+
+<!-- -->
+
+a.  Es propietaria.
+
+b.  Controla las operaciones prohibidas.
+
+c.  No objeto social exclusivo.
+
+d.  Todas las respuestas son correctas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+12. Son características de la Sociedad de Tasación:
+
+<!-- -->
+
+a.  Interna: Pertenece al mismo Grupo de la Sociedad Gestora.
+
+b.  Dependiente.
+
+c.  Sustitución condicionada a la autorización de la CNMV.
+
+d.  Todas las respuestas son correctas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+13. En la constitución de FII's:
+
+<!-- -->
+
+a.  Requiere la presentación de una memoria explicativa del proyecto de constitución.
+
+b.  No es obligatorio un proyecto de reglamento de gestión.
+
+c.  La inscripción en el Registro Mercantil no es potestativa.
+
+d.  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+14. Son inversiones aptas en IIC's Inmobiliarias:
+
+<!-- -->
+
+a.  Promociones en fase de construcción aunque no se haya obtenido licencia de edificación.
+
+b.  Opciones de compra, aunque la prima supere el 5% del valor del inmueble.
+
+c.  Inmuebles terminados.
+
+d.  Todas las respuestas son correctas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+15. Aspectos operativos: coeficientes en los FII:
+
+<!-- -->
+
+a.  Número mínimo de partícipes 500
+
+b.  Máximo endeudamiento hipotecario del 70%.
+
+c.  Liquidez del 10%.
+
+d.  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+16. La inversión inmobiliaria es una alternativa para la diversificación de inversiones financieras (bonos y acciones) porque:
+
+<!-- -->
+
+a.  Obtienen rentabilidades muy por encima de estos activos.
+
+b.  Tienen una alta correlación con estos activos.
+
+c.  Tienen una baja correlación con estos activos.
+
+d.  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+17. En los fondos de inversión inmobiliaria:
+
+<!-- -->
+
+a.  No es necesario el concurso de un depositario al no invertir en valores.
+
+b.  Como en todos los fondos de inversión, debe concretarse diariamente el valor liquidativo de la participación.
+
+c.  Pueden invertir todo el patrimonio en acciones de empresas inmobiliarias.
+
+d.  La fiscalidad es igual a la de los fondos de inversión mobiliaria.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+18. ¿Cuál de las siguientes afirmaciones te parece más correcta?
+
+<!-- -->
+
+a.  El ciclo inmobiliario precede al bursátil.
+
+b.  El ciclo bursátil anticipa el ciclo económico y precede al inmobiliario.
+
+c.  El ciclo inmobiliario precede al ciclo económico y al ciclo bursátil.
+
+d.  El ciclo inmobiliario no tiene nada que ver con el ciclo económico.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+19. ¿Cuál de las siguientes circunstancias no se asocia a la fase alcista del ciclo inmobiliario?
+
+<!-- -->
+
+a.  Caída de rentas.
+
+b.  Subida del valor de los activos.
+
+c.  Inicio de nuevos desarrollos inmobiliarios.
+
+d.  Falta de productos inmobiliarios.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+20. Con la nueva regulación las Socimi tributarán al:
+
+<!-- -->
+
+a.  19%
+
+b.  10%
+
+c.  0%
+
+d.  30%
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+21. La rentabilidad de la inversión inmobiliaria proviene:
+
+<!-- -->
+
+a)  De las rentas de los arrendamientos.
+
+b)  De las plusvalías de las transmisiones.
+
+c)  De las rentas percibidas por los arrendamientos y de las plusvalías o revalorizaciones de los inmuebles.
+
+d)  Ninguna de los anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+22. Qué criterio debe concurrir para que un suelo sea considerado como no urbanizable:
+
+<!-- -->
+
+a)  Ser inadecuado para su planeamiento urbano.
+
+b)  Estar sometido a algún régimen especial de protección.
+
+c)  Aquél que no está integrado en ámbitos o sectores.
+
+d)  La a y la b.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+23. Los criterios de incompatibilidad entre el IVA y el ITP-AJD establece:
+
+<!-- -->
+
+a)  El IVA no es compatible tanto con el ITP como con AJD.
+
+b)  El IVA es incompatible con el ITP.
+
+c)  Las operaciones inmobiliarias sujetas y exentas de IVA están sujetas a ITP.
+
+d)  b y c son verdaderas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+24. En la tributación del Impuesto de Sociedades, los Fondos de Inversión Inmobiliaria:
+
+<!-- -->
+
+a)  Tributan al 1%.
+
+b)  Tributan al 1% solamente para el caso de que sean exclusivas de vivienda.
+
+c)  Si son fondos de no vivienda tributan al 30% a partir del 1 de enero de 2008.
+
+d)  Ninguna de las anteriores es correcta.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+25. El coeficiente de liquidez exigido a los Fondos de Inversión Inmobiliaria:
+
+<!-- -->
+
+a)  Será del 10% del activo medio de los últimos 4 años.
+
+b)  Será del 15% del activo total del mes anterior.
+
+c)  Puede estar invertidos además de en efectivo, en depósitos o instrumentos de renta fija de cualquier vencimiento.
+
+d)  Puede estar invertido en activos de renta fija con vencimiento inferior a 18 meses.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+26. En el caso en que la Sociedad Gestora y la Sociedad Depositaria pertenecieran al mismo grupo:
+
+<!-- -->
+
+a)  No pueden existir consejeros comunes.
+
+b)  La dirección ejecutiva debe ser independiente.
+
+c)  Tendrán distinto domicilio social y centros de actividad.
+
+d)  Todas las anteriores son ciertas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+27. Entre los límites a la inversión que nos encontramos en un Fondo de Inversión Inmobiliaria:
+
+<!-- -->
+
+a)  Un 15 % del Patrimonio en sociedades cuyo activo esté constituido mayoritariamente por bienes inmuebles objeto de arrendamiento.
+
+b)  Un 10% del Patrimonio en opciones de compra que se computarán por la prima pagada.
+
+c)  Un 35% del patrimonio de vivienda.
+
+d)  a y b son correctas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+28. El mercado inmobiliario:
+
+<!-- -->
+
+a)  Está sujeto a las mismas oscilaciones que la Bolsa.
+
+b)  Es un mercado donde no es posible el apalancamiento.
+
+c)  Se considera un activo libre de riesgo.
+
+d)  Sus rentabilidades tienen fuerte dependencia a la localización de los inmuebles.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+29. Las operaciones de arrendamientos de inmuebles:
+
+<!-- -->
+
+a)  No se consideran parte del mercado inmobiliario al ser este un mercado de compra-venta exclusivamente.
+
+b)  Quedan integradas en el mercado inmobiliario.
+
+c)  Permiten una deducción del 15% en la base imponible del IRPF.
+
+d)  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+30. En cuanto a la tributación indirecta por transmisión de inmuebles:
+
+<!-- -->
+
+a)  Tributan por IVA al tipo general del 18%.
+
+b)  Nunca tributan por IVA sino por el Impuesto sobre Transmisiones Patrimoniales al tipo del 7%.
+
+c)  Las viviendas nuevas en primera adquisición tributarán por IVA al tipo del 10%.
+
+d)  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+31.¿Cuál de las siguientes características no correspondería por lo general a los mercados inmobiliarios?
+
+a.  Fuerte componente local.
+
+b.  Organizados y altamente regulados.
+
+c.  Acusan falta de transparencia.
+
+d.  Activos poco homogéneos.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+32. Los fondos inmobiliarios españoles acogidos a la legislación de instituciones de inversión colectiva están fiscalmente protegidos:
+
+<!-- -->
+
+a.  Cualquiera que sea la inversión.
+
+b.  Sólo si invierten en viviendas.
+
+c.  Si al menos el 50% de su inversión lo está en viviendas o inmuebles residenciales.
+
+d.  Sólo se invierte en oficinas y locales comerciales.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+33. ¿Una Institución de Inversión Colectiva Inmobiliaria puede ser Sociedad Anónima?
+
+<!-- -->
+
+a.  No, porque carecen de personalidad jurídica.
+
+b.  Sólo si se trata de un Fondo de Inversión Inmobiliaria.
+
+c.  Sólo si se trata de una Sociedad de Inversión.
+
+d.  Sí, en cualquier caso.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+34. ¿Cuál de las siguientes circunstancias se asocia a la fase bajista del ciclo inmobiliario?
+
+<!-- -->
+
+a.  Subida de las rentas.
+
+b.  Facilidades de financiación.
+
+c.  Sobre oferta de productos inmobiliarios.
+
+d.  Subida del valor de los activos.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+35. ¿Cuál de las siguientes circunstancias se asocia al inicio de la fase alcista del ciclo inmobiliario?
+
+<!-- -->
+
+a.  Nuevo desarrollo inmobiliario.
+
+b.  Dificultades de financiación.
+
+c.  Caída del valor de los activos.
+
+d.  Escasez de productos inmobiliarios.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+36. Calcula la cuota anual de un préstamo que se amortiza por el sistema francés si el capital inicial son 15.000 €, el tipo de interés efectivo anual es el 5% y el plazo de 6 años:
+
+<!-- -->
+
+a.  2.955,26 €
+
+b.  3.250,00 €
+
+c.  2.500,00 €
+
+d.  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+En este ejercicio nos piden **calcular la cuota** ($C$), de un **préstamo** por importe de **15.00€** (esto es, $V_0=15.000$) y que se amortiza por el sistema francés, de forma que la **cuota sea anual**. Para ello, nos dan el tipo d interés efetivo anual (es decir un $i_{12}=i=5\%$) y también nos dicen que el plazo será de 6 años ($n=6$).
+
+En primer lugar calculamos la cuota mediante la fórmula del valor actual de una renta constante, postpagable, de la cuál despejamos la variable $C$, es decir, la cuota anual:
+
+$$V_0=C\cdot\frac{1-\left(1+i\right)^{-n}}{i}$$
+
+sustituimos,
+
+$$15.000=C\cdot\frac{1-\left(1+0,05\right)^{-6}}{0,05}$$
+
+despejamos $c$ y calculamos,
+
+$$C=\frac{15.000}{\frac{1-\left(1+0,05\right)^{-6}}{0,05}}=2.955,26$$
+
+Utilizado la **calculadora la Casio FC200V**, se calcularía de la siguiente forma:
+
+-   Función: "CMPD"
+
+-   n = 6 + EXE (6 años)
+
+-   I% = 5 + EXE (introducimos el nominal anual que en este caso como nos dan el efectivo anual coinciden $i_{12}=i$)
+
+-   PV = -15.000 + EXE (introducimos el importe efectivamenete retirado en el momento de la concesión del préstamo)
+
+-   PMT = 0 + EXE (la cuota es nuestra incogita y por tanto introducimos el valor 0)
+
+-   FV = 0 + EXE (introducimos cero no nos lo piden)
+
+-   P/Y = 1 + EXE (es el número de pagos anuales)
+
+-   C/Y = 1 + EXE (es el número de compuestos anuales; corrige el nominal anual introducido en "I%" pasándolo a tipo efectivo mensual- auque en este caso no lo necesitamos)
+
+-   **volvemos arriba de nuevo, situandonos con el cursor sobre la variable "PMT" y pulsamos la tecla "solve"**.
+
+Resultado:
+
+-   **PMT = 2.955,26 euros (que será la cuota que debería pgar anualmente)**
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+37. ¿Cuántos años hacen falta para devolver un préstamo de 6.750 € si la cuota de amortización constante es de 843.75 €?
+
+<!-- -->
+
+a.  10 años
+
+b.  9 años
+
+c.  8 años
+
+d.  Dependerá del tipo de interés del préstamo.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+38. Don Luis decide comprarse un coche con el ahorro que ha generado durante unos años. Inicialmente da una entrada y pide un préstamo a 5 años por los 60.000 € que le quedarían para pagar. El tipo de interés nominal anual que le ofrecen es el 5'25% y la comisión de apertura es del 1'25% sobre el principal, y la abona de forma separada, ya que la cifra que recibe por el importe del préstamo es 60.000 €. Quiere saber a cuánto ascendería la cuota mensual constante.
+
+<!-- -->
+
+a.  1.139,16 €
+
+b.  1.625,15 €
+
+c.  7.864,89 €
+
+d.  7.652,34 €
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+Nos piden calcular el **valor de la cuota mensual constante** del préstamo, con lo cual se trata de un **préstamo fracés**. Para ello vamos a plantear un **valor actual** de 60.000 euros (ya que la comisión la pagará a parte PV=60.000) de una **renta constante**, postpagable, de cuantía mensual $c$ euros, 60 términos (5x12) y con un tipo de interés nominal $J(12)$ anual del 5,25%.
+
+En primer lugar calculamos el tipo efectivo mensual a partir del tipo nominal anual:
+
+$$i_{12}=\frac{j\left(m\right)}{m}=\frac{j\left(12\right)}{12}=\frac{0,0525}{12}=0,004375$$
+
+Ahora aplicamos su fórmula, ajustando la frecuencia del tipo de interés a la frecuencia de la cuantía (o cuota):
+
+$$V_0=c\cdot\frac{1-\left(1+i_{12}\right)^{-(n \cdot m)}}{i_{12}}$$ sustituimos,
+
+$$60.000=c\cdot\frac{1-\left(1+0,004375\right)^{-60}}{0,004375}$$ despejamos $c$ y calculamos,
+
+$$c=\frac{60.000}{\frac{1-\left(1+0,004375\right)^{-60}}{0,004375}}=1.139,16$$
+
+Utilizado la **calculadora la Casio FC200V**, se calcularía de la siguiente forma:
+
+-   Función: "CMPD"
+
+-   n= 60 + EXE (5 años x 12 meses)
+
+-   I% = 5,25 + EXE (introducimos el nominal anual y se corrige con "C/Y"; ver más abajo)
+
+-   PV = 60.000 + EXE (introducimos el importe efectivamenete retirado en el momento de la concesión del préstamo)
+
+-   PMT = 0 + EXE (la cuota es nuestra incogita y por tanto introducimos el valor 0)
+
+-   FV = 0 + EXE (introducimos cero no nos lo piden)
+
+-   P/Y = 12 + EXE (es el número de pagos anuales)
+
+-   C/Y = 12 + EXE (es el número de compuestos anuales; corrige el nominal anual introducido en "I%" pasándolo a tipo efectivo mensual)
+
+-   **volvemos arriba de nuevo, situandonos con el cursor sobre la variable "PMT" y pulsamos la tecla "solve"**.
+
+Resultado:
+
+-   **PMT = 1139,16 euros (que será la cuota que debería pgar mensualmente)**
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+39. Se ha concedido un préstamo de 18.000 € a 4 años, con un tipo de interés fijo nominal anual del 7,25% y una comisión de apertura aplicada del 1,5%, que se debe abonar independientemente del préstamo solicitado el primer día de la operación. Calcular la cuota mensual a pagar por dicho préstamo.
+
+<!-- -->
+
+a.  433,12 €
+
+b.  1.351,98 €
+
+c.  5.344,13 €
+
+d.  426,63 €
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+Notesé, que para realizar los cálculos **introducimos el importe efectivamenete retirado en el momento de la concesión del préstamo independientemente de la comisión**. Es decir, calcularemos en base a los 18.000€ retirados. Luego **la cuota a pagar no se verá alterada en el caso de la comisión**, sin embargo, a efectos de calcular la TAE, esta sí quedaría afectada en dicha operación ya que el coste efectivo del préstamo en este caso será distinto del ofrecido por la entidad (7,5%) dado que, el hecho de tener que abonar la comisión el primer día de la operación **sí tiene impacto en el calculo de la TAE pero NO en el de la cuota**.
+
+En primer lugar convertimos el tipo de interés fijo nominal anual del 7,25%, en un tipo efectivo mensual. Es decir, pasamos del $i$ al $i_{12}$ de forma que:
+
+$$i_{12}=\frac{j_{(12)}}{12}=\frac{0,0725}{12}=0,006041667$$
+
+Luego, planteamos la equivalencia financiera en t=0:
+
+$$V_0=C\cdot\frac{1-(1+i_{12})^{-(n\cdot m)}}{i_{12}}$$ donde al sustituir,
+
+$$18.000=C\cdot\frac{1-(1+0,006041667)^{-48}}{0,006041667}$$ de donde despejamos $C$,
+
+$$C=\frac{18.000}{\frac{1-(1+0,006041667)^{-48}}{0,006041667}}=433,12$$ Utilizado la **calculadora la Casio FC200V**, se calcularía de la siguiente forma:
+
+-   Función: "CMPD"
+
+-   n= 48 + EXE (4 años x 12 meses)
+
+-   I% = 7,25 + EXE (introducimos el nominal anual y se corrige con "C/Y"; ver más abajo)
+
+-   PV = 18.000 + EXE (introducimos el importe efectivamenete retirado en el momento de la concesión del préstamo independientemente de la comisión)
+
+-   PMT = 0 + EXE (la cuota es nuestra incogita y por tanto introducimos el valor 0)
+
+-   FV = 0 + EXE (introducimos cero no nos lo piden)
+
+-   P/Y = 12 + EXE (es el número de pagos anuales)
+
+-   C/Y = 12 + EXE (es el número de compuestos anuales; corrige el nominal anual introducido en "I%" pasándolo a tipo efectivo mensual)
+
+-   **volvemos arriba de nuevo, situandonos con el cursor sobre la variable "PMT" y pulsamos la tecla "solve"**.
+
+Resultado:
+
+-   **PMT = 433,1232496 euros (que será la cuota que debería pgar mensualmente)**
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+40. ¿Qué cantidad nos concederá hoy una entidad financiera que ofrece préstamos al 0,375% de interés efectivo mensual si pactamos devolver 1.300 euros al mes durante 20 años?
+
+<!-- -->
+
+a.  250.321,21 €
+
+b.  205.485,07 €
+
+c.  210.450,00 €
+
+d.  Ninguna de las anteriores es correcta.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+41. Los Fondos de inversión Inmobiliarios en España:
+
+<!-- -->
+
+a)  No están obligados a mantener coeficientes de liquidez.
+
+b)  Son fondos cerrados.
+
+c)  La a y la b son ciertas.
+
+d)  Son fondos abiertos, por lo que el propio fondo debe garantizar el reembolso de las participaciones al menos una vez al año.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+42. La Sociedad Depositaria de un Fondo de Inversión Inmobiliaria:
+
+<!-- -->
+
+a)  Es suficiente con que presente la forma de sociedad anónima y cumpla el requisito de capital mínimo exigido.
+
+b)  Debe ser una Entidad Financiera: bancos, cajas de ahorro, cooperativas de crédito, sociedades o agencias de valores.
+
+c)  Ejerce como representante del Fondo.
+
+d)  Todas las anteriores son ciertas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+43. Las Sociedades de arrendamiento de vivienda:
+
+<!-- -->
+
+a)  Pueden acogerse a un régimen fiscal especial con una bonificación del 85% en el Impuesto de Sociedades.
+
+b)  Pueden acogerse a un régimen fiscal especial con una rebaja en el IVA del 8% al 4% por la adquisición de viviendas.
+
+c)  a y b son verdaderas.
+
+d)  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+44. Podemos clasificar la inversión inmobiliaria según su actividad en:
+
+<!-- -->
+
+a)  Viviendas y oficinas.
+
+b)  Centros comerciales y locales de negocio.
+
+c)  Centros industriales y logísticos
+
+d)  Todas las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+45. Respecto al límite de su valor patrimonial invertido en inmuebles, las SII y los FII:
+
+<!-- -->
+
+a)  Ambos deberán tener invertido un mínimo del 50% en bienes inmuebles.
+
+b)  Las SII tendrán que tener invertido un mínimo del 80% en inmuebles.
+
+c)  Los FII tendrán que tener invertido un mínimo del 70% en bienes inmuebles.
+
+d)  La b y la c son verdaderas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+46. La Sociedad de Tasación de un Fondo de inversión inmobiliario.
+
+<!-- -->
+
+a)  Puede formar parte del mismo grupo de la Sociedad Gestora.
+
+b)  Debe tener una facturación con cargo al fondo del 15% como máximo de todos sus ingresos.
+
+c)  No es necesaria aunque recomendable.
+
+d)  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+47. La evolución del precio de los activos inmobiliarios:
+
+<!-- -->
+
+a)  Tiene el mismo comportamiento al alza que a la baja.
+
+b)  Son elásticos a la baja e inelásticos al alza.
+
+c)  Son inelásticos a la baja y elásticos al alza.
+
+d)  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+48. La volatilidad de las inversiones en activos inmobiliarios:
+
+<!-- -->
+
+a)  Es la misma cuando analizamos la rentabilidad por rentas de arrendamiento que cuando analizamos la rentabilidad por revalorizaciones.
+
+b)  Es mayor en las rentas de arrendamiento de oficinas o locales comerciales que de viviendas.
+
+c)  La a y la b son ciertas.
+
+d)  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+49. Las rentabilidades de la inversión en activos inmobiliarios:
+
+<!-- -->
+
+a)  Son siempre mas bajas que las rentabilidades de la Bolsa.
+
+b)  Hay periodos de mayor rentabilidad anual que la Bolsa.
+
+c)  Son más volátiles que la Bolsa.
+
+d)  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+50. Con la participación en un fondo de inversión inmobiliaria:
+
+<!-- -->
+
+a)  La escasa liquidez de los inmuebles hace que el inversor que entra en el fondo tenga dificultades para liquidar su participación.
+
+b)  El inversor realiza una inversión caracterizada por la seguridad debido a que se negocian en el mercado de valores.
+
+c)  Es apropiada para los inversores que quieran invertir indirectamente en inmuebles con un horizonte temporal a corto plazo.
+
+d)  Ninguna de las respuestas anteriores es correcta.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+51. Calcula la cuota mensual de una hipoteca que presenta las siguientes características:
+
+-   Importe del préstamo otorgado: 200.000,00 €
+-   TAE del préstamo: 4,00%
+-   Plazo: 30 años.
+-   Pago de cuota mensual.
+-   Sistema de amortización francés.
+
+a.  1.194,43 euros.
+
+b.  954,83 euros.
+
+c.  584,20 euros.
+
+d.  946,78 euros.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Para calcular la cuota se necesita el tipo de interés nominal. Si la TAE es 4,00% con cuotas mensuales, el interés nominal será:
+
+TAE = {\[1+(i/k)\]\^k} -- 1; 0,040 ={\[1+(i/12)\]\^12} -- 1; i = {\[1,040\^(1/12)\]-1}\*12 ; i = 3,93%.
+
+De esta forma, la cuota mensual será:
+
+200.000 = C \* \[1-{1+(0,0393/12)}\^-300\] / (0,0393/12);
+
+200.000 = C \* (0,625025/0,003275); C = 946,78 euros.
+:::
+
+</details>
+
+------------------------------------------------------------------------

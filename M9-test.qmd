@@ -1,1 +1,2014 @@
 # Módulo 9 {.unnumbered}
+
+## Cumplimiento Normativo {.unnumbered}
+
+1.  En el ámbito de la prevención del blanqueo de capitales los sujetos obligados deben identificar formalmente a los clientes con los que vayan a entablar relaciones de negocio. A efectos de identificación formal de clientes que sean personas físicas extranjeras ¿cuál o cuáles de los siguientes documentos se consideran fehacientes?
+
+  I. El pasaporte.
+
+  II. Un certificado de vacunación vigente.
+
+  III. El permiso de trabajo.
+
+  IV. La tarjeta de identidad de extranjero
+
+a.  La l y la IV.
+b.  Sólo la l.
+c.  I, Ill y IV.
+d.  Sólo la IlI.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+Artículo 3, de la Ley 10/2010, de 28 de abril, de prevención del blanqueo de capitales y de la financiación del terrorismo señala que los Sujetos Obligados tendrán que identificar a cualquier persona física o jurídica con quién se vaya a establecer relaciones de negocio, o a aquellos que vayan a intervenir en estas operaciones.
+
+Artículo 3. Identificación formal.
+
+1.  Los sujetos obligados identificarán a cuantas personas físicas o jurídicas pretendan establecer relaciones de negocio o intervenir en cualesquiera operaciones. En ningún caso los sujetos obligados mantendrán relaciones de negocio o realizarán operaciones con personas físicas o jurídicas que no hayan sido debidamente identificadas. Queda prohibida, en particular, la apertura, contratación o mantenimiento de cuentas, libretas de ahorro, cajas de seguridad, activos o instrumentos numerados, cifrados, anónimos o con nombres ficticios.
+
+2.  Con carácter previo al establecimiento de la relación de negocios o a la ejecución de cualesquiera operaciones, los sujetos obligados comprobarán la identidad de los intervinientes mediante documentos fehacientes. En el supuesto de no poder comprobar la identidad de los intervinientes mediante documentos fehacientes en un primer momento, se podrá contemplar lo establecido en el artículo 12, salvo que existan elementos de riesgo en la operación. Reglamentariamente se establecerán los documentos que deban reputarse fehacientes a efectos de identificación.
+
+3.  En el ámbito del seguro de vida, la comprobación de la identidad del tomador deberá realizarse con carácter previo a la celebración del contrato. La comprobación de la identidad del beneficiario del seguro de vida deberá realizarse en todo caso con carácter previo al pago de la prestación derivada del contrato o al ejercicio de los derechos de rescate, anticipo o pignoración conferidos por la póliza.
+
+Concretamente, para una persona física extranjera no residente los documentos obligatorios serán:
+
+\- Documento acreditativo del Número de Identificación de Extranjeros- N.I.E. (Tarjeta de Extranjero)
+
+\- Pasaporte, con indicación del domicilio de residencia
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+2.  Cuál de las siguientes afirmaciones en relación con la definición en el régimen administrativo no es correcta:
+
+<!-- -->
+
+a)  La conversión o la transferencia de bienes, a sabiendas de que dichos bienes proceden de una actividad delictiva o de la participación en una actividad delictiva, con el propósito de ocultar o encubrir el origen ilícito de los bienes o de ayudar a personas que estén implicadas a eludir las consecuencias jurídicas de sus actos.
+
+b)  la ocultación o el encubrimiento de la naturaleza, el origen, la localización, la disposición, el movimiento o la propiedad real de bienes o derechos sobre bienes, a sabiendas de que dichos bienes proceden de una actividad delictiva o de la participación en una actividad delictiva.
+
+c)  La adquisición, posesión o utilización de bienes, a sabiendas, en el momento de la recepción de los mismos, de que proceden de una actividad delictiva o de la participación en una actividad delictiva.
+
+d)  La adquisición, utilización, conversión o transmisión de bienes que proceden de actividades delictivas castigadas con penas superiores a tres años de prisión para ocultar o encubrir su origen.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+3.  El proceso de blanqueo de capitales, a nivel general, consta de tres fases entre las que se encuentran:
+
+<!-- -->
+
+a)  Integración o fase destinada a la realización de operaciones sucesivas con el fin de fraccionar, acumular, ocultar, y borrar el origen del dinero.
+
+b)  Colocación o fase de ingreso del dinero en los circuitos financieros.
+
+c)  Estratificación o fase de conversión de activos ilícitos en activos de origen aparentemente legítimo.
+
+d)  Fraccionamiento o fase destinada a diluir las operaciones con el fin de evitar los umbrales legales de notificación.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+4.  Los sujetos obligados de acuerdo con la Ley 10/2010, de 28 de abril, de prevención del blanqueo de capitales y de la financiación del terrorismo no deberán:
+
+<!-- -->
+
+a)  Notificar al cliente sobre la obligación de detección y comunicación de operaciones sospechosas.
+
+b)  Asegurarse de que todos sus empleados reciban una formación adecuada mediante la realización de planes de formación periódica
+
+c)  Construir un perfil de riesgo de cada cliente atendiendo a los estándares y antecedentes habituales de su cartera.
+
+d)  Contar con medidas adecuadas de confidencialidad.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+5.  Los sujetos obligados de acuerdo con la Ley 10/2010, de 28 de abril, de prevención del blanqueo de capitales y de la financiación del terrorismo tienen la obligación de:
+
+<!-- -->
+
+a)  Conservar durante seis años los documentos o registros correspondientes que acrediten adecuadamente la realización de las operaciones, así como los documentos que acrediten la identidad de los clientes.
+
+b)  Conservar durante diez años los documentos o registros correspondientes que acrediten adecuadamente la realización de las operaciones, así como los documentos que acrediten la identidad de los clientes.
+
+c)  No tienen la obligación de conservar los documentos que acrediten adecuadamente la realización de las operaciones.
+
+d)  No tienen la obligación de conservar los documentos que acrediten la identidad de los clientes.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+6.  El blanqueo de capitales y la financiación del terrorismo están regulados en España:
+
+<!-- -->
+
+a)  Exclusivamente en el ámbito penal que declara punible ambas conductas como delitos.
+
+b)  Exclusivamente en el ámbito administrativo, que establece obligaciones de vigilancia y prevención que afectan eminentemente al sector financiero.
+
+c)  Tanto penal como administrativamente.
+
+d)  Exclusivamente en el ámbito administrativo, pero solo respecto del blanqueo de capitales.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+7.  Señale cual de las siguientes afirmaciones respecto del GAFI no es correcta:
+
+<!-- -->
+
+a)  Es una organización intergubernamental formada por expertos de todo el mundo con objeto de combatir el blanqueo de capitales y la financiación del terrorismo.
+
+b)  Fue creado en 1989 por el G7 y la Comisión Europea.
+
+c)  A pesar de no tener facultades legislativas, los países miembros adoptan sus Recomendaciones.
+
+d)  Es un comité de estudios dependiente del Consejo de Seguridad de Naciones Unidas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+8.  Los sujetos obligados tienen la obligación de:
+
+<!-- -->
+
+a)  Comunicar al Servicio Ejecutivo cualquier operación respecto a la que exista indicio o certeza de que está relacionada con el blanqueo de capitales o la financiación del terrorismo.
+
+b)  Comunicar a su Consejo de Administración determinadas operaciones por razón de su cuantía, origen o destino de los fondos o en virtud de la nacionalidad de los intervinientes.
+
+c)  Los sujetos obligados no tienen obligaciones de comunicación.
+
+d)  Comunicar al Ministerio del Interior todos aquellos movimientos de fondos que sospechen estén destinados a la financiación del terrorismo.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+9.  En España, la autoridad responsable de velar por el cumplimiento de la Ley 10/2010 es:
+
+<!-- -->
+
+a)  El Ministerio del Interior.
+
+b)  El Ministerio de Economía.
+
+c)  La Comisión de Prevención del Blanqueo de Capitales e Infracciones Monetarias.
+
+d)  El Banco de España.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+10. Entre las Cuarenta Recomendaciones formuladas por el GAFI en 1990 y que contienen propuestas de modificaciones que afectan fundamentalmente a la reglamentación del sistema financiero, no se encuentra:
+
+<!-- -->
+
+a)  Prohibir que las entidades financieras mantengan cuentas anónimas o cuentas bajo nombres evidentemente ficticios, obligando a que las instituciones financieras adopten medidas de debida diligencia respecto de los clientes, fundamentalmente la identificación y la verificación de sus identidades.
+
+b)  Obligar a que las entidades financieras en los casos en que existiera sospecha sobre la procedencia lícita de ciertos fondos, o que los mismos estuvieran relacionados con la financiación del terrorismo, reporten sus sospechas de inmediato a la Unidad de Inteligencia Financiera.
+
+c)  Tipificar los delitos de blanqueo de capitales y financiación del terrorismo.
+
+d)  Obligar a las entidades financieras a realizar informes para cada cliente con todas las operaciones efectuadas por dicho cliente, independientemente de la naturaleza de la operación o de su nivel de riesgo.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+11. El GAFI, desde que fue creado, ha realizado:
+
+<!-- -->
+
+a)  Recomendaciones en relación con la prevención del blanqueo de capitales.
+
+b)  Recomendaciones en relación con la financiación del terrorismo.
+
+c)  Recomendaciones en relación con la prevención del blanqueo de capitales y la financiación del terrorismo.
+
+d)  Recomendaciones sobre los principales problemas del sistema financiero en general.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+12. Dentro de las fases del proceso de blanqueo de capitales:
+
+<!-- -->
+
+a)  La banca privada es utilizada preferentemente en la integración.
+
+b)  La banca minorista es utilizada preferentemente en la estratificación e integración.
+
+c)  La banca privada es utilizada preferentemente en la en la colocación.
+
+d)  La banca minorista es utilizada preferentemente en la colocación e integración.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+13. El actual marco normativo vigente en España sobre prevención del blanqueo de capitales y financiación del terrorismo es el resultado de:
+
+<!-- -->
+
+a)  La aplicación en España de diversas resoluciones del Consejo de Seguridad de Naciones Unidas.
+
+b)  La transposición a Derecho español de la Directiva 2005/60/CE, del Parlamento Europeo y del Consejo de 26 de octubre de 2005, también conocida como la Tercera Directiva.
+
+c)  La adaptación en España de normas existentes en otras jurisdicciones con mayor experiencia en la lucha contra el blanqueo de capitales y la financiación del terrorismo, fundamentalmente Estados Unidos.
+
+d)  La aceptación de una Recomendación Vinculante de la OCDE.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+14. Las medidas de diligencia debida o "Know your Client" implican una serie de actuaciones por parte de los sujetos obligados. Señale cual de las siguientes respuestas no es una de esas actuaciones:
+
+<!-- -->
+
+a)  La obligación de que los sujetos obligados identifiquen al titular real o beneficiario último de la operación.
+
+b)  La obligación de que los sujetos obligados verifiquen la procedencia de los fondos utilizados en la operación.
+
+c)  La obligación de los sujetos obligados de comunicar aquellas operaciones sospechosas.
+
+d)  La obligación de que los sujetos obligados identifiquen formalmente al cliente, exigiendo la presentación de un documento de identidad original y en vigor.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+15. En caso de que resulte imposible para un sujeto obligado aplicar las medidas de diligencia debida o "Know Your Client":
+
+<!-- -->
+
+a)  El sujeto obligado no establecerá relaciones de negocio ni ejecutará ninguna operación.
+
+b)  El sujeto obligado podrá seguir adelante con la relación de negocio y podrá ejecutar la operación, pero deberán realizar un análisis más detallado de la misma.
+
+c)  El sujeto obligado podrá seguir adelante con la relación de negocio y podrá ejecutar la operación, pero deberá comunicarlo al SEPBLAC.
+
+d)  Según la Ley 10/2010, las medidas de diligencia debida o "Know Your Client" son meras recomendaciones que los sujetos obligados pueden decidir aplicar o no, pero en ningún caso son obligatorias.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+16. No son sujetos obligados, de acuerdo con el ámbito subjetivo establecido en el artículo 2 de la Ley 10/2010:
+
+<!-- -->
+
+a)  Las entidades de crédito.
+
+b)  Los casinos de juego.
+
+c)  Los auditores, contables o asesores fiscales.
+
+d)  Los notarios, abogados y procuradores u otros profesionales independientes, respecto de todas las operaciones en las que intervengan.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+17. En relación con el delito de blanqueo de capitales tipificado en el Código Penal:
+
+<!-- -->
+
+a)  Es absolutamente necesario que el autor o cómplice del hecho de que provengan los efectos aprovechados sea consciente de la ilegalidad de su comportamiento.
+
+b)  El delito del que provienen los bienes debe haberse cometido en España.
+
+c)  Es delito la adquisición, posesión, utilización o transmisión de bienes procedentes de actividades delictiva, así como la realización de cualquier otro acto para ocultar el origen ilícito de dichos bienes.
+
+d)  El Código Penal no establece pena de prisión para el delito de blanqueo de capitales.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+18. Cuál de los siguientes no es un documentos válido para la identificación formal del cliente:
+
+<!-- -->
+
+a)  Documento Nacional de Identidad.
+
+b)  Carnet de conducir.
+
+c)  Tarjeta de residencia.
+
+d)  Pasaporte.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+19. Los sujetos obligados deben someter sus medidas a un examen realizado por experto independiente:
+
+<!-- -->
+
+a)  Cada cinco años.
+
+b)  No existe esa obligación en la Ley 10/2010.
+
+c)  Todos los años, aunque puede sustituirse esta examen anual por un informe de seguimiento en los dos años sucesivos a la emisión de un primer informe.
+
+d)  Sólo las entidades financieras tienen la realización de someterse a ese examen.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+20. Las medidas de nivel alto, tal y como se recogen en el Reglamento de la Ley Orgánica de Protección de Datos, deben establecerse en relación con ficheros o tratamientos que incluyan:
+
+<!-- -->
+
+a)  Datos mantenidos por entidades financieras para finalidades relacionadas con la prestación de servicios financieros.
+
+b)  Datos relativos a la comisión de infracciones administrativas o penales
+
+c)  Datos para los que sean responsables del tratamiento las Entidades Gestoras y Servicios Comunes de la Seguridad Social.
+
+d)  Datos de ideología, afiliación sindical, religión, creencias, origen racial, salud o vida sexual.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+21. El principio de "Pasaporte Europeo":
+
+<!-- -->
+
+a)  Enfatiza el control del organismo regulador del Estado Miembro de origen.
+
+b)  Se ve reforzado por la MiFID con un criterio de máxima armonización entre jurisdicciones.
+
+c)  Enfatiza el control del organismo regulador del Estado Miembro de acogida.
+
+d)  Las respuestas a y b son ambas correctas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+22. El énfasis en la protección del inversor es uno de los pilares fundamentales de la MiFID, que se sustenta en la obligación general de:
+
+<!-- -->
+
+a)  Prevenir el blanqueo de capitales.
+
+b)  Actuar de forma honesta, imparcial y profesional.
+
+c)  Asesorar al cliente en materia de inversión.
+
+d)  Proteger los datos personales de los clientes.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+23. El proceso de revisión de la MiFID iniciado en diciembre de 2010 se centra, entre otras, en las siguientes áreas:
+
+<!-- -->
+
+a)  Adaptación a las nuevas estructuras de los mercados y reforzamiento de los poderes de supervisión.
+
+b)  Mejoras en la transparencia y en la consolidación de datos de los mercados.
+
+c)  Aumento en la convergencia del marco normativo y de las prácticas de los organismos reguladores.
+
+d)  Todas las anteriores son correctas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Tanto la A, la B y la C son características o definición de gestión alternativa.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+24. La MiFID no incluye en su ámbito de aplicación:
+
+<!-- -->
+
+a)  A las entidades de crédito que presten servicios de inversión.
+
+b)  A las Empresas de Asesoramiento Financiero.
+
+c)  A las empresas que prestan servicios de reaseguro.
+
+d)  A las Sociedades Gestoras de Instituciones de Inversión Colectiva que gestionen carteras de inversión.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+25. El asesoramiento en materia de inversión, tal y como se establece en la Ley del Mercado de Valores, es:
+
+<!-- -->
+
+a)  Un servicio de inversión.
+
+b)  Una actividad accesoria.
+
+c)  Un servicio al margen de la regulación del mercado de valores.
+
+d)  Un servicio auxiliar.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+26. Entre las normas de conducta que deben aplicar y mantener las empresas de servicios de inversión se encuentran:
+
+<!-- -->
+
+a)  Realizar la evaluación de idoneidad a los clientes para los que realicen servicios de colocación o aseguramiento de emisiones.
+
+b)  Realizar la evaluación de conveniencia a los clientes minoristas a los que presten servicios de gestión discrecional de cartera de inversión.
+
+c)  Ejecutar las órdenes de los clientes en las condiciones más ventajosas para los mismos.
+
+d)  Gestionar la ejecución de las órdenes de los clientes en función de su volumen.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+Tanto la A, la B y la C son características o definición de gestión alternativa.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+27. Durante la duración de la relación contractual con el cliente, la empresa de servicios de inversión:
+
+<!-- -->
+
+a)  Remitirá al cliente los resultados de las evaluaciones de idoneidad y conveniencia.
+
+b)  Deberá remitirle información puntual sobre las órdenes ejecutadas y estados periódicos de sus instrumentos financieros.
+
+c)  Tan solo deberá remitir información sobre las órdenes ejecutadas.
+
+d)  Únicamente remitirá estados periódicos de los instrumentos financieros del cliente.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+28. La MiFID y su transposición a Derecho nacional contemplan como medidas encaminadas a prevenir la manipulación de mercado:
+
+<!-- -->
+
+a)  Prohibir operaciones que impliquen divulgación de información confidencial.
+
+b)  Impedir la realización de operaciones prohibidas por la Directiva sobre Abuso del Mercado.
+
+c)  Velar porque los empleados no asistan o asesoren a otras personas en la realización de operaciones prohibidas por la Directiva sobre Abuso del Mercado.
+
+d)  Todas las anteriores son correctas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+29. Se considera que existe manipulación del mercado en caso de:
+
+<!-- -->
+
+a)  Actividad inusual en cuentas bancarias.
+
+b)  Movimientos atípicos, inusuales o antieconómicos.
+
+c)  Transacciones u órdenes de realizar operaciones que empleen dispositivos ficticios.
+
+d)  Todas las anteriores son erróneas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+30. Señale cual de las siguientes normas en materia de prevención del blanqueo de capitales y de la financiación del terrorismo no está actualmente en vigor:
+
+<!-- -->
+
+a)  La Ley 12/2003, de 21 de mayo, de prevención y bloqueo de la financiación del terrorismo.
+
+b)  Ley 10/2010, de 28 de abril, de prevención del blanqueo de capitales y de la financiación del terrorismo.
+
+c)  Real Decreto 925/1995, de 9 de junio, por el que se aprueba el Reglamento de la Ley 19/1993, de 28 de diciembre, sobre determinadas medidas de prevención del blanqueo de capitales.
+
+d)  Ley 19/1993, de 28 de diciembre, sobre determinadas medidas de prevención del blanqueo de capitales.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+31. Los interesados a los que se solicite datos personales deberán ser previamente informados:
+
+<!-- -->
+
+a.  De la existencia de un fichero o tratamiento de datos de carácter personal, de la finalidad de la recogida de éstos y de los destinatarios de de la información.
+
+b.  De las infracciones que prevé la Ley Orgánica de Protección de Datos.
+
+c.  De la imposibilidadd de rectificar los datos.
+
+d.  De la existencia d el Agencia Española de protección de Datos.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+Artículo 5. Derecho de información en la recogida de datos.
+
+1.  Los interesados a los que se soliciten datos personales deberán ser previamente informados de modo expreso, preciso e inequívoco:
+
+<!-- -->
+
+a)  De la existencia de un fichero o tratamiento de datos de carácter personal, de la finalidad de la recogida de éstos y de los destinatarios de la información.
+
+...
+
+Fuente: <https://www.boe.es/buscar/doc.php?id=BOE-A-1999-23750>
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+32. Según el Código Ético de EFPA, en caso de conflicto de intereses entre el cliente y el asesor financiero:
+
+<!-- -->
+
+a.  Se realizará lo que más beneficie al asesor siempre que sea legal.
+
+b.  Se realizará lo que más beneficie al cliente sin perjudicar nunca al asesor.
+
+c.  Se antepondrán el interés del cliente por encima de los del asesor.
+
+d.  Ninguna de las respuestas anteriores es correcta.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+3.  Primacía del Interés del Cliente:
+
+Los Miembros siempre deben anteponer los intereses del cliente a los propios.
+
+> En cada relación con un cliente, el Miembro deberá poner el interés del cliente por encima del suyo propio. El Miembro aceptará la responsabilidad de poner en conocimiento del cliente o de aquellas partes interesadas, así como de tomar las medidas necesarias, en aquellas ocasiones en las que detecte la existencia de circunstancias, influencias negativas o conflictos de intereses que puedan afectar a la objetividad de sus juicios.
+
+Fuente: <http://www.albertobernat.com/wp-content/uploads/2016/12/codigo_etico_efpa_2016.pdf>
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+33. ¿Cuál de las siguientes afirmaciones sobre protección al inversor no es correcta?
+
+<!-- -->
+
+a.  Más allá de las reclamaciones ante la entidad, el inversor podrá dirigirse a alguno o a varios de los siguientes organismos: Banco de España, CNMV y Dirección General de Seguros.
+
+b.  El grado de protección se establece en función del importe y duración del servicio/producto que la entidad ofrezca al inversor.
+
+c.  Los test de idoneidad y el test de adecuación permiten la evaluación de los clientes y de la adecuación de sus características de los distintos productos y servicios ofrecidos (perfil de riesgo Vs características del cliente).
+
+d.  Las entidades están obligadas a aprobar un Reglamento para la Defensa del Cliente.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+La Directiva MiFID contempla tres niveles de protección al inversor (cliente), **en función de su categoría**. Se establecen tres categorías de inversores (clientes), que, clasificadas siguiendo el mayor grado de protección que la norma les concede, son:
+
+-   Minorista: se incluye todo cliente MiFID que no sea profesional.
+
+-   Profesional: cliente con la experiencia, los conocimientos y la cualificación necesarios para tomar sus propias decisiones de inversión y para valorar correctamente los riesgos inherentes a dichas decisiones.
+
+-   Contraparte elegible: dentro de esta categoría se incluyen los grandes inversores institucionales (ejemplo: entidades de crédito, empresas de servicios de inversión, etc.). Se trata de una subhcategoría de los clientes profesionales.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+34. ¿Qué conducta es previsible que tenga un profesional con acreditación EFPA en su actividad de asesoramiento y planificación financiera?
+
+<!-- -->
+
+a.  Estar dispuesto y hallarse preparado para exponer las bases de cálculo de las comisiones y de todas las restantes remuneraciones relativas a los servicios prestados al cliente.
+
+b.  Observar y respetar exclusivamente el Código ético de EFPA.
+
+c.  La obtención de la máxima rentabilidad para el cliente.
+
+d.  Preservar el capital de su cliente evitando las pérdidas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+El Código Ético de la Asociación Europea de Planificación Financiera (EFPA) establece los estándares de conducta personal y profesional que se espera que cumplan los Miembros de la EFPA.
+
+11. Comisiones y Costes
+
+Los Miembros deberán explicar claramente las comisiones y esquema de costes acordados con el cliente antes de establecer un contrato de servicio.
+
+> Un Miembro deberá ser capaz de explicar el motivo y bases de las comisiones que carga y de cualquier otra remuneración que reciba por el ejercicio de sus servicios en nombre del cliente.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+35. ¿De entre los siguientes, cuál no es un aspecto clave de la reforma llevada a cabo por MiFID II/MiFIR?
+
+<!-- -->
+
+a)  Sujetar a todas las plataformas de negociación existentes al nuevo marco legislativo.
+
+b)  El incremento de la transparencia mediante la regulación de nuevos sistemas de negociación y la transparencia de los mercados no de renta variable.
+
+c)  El incremento de los umbrales de protección de los inversores.
+
+d)  La creación de la función de cumplimiento.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+36. ¿A qué personal resultan de aplicación las obligaciones derivadas de MiFID II/MiFIR?
+
+<!-- -->
+
+a)  A todo el personal de la red.
+
+b)  Al personal que preste, en las entidades habilitadas para ello, el servicio asesoramiento en materia de inversión o que proporcione información sobre instrumentos financieros, servicios de inversión o servicios auxiliares a clientes.
+
+c)  A todo el personal de servicios centrales.
+
+d)  Solamente al personal que preste, en las entidades habilitadas para ello, el servicio asesoramiento en materia de inversión.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+37. ¿Quiénes son los clientes MiFID?
+
+<!-- -->
+
+a)  Se consideran clientes MiFID aquellos que hayan contratado servicios puramente bancarios y se estime que puedan a contratar instrumentos financieros, servicios de inversión o servicios auxiliares.
+
+b)  Se consideran clientes MiFID solamente aquellos a los que se hayan ofertado instrumentos financieros, servicios de inversión o servicios auxiliares.
+
+c)  Se consideran clientes MiFID aquellos que hayan contratado un servicio de inversión, un servicio auxiliar o un producto MiFID y aquellos a los que se les oferten o hayan ofertado instrumentos financieros, servicios de inversión o servicios auxiliares.
+
+d)  Se consideran clientes MiFID aquellos que hayan contratado productos bancarios de ahorro que puedan ser considerados productos MiFID en futuras reformas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+38. ¿Se considera, según MiFID II/MiFIR, productos MiFID a los depósitos estructurados?
+
+<!-- -->
+
+a)  Sí.
+
+b)  No.
+
+c)  Sólo si se trata de depósitos vinculados únicamente a tipos de interés, como Euribor o Libor.
+
+d)  Son siempre productos de ahorro, por lo que no están sujetos.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+39. ¿Según MiFID II cuáles son las obligaciones derivadas de la venta cruzada de productos?
+
+<!-- -->
+
+a)  La venta cruzada no está permitida según MiFID II.
+
+b)  Si los riesgos asociados a los componentes del paquete de forma separada son diferentes a los riesgos del paquete, la entidad deberá facilitar también al cliente una descripción adecuada de cada producto o servicio que detalle adecuadamente porqué la combinación de ambos productos modifica el riesgo.
+
+c)  Aunque los riesgos asociados a los componentes del paquete de forma separada sean diferentes a los riesgos del paquete, la entidad deberá facilitar únicamente el detalle de los riesgos vinculados al paquete.
+
+d)  La venta cruzada está permitida según MiFID II pero no supone nuevas obligaciones para las entidades.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+40. ¿Es posible la realización de cambios entre las distintas categorías de clientes (minoristas, profesionales y contrapartes elegibles)?
+
+<!-- -->
+
+a)  No. No están permitidos los cambios de categorías una vez realizada la primera categorización de los clientes.
+
+b)  La entidad debe necesariamente articular un procedimiento objetivo y claro para ejecutar sólo cambios a una categoría de mayor protección.
+
+c)  La entidad debe necesariamente articular un procedimiento objetivo y claro para ejecutar los posibles cambios entre categorías que se produzcan una vez realizada la primera categorización de los clientes.
+
+d)  La entidad debe necesariamente articular un procedimiento objetivo y claro para denegar en todo caso las solicitudes de cambio entre categorías que se produzcan una vez realizada la primera categorización de los clientes.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+41. ¿Deben las entidades clasificar (según su riesgo) todos los productos de inversión incluidos en su catálogo de productos?
+
+<!-- -->
+
+a)  Sí. En las categorías de riesgo definidas con carácter general por el supervisor en función de la ponderación de los riesgos inherentes al producto concreto.
+
+b)  No. No es necesario clasificar todos los productos en las categorías de riesgo definidas por la propia entidad en función de la ponderación de los riesgos inherentes a cada producto concreto.
+
+c)  Sí. En las categorías definidas por la propia entidad en función de la coyuntura de mercado.
+
+d)  Sí. En las categorías de riesgo definidas por la propia entidad en función de la ponderación de los riesgos inherentes al producto concreto.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+42. ¿En qué consiste el servicio de gestión discrecional de carteras de inversión?
+
+<!-- -->
+
+a)  Se considera gestión discrecional de carteras de inversión a la gestión individualizada de los activos de los clientes (incluyendo uno o más productos), por parte de los profesionales de la entidad, en base a criterios adaptados a las características del cliente.
+
+b)  Se considera gestión discrecional de carteras de inversión a la gestión individualizada de los activos de los clientes (incluyendo uno o más productos), sin intervención de los profesionales de la entidad, en base a criterios adaptados a las características del cliente.
+
+c)  Se considera gestión discrecional de carteras de inversión a la gestión individualizada de los activos (incluyendo uno o más productos) por parte de los propios clientes y según su criterio.
+
+d)  Se considera gestión discrecional de carteras de inversión a la gestión individualizada de los activos de los clientes (incluyendo uno o más productos), mediante recomendaciones de los profesionales de la entidad a ejecutar por el cliente, en base a criterios adaptados a las características del propio cliente.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+43. ¿En qué consiste el asesoramiento continuado o recurrente?
+
+<!-- -->
+
+a)  En este tipo de asesoramiento el cliente tiene una relación continuada con su asesor, que periódicamente le presenta recomendaciones de inversión sin presentarle posteriores evaluaciones de los instrumentos financieros recomendados.
+
+b)  Aquel en que la entidad realiza al cliente, esporádicamente, recomendaciones de inversión, sin necesidad de realizar un seguimiento de las recomendaciones realizadas.
+
+c)  En este tipo de asesoramiento el cliente tiene una relación continuada con su asesor, que periódicamente le presenta recomendaciones de inversión y, también periódicamente, le presenta evaluaciones de la idoneidad de los instrumentos financieros recomendados.
+
+d)  En este tipo de asesoramiento el cliente tiene una relación de confianza con su asesor, que periódicamente le presenta recomendaciones de inversión y, también periódicamente, le presenta otros productos sustitutivos.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+44. ¿Cuándo opera el servicio de "sólo ejecución"?
+
+<!-- -->
+
+a)  Cuando el servicio de intermediación se refiere a productos complejos y no complejos, se presta a iniciativa del cliente, se cumplen las obligaciones en materia de conflictos de interés y se advierte al cliente de que la empresa de inversión no está obligada a evaluar la adecuación del instrumento ofrecido o del servicio prestado y que, por tanto, el cliente no goza de la correspondiente protección de las normas de conducta pertinentes.
+
+b)  Cuando el servicio de intermediación se refiere a productos no complejos, se presta a iniciativa del cliente, se cumplen las obligaciones en materia de conflictos de interés y se advierte al cliente de que la empresa de inversión no está obligada a evaluar la adecuación del instrumento ofrecido o del servicio prestado y que, por tanto, el cliente no goza de la correspondiente protección de las normas de conducta pertinentes.
+
+c)  Cuando el servicio de intermediación se refiere a productos no complejos, se presta a iniciativa del cliente o de la propia entidad, se cumplen las obligaciones en materia de conflicto de interés y se advierte al cliente de que la empresa de inversión no está obligada a evaluar la adecuación del instrumento ofrecido o del servicio prestado y que, por tanto, el cliente no goza de la correspondiente protección de las normas de conducta pertinentes.
+
+d)  Cuando el servicio de intermediación se refiere a productos no complejos, se presta a iniciativa del cliente, se cumplen las obligaciones en materia de conflicto de interés y se advierte al cliente de la existencia de normas de conducta tendentes a la adecuada protección de los clientes.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+45. ¿Cuál es el objetivo del test de conveniencia?
+
+<!-- -->
+
+a)  El objetivo del test de conveniencia es determinar el conocimiento del cliente, de forma que la entidad sea capaz de evaluar el nivel de conocimientos generales de cada cliente.
+
+b)  El objetivo del test de conveniencia es la experiencia inversora del cliente, de forma que la entidad sea capaz de evaluar si un producto es o no conveniente para un cliente atendiendo sólo a su experiencia.
+
+c)  El objetivo del test de conveniencia es determinar el conocimiento y experiencia inversora del cliente, de forma que la entidad sea capaz de evaluar si el cliente es capaz de comprender, de forma general, los riesgos derivados de las inversiones.
+
+d)  El objetivo del test de conveniencia es determinar el conocimiento y experiencia inversora del cliente, de forma que la entidad sea capaz de evaluar si un producto concreto es o no conveniente para un cliente teniendo en cuenta su capacidad para comprender los riesgos derivados de la inversión.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+46. ¿Debe la entidad proporcionar al cliente, al prestar asesoramiento en materia de inversión y antes de que se efectúe la operación, una declaración de idoneidad en soporte duradero?
+
+<!-- -->
+
+a)  No.
+
+b)  Sí, pues se trata de una de las novedades de MiFID II.
+
+c)  Sólo si el cliente la reclama.
+
+d)  Sólo si lo ha especificado la CNMV respecto del producto.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+47. ¿Debe advertirse al cliente cuando se considere que el producto o servicio no es adecuado o conveniente para el mismo?
+
+<!-- -->
+
+a)  No es necesario.
+
+b)  Sí, en formato normalizado.
+
+c)  Sí, verbalmente.
+
+d)  No, pues el cliente podría pensar que ponemos en duda sus capacidades.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+48. ¿Deben las entidades, en el marco de la evaluación de la conveniencia (test de conveniencia) entregar al cliente una copia del documento que recoja la evaluación realizada?
+
+<!-- -->
+
+a)  No es necesario.
+
+b)  Sí.
+
+c)  Sólo si lo reclama el cliente.
+
+d)  Sólo si el cliente es menor de edad.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+49. ¿En caso de conflicto de interés, qué interés debe primar?
+
+<!-- -->
+
+a)  Debe primar siempre el interés de la entidad en detrimento del interés de los clientes.
+
+b)  Debe primar siempre el interés general.
+
+c)  Debe primar siempre el interés de los clientes, salvo en supuestos concretos salvados previamente por la entidad.
+
+d)  Debe primar siempre el interés de los clientes en detrimento del interés de la entidad.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+50. ¿Deben las entidades contar con un registro de conflictos de interés?
+
+<!-- -->
+
+a)  Las entidades no están obligadas a mantener y actualizar un registro de los tipos de servicios o actividades de inversión en los que haya surgido un conflicto de interés.
+
+b)  Las entidades están obligadas a mantener y actualizar un registro de los tipos de servicios o actividades de inversión, pero no de aquellos en los que haya surgido un conflicto de interés.
+
+c)  Las entidades están obligadas a mantener y actualizar determinados registros, siendo potestativa la existencia del registro relativo a los tipos de servicios o actividades de inversión en los que haya surgido un conflicto de interés.
+
+d)  Las entidades están obligadas a mantener y actualizar un registro de los tipos de servicios o actividades de inversión en los que haya surgido un conflicto de intereses, con riesgo de detrimento de los intereses de uno o más clientes.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+51. ¿Deben las entidades mantener, gestionar y revisar un proceso para la aprobación de cada uno de los instrumentos financieros y para la realización de las adaptaciones necesarias a los instrumentos pre-existentes, antes de su comercialización o distribución?
+
+<!-- -->
+
+a)  Sólo las entidades que diseñen instrumentos financieros para su venta a clientes.
+
+b)  No es necesaria la existencia de este proceso.
+
+c)  Todas las entidades, aunque no diseñen instrumentos financieros para su venta a clientes.
+
+d)  Sólo las entidades que asesoren a sus clientes respecto de los productos diseñados.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+52. ¿Bajo MiFID II, están prohibidos los incentivos en el ámbito de la gestión discrecional de carteras de inversión?
+
+<!-- -->
+
+a)  No.
+
+b)  Sí.
+
+c)  Sólo si provocan un conflicto de interés.
+
+d)  Sólo si los clientes no están informados.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+53. ¿Cómo deben mantener las entidades sus registros?
+
+<!-- -->
+
+a)  Los registros se deben mantener en un soporte que permita el almacenamiento de la información, sin perjuicio de las dificultades respecto de de su accesibilidad.
+
+b)  Los registros se deben mantener siempre en soporte papel.
+
+c)  Los registros se deben mantener en un soporte que permita el almacenamiento de la información de forma accesible para futuras referencias, tanto por parte de la autoridad competente como de otros terceros.
+
+d)  Los registros se deben mantener en un soporte que permita el acceso sólo por parte de las autoridades competentes.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+54. ¿En qué consiste el principio de mejor ejecución?
+
+<!-- -->
+
+a)  El principio de mejor ejecución se refiere a la obligación de las entidades de adoptar las medidas necesarias para poder ejecutar las órdenes de sus clientes fuera de mercados regulados.
+
+b)  El principio de mejor ejecución se refiere a la obligación de las entidades de adoptar las medidas necesarias para obtener un resultado más o menos razonable para sus clientes en la ejecución de sus órdenes.
+
+c)  El principio de mejor ejecución se refiere a la obligación de las entidades de adoptar medidas para obtener un mejor resultado respecto de sus directos competidores en la ejecución de las órdenes de sus clientes.
+
+d)  El principio de mejor ejecución se refiere a la obligación de las entidades de adoptar las medidas necesarias para obtener el mejor resultado posible para sus clientes en la ejecución de sus órdenes.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+55. En la normativa de prevención del blanqueo de dinero, las operaciones de banca privada son objeto de:
+
+<!-- -->
+
+a.  Medidas de diligencia ordinarias.
+
+b.  Medidas de diligencia simplificadas.
+
+c.  Medidas de diligencia reforzadas.
+
+d.  Medidas de diligencia inexistentes.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+56. No está sujeta a las obligaciones que se imponen por la Ley 10/2010, de 28 de abril, de prevención del blanqueo de capitales y de la financiación del terrorismo, la siguiente entidad:
+
+<!-- -->
+
+a.  Una sociedad emisora de tarjetas de crédito.
+
+b.  Un promotor inmobiliario.
+
+c.  Un asesor fiscal.
+
+d.  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+57. Ante la vulneración del derecho de acceso por parte del responsable del fichero de datos, el afectado puede presentar una reclamación ante:
+
+<!-- -->
+
+a.  La Agencia Española de Protección de Datos.
+
+b.  El Tribunal Constitucional.
+
+c.  El Ministerio Fiscal.
+
+d.  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+58. El consentimiento para la cesión de datos de carácter personal es necesario cuando:
+
+<!-- -->
+
+a.  Se trate de datos recogidos de fuentes accesibles al público.
+
+b.  La comunicación tenga como destinatario el Ministerio Fiscal.
+
+c.  Cuando se produzca entre Administraciones públicas y tenga por objeto el tratamiento posterior de los datos con fines históricos, estadís- ticos o científicos.
+
+d.  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+59. El responsable del tratamiento de datos tendrá la obligación de hacer efectivo el derecho de rectificación o cancelación del interesado en el plazo máximo de:
+
+<!-- -->
+
+a.  Cinco días.
+
+b.  Diez días.
+
+c.  Un mes.
+
+d.  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+60. La LMV, después de haber incorporado las exigencias de la MIFID:
+
+<!-- -->
+
+a.  No reconoce ninguna diferencia entre tipos de clientes.
+
+b.  Obliga a toda clase de clientes, minoristas y profesionales, a informar siempre a las empresas de servicios de inversión sobre su experiencia inversora.
+
+c.  Reconoce la existencia de un test de idoneidad y otro test de conve- niencia con objetivos distintos.
+
+d.  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+61. En materia de protección del inversor:
+
+<!-- -->
+
+a.  España no cuenta con normativa específica.
+
+b.  Puede distinguirse la protección como adquirente de valores de la protección como usuario de servicios financieros.
+
+c.  La LMV no contiene ningún precepto específico.
+
+d.  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+62. Los valores no participativos:
+
+<!-- -->
+
+a.  No están regulados en España.
+
+b.  Son las acciones y las obligaciones.
+
+c.  Son, entre otros, las obligaciones simples.
+
+d.  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+63. La segmentación o clasificación de los clientes que soliciten servicios de inversión:
+
+<!-- -->
+
+a.  Es una obligación aplicable a las empresas de servicios de inversión y las entidades de crédito que presten servicios de inversión.
+
+b.  Permite que cada entidad clasifique a sus clientes con arreglo a sus principios de clasificación y las categorías que ella reconozca (autoregulación).
+
+c.  Sólo tiene efectos frente a la Agencia Tributaria.
+
+d.  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+64. El asesoramiento en materia de inversión:
+
+<!-- -->
+
+a.  Es la actividad consistente en prestar recomendaciones de carácter general y, por ello, es un servicio auxiliar.
+
+b.  Consiste en la recepción y transmisión de órdenes de clientes en rela- ción con uno o más instrumentos financieros.
+
+c.  Es una actividad que se considera un servicio de inversión.
+
+d.  Se fundamenta en la elaboración de informes de inversiones y análisis financieros.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+65. Para que una información sea de carácter concreto tiene que indicar:
+
+<!-- -->
+
+a.  Una serie de circunstancias que se dan o pueda esperarse razonable- mente que no se den.
+
+b.  Un hecho que nunca se ha producido pero que pueda esperarse razo- nablemente que se produzca.
+
+c.  La información tiene que ser suficientemente específica, es decir, es necesario que se pueda llegar a concluir el posible efecto de esa serie de circunstancias o hechos sobre los precios de los valores.
+
+d.  La fecha en la que se va a producir.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+66. La regulación sobre la manipulación de mercado tiene como finalidad de evitar los comportamientos dirigidos a engañar al resto de participantes en los diferentes mercados y tal circunstancia puede darse ya sea:
+
+<!-- -->
+
+a.  Difundiendo información veraz y contrastada a través de los medios
+
+de comunicación incluido internet.
+
+b.  Realizando operaciones u órdenes que proporcionan indicios falsos o engañosos en cuanto a la oferta, demanda o el precio de los valores o que aseguren el precio en un nivel anormal o artificial.
+
+c.  La preparación o ejecución de operaciones contratos u órdenes sobre valores o instrumentos financieros.
+
+d.  El ejercicio de prácticas de mercado sin ejercer un poder de control sobre la oferta o la demanda.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+67. Cuál de las siguientes afirmaciones es correcta:
+
+<!-- -->
+
+a.  La ética coincide exactamente con el cumplimiento de la legalidad vigente.
+
+b.  Los comportamientos éticos siempre son rentables económicamente, en todo momento y lugar.
+
+c.  La ética y la rentabilidad económica no siempre son coincidentes.
+
+d.  La ética no favorece la calidad o el éxito de una marca.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+68. En la manifestación de opinión, el asesor financiero se basará en :
+
+<!-- -->
+
+a.  Criterios de competencia y veracidad.
+
+b.  Criterios de prudencia y justicia.
+
+c.  El legítimo interés del cliente.
+
+d.  Todas las respuestas anteriores son correctas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+69. Los conflictos de intereses que se presenten entre los asesores financieros y sus clientes se resolverán:
+
+<!-- -->
+
+a.  Dando prioridad a los intereses de los clientes frente a los propios del asesor.
+
+b.  Dando prioridad a los clientes con más antigüedad en la entidad.
+
+c.  Teniendo en cuenta el grado de vinculación que tiene el cliente y la entidad.
+
+d.  No deben existir conflictos de interés, pues éstos se deben evitar a
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+70. En las comunicaciones con los clientes, el principio de veracidad se aplica:
+
+<!-- -->
+
+a.  Evitando expresiones falsas y decidiendo prudencialmente el grado de información a suministrar.
+
+b.  Limitándolo a evitar toda mentira.
+
+c.  Guiándose por el criterio de suministrar toda la información disponible a cada cliente.
+
+d.  Todas las respuestas anteriores son correctas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+71. La responsabilidad de mantener la confidencialidad de la información generada en las relaciones establecidas en el ejercicio de la actividad profesional del asesor financiero con sus clientes afecta:
+
+<!-- -->
+
+a.  A las personas que tienen acceso a dicha información por motivo de su trabajo o por razón de su cargo dentro de una empresa u organización.
+
+b.  A quienes por razones de su cargo, deberían impedir o perseguir que se divulgara o utilizara información confidencial y no lo hacen.
+
+c.  No es necesaria cautela en hacer cualquier uso de la información pro- porcionada por sus clientes y que conoce por razón de su cargo.
+
+d.  Las respuestas a y b son correctas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+72. Entre las medidas que se pueden implantar para evitar el tráfico de información privilegiada se encuentran:
+
+<!-- -->
+
+a.  Seleccionar personal con criterios éticos.
+
+b.  Establecer barreras internas dentro de la propia entidad.
+
+c.  Elaborar manuales de procedimientos y programas de formación.
+
+d.  Todas las respuestas anteriores son correctas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+73. De acuerdo con el código ético de la Asociación Europea de Planificación Financiera (EFPA), sus miembros:
+
+<!-- -->
+
+a.  Respetarán la confidencialidad de toda la información obtenida en el desempeño de sus servicios profesionales, salvo que la ley exija lo con- trario o en el transcurso de un conflicto civil.
+
+b.  Podrán asumir cualquier tipo de tareas, independientemente de cual sea su nivel de conocimientos, experiencias y competencia general.
+
+c.  Son honrados porque actúan éticamente.
+
+d.  Todas las respuestas anteriores son correctas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+74. Indique, de entre los siguientes, un argumento de tipo negativo a favor de la adopción de un código ético:
+
+<!-- -->
+
+a.  Permite a la organización no enfocarse sólo hacia el resultado econó- mico.
+
+b.  Contribuye a un ahorro de costes en la toma de decisiones.
+
+c.  Facilita un trabajo en equipo más eficiente.
+
+d.  Transmite la confianza de marca.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+75. Las Empresas de Asesoramiento Financiero deben cumplir con las disposiciones de la Ley 10/2010, de 28 de abril, de prevención del blanqueo de capitales y de la financiación del terrorismo:
+
+<!-- -->
+
+a)  Verdadero, dado que la Ley 10/2010 amplia el ámbito subjetivo de aplicación de las obligaciones en materia de prevención de blanqueo de capitales, incluyendo a las Empresas de Servicios de Inversión.
+
+b)  Falso, dado que actividad de las Empresas de Asesoramiento Financiero se limita al servicio de asesoramiento en materia de inversión y, por lo tanto, no forman parte del ámbito subjetivo de aplicación de la Ley 10/2010.
+
+c)  Verdadero, pero solo en lo relativo a la prevención del blanqueo de capitales.
+
+d)  Verdadero, pero solo en lo relativo al bloqueo de fondos de financiación del terrorismo.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+:::
+
+</details>
+
+------------------------------------------------------------------------

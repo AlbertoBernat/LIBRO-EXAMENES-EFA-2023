@@ -1,1 +1,1223 @@
 # Módulo 5 {.unnumbered}
+
+## Planes y Fondos de Pensiones {.unnumbered}
+
+1.  ¿Cuál de los siguientes elementos no se considera un Elemento Personal de los Planes de Pensiones?
+
+<!-- -->
+
+a)  Promotor.
+
+b)  Partícipe.
+
+c)  Beneficiario.
+
+d)  Todos estos elementos son Elementos Personales de los Planes de Pensiones.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Todos estos elementos son elementos personales de los Planes de Pensiones, por definición.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+2.  ¿Cuál de las siguientes afirmaciones son correctas?:
+
+<!-- -->
+
+a)  El Partícipe de un Plan de Pensiones, es una Persona Jurídica.
+
+b)  El Beneficiario en caso de Vida de un Plan de Pensiones es también Beneficiario en caso de Fallecimiento.
+
+c)  El Promotor y la Entidad Gestora de un Plan de Pensiones pueden ser la misma entidad.
+
+d)  Es posible ser Promotor, Partícipe y Beneficiario de Vida al mismo tiempo.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+3.  El cobro de la Prestación en un Plan de Pensiones:
+
+<!-- -->
+
+a)  Sólo se puede realizar cuando el Partícipe se Jubila y tiene Derecho a percibir la Pensión de la Seguridad Social.
+
+b)  Se puede hacer efectiva en cualquier momento ya que el Plan de Pensiones es un Producto con Liquidez Inmediata.
+
+c)  No se puede hacer efectiva en caso de Fallecimiento del Partícipe.
+
+d)  Un Empresario de 60 años que cesa su Actividad Laboral y no tiene derecho a percibir la Pensión de la Seguridad Social puede percibir ya su Plan de Pensiones.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Sí que puede, concretamente, cualquier partícipe en la misma situación que este empresario puede disponer de sus Derechos Consolidados a partir de los 60 años.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+4.  Señala cuál o cuáles de las siguientes afirmaciones son correctas:
+
+<!-- -->
+
+a)  Un Cliente puede tener los Planes de Pensiones que quiera, pero siempre han de ser del mismo promotor.
+
+b)  Una persona de 68 años puede contratar un Plan de Pensiones que contemple prestaciones de jubilación, siempre y cuando no esté jubilado, pero tenga acceso a una pensión de jubilación de la Seguridad Social.
+
+c)  El partícipe puede movilizar sus derechos consolidados de un Plan a otro con impacto fiscal.
+
+d)  Los Planes de Pensiones no se pueden contratar con Aportaciones Discrecionales.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+5.  Señala cuál o cuáles de las siguientes afirmaciones sobre los Planes de Pensiones son correctas:
+
+<!-- -->
+
+a)  El cobro en forma de Renta de un Plan de Pensiones tributa como Rendimientos Netos del Trabajo en el I.R.P.F.
+
+b)  El cobro en Forma de Capital de un Plan de Pensiones tributa como Rendimientos Netos del Trabajo en el I.R.P.F. con un 40% exento de Tributación.
+
+c)  El cobro de prestaciones por parte del Beneficiario en caso de Fallecimiento están exentas de Tributación.
+
+d)  El cobro de prestaciones de un Plan de Pensiones tributan por el impuesto de patrimonio.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+6.  Indica en que tipo de seguros se encuadra el Plan de Jubilación:
+
+<!-- -->
+
+a)  seguros de Vida para caso de Muerte.
+
+b)  seguros de Vida para caso de Supervivencia.
+
+c)  seguros Mixtos.
+
+d)  seguros a Término Fijo.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+7.  ¿Cuál es la Garantía Principal en un Plan de Jubilación?
+
+<!-- -->
+
+a)  Reembolso de Primas Pagadas.
+
+b)  Reembolso de Primas Pagadas más Previstas.
+
+c)  Sin Reembolso de Primas.
+
+d)  Capital Asegurado en caso de Supervivencia.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+En los seguros de Vida Ahorro o también denominados para la Supervivencia la Garantía Principal es siempre un Capital Asegurado en caso de Supervivencia.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+8.  Los Derechos Adicionales de un Plan de Jubilación son:
+
+<!-- -->
+
+a)  Rehabilitación, Rescate y Anticipo.
+
+b)  Rehabilitación, Rescate e Interés Técnico.
+
+c)  Rehabilitación, Rescate y Capital adicional en Caso de Fallecimiento.
+
+d)  Rehabilitación, Rescate, Reducción y Anticipo.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+9.  ¿Cuál o cuáles de las siguientes afirmaciones son correctas?.
+
+<!-- -->
+
+a)  No se puede contratar un PPA si ya se tiene contratado un Plan de Pensiones.
+
+b)  En los PPA, el Tomador y el Asegurado deben ser personas distintas.
+
+c)  Los PPA tienen una rentabilidad garantizada durante toda su duración.
+
+d)  Solo es posible contratar un PPA si se tienen ingresos por trabajo.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+10. ¿Cuáles son las características básicas de un Plan de Previsión Asegurado?
+
+<!-- -->
+
+a)  Es Ilíquido.
+
+b)  Lo cobran siempre los Herederos Legales.
+
+c)  Se debe cobrar siempre en forma de Capital.
+
+d)  Fiscalmente es óptimo es tenerlo al menos 1 año.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+Al ser un seguro con las características del Plan de Pensiones, en principio es **ilíquido excepto por las contingencias especiales del Plan de Pensiones**.
+
+Al igual que ocurre en los planes de pensiones, los derechos acumulados en un PPA no pueden rescatarse hasta que se produzca alguna de las contingencias cubiertas por el mismo, por lo que son considerados productos ilíquidos. En determinados casos, denominados supuestos excepcionales de liquidez en la normativa relativa a Planes y Fondos de Pensiones (desempleo de larga duración y enfermedad grave) se permitirá la disposición anticipada de los Planes de Previsión Asegurados, que se valorarán del mismo modo que los derechos económicos acumulados en el PPA.
+
+La d es incorrecta ya que sería preciso analizar cada caso para poder asesorar fiscalmente, aunque por lo general **lo óptimo sería no rescatar el mismo año de la jubilación un PPA, sino al año siguiente, para no aumentar nuestros rendimientos del trabajo en ese ejercicio fiscal, en el que todavía habríamos recibido remuneración por nuestro trabajo justo antes de la jubilación y con la consiguiente repercusión fiscal negativa para nuestros intereses**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+11. ¿Cuáles de estas Afirmaciones es de Denominación Obligatoria y Reservada?
+
+<!-- -->
+
+a)  Está dirigido exclusivamente a Colectivos.
+
+b)  Está dirigido exclusivamente a Individuos.
+
+c)  Es 100% líquido en todo momento.
+
+d)  La aportación anual es ilimitada.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+Por ley, Tomador = Asegurado = Bª. en caso de Supervivencia.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+12. ¿Cuál o Cuáles de las siguientes afirmaciones son correctas respecto a los Planes de Previsión Asegurados?.
+
+<!-- -->
+
+a)  El Tomador en el momento de la Jubilación no podrá escoger entre un Capital o una Renta.
+
+b)  El Beneficiario de Vida tendrá derecho a cobrar la Prestación en caso de Enfermedad Grave.
+
+c)  La Prestación por Fallecimiento del Asegurado no tributará por el I.R.P.F.
+
+d)  El Tomador podrá percibir la prestación en la fecha de vencimiento de la póliza.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+Con carácter general el contribuyente deberá ser tomador la persona que contrata el seguro; asegurado quien está expuesto a los riesgos cubiertos por el seguro, y **beneficiario quien percibirá la prestación que se contemple en el seguro**. Luego los derechos consolidados en **los Planes de Previsión Asegurados podrán hacerse efectivos en su totalidad o en parte en los supuestos de enfermedad grave** o desempleo de larga duración de acuerdo con lo previsto en la Ley, y en consecuencia el Beneficiario de Vida tendrá derecho a cobrar la Prestación en ese caso.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+13. El Sr. López suscribe un Plan de Previsión Asegurado con una aportación única de 12.500 Euros. ¿Qué edad de las siguientes debe tener el Sr. López para que, legalmente, pueda realizar esa aportación?
+
+<!-- -->
+
+a)  51 años.
+
+b)  45 años.
+
+c)  48 años.
+
+d)  Es indiferente.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Podrán reducir la base imponible general las aportaciones y contribuciones a los siguientes sistemas de previsión social:
+
+-   Planes de pensiones
+
+-   Mutualidades de previsión social
+
+-   Planes de previsión asegurados
+
+-   Planes de previsión social empresarial
+
+-   Primas satisfechas a seguros privados que cubran exclusivamente el riesgo de dependencia severa o gran dependencia. Desde el ejercicio 2013 también darán derecho a reducción las contribuciones empresariales a seguros colectivos de dependencia, efectuadas de acuerdo con lo dispuesto en la disposición adicional primera del texto refundido de la ley de regulación de planes y fondos de pensiones. Como tomador figurará exclusivamente la empresa y la condición de asegurado y beneficiario corresponderá al trabajador.
+
+El conjunto de las aportaciones anuales máximas realizadas a los sistemas de previsión social incluyendo, en su caso, las que hubiesen sido imputadas por los promotores, que puedan dar derecho a reducir la base imponible general no podrá exceder de 8.000 euros. Además, a partir de 1 de enero de 2013, para seguros colectivos de dependencia contratados por empresas para cubrir compromisos por pensiones se estableció un límite adicional propio e independiente de 5.000 euros anuales.
+
+El límite anterior se aplicará individualmente a cada partícipe integrado en la unidad familiar.
+
+Las aportaciones realizadas a los sistemas de previsión social, incluidas las contribuciones imputadas por el promotor, que no hubieran podido reducirse en los cinco ejercicios anteriores por insuficiencia de la base imponible o por exceder del límite porcentual del 30/50 por 100 de la suma de los rendimientos netos del trabajo y de actividades económicas percibidos en el ejercicio, se imputarán al presente ejercicio, siempre que se hubiera solicitado en las respectivas declaraciones poder reducir el exceso en los cinco ejercicios siguientes.
+
+La reducción de los excesos se realizará con prioridad a la que corresponda a las aportaciones efectuadas y contribuciones imputadas en el ejercicio.
+
+El límite fiscal conjunto de reducción por aportaciones y contribuciones imputadas por el promotor a los comentados sistemas de previsión social, incluidos, en su caso, los excesos pendientes de reducir, procedentes de los cinco ejercicios anteriores, está constituido por la menor de las cantidades siguientes:
+
+-   El 30 por 100 de la suma de los rendimientos netos del trabajo y de actividades económicas percibidos individualmente en el ejercicio.
+
+-   8.000 euros anuales. Además, 5.000 euros anuales para las primas a seguros colectivos de dependencia satisfechas por la empresa.
+
+Aportaciones a sistemas de previsión social del cónyuge:
+
+Además de las reducciones anteriores, los contribuyentes cuyo cónyuge no obtenga rendimientos del trabajo ni de actividades económicas o los obtenga en cuantía inferior a 8.000 euros anuales, podrán reducir de la base imponible general las aportaciones realizadas a los sistemas de previsión antes citados de los que sea partícipe, mutualista o titular dicho cónyuge, con el límite máximo de 2.500 euros anuales, sin que esta reducción pueda generar una base liquidable negativa.
+
+nota: desde la reforma de la LIRPF no hay límite de edad
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+14. ¿Cuál o cuáles de las siguientes afirmaciones son correctas?
+
+<!-- -->
+
+a)  Las formas de cobro de la Prestación en un Plan de Previsión Asegurado son: Capital, Renta y Mixta.
+
+b)  Existen dos Modalidades para cobrar la Prestación en forma de Renta: la Renta Financiera y la Renta Asegurada.
+
+c)  La Prestación Mixta combina Prestación en Forma de Renta y Prestación en Forma de Capital.
+
+d)  Todas son correctas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+15. A efectos de planificar su jubilación, el Sr. Pérez está interesado en contratar un Plan de Previsión Asegurado. Usted, su Asesor Financiero, le resume las principales características de este producto de ahorro previsión. Señale la afirmación NO correcta.
+
+<!-- -->
+
+a)  Tienen la misma fiscalidad de los planes de pensiones.
+
+b)  Liquidez en cualquier momento, aunque puede soportar comisiones.
+
+c)  Interés mínimo garantizado mas posible interés adicional por reparto de beneficios.
+
+d)  Protección adicional en caso de fallecimiento o invalidez.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+Los planes de previsión asegurados no se pueden liquidar en cualquier momento, sólo en los casos de paro de larga duración y enfermedad grave.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+16. ¿Por lo general puede rescatarse un Unit Linked en cualquier momento?:
+
+<!-- -->
+
+a)  Un Unit Linked tiene como característica el poderse rescatar en cualquier momento.
+
+b)  Sólo tras el pago de la tercera anualidad.
+
+c)  Sí, por lo general puede rescatarse en cualquier momento tras el pago de la segunda anualidad, habiendo de soportar una comisión por cancelación anticipada.
+
+d)  Sólo transcurridas las dos primeras anualidades, y con un plazo de devolución máximo de 5 años (aunque puede pactarse con la Compañía).
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+El **rescate está previsto en el art 96 de la Ley 50/1980 de Contrato de Seguro**, y por tanto deberá haber superado el plazo **estipulado en la póliza** para ejercer dicho Rescate. Un plazo que **en ningún caso podrá ser superior a los dos años (según el art. 96 citado)**.
+
+Hay que tener en en cuenta que los unit linked son seguros en los que el tomador asume el riesgo de la inversión y que de haber una cierta garantía de capital esta se da si y solo si se mantiene la duración prevista del contrato. **En el caso de Rescate obligas al asegurador a desinvertir los activos financieros que componen las provisiones matemáticas de balance en un momento dado**. Un momento en el que estos activos tendrán un valor liquidativo que puede suponer plusvalías o todo lo contrario. Por tanto es una operación con riesgo de pérdidas.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+17. Las movilizaciones de derechos consolidados:
+
+<!-- -->
+
+a.  Se producirán por solicitud del partícipe o del beneficiario.
+
+b.  Se producirán con carácter obligatorio por terminación del Plan.
+
+c.  La transferencia se realizará en el plazo de 10 días.
+
+d.  La petición se realiza en la Entidad Gestora o Depositaria de origen.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La **respuesta correcta es la b**.
+
+En los Planes Individuales y Asociados los partícipes podrán movilizar sus derechos consolidados a otros Planes de Pensiones por decisión unilateral del partícipe (a es falsa).
+
+Esta movilización podrá ser total o parcial, realizándose la petición a la Entidad Gestora del Plan de Pensiones destino (d es falsa).
+
+El plazo de movilización son cinco días hábiles y si se produce entre planes de una misma Entidad Gestora, será en tres días hábiles (c es falsa).
+
+Los Planes se movilizarán con carácter obligatorio por terminación del Plan (b es cierta).
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+18. ¿Los rendimientos procedentes de un Unit Linked en el I.R.P.F.?:
+
+<!-- -->
+
+a)  Serán un Rendimiento del capital mobiliario.
+
+b)  Sus rentas están sujetas a una retención del 19% y no se aplica ninguna reducción.
+
+c)  Forma parte de la base imponible del ahorro.
+
+d)  Todas las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Los rendimientos procedentes de un Unit Linked en el I.R.P.F. serán un Rendimiento del capital mobiliario, sus rentas estarán sujetas a una retención del 19% y no se aplicará ninguna reducción (2016-2017).Y, como tal, formará parte de la base imponible del ahorro.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+19. Los Planes Individuales de Ahorro Sistemático son:
+
+<!-- -->
+
+a)  Son seguros de Vida Riesgo.
+
+b)  Son seguros de Salud.
+
+c)  Son seguros de Vida Ahorro puro.
+
+d)  Son seguros de Vida Ahorro (de naturaleza mixta) de Rentas Vitalicias Diferidas a Prima Periódica.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Los PIAS son seguros individuales de ahorro a largo plazo cuya finalidad es constituir una renta vitalicia que podrá percibirse a partir de una edad señalada en el contrato. Lo que más técnicamente es un seguro de Vida Ahorro de Renta Vitalicia Diferida a Prima Periódica.
+
+Aunque de naturaleza mixta, los Planes de Previsión Asegurados (PPA) no dejan de ser seguros de vida, por lo tanto, además de garantizar a sus suscriptores el capital invertido, garantizan un rendimiento fijo a través de un tipo de interés mínimo.
+
+Las entidades aseguradoras pueden comercializar este tipo de productos desde el 1 de enero de 2003, y se pueden definir como activos garantizados, enfocados hacia el ahorro individual a largo plazo. Su naturaleza híbrida entre los seguros de vida y los planes de pensiones (por eso son mixtos) les posiciona como un producto atractivo para evitar riesgos de cara a la jubilación.
+
+Además, la posibilidad de percibir una indemnización en caso de fallecimiento o incapacidad del titular es otra de las cualidades que apartan a esta figura de los planes de pensiones y le dan un valor añadido.
+
+Su régimen financiero y fiscal se aparta del tradicional de los seguros de vida y se equipara al de los planes de pensiones. Para poder beneficiarse de este régimen los PPA son ilíquidos, por lo tanto, como norma general, no se pueden recuperar hasta el momento de la jubilación aunque también será posible el rescate en los mismos términos exigidos para los planes de pensiones.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+20. ¿Cuáles de las características mencionadas no se ajustan a las de un Plan Individual de Ahorro Sistemático?.
+
+<!-- -->
+
+a)  La primera prima satisfecha deberá tener una antigüedad superior a diez años en el momento de constitución de la Renta Vitalicia.
+
+b)  La prima anual no puede ser superior a 8.000 Euros.
+
+c)  Las primas totales satisfechas al contrato no pueden ser más de 240.000 Euros.
+
+d)  Tomador, Asegurado y Beneficiario en caso de vida tienen que ser la misma persona.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Los PIAS son en todo caso un seguro de vida, y como tales el Tomador, Asegurado y Beneficiario **no** tienen porque ser la misma persona.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+21. ¿En que se diferencia los PIAS de un seguro de Vida Ahorro Tradicional?.
+
+<!-- -->
+
+a)  En la Liquidez.
+
+b)  En el Capital de Fallecimiento.
+
+c)  En el Tipo de Interés Garantizado.
+
+d)  En la Fiscalidad si se percibe en forma de Renta Vitalicia.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+La única diferencia es el beneficio fiscal que disfrutan los PIAS si se transforman en renta vitalicia, en todos los demás aspectos es como un seguro de Vida Ahorro tradicional, siempre y cuando reúnan las condiciones establecidas.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+22. Uno de los motivos por lo que puede resultar más interesante invertir en un Plan de Previsión Asegurado frente a un Plan de Pensiones Individual radica en que:
+
+<!-- -->
+
+a)  El PPA tiene un límite superior de aportaciones.
+
+b)  Tiene una fiscalidad más favorable.
+
+c)  Ofrece un suelo de rentabilidad pudiendo tener participaciones en beneficios.
+
+d)  Es totalmente indistinto emplear uno u otro.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+Los PPA deben otorgar obligatoriamente una rentabilidad mínima garantizada concediendo una participación en beneficios por la rentabilidad que por encima de dicha garantía pudiera conseguir la compañía de seguros. En cambio los Planes no pueden otorgar dicha garantía (los garantizados otorgan garantías externas pero no conceden participación en beneficios).
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+23. La tributación de un seguro de vida de ahorro en el momento del cobro de la prestación sería:
+
+<!-- -->
+
+a)  Como rendimiento del capital mobiliario.
+
+b)  Como rendimiento íntegro del trabajo.
+
+c)  Como rentas irregulares.
+
+d)  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+Los rendimientos obtenidos a través de pólizas de seguros de ahorro tributan como rendimiento del capital mobiliario, integrando la base imponible del ahorro, y tributando al 19%-23%, independientemente del período de generación.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+24. La cuantía que determina el valor que puedo hacer líquido de un Plan de Jubilación o Seguro de Ahorro se denomina:
+
+<!-- -->
+
+a)  Derecho consolidado.
+
+b)  Derecho de económico.
+
+c)  Valor de rescate.
+
+d)  Derecho de anticipo.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+Los productos de seguro de vida ahorro, ofrecen liquidez en sus productos a través del denominado **valor de rescate** de la póliza. Siendo el valor de rescate, un concepto que se refiere al **importe que le otorgará la aseguradora al asegurado o beneficiario, en caso de que la póliza sea cancelada**.
+
+Es importante no confundir el valor de rescate de un Plan de Jubilación o Seguro de Ahorro con el concepto de **derechos consolidados**, utilizado en el ámbito de los **planes de pensiones** y otros productos de previsión. Igualmente hay que recordar que en el momento en que el partícipe de un plan se convierte en beneficiario, por acaecer cualquiera de las contingencias contempladas en la ley, estos derechos consolidados pasarán a denominarse **derechos económicos**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+25. La rentabilidad de los seguros de ahorro Unit Linked, viene determinada por:
+
+<!-- -->
+
+a)  El porcentaje de participación en beneficios.
+
+b)  La rentabilidad mínima garantizada en póliza.
+
+c)  La rentabilidad biométrica del asegurado.
+
+d)  Exclusivamente de la rentabilidad de las inversiones afectas
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Los seguros articulados bajo la modalidad de Unit Linked, no tienen garantía de tipo de interés mínimo, ni participación en beneficios, ni la probabilidad biométrica del asegurado, sino que al asumir el tomador el riesgo de la inversión, el resultado de ésta se destina íntegramente a la póliza.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+26. El sistema público de pensiones en España se estructura bajo un sistema de:
+
+<!-- -->
+
+a)  Capitalización colectiva.
+
+b)  Capitalización individual.
+
+c)  Reparto.
+
+d)  Distribución.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+El sistema de la Seguridad Social: se basa en un sistema de reparto de caja, es decir la recaudación actual (contribuciones empresariales y de los trabajadores a la SS) sirve para pagar los compromisos (pensiones); no es un sistema de capitalización donde lo que se hace es que cada persona va poniendo una determinada cantidad, cantidad que va constituyendo un capital, el cual a la jubilación es percibido por la persona que la ha ido dotando.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+27. ¿Cuál de las siguientes contingencias no da derecho a recibir la prestación de un Plan de Pensiones?:
+
+<!-- -->
+
+a)  Incapacidad permanente absoluta.
+
+b)  Jubilación.
+
+c)  Dependencia severa o gran dependencia.
+
+d)  Todas las anteriores dan derecho a prestación.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Las contingencias que dan derecho a prestación de los planes de pensiones son Jubilación, Incapacidad permanente total, absoluta o gran invalidez, Fallecimiento y Dependencia severa o gran dependencia.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+28. ¿Cuáles de las siguientes clasificaciones de fondos de pensiones no es cierta?:
+
+<!-- -->
+
+a)  Prestación definida o aportación definida.
+
+b)  Abierto o cerrado.
+
+c)  Empleo o personal.
+
+d)  Monoplan o pluriplan.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+La clasificación de aportación o prestación definida corresponde a los planes no a los fondos
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+29. Las administración e inversión de los Fondos de Pensiones además de por Entidades Gestoras de Fondos de Pensiones puede llevarse a cabo por:
+
+<!-- -->
+
+a)  Cualquier entidad de crédito con domicilio o sucursal en España.
+
+b)  Cualquier sociedad o agencia de valores.
+
+c)  Sólo puede realizarse por dichas entidades.
+
+d)  Compañías de seguros autorizadas a operar en el ramo de vida.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+La labor de administración e inversión de Fondos de Pensiones debe realizarse por sociedades anónimas constituidas con ese único propósito o bien por compañías de seguros autorizadas a operar en el ramo de vida y que cumplan los requisitos de capital mínimo exigido.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+30. La entidad que promueve la creación de un Plan de Pensiones o participa en su desenvolvimiento, recibe la denominación de:
+
+<!-- -->
+
+a)  Su nombre depende de la modalidad de Plan que se promueva.
+
+b)  Promotor.
+
+c)  Entidad gestora.
+
+d)  Entidad depositaria.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+La Empresa, sociedad, entidad, corporación, asociación o sindicato que promueva su creación o participe en su desenvolvimiento recibe la denominación de Promotor.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+31. Como norma general un Plan de Pensiones debe estar adscrito a:
+
+<!-- -->
+
+a)  Un único Fondo de Inversión.
+
+b)  Un único Fondo de Pensiones.
+
+c)  Uno o varios Fondos de Pensiones.
+
+d)  La figura del Fondo de Pensiones y del Plan de Pensiones es la misma.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+Uno de los principios básicos que establece la Ley de Planes y Fondos de Pensiones es la adscripción obligatoria de todo Plan de Pensiones en un único Fondo de Pensiones.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+32. En las fases de capitalización de un ahorrador en principio debe darse preferencia a:
+
+<!-- -->
+
+a)  Activos del mercado monetario.
+
+b)  Activos de renta fija.
+
+c)  Carteras mixtas con renta fija y renta variable.
+
+d)  Activos de renta variable.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+En las fases de capitalización del ahorrador, etapa coincidentes con las primeras fases del ahorro, se pondera en mayor medida la búsqueda de rentabilidad frente al riesgo, por lo que se buscan activos con potencial de revalorización, los cuales se representan por los activos de renta variable.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+33. ¿Cuál de estas características no define a un Plan Individual de Ahorro Sistemático?
+
+<!-- -->
+
+a)  Límite de aportaciones.
+
+b)  Iliquidez.
+
+c)  Antigüedad mínima.
+
+d)  Cobro en forma de renta vitalicia.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+Los PIAS son productos que para gozar de las ventajas fiscales tiene un límite de aportaciones anual y global, debe tener una antigüedad mínima de 10 años, ha de percibirse la prestación en forma de renta vitalicia. En cambio, aunque con pérdida del beneficio fiscal, es totalmente líquido.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+34. La gestión de las inversiones de un Fondo de Pensiones se diferencia de la gestión de otros productos en:
+
+<!-- -->
+
+a)  La fiscalidad.
+
+b)  El riesgo.
+
+c)  La rentabilidad.
+
+d)  El horizonte temporal.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Los planes de pensiones, al tratarse de un producto de ahorro finalista, caracterizado por su iliquidez ha de ser gestionado en función del horizonte temporal de la inversión en función de los años que resten por término medio hasta la jubilación.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+35. La tendencia en los países occidentales es a que las pirámides de población tomen:
+
+<!-- -->
+
+a)  Una mayor concentración en la base.
+
+b)  Una menor densidad a partir de los 65 años.
+
+c)  Una mayor concentración en la base y una menor densidad a partir de los 65 años.
+
+d)  En todos los casos anteriores es al contrario.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+El estilo de vida y las costumbres de los países más desarrollados ha provocado en la sociedad una disminución de las tasas de natalidad y un aumento de la esperanza de vida, lo que origina un estrechamiento de la base y una mayor densidad de población que superan los 65 años de edad.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+36. En un sistema de reparto:
+
+<!-- -->
+
+a.  Las prestaciones están garantizadas financieramente por cada activo.
+
+b.  Las prestaciones no están garantizadas.
+
+c.  Las prestaciones dependen de la rentabilidad de las aportaciones.
+
+d.  Las prestaciones están garantizadas por las aportaciones de otros activos.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+En un **sistema de reparto**, para un periodo dado, el sistema **atribuye las aportaciones correspondientes a ese periodo para cubrir las prestaciones a abonar del mismo periodo**, de forma que las prestaciones están garantizadas por las aportaciones de otros activos.
+
+El sistema Financiero empleado para la financiación de las prestaciones de la Seguridad Social española, por ejemplo, es un sitema de reparo.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+37. La prestación de jubilación de la Seguridad Social, en relación con el periodo de tiempo cotizado por el trabajador:
+
+<!-- -->
+
+a.  Es independiente.
+
+b.  Es mayor a mayor tiempo cotizado.
+
+c.  Es menor a mayor tiempo cotizado.
+
+d.  Es mayor a menor tiempo cotizado.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+La prestación de jubilación de la Seguridad Social, en relación con el periodo de tiempo cotizado por el trabajador es mayor a mayor tiempo cotizado.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+38. El periodo mínimo de cotización para tener derecho a la pensión de jubilación de la Seguridad Social es:
+
+<!-- -->
+
+a.  15 años a lo largo de toda la vida laboral.
+
+b.  2 años en los últimos 15 anteriores a la edad de jubilación.
+
+c.  15 años a lo largo de la vida laboral, y 2 incluidos en los 5 años anteriores a cesar la obligación de cotizar.
+
+d.  15 años a lo largo de la vida laboral, y 2 incluidos en los 15 años anteriores a cesar la obligación de cotizar.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+El periodo mínimo de cotización para tener derecho a la pensión de jubilación de la Seguridad Social es de 15 años a lo largo de la vida laboral, y 2 incluidos en los 15 años anteriores a cesar la obligación de cotizar.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+39. La base reguladora para la pensión de jubilación es:
+
+<!-- -->
+
+a.  La base de cotización del trabajador a la edad de jubilación.
+
+b.  El importe económico que tiene en cuenta los 25 últimos años de bases de cotización del trabajador.
+
+c.  El importe económico que tiene en cuenta los 15 últimos años de bases de cotización del trabajador.
+
+d.  El importe económico que tiene en cuenta los 8 últimos años de bases de cotización del trabajador.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+La base reguladora se determina dividiendo entre 350 las bases de cotización del interesado de los últimos 300 meses cotizados inmediatamente anteriores a la jubilación. El divisor (350) corresponde a las 14 pagas o salarios que tiene el trabajador jubilado cada año y a lo largo de los 25 años considerados.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+40. Los porcentajes a aplicar sobre la edad de jubilación serán:
+
+<!-- -->
+
+a.  Por los años cotizados y por la edad de jubilación elegida.
+
+b.  Sólo por los años cotizados.
+
+c.  Sólo por la edad elegida.
+
+d.  Por las bases de cotización cotizadas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+Los porcentajes a aplicar sobre la edad de jubilación serán:
+
+-   en función de la **edad** elegida para la jubilación.
+
+-   en función de los **años cotizados** por el trabajador que solicita la jubilación.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+41. En el Régimen Especial de Autónomos un trabajador se puede jubilar anticipadamente desde:
+
+<!-- -->
+
+a.  61 años de forma voluntaria si tiene más de 40 años cotizados.
+
+b.  61 años y a través de un contrato de relevo.
+
+c.  61 años y de forma no voluntaria si tiene al menos 30 años cotizados.
+
+d.  Nunca, sólo a los 67 años o 65 si tiene cotizados 38 años y 6 meses.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+La edad mínima para la jubilación del trabajador está fijada a los 67 años de edad, ó 65 años cuando se acrediten 38 años y 6 meses de cotización. A esta edad se la denomina edad normal de jubilación, si bien existe la posibilidad de cesar en el trabajo con anterioridad a dicha edad y percibir la prestación, al igual que puede retrasarse para percibirla posteriormente.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+42. La reducción practicada sobre la pensión de jubilación debido a la jubilación anticipada:
+
+<!-- -->
+
+a.  No se altera hacia futuro.
+
+b.  Se quita a partir de los 65 años de edad.
+
+c.  Disminuye progresivamente hasta ser nula a los 65 años.
+
+d.  No existen reducciones por jubilación anticipada.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+La reducción practicada sobre la pensión de jubilación debido a la jubilación anticipada no se altera hacia futuro.
+:::
+
+</details>
+
+------------------------------------------------------------------------

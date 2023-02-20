@@ -1,1 +1,1699 @@
 # Módulo 10 {.unnumbered}
+
+## Asesoramiento y Planificación {.unnumbered}
+
+1.  El Gestor de Patrimonios, en el cumplimiento de susu funciones, debe:
+
+<!-- -->
+
+a)  Mantener un nivel de competencia profesional y su actualización en el tiempo.
+
+b)  Gestionar bajo criterios de honestidad, imparcialidad e independencia.
+
+c)  Guardar confidencialidad y actuar con discreción.
+
+d)  Todas las anteriores..
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Las funciones más destacadas de un Gestor de Patrimonios son:
+
+-   Ofrecer a los clientes un servicio de asesoramiento financiero profesional, completo, independiente y transparente.
+
+-   Planificar estrategias financieras acorde a los objetivos de c/p, m/p y l/p de los clientes.
+
+-   Planificar las posibles necesidades de liquidez.
+
+-   Conocer y gestionar la capacidad de ahorro actual y futura.
+
+-   Optimizar la gestión y rentabilidad del patrimonio actual.
+
+-   Gestionar bajo criterios de honestidad, imparcialidad e independencia.
+
+-   Guardar confidencialidad y actuar con discreción. Y, nunca utilizar la información interna en beneficio propio.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+2.  A fin de identificar el perfil financiero del inversor es necesario definir su propensión al riesgo. ¿Qué se entiende con tal expresión?
+
+<!-- -->
+
+a)  El periodo de tiempo durante el cual el cliente está dispuesto a inmovilizar su inversión con el objetivo de conseguir una determinada rentabilidad esperada.
+
+b)  La expectativa de rendimiento basada en el principio de que no es posible maximizar el rendimiento y, al mismo tiempo, minimizar el riesgo.
+
+c)  La capacidad psicológica y financiera de soportar pérdidas en las inversiones realizadas.
+
+d)  Es una medida de la cultura financiera del cliente. A mayor conocimientos, mayor propensión al riesgo.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la C**.
+
+Por definición la propensión al riesgo es "la capacidad psicológica y financiera de soportar pérdidas en las inversiones realizadas".
+
+La respuesta a) es incorrecta, ya que alude al horizonte temporal y no a la propensión al riesgo del inversor. La respuesta b) tampoco es correcta, ya que nos habla del binomio rentabilidad-riesgo y no del perfil financiero del inversor. La reaspuesta d), aunque cita textualmente el perfil financiero del inversor, no es correcta porque no necesariamente a mayores conocimientos, mayor propensión al riesgo. Un inversor podría ser perfectamente averso al riesgo y tener una enormne cultura financiera.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+3.  ¿Cuál es el primer paso en el proceso de planificación financiera?
+
+<!-- -->
+
+a)  La construcción de un plan financiero.
+
+b)  Establecimiento de metas con el cliente.
+
+c)  La recopilación de información relevante sobre el cliente.
+
+d)  La respuesta b y c son correctas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+El proceso de planificación financiera personal (de acuerdo a la norma ISO 22222: 2005) es un proceso compuesto por los seis pasos siguientes:
+
+-   Paso 1: Establecimiento de metas con el cliente. Este paso (que generalmente se realiza en conjunto con el paso 2) tiene la intención de identificar donde el cliente quiere ir en términos de sus finanzas y la vida.
+
+-   Paso 2: La recopilación de información relevante sobre el cliente. Esto incluiría los aspectos cualitativos y cuantitativos de la situación no financiero y financiero relevante del cliente.
+
+-   Paso 3: Análisis de la información. La información recopilada se analiza de manera que la situación del cliente sea bien entendida. Esto incluye determinar si existen recursos suficientes para alcanzar los objetivos del cliente y cuáles son esos recursos.
+
+-   Paso 4: La construcción de un plan financiero. Basado en la comprensión de lo que el cliente quiere en el futuro y su situación financiera actual, una hoja de ruta para los objetivos del cliente, se elabora para facilitar los logros de esos objetivos.
+
+-   Paso 5: Implementación de las estrategias del plan. Guiada por el plan financiero, las estrategias delineadas en el plan se implementa utilizando los recursos asignados para tal fin.
+
+-   Paso 6: Seguimiento de la aplicación y la revisión del plan. El proceso de implementación es monitoreado de cerca para asegurarse de que se mantiene en la alineación a los objetivos del cliente. Se realizan periódicamente estudios para comprobar si hay desalineación y cambios en la situación del cliente. Si hay algún cambio significativo en la situación del cliente, las estrategias y metas en el plan financiero se revisan en consecuencia.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+4.  Atendiendo al Ciclo de Vida del Cliente en la etapa de gasto, podemos observar las siguientes características:
+
+<!-- -->
+
+a)  Protección del capital acumulado.
+
+b)  Disminución del riesgo en las inversiones financieras.
+
+c)  Horizonte temporal corto.
+
+d)  Todas las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+En la etapa de gasto, como en el resto de las etapas, los productos financieros contratados deben adecuarse al perfil de riesgo de cada inversor. Por lo general, a medida que el inversor se hace mayor su perfil se torna más conservador y la protección del capital cobra mayor importancia. Esto es debido a que su horizonte temporal es ahora más corto y por ello es momento de disfrutar del capital acumulado.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+5.  Las fases del Ciclo de Vida del Cliente son, por este orden:
+
+<!-- -->
+
+a)  Apalancamiento, acumulación, gasto.
+
+b)  Acumulación, consolidación, gasto y donación.
+
+c)  Acumulación, apalancamiento, gasto.
+
+d)  Ninguna de las anteriores es correcta.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+Las fases del Ciclo de Vida del Cliente son:
+
+1.  Acumulación (infancia y juventud; jóven-adulto).
+
+2.  Consolidación (madurez).
+
+3.  Gasto y donación (consolidación y gasto; jubilalación y donación).
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+6.  Señale la respuesta correcta respecto a un cliente maximizador de rentas:
+
+<!-- -->
+
+a)  Se trata de un cliente escasamente interesado por la gestión realizada, fiel a la entidad gestora.
+
+b)  Se trata de un cliente conservador, prefiere la utilización de herramientas de gestión clásicas en lugar de productos de última generación.
+
+c)  Se trata de un cliente que al busca el mejor producto existente en el mercado y no será un cliente fiel a la entidad gestora.
+
+d)  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+El cliente maximizador de rentas se interesa por la gestión y la operativa, le preocupa encontrar siempre el mejor producto existente en el mercado y con las mejores condiciones económicas. Por ello, este tipo de cliente suele presentar un escaso compromiso con la entidad que gestiona.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+7.  La formación que se espera de un Asesor en el segmento de banca privada es:
+
+<!-- -->
+
+a)  Financiera, fiscal y contable.
+
+b)  Financiera y legal.
+
+c)  Únicamente Financiera.
+
+d)  Financiera, fiscal y legal.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+La formación en contabilidad es más propia de los asesores de la banca de empresas. Mientras que en la banca privada, la formación más adecuada para el desempeño de susu funciones sería: la financiera; la fiscal y también la legal.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+8.  Confirmar cual de las siguientes ordenaciones de mayor a menor nivel de riesgo es correcta en las siguientes opciones de inversión:
+
+<!-- -->
+
+a)  Renta Variable en divisas - Renta Fija largo plazo - liquidez.
+
+b)  Renta fija largo plazo - Renta Fija medio plazo - FIAMM.
+
+c)  Renta Variable zona euro - Renta Variable propio país - Renta Fija largo plazo.
+
+d)  Todas las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+9.  Una persona que esté en la ultima parte del Ciclo de Vida del Cliente (jubilación), realizara normalmente inversiones:
+
+<!-- -->
+
+a)  A largo plazo.
+
+b)  En valores en divisas diferentes de la propia.
+
+c)  En valores con alta volatilidad.
+
+d)  En valores líquidos.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+10. La evolución del sistema financiero y bancario en España ha sido:
+
+<!-- -->
+
+a)  De banca de productos a banca de clientes.
+
+b)  De Banca Universal a Banca Privada.
+
+c)  De Banca Nacional a Banca Internacional.
+
+d)  De Banca por Negocio a Banca por producto.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+11. La Banca de clientes se basa en:
+
+<!-- -->
+
+a)  Atraer clientes.
+
+b)  Mantener clientes.
+
+c)  Aumentar relación con los clientes.
+
+d)  Todas las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+12. Un cliente de perfil conservador prefiere:
+
+<!-- -->
+
+a)  Alta liquidez.
+
+b)  Seguridad.
+
+c)  Moderada rentabilidad.
+
+d)  Todas las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+13. El conocimiento del perfil del cliente:
+
+<!-- -->
+
+a)  Es básico para una atención personalizada.
+
+b)  Nos indica que tipo de producto le podemos ofrecer.
+
+c)  Nos permite establecer una relación a largo plazo.
+
+d)  Todas las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+14. Uno de los principales valores que aporta el asesor financiero:
+
+<!-- -->
+
+a)  La recomendación de productos financiero-fiscalmente interesantes que se adapten al perfil del cliente
+
+b)  El cobro de comisiones y corretajes por operaciones
+
+c)  El colocar al cliente productos donde mas gane la entidad financiera
+
+d)  Todas las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+15. La formación del Asesor Financiero es adecuada para:
+
+<!-- -->
+
+a)  Satisfacer las necesidades del cliente en su función de asesoramiento financiero.
+
+b)  Vender productos exclusivamente de su entidad financiera.
+
+c)  Generar mas comisiones e ingresos para la entidad.
+
+d)  Todas las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+El Asesor Financiero debe poseer formación y la capacitación necesaria para satisfacer las necesidades de sus clientes a la hora de prestar un servicio profesional en materia de inversión.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+16. El perfil de riesgo del inversor puede cambiar a lo largo de su vida debido a:
+
+<!-- -->
+
+a)  Cambios en su situación personal (ej: numero de hijos y variación del proyecto sucesorio)
+
+b)  La generación de pérdidas con sus inversiones
+
+c)  Disminución de su horizonte temporal de inversión
+
+d)  Todas las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+17. Si un inversor se define con riesgo mínimo, es decir, alta aversión al riesgo, entonces
+
+<!-- -->
+
+a)  La propondremos una cartera con derivados.
+
+b)  Un 90% de RV y un 10% de RF a largo plazo.
+
+c)  Un 97% de RF a corto plazo y un 3% a medio plazo.
+
+d)  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+18. Una diferencia entre Manager Advisor y Portfolio Manager es:
+
+<!-- -->
+
+a)  El primero gestiona patrimonialmente al cliente.
+
+b)  El primero actúa como gestor y toma la decisión final respecto de las inversiones a efectuar, y el segundo como asesor
+
+c)  El primero actúa como asesor financiero, las decisiones son consensuada con el cliente, que es quien toma la decisión final.
+
+d)  Todas las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+19. Cuando hacemos referencia al concepto de *expertise* en el ámbito de la banca privada estamos hablando de:
+
+<!-- -->
+
+a)  La diferenciación en la experiencia laboral ente lo que podría considerarse un "Junior" y un "Senior".
+
+b)  La consideración de un profesional con experiencia en torno de 10 años o más, tanto en mercados financieros como en relación con clientes.
+
+c)  Una característica usual en los banqueros privados españoles.
+
+d)  Son correctas la a y b.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Expertise es un profesional con una experiencia en torno a los 10 años, tanto en mercados financieros como en relación con clientes. También podría considerarse como la categoría profesional entre un *junior* y un *Senior*.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+20. Para un correcto Asset Allocation es necesario conocer entre otras cosas:
+
+<!-- -->
+
+a)  Volatilidades, correlaciones entre activos, sectores y curva de tipos, así como el riesgo divisa.
+
+b)  La estructura patrimonial del cliente para no duplicar inversiones.
+
+c)  Conocer bien todos los mercados mundiales.
+
+d)  Son correctas la a y la b.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+El Asset Allocation será adecuado en la medida que el asesor conzca bien la estructura patrimonial de su cliente para evitar duplicar posiciones que éste pueda tener externamente. Asimismo, es necesario conocer las características fundamentales de los activos, tales como: volatilidades, correlaciones, sectores, curvas de tipos y riesgos de las divisas implicadas. Sin embargo, no es necesario aunque sí conveniente conocer los mercados mundiales y sus interacciones. Existen expertos analistas para cada uno de los países y/o regiones, de forma que hay que dejar que hagan el trabajo aquellos que mejor conocen las particularidades de cada mercado, y seguir la evolución de sus informes y recomendaciones.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+21. La banca privada se diferencia de la banca personal en
+
+<!-- -->
+
+a)  El uso de la gestión discrecional versus la sola recomendación de productos financiero fiscalmente interesantes.
+
+b)  Las características propias del servicio (ubicación propia, un solo interlocutor) reservándose la banca privada a los clientes de mayor patrimonio.
+
+c)  El montaje de estructuras societarias optimas en terminos operativos y fiscales.
+
+d)  Todas las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+22. La tecnología en el servicio de banca privada
+
+<!-- -->
+
+a)  Es determinante para la valoración de productos complejos.
+
+b)  Complica el "reporting", pues no supone la agregación para el cliente de su cartera por cuentas y activos.
+
+c)  No influye en el ratio de eficiencia.
+
+d)  Sólo sirve para aplicar técnicas de gestión institucional a las carteras de particulares
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+La tecnología cuando se ofrecen servicios de banca privada es crucial para poder valorar productos complejos con precisión.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+23. El cliente institucional de banca privada:
+
+<!-- -->
+
+a)  Mide su satisfacción con la relación en base a la que tiene con su gestor personal
+
+b)  Mide el riesgo como la posibilidad de perder dinero.
+
+c)  Es libre (no esta sujeto a regulaciones) para actuar.
+
+d)  Es un cliente generalmente más grande que el particular.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+El cliente institucional de banca privada es, por lo general, un cliente más grande que el cliente particular.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+24. La rentabilidad que se desea obtener va en función de:
+
+<!-- -->
+
+a)  El riesgo en el que se desea incurrir.
+
+b)  La liquidez de la que se quiere disponer.
+
+c)  Lo que estés dispuesto a perder.
+
+d)  Todas las anteriores..
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+25. El prototipo de cliente de un producto garantizado es aquel:
+
+<!-- -->
+
+a)  Agresivo, maximizador de rentas.
+
+b)  Profesional, y que negocia rudamente las comisiones.
+
+c)  Joven y con un largo horizonte temporal de inversión para recuperar pérdidas.
+
+d)  Conservador, pero tentado por la rentabilidad de la bolsa, y que es aquel que apenas obtiene rentabilidad de su inversión.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+26. Un señor/a de 3 años sin fortuna previa, vende por 10.000 millones de \$ su Start-up de Internet. Se trata de riqueza tipo:
+
+<!-- -->
+
+a)  Family wealth.
+
+b)  Entrepreneurial wealth.
+
+c)  Corporate wealth.
+
+d)  Son correctas la a y la b.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Las respuestas correctas son la a y b, ya que tiene 3 años y es riqueza de familia.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+27. La Gestión Discrecional de Carteras es un servicio que podemos relacionar con:
+
+<!-- -->
+
+a)  La banca de consumo.
+
+b)  La banca retail.
+
+c)  La banca privada.
+
+d)  La banca de empresas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+En banca privada podemos encontrar servicios personalizados de gestión de carteras.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+28. ¿Cúal es la principal ventaja que encuentra el cliente en los servicios que ofrece la Banca Privada?
+
+<!-- -->
+
+a)  La imagen corporativa de la entidad.
+
+b)  El patrocinio de eventos deportivos y culturales.
+
+c)  La calidad en el servicio y la optimización de su patrimonio.
+
+d)  Precios más bajos que en otros modelos de banca.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+El cliente de Banca Privada busca un asesoramiento más personalizado, más profesional y eficiente orientado a la planificación integral de su patrimonio.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+29. ¿Qué diferencia existe entre la Tasa Anual Equivalente (TAE) y la Tipo de interés Nominal(TIN)?
+
+<!-- -->
+
+a)  La TAE no tienen en cuenta la frecuencia de los pagos (mensuales, trimestrales, etc.).
+
+b)  El TIN sí se tienen en cuenta ningún tipo de gasto asociado a la operación.
+
+c)  Tanto la TAE como TIN tienen cuenta las comisiones bancarias y algunos gastos de la operación.
+
+d)  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+En el TIN no se tienen en cuenta ningún tipo de gasto asociado a la operación, únicamente es el interés que se ha acordado con la entidad financiera para esa operación.
+
+La TAE se calcula de acuerdo con una fórmula matemática normalizada que tiene en cuenta el tipo de interés nominal de la operación, la frecuencia de los pagos (mensuales, trimestrales, etc.), las comisiones bancarias y algunos gastos de la operación.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+30. No es una ventaja de la Banca Privada para el cliente:
+
+<!-- -->
+
+a)  Asesoramiento global y trato personalizado.
+
+b)  Productos a medida, tanto propios como de otras entidades.
+
+c)  Asesoramiento en la selección de productos financieros sólo locales.
+
+d)  Acceso a innovación financiera.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la C**.
+
+La banca privada asesora sobre productos financieros locales e internacionales.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+31. Los 3 objetivos claves de una inversión financiera son:
+
+<!-- -->
+
+a)  Rentabilidad, seguridad y liquidez.
+
+b)  Rentabilidad, seguridad y horizonte temporal.
+
+c)  Rentabilidad, seguridad y perfil de riesgo del cliente.
+
+d)  Rentabilidad y plazo.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+32. El perfil de riesgo del inversor puede variar a lo largo de su vida debido, principalmente, a :
+
+<!-- -->
+
+a)  Cambios en su situación económica y personal del inversor.
+
+b)  Cambio en el entorno económico.
+
+c)  Cambio de la ley fiscal
+
+d)  Todas las anteriores
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la A**.
+
+El perfil de aversión al riesgo, varía principalmente con las circunstancias particulares del inversor.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+33. ¿Cuáles son las formas de inversión que se han popularizado en los últimos 15 años?
+
+<!-- -->
+
+a)  Las acciones
+
+b)  Los depósitos
+
+c)  Los fondos de inversión
+
+d)  Los seguros
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la C**.
+
+Claramente los fondos de inversión han llegado a todo tipo de inversores
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+34. El concepto de "socialización de la riqueza" hace referencia a:
+
+<!-- -->
+
+a)  Anteriormente, sólo accedían un grupo reducido de personas a los servicios de banca personal.
+
+b)  A que la banca de productos se encuentra en declive.
+
+c)  Al aumento en el número de personas de elevado patrimonio.
+
+d)  Todas las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+Actualmente, los servicios de banca personal, con las nuevas tecnologías y las economías de escala, originadas de la estandarización de procesos, han permitido que muchas personas accedan a los mismos.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+35. En general el cliente de banca personal presenta los siguientes rasgos diferenciales a los de la oficina tradicional. Indicar la respuesta incorrecta:
+
+<!-- -->
+
+a)  Mayor cultura financiera.
+
+b)  Menos exigente en cuanto a la relación rentabilidad ---coste de la inversión.
+
+c)  Está dispuesto a realizar inversiones internacionales
+
+d)  Está dispuesto a invertir en productos novedosos buscando el mejor binomio rentabilidadriesgo.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+Generalmente, el cliente de banca personal es más exigente que el de banca de tradicional de productos.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+36. Dentro de los servicios de banca privada, ¿qué diferencia al servicio de correduría del servicio de asesoramiento financiero?
+
+<!-- -->
+
+a)  El servido de correduría incluye el asesoramiento personalizado.
+
+b)  En el servicio de correduría se cobra por corretajes y por servicios de gestión.
+
+c)  En el servicio de asesoramiento se cobra por servicios de gestión y en su caso por corretajes.
+
+d)  En el servicio de asesoramiento sólo se cobra por corretajes.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+El servicio de asesoramiento incluye Clientes con ciertos conocimientos que desean comprar algún, producto financiero sencillo (fondos de inversión, acciones, bonos). Se les aconseja, se les invierte y ellos mismos deben decidir cuando vender.
+
+Retribución del servicio: corretajes de compra y venta, corretajes de dividendos y eventuales retrocesiones.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+37. No es una característica de la gestión por mandato:
+
+<!-- -->
+
+a)  Clientes con una mayor capacidad inversora, que desean se les gestione por mandato su patrimonio.
+
+b)  Retribución del servicio: honorarios de gestión, corretajes de ejecución y de dividendos, eventuales retrocesiones en el caso de fondos de terceros.
+
+c)  Poca importancia de la figura del ejecutivo de cuentas, que asume la responsabilidad de estructurar y seguir las carteras.
+
+d)  Todas las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+La figura del asesor ejecutivo de cuenta es crucial en este tipo de gestión, por ejemplo de SICAVs.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+38. ¿Cuál de los siguientes elementos no se considera al determinar el perfil del inversor?
+
+<!-- -->
+
+a)  Tipo marginal en renta y patrimonio.
+
+b)  Plazo de la inversión.
+
+c)  Coyuntura de los mercados bursátiles.
+
+d)  Conocimientos financieros.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+No debe ser un factor determinante o condicionante del perfil del inversor la situación puntual de los mercados, puesto que el perfil del inversor es un carácter que varía poco en el tiempo, mientras que los mercados son cambiantes, aunque si es cierto que pueden psicológicamente tener impacto en el momento del análisis: euforia o negativismo.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+39. Los servicios básicos que ofrece un family office son:
+
+<!-- -->
+
+a)  Protección de los activos.
+
+b)  Crecimiento de los activos.
+
+c)  Control de activos.
+
+d)  Todas las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Generalmente, el cliente de banca personal es más exigente que el de banca de tradicional de productos.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+40. ¿Cuál es el rasgo fundamental que diferencia un family office original de los servicios de family office ofrecidos por la banca privada?
+
+<!-- -->
+
+a)  La confidencialidad.
+
+b)  La profesionalidad del equipo gestor.
+
+c)  La rentabilidad final obtenida.
+
+d)  La independencia.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+La autonomía e independencia del equipo que trabaja en un family office original es total, ya que en él trabajan exclusivamente para su cliente, que es quien le paga, y no para un banco como en el caso de los family office ofrecidos por la banca privada.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+41. Son funciones del ejecutivo de cuentas de banca privada:
+
+<!-- -->
+
+a)  Determinar el perfil de riesgo del cliente.
+
+b)  Estructurar su cartera inicial.
+
+c)  Gestionar dinámicamente a través del tiempo.
+
+d)  Todas las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Las funciones del ejecutivo de cuentas son:
+
+-   Determinar el perfil de riesgo del cliente.
+
+-   Estructurar su cartera inicial.
+
+-   Gestionar dinámicamente a través del tiempo las carteras a su cargo.
+
+-   Gestionar la protección de riesgos.
+
+-   Acumular capital para necesidades futuras (educación de los hijos, jubilación, emergencias).
+
+-   Optimización en el pago de impuestos.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+42. La banca tradicional o de productos se caracteriza por:
+
+<!-- -->
+
+a)  Sus oficinas son meros centros administrativos.
+
+b)  Las ventas se llevan a cabo bien por demanda o, bien por campañas.
+
+c)  Existe desconocimiento de la mayoría de sus clientes.
+
+d)  Todas las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+La banca tradicional o de productos (también llamada banca universal) se caracteriza por:
+
+-   los operarios de las oficinas realizan tareas meramente administrativas
+
+-   las ventas se llevan a cabo por demanda del cliente o por campaña
+
+-   existe desconocimiento de la mayor parte de sus clientes
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+43. Es una característica de la banca de clientes:
+
+<!-- -->
+
+a)  La segmentación de los clientes.
+
+b)  La especialización de paquetes por segmentos de clientes.
+
+c)  Actitud comercial proactiva.
+
+d)  Todas las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Las característica de la banca de clientes es:
+
+-   Amplio conocimiento de los clientes.
+
+-   Segmentación de clientes.
+
+-   Actitud proactiva por parte del asesor comercial.
+
+-   Creación de paquetes especiales para los distintos segmentos de clientes.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+44. De las siguientes afirmaciones, ¿cúal no sería cierta en la fase de acumulación de un inversor?
+
+<!-- -->
+
+a)  No necesita ingresos recurrentes en su cartera.
+
+b)  Protección frente a la inflación.
+
+c)  No le importa arriesgar el principal.
+
+d)  El horizonte temporal es corto.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+En la fase de acumulación el inversor es más joven y por tanto el horizonte temporal suele ser mas largo. Como consecuencia, necesita protegerse frente a la inflación y puede permitirse arriesgar todo o parte del principal.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+45. El reajuste de una cartera de inversiones permite:
+
+<!-- -->
+
+a)  Sólo se aplica en carteras de renta fija.
+
+b)  Consolida paulatinamente las acciones con los mayores beneficios, cuando la bolsa se muestra favorable.
+
+c)  Aumentar la volatilidad y el horizonte temporal de la cartera.
+
+d)  Consolidar la rentabilidad objetivo rebajando la volatilidad de las carteras a lo largo del tiempo.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+El reajustes consiste en rebajar la volatilidad de la inversión cuando más cerca esta de su final.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+46. ¿En cuál de los siguientes modelos de banca no es una práctica habitual la adecuación de las inversiones al perfil del cliente con criterios de independencia?
+
+<!-- -->
+
+a)  Banca Empresas.
+
+b)  Banca Retail.
+
+c)  Banca Privada.
+
+d)  Family office.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+La banca retail se orienta hacia la venta de productos mientras que la banca personal busca un asesoramiento más especializado adecuando las inversiones al perfil del cliente con criterios de independencia.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+47. En el ejercicio de la profesión de asesor financiero se entiende como un buen negociador aquél que:
+
+<!-- -->
+
+a)  Es muy competitivo y ve la negociación como una confrontación.
+
+b)  Promete cosas que difilmente podrá conseguir, pero así logra captar al cliente.
+
+c)  Prefiere ceder antes de que se produzcan situaciones tensas.
+
+d)  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Un buen negociador sería aquél asesor que sabe decir no al cliente en su momento para evitar problemas posteriores.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+48. En el contexto del asesoramiento de inversión, ¿en qué casos será conveniente comprobar la veracidad de la información facilitada por el cliente?
+
+<!-- -->
+
+a)  Nunca, al cliente siempre hay que creerle lo que nos dice.
+
+b)  Cuando surja algún tipo de duda sobre la información suministrada por el cliente.
+
+c)  Depende del importe de la operación.
+
+d)  Exclusivamente cuando el cliente actúe por cuenta ajena como apoderado de un tercero.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+El cliente es responsable de la calidad, veracidad y exactitud de la información suministrada al asesor y por lo tanto exime a este de cualquier responsabilidad con terceros dimanante de la información suministrada. Asimismo el cliente también es responsable de mantener esta información actualizada en todo momento a través de las correspondientes reuniones con su asesor.
+
+Ahora bien, cuando surja algún tipo de duda sobre la información suministrada por el cliente será conveniente comprobar la veracidad de la misma en aras del buen funcionamiento de la relación.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+49. ¿Qué factores pueden influir en la demanda de servicios de banca personal?:
+
+<!-- -->
+
+a)  La "socialización de la riqueza".
+
+b)  Los factores demográficos tales como el incremento de la longevidad.
+
+c)  Determinadas formas de inversión se han popularizado, como la inversión colectiva.
+
+d)  Todas las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+El desarrollo de la banca personal en contraposición con la banca de productos más tradicional se ha venido desarrollado en los últimos tiempos por:
+
+-   La "socialización de la riqueza".
+
+-   Los factores demográficos como el incremento de la longevidad.
+
+-   La popularización de la inversión colectiva.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+50. El perfil de riesgo de riesgo de un inversor puede experimentar cambios durante su vida debido fundamentalmente a:
+
+<!-- -->
+
+a)  Cambios en su situación económica, personal y familiar.
+
+b)  Cambios en el contexto macroeconómico.
+
+c)  Cambio en la legislación fiscal.
+
+d)  Todas las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+El perfil de riesgo de un inversor podría verse alterado por cambios significativos en su situación económica, personal y familiar.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+51. Para estructurar inicialmente una cartera, deberemos conocer ante todo:
+
+<!-- -->
+
+a.  El porcentaje de liquidez, renta fija y renta variable que debe componer la cartera.
+
+b.  El perfil de riesgo y el horizonte temporal del cliente.
+
+c.  Si al cliente le gusta invertir más en acciones o en fondos de inversión.
+
+d.  La edad del cliente y su patrimonio total.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+El primer paso al estructurar una cartera es el definir el perfil de riesgo del cliente y su horizonte temporal. El resto de características son importantes, pero no dejan de ser elementos de segundo orden. Incluso la edad del cliente y su patrimonio son elementos para determinar su propensión al riesgo y su horizonte temporal.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+52. ¿Cuál de las siguientes definiciones se corresponde con la idea de financial planning?
+
+<!-- -->
+
+a.  La resolución de problemas financieros específicos a través de instrumentos concretos.
+
+b.  La asesoría de un cliente en todos los aspectos relacionados con su cartera de inversión.
+
+c.  La obtención de información relevante del cliente para preparar sus estados financieros individuales.
+
+d.  El proceso de integración de los objetivos financieros del cliente para su resolución global a través de un plan.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+El financial planning puede definirse como el desarrollo de un plan exhaustivo en el que se determinan la totalidad de objetivos financieros del individuo y en el que se seleccionan y ejecutan las mejores estrategias coordinadas para alcanzar dichos objetivos. El financial planning va mucho más allá de una cartera de inversión, de la resolución de problemas concretos, o de la preparación de sus estados financieros individuales.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+53. Una importante ventaja de la planificación financiera personal es:
+
+<!-- -->
+
+a.  Asegurar determinados niveles de rentabilidad.
+
+b.  Contribuir a conseguir los objetivos financieros del cliente.
+
+c.  Evitar dedicarle tiempo a nuestras finanzas personales.
+
+d.  Reducir la necesidad de incrementar el ahorro.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+Si se realiza un buena planificación financiera es más posible que el cliente alcance sus objetivos financieros. La planificación NO puede consistir en asegurar determinados niveles de rentabilidad, en evitar dedicar tiempo a las finanzas personales ni tampoco evita necesariamente aumentar el ahorro.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+54. El análisis de la capacidad de endeudamiento, la liquidez disponible y el patrimonio neto del cliente nos permitirá:
+
+<!-- -->
+
+a.  Conocer el objetivo para su jubilación.
+
+b.  Saber si los objetivos son factibles en función de su capacidad financiera.
+
+c.  Determinar que parte del patrimonio se invertirá financieramente.
+
+d.  Todas las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+Al analizar la capacidad de endeudamiento, la liquidez disponible y el patrimonio neto encontramos la capacidad financiera del individuo y de esta forma sabremos si los objetivos de la planificación son factibles o no. Determinar el objetivo para la jubilación, o qué parte del patrimonio se invertirá financieramente corresponde a otras etapas del proceso de planificación financiera.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+55. ¿Cuál de los siguientes NO es un principio básico para la planificación de la jubilación?
+
+<!-- -->
+
+a.  Estimar la pensión pública que se recibirá en la jubilación.
+
+b.  Tener al menos dos planes de pensiones, uno de la empresa y otro individual.
+
+c.  Calcular el pasivo actual.
+
+d.  Evaluar las necesidades de contratar en seguro.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+Tanto A, C y D son pasos necesarios para planificar adecuadamente la jubilación, mientras que no puede considerarse como fundamental el tener como mínimo dos planes de pensiones.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+56. En el ámbito de las estrategias para la jubilación ¿Cuál de las siguientes características es verdadera?
+
+<!-- -->
+
+a.  Estimar la pensión pública que se percibirá en la jubilación, es imprescindible para poder establecer el complemento de índole privado que será necesario para consolidar el objetivo deseado.
+
+b.  La estimación de la curva de tipos de interés futura es irrelevante para planificar la jubilación, porque el horizonte temporal de la inversión es muy extenso.
+
+c.  El cálculo del pasivo personal debe considerarse secundario al planificar la jubilación. En cambio, sí que es prioritario determinar, lo más exactamente posible, el activo personal.
+
+d.  Ninguna de las respuestas anteriores es correcta.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+En el ámbito de las estrategias para la jubilación, es imprescindible estimar la pensión pública que se percibirá en la jubilación. De esta forma, se podrá determinar el complemento de índole privado que será necesario para consolidar el objetivo deseado.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+57. En relación con las comisiones y los costes que hay que cargar al cliente, el código ético de EFPA requiere:
+
+<!-- -->
+
+a.  Reducirlos al máximo.
+
+b.  Integrarlos dentro del rendimiento neto de los productos.
+
+c.  No se mencionan en el código EFPA.
+
+d.  Explicarlos claramente al cliente.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Implica la obligación de estar en capacidad y explicar claramente todas las comisiones y gastos a cargar al cliente.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+58. Un Asesor Financiero Europeo (EFA), en relación con el código ético de EFPA debe:
+
+<!-- -->
+
+a.  Aceptarlo, incentivar su aceptación, promocionarlo y cumplirlo.
+
+b.  Sólo aceptarlo al certificarse y cumplirlo.
+
+c.  Obligar a los clientes a aceptarlo.
+
+d.  No es de aplicación a los Asesores Financieros, sólo es para los Planificadores Financieros (EFP).
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+Los principios hacen referencia a que los miembros de EFPA deben incentivar y promocionar el cumplimiento del código ético.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+59. ¿Cuál de los siguientes principios NO se encuentra en el Código Ético de la Asociación Europea de Planificación Financiera (EFPA)?
+
+<!-- -->
+
+a.  Diligencia.
+
+b.  Atención debida.
+
+c.  Transparencia.
+
+d.  Prudencia.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Los principios de a) "Diligencia", b) "Atención debida" y c) "Transparencia" se encuentran en el Código Ético de la Asociación Europea de Planificación Financiera (€FPA). El principio d) "Prudencia" no.
+:::
+
+</details>
+
+------------------------------------------------------------------------

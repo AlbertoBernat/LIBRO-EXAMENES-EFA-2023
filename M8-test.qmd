@@ -1,1 +1,3160 @@
 # Módulo 8 {.unnumbered}
+
+## Fiscalidad {.unnumbered}
+
+1.  ¿Cuáles son los tipos mínimo y máximo de la escala progresiva de gravamen del IRPF en su base general?:
+
+```{=html}
+<!-- -->
+```
+a)  Mínimo 19% y máximo 45%.
+
+b)  Mínimo 18% y máximo 45%.
+
+c)  Mínimo 24% y máximo 43%.
+
+d)  Mínimo 24.75% y máximo 52%.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+La distribución de las tablas de IRPF para 2016 es la siguiente:
+
+-   de 0 a 12.450 € -- 19%
+
+-   de 12.451 a 20.200 € -- 24%
+
+-   de 20.201 a 35.200 € -- 30%
+
+-   de 35.201 a 60.000€ -- 37%
+
+-   Más de 60.001 € -- 45%
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+2.  ¿Qué nombre reciben las aportaciones realizadas a planes de pensiones, más los rendimientos obtenidos por las inversiones del patrimonio del fondo de pensiones y menos los gastos producidos?
+
+```{=html}
+<!-- -->
+```
+a)  Acciones o participaciones, según el tipo de inversiones del fondo de pensiones.
+
+b)  Participaciones del plan de pensiones.
+
+c)  Derechos consolidados.
+
+d)  Participaciones preferentes.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la C**.
+
+Podemos definir los derechos consolidados de un plan de pensiones como aquellos derechos económicos pertenecientes al partícipe y que son resultado de las aportaciones realizadas así como de los rendimientos producidos en las mismas y que se derivan del sistema financiero de capitalización.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+3.  Indique cuál de las siguientes afirmaciones es correcta:
+
+```{=html}
+<!-- -->
+```
+a)  El IRPF es un impuesto indirecto que grava la renta cuando la misma se consume por el contribuyente.
+
+b)  El IRPF es un impuesto directo que grava la renta obtenida por el contribuyente con progresividad.
+
+c)  El IRPF es un impuesto directo que grava las rentas del ahorro a un tipo fijo, no progresivo.
+
+d)  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+Impuesto sobre la Renta de las Personas Físicas (IRPF): Es un impuesto directo que se aplica sobre la obtención de la renta como manifestación inmediata de la capacidad económica de los ciudadanos, atendiendo a los principios de igualdad, generalidad y progresividad y de acuerdo con las circunstancias personales y familiares de las personas.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+4.  ¿Que régimen fiscal es aplicable a los inversores en los Exchanged Traded Funds (ETF)?:
+
+```{=html}
+<!-- -->
+```
+a)  Se aplica la misma fiscalidad que los Fondos de Inversión.
+
+b)  Se aplica la fiscalidad correspondiente a las acciones y no la fiscalidad el de los Fondos de Inversión.
+
+c)  Se aplica la fiscalidad correspondiente a las acciones, salvo en lo relativo a las plusvalías, las cuales tributan como rendimiento del capital mobiliario.
+
+d)  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la B**.
+
+**El régimen fiscal aplicable a los inversores en ETF es el de las acciones**, no el de los fondos, por lo que las ganancias patrimoniales no están sujetas a retención. Por otra parte, las participaciones en fondos cotizados no pueden ser objeto de traspaso, por lo que no es posible acogerse al régimen que permite a los partícipes en fondos tradicionales reembolsar en un fondo y suscribir en otro con diferimiento de la tributación por las plusvalías.
+
+**La diferencia entre el importe obtenido en la venta y el satisfecho en la compra de un ETF, es una ganancia/pérdida patrimonial que se integra en la base imponible del ahorro**. En los ETFs, a diferencia de los fondos de inversión tradicionales, no se aplica retención a cuenta sobre las ganancias patrimoniales derivadas de la transmisión de los mismos.
+
+A este tipo de fondos no se les aplica la exención de tributación por el traspaso de participaciones, del que sí se benefician los fondos tradicionales. Es decir, al traspasar las participaciones de un ETF a otro ETF no hay diferimiento de la tributación por haber evitado su venta/reembolso.
+
+Por su parte, **los dividendos (sujetos a retención del 19%) se ajusta en función del tramo correspondiente por ganancias de capital, ya que son** rendimientos del capital mobiliario como cualquier otro interés cobrado por la tenencia de un activo.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+5.  La renta como objeto del Impuesto sobre la Renta de las Personas Físicas (IRPF). Se entiende que está constituida por la totalidad de los rendimientos:
+
+```{=html}
+<!-- -->
+```
+a)  Del trabajo, de actividades económicas y del capital; y por las ganancias y pérdidas patrimoniales.
+
+b)  Del trabajo, del capital; y por las ganancias y pérdidas patrimoniales.
+
+c)  Del trabajo, de los beneficios empresariales y del capital; y por las ganancias y pérdidas patrimoniales.
+
+d)  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+Renta: Es el objeto del Impuesto sobre la Renta de las Personas Físicas. Se entiende que está constituida por la totalidad de los rendimientos (del trabajo, de actividades económicas y del capital), y por las ganancias y pérdidas patrimoniales
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+6.  Marisa contrató hace un mes un seguro de vida que cubre el riesgo de fallecimiento de su esposo. El beneficiario del seguro para caso de fallecimiento es su hija Matilde. ¿Qué tratamiento fiscal corresponderá al cobro de la prestación para caso de fallecimiento por el beneficiario?:
+
+```{=html}
+<!-- -->
+```
+a)  Tributación por el Impuesto sobre la Renta de las Personas Físicas como rendimiento del capital mobiliario.
+
+b)  Tributación en el Impuesto Sobre Sucesiones y Donaciones, modalidad "mortis causa".
+
+c)  Tributación por el Impuesto sobre Sucesiones y Donaciones, modalidad "inter vivos".
+
+d)  Ausencia de tributación en el Impuesto sobre Sucesiones y Donaciones por tratarse de una renta obtenida por un descendiente.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+Las prestaciones derivadas de un contrato de seguro pueden ser objeto de diferentes impuestos, dependiendo de la contingencia producida y de los elementos personales del mismo.
+
+Cuando el tomador del seguro no es la misma persona que el beneficiario, la tributación corresponde al Impuesto de Sucesiones y Donaciones.
+
+Cuando el tomador del seguro sí es la misma persona que el beneficiario, la tributación corresponde al IRPF.
+
+En este caso, el tratamiento fiscal que corresponderá al beneficiario por el cobro de la prestación (debido al fallecimiento) será la tributación por el Impuesto sobre Sucesiones y Donaciones. La duda puede surgir en la modalidad, pero en este aspecto la ley es clara y dice que las transmisiones se considerarán inter vivos cuando ésta se produce en vida del donante. Y, como Marisa (la donante) sigue en vida el hecho imponible será considerado una adquisición gratuita "inter vivos".
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+7.  Las pérdidas patrimoniales que no han podido compensarse en la base imponible del ahorro:
+
+```{=html}
+<!-- -->
+```
+a)  Podrán compensarse en la base imponible del ahorro durante los 4 años siguientes
+
+b)  Podrán compensarse en 15 años
+
+c)  Podrán compensarse en la base imponible general y en la base imponible del ahorro en los 5 años siguientes.
+
+d)  No pueden compensarse en ejercicios futuros.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+La integración y compensación en la base imponible del ahorro actualmente es la siguiente:
+
+-   Los rendimientos de capital mobiliario que se integran entre sí en la base imponible del ahorro. Si los rendimientos obtenidos son negativos, su importe se compensará con el saldo positivo de las ganancias y pérdidas patrimoniales que se declaren en el otro componente de la base imponible del ahorro con el límite del 25 por ciento de dicho saldo positivo.
+
+-   Ganancias y pérdidas patrimoniales que se integran en la base imponible del ahorro. Si el saldo de la integración y compensación de este tipo de rendimientos fuera negativo, su importe se podrá compensar con el saldo positivo del otro componente de la base imponible del ahorro, rendimientos de capital mobiliario, con el límite del 25 por ciento de dicho saldo positivo.
+
+-   En ambos casos si tras dichas compensaciones quedase saldo negativo, su importe se compensará en los cuatro años siguientes.
+
+No obstante, durante los años 2015, 2016 y 2017 el porcentaje de compensación no será del 25%, sino del 10, 15 y 20% respectivamente.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+8.  Un contribuyente del IRPF que percibe rentas por el alquiler de un local comercial, disponiendo para ello de un empleado con contrato laboral y a jornada completa, deberá declarar:
+
+```{=html}
+<!-- -->
+```
+a)  Rendimientos del trabajo personal.
+
+b)  Rendimientos del capital mobiliario.
+
+c)  Rendimientos del capital inmobiliario.
+
+d)  Rendimientos de actividades económicas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Se considera que el arrendamiento de inmuebles se realiza como actividad económica, úni- camente cuando para la ordenación de esta se utilice, al menos, una persona empleada con contrato laboral y a jornada completa.
+
+Importante: en 2015 desaparece como requisito para considerar el arrendamiento de inmuebles como actividad económica el de contar, al menos, con un local exclusivamente destinado a llevar a cabo la gestión de la actividad.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+9.  Hace seis años, el Sr. Bernat, residente fiscal en Altea, suscribió con dinero privativo un seguro de vida con una compañía de seguros. De acuerdo con las condiciones del contrato, el seguro garantiza una prestación a favor del cónyuge del Sr. Bernat para caso de fallecimiento de éste último. Si se produjera el fallecimiento del Sr. Bernat, ¿por qué impuesto y en qué concepto habría de tributar su cónyuge?:
+
+```{=html}
+<!-- -->
+```
+a)  Por el Impuesto sobre la Renta de las Personas Físicas.
+
+b)  Por el Impuesto sobre Sucesiones y Donaciones, modalidad adquisiciones "inter vivos".
+
+c)  Por el Impuesto sobre Sucesiones y Donaciones, modalidad adquisiciones "mortis causa".
+
+d)  Por ambos impuestos.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+El cobro de cantidades provenientes de un seguro puede generar un hecho imponible en el Impuesto sobre la Renta de las Personas Físicas (IRPF) o en el Impuesto sobre Sucesiones y Donaciones (en cualquiera de sus dos modalidades). La determinación de cuál de estos Impuestos es aplicable se realiza atendiendo al siguiente criterio:
+
+Hechos imponibles por supervivencia del asegurado
+
+$$TOMADOR\quad=\quad BENEFICIARIO\quad\Longrightarrow \quad I.R.P.F.$$
+
+$$
+TOMADOR\quad \neq \quad BENEFICIARIO\quad \quad \Longrightarrow \quad ISD\quad (Donaciones)
+$$
+
+Hechos imponibles por **fallecimiento del asegurado**
+
+$$TOMADOR\quad=\quad BENEFICIARIO\quad\Longrightarrow \quad I.R.P.F.$$
+
+$$TOMADOR\quad \neq \quad BENEFICIARIO\quad \quad \Longrightarrow \quad ISD\quad (Sucesiones)$$
+
+Por tanto al ser el tomador (Sr. Bernat) distinto de la beneficiaria (conyuge Sr. Bernat), el impuesto que se devenga como consecuencia del cobro de la prestación del seguro será el **Impuesto sobre Sucesiones y Donaciones** en su modalidad de sucesiones (Mortis causa), ya que el acto jurídico se produce por causa de muerte del tomador y asegurado.
+
+Nota: Inter vivos es una expresión latina que se utiliza en derecho para referirse a aquellos actos jurídicos que se producen entre personas vivas. La expresión literalmente significa "entre vivos". Por el contrario, Mortis causa o causa mortis es también una expresión latina que significa "por causa de muerte" o "a causa de la muerte". Y que se utiliza para referirse a aquellos actos jurídicos que se producen o tienen efecto a partir del fallecimiento de una persona.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+10. Con la nueva Ley del IRPF las cuantías en concepto de mínimos personal y por descendientes se detraen:
+
+```{=html}
+<!-- -->
+```
+a)  De la base imponible general y de la base imponible del ahorro.
+
+b)  De la base imponible general.
+
+c)  De la cuota íntegra general, previo sometimiento a las mismas de las escalas de gravamen.
+
+d)  De la base liquidable para gravarse a tipo cero.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Para asegurar una misma disminución de la carga tributaria para todos los contribuyentes con igual situación familiar, sea cual sea su nivel de renta, el importe correspondiente al mínimo personal y familiar ya no reduce la renta del período impositivo para determinar la base imponible, sino que pasa a formar parte de la base liquidable para gravarse a tipo cero. De esta forma, los contribuyentes con iguales circunstancias personales y familiares logran el mismo ahorro fiscal, cualquiera que sea su nivel de renta.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+11. ¿Cuál es el plazo general para compensar las bases imponibles negativas que hayan sido objeto de liquidación o autoliquidación en el Impuesto sobre Sociedades?:
+
+```{=html}
+<!-- -->
+```
+a)  Se permite la compensación ilimitada en el tiempo.
+
+b)  10 años siguientes.
+
+c)  18 años siguientes.
+
+d)  5 años siguientes.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+Las bases imponibles negativas que hayan sido objeto de liquidación o autoliquidación podrán ser compensadas con las rentas positivas de los períodos impositivos siguientes. Por tanto, se permite la compensación ilimitada en el tiempo.
+
+Normativa: Artículo 26 Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+12. Un contribuyente del IRPF que ha percibido 6.500 euros en concepto de dividendos procedentes de una sociedad del IBEX 35 deberá afrontar una carga fiscal por IRPF de:
+
+```{=html}
+<!-- -->
+```
+a)  1.050 euros.
+
+b)  1.235 euros.
+
+c)  950 euros.
+
+d)  1.245 euros.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Los tipos que se pagan por dividendos y demás rendimientos del capital mobiliario en 2016 y 2017 quedan en:
+
+-   Entre 0 y 6.000 euros: se paga el 19%.
+
+-   Entre 6.000,01 y 50.000 euros: se paga el 21%.
+
+-   Más de 50.000 euros: se paga el 23%.
+
+Por lo tanto el cálculo quedaría como sigue,
+
+$$CF=6000\cdot0.19+500\cdot0.21=1245$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+13. Un contribuyente del IRPF que ha percibido 6.500 euros en concepto de dividendos procedentes de una SICAV deberá afrontar una carga fiscal por IRPF de:
+
+```{=html}
+<!-- -->
+```
+a)  1.050 euros.
+
+b)  1.245 euros.
+
+c)  1.385 euros.
+
+d)  1.235 euros.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+Desde las últimas reformas del IRPF (2006 y 2014), todos los inversores (personas físicas) tienen la misma fiscalidad en productos de ahorro: así, los accionistas de las SICAV, al igual que los partícipes de los Fondos de Inversión, al igual que los inversores en depósitos o los asegurados en productos "unit-linked", o los accionistas de cualquier empresa cotizada o no cotizada, tienen exactamente la misma tributación (en 2016, un 19% si la plusvalía es inferior a 6.000 euros/año; 21% entre 6.000 y 50.000 euros; y 23% a partir de esa cifra). Adicionalmente, al vender las acciones de la SICAV, el accionista vendedor está obligado a realizar una autoliquidación e ingresar a cuenta del incremento de patrimonio obtenido.
+
+Los tipos que se pagan por dividendos y demás rendimientos del capital mobiliario en 2016 y 2017 quedan en:
+
+-   Entre 0 y 6.000 euros: se paga el 19%.
+
+-   Entre 6.000,01 y 50.000 euros: se paga el 21%.
+
+-   Más de 50.000 euros: se paga el 23%.
+
+Por lo tanto el cálculo quedaría como sigue,
+
+$$6000\cdot0.19+500\cdot0.21=1245$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+14. Señale la/s afirmación/es correcta/s referente a los rendimientos procedentes de la cesión a terceros de capitales propios:
+
+```{=html}
+<!-- -->
+```
+a)  Tienen esta consideración las contraprestaciones tanto si son dinerarias como si son en especie.
+
+b)  Tienen esta consideración los intereses de cuentas en toda clase de instituciones financieras.
+
+c)  Tienen esta consideración los intereses, cupones y otros rendimientos periódicos derivados de valores de renta fija.
+
+d)  Todas las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Rendimientos procedentes de la cesión a terceros de capitales propios (Art. 25.2 Ley IRPF)
+
+Tienen esta consideración las contraprestaciones de todo tipo, cualquiera que sea su denomi- nación o naturaleza, tanto si son dinerarias como en especie, obtenidas como retribución por la cesión a terceros de capitales propios, así como las derivadas de la transmisión, reembolso, amortización, canje o conversión de cualquier clase de activos representativos de la captación y utilización de capitales ajenos.
+
+Dentro de esta categoría de rendimientos, pueden distinguirse los **cuatro grupos siguientes**:
+
+1.  Rendimientos obtenidos por la cesión a terceros de capitales propios.
+
+2.  Contraprestaciones derivadas de la transmisión, reembolso, amortización, canje o con- versión de cualquier clase de activos financieros, con independencia de la naturaleza del rendimiento que produzcan, implícito, explícito o mixto.
+
+3.  Rendimientos derivados de determinados préstamos de valores.
+
+4.  Rendimientos derivados de participaciones preferentes y deuda subordinada.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+15. Un contribuyente viudo convive con su hija soltera de 21 años y su nieto de 2, sin que estos dos últimos tengan rentas:
+
+```{=html}
+<!-- -->
+```
+a)  El contribuyente, su hija y su nieto forman una unidad familiar, y el contribuyente no puede aplicar el mínimo por descendientes.
+
+b)  El contribuyente, su hija y su nieto no forman una unidad familiar, y el contribuyente puede aplicar el mínimo por descendientes.
+
+c)  El contribuyente, su hija y su nieto forman una unidad familiar, y el contribuyente puede aplicar el mínimo por descendientes.
+
+d)  El contribuyente, su hija y su nieto no forman una unidad familiar, y el contribuyente no puede aplicar el mínimo por descendientes.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+A efectos del IRPF, existen dos modalidades de unidad familiar, a saber:
+
+**En caso de matrimonio (modalidad 1ª)**:
+
+La integrada por los cónyuges no separados legalmente y, si los hubiere:
+
+1.  Los hijos menores, con excepción de los que, con el consentimiento de los padres, vivan independientemente de estos.
+
+2.  Los hijos mayores de edad incapacitados judicialmente sujetos a patria potestad prorrogada o rehabilitada.
+
+La mayoría de edad se alcanza a los 18 años.
+
+**En defecto de matrimonio o en los casos de separación legal (modalidad 2ª)**:
+
+La formada por el padre o la madre y la totalidad de los hijos que convivan con uno u otra y reúnan los requisitos señalados para la modalidad 1ª anterior.
+
+De la regulación legal, a efectos fiscales, de las modalidades de unidad familiar, pueden extraerse las siguientes conclusiones:
+
+-   Cualquier otra agrupación familiar distinta de las anteriores no constituye unidad familiar a efectos del IRPF.
+
+-   Nadie podrá formar parte de dos unidades familiares al mismo tiempo.
+
+-   La determinación de los miembros de la unidad familiar se realizará atendiendo a la situación existente el día 31 de diciembre de cada año.
+
+Por tanto, si un hijo cumpliera 18 años durante el año, ya no formará parte de la unidad familiar en ese período impositivo.
+
+Únicamente podrá aplicarse el mínimo por los descendientes y asimilados del contribuyente que cumplan todos y cada uno de los siguientes requisitos:
+
+-   Que el descendiente sea menor de 25 años a la fecha de devengo del impuesto.
+
+-   Que el descendiente conviva con el contribuyente.
+
+-   Que el descendiente no haya obtenido en el ejercicio rentas superiores a 8.000 euros anuales, excluidas las rentas exentas del impuesto.
+
+-   Que no presenten declaración del IRPF.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+16. En un seguro de vida en el que el contratante, o tomador, es una persona distinta del beneficiario, el importe cobrado por los beneficiarios tributará:
+
+```{=html}
+<!-- -->
+```
+a)  A En el IRPF como ganancia patrimonial para el transmisor ("de cuius" o causante).
+
+b)  En el IRPF como rendimiento del capital mobiliario del beneficiario.
+
+c)  En el ISD, en la persona del beneficiario.
+
+d)  En el IRPF en la persona del beneficiario.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+17. A la hora de cuantificar la ganancia o pérdida patrimonial procedente de la venta de acciones cotizadas, los corretajes y comisiones de venta que se hayan tenido que pagar en la transmisió:
+
+```{=html}
+<!-- -->
+```
+a)  Reducirán el valor de adquisición de las acciones.
+
+b)  Aumentarán el valor de transmisión de las acciones.
+
+c)  Reducirán el valor de transmisión de las acciones.
+
+d)  Aumentarán el valor de adquisición de las acciones.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+18. Un contribuyente de 54 años de edad ha aportado 12.500 euros a un plan de pensiones del sistema individual. ¿Cuál es la cantidad máxima que en el año 2016 puede reducir de la base imponible general del IRPF si su única fuente de ingresos tributables en la base imponible general son 23.000 euros en concepto de rendimientos del capital inmobiliario procedentes del alquiler de un local comercial?:
+
+```{=html}
+<!-- -->
+```
+a)  12.500 euros.
+
+b)  10.000 euros.
+
+c)  11.500 euros.
+
+d)  0 euros.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+En este caso el contribuyente no puede reducir las aportaciones por insuficiencia de base en los rendimientos del trabajo. Ya que el límite porcentual resulta 0.
+
+Recordemos que la cantidad límite es el menor de:
+
+-   8.000 euros.
+
+-   o el 30% de los rendimientos del trabajo y actividades económicas, independientemente de la edad.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+19. ¿Cómo tributa la transmisión o reembolso de acciones o participaciones de Instituciones de Inversión Colectiva ?
+
+```{=html}
+<!-- -->
+```
+a)  Como una ganancia o pérdida patrimonial.
+
+b)  Como un rendimiento del capital mobiliario.
+
+c)  Como un rendimiento del trabajo.
+
+d)  Como un rendimiento del capital inmobiliario.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+Tributará como ganancia o pérdida patrimonial, teniendo en cuenta que cuando existan valores homogéneos se considerará que los transmitidos o reembolsados por el contribuyente son aquellos que adquirió en primer lugar.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+20. ¿Cuál será el tratamiento fiscal de las cuantías percibidas en forma de capital derivadas de contratos de seguro de vida a prima única?
+
+```{=html}
+<!-- -->
+```
+a)  Como una ganancia o pérdida patrimonial.
+
+b)  Como un rendimiento del capital mobiliario.
+
+c)  Como un rendimiento del trabajo.
+
+d)  Como un rendimiento del capital inmobiliario.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+Tributarán como rendimientos del capital mobiliario por diferencia entre el capital percibido y el importe de las primas satisfechas que hayan generado el capital que se percibe, integrándose en la base imponible del ahorro del Impuesto sobre la Renta de las Personas Físicas, sin que le resulte de aplicación ningún porcentaje de reducción.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+21. ¿Qué tratamiento fiscal tienen los planes individuales de ahorro sistemáticos (PIAS)?:
+
+```{=html}
+<!-- -->
+```
+a)  Como una ganancia o pérdida patrimonial aplicando a cada anualidad unos porcentajes en función de la edad del contribuyente.
+
+b)  Como un rendimiento del capital mobiliario aplicando a cada anualidad unos porcentajes en función de la edad del contribuyente.
+
+c)  Como un rendimiento del trabajo aplicando a cada anualidad unos porcentajes en función de la edad del contribuyente.
+
+d)  Como un rendimiento del capital inmobiliario aplicando a cada anualidad unos porcentajes en función de la edad del contribuyente.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+Los planes individuales de ahorro sistemático se configuran como contratos celebrados con entidades aseguradoras para constituir con los recursos aportados una renta vitalicia asegurada.
+
+Las rentas que se pongan de manifiesto en el momento de la constitución de la renta vitalicia asegurada estará exenta.
+
+La renta vitalicia que se perciba tributará como rendimiento de capital mobiliario conforme al artículo 25.3 a) 2º, aplicando a cada anualidad los porcentajes siguientes:
+
+-   40% cuando el perceptor tenga menos de 40 años.
+
+-   35% cuando el perceptor tenga entre 40 y 49 años.
+
+-   28% cuando el perceptor tenga entre 50 y 59 años.
+
+-   24% cuando el perceptor tenga entre 60 y 65 años.
+
+-   20% cuando el perceptor tenga entre 66 y 69 años
+
+-   8% cuando el perceptor tenga más de 70 años.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+22. A efectos de calificar las prestaciones de los seguros de vida o invalidez como rendimientos de capital mobiliario, ¿qué se consideran prestaciones por invalidez?:
+
+```{=html}
+<!-- -->
+```
+a)  Se entiende por invalidez aquella situación que determine en la persona afectada un grado de discapacidad igual o superior al 33%.
+
+b)  Se entiende por invalidez aquella situación que determine en la persona afectada un grado de discapacidad igual o superior al 65%
+
+c)  Se entiende por invalidez cuando se trate de discapacitados cuya incapacidad haya sido declarada judicialmente en el orden civil.
+
+d)  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+Son rendimientos de capital mobiliario los procedentes de contratos de vida o invalidez, salvo que deban tributar como rendimientos del trabajo.
+
+A los efectos del Impuesto sobre la Renta, tienen la consideración de discapacitados aquellos contribuyentes que acrediten un grado de discapacidad igual o superior al 33%.
+
+Por tanto, cuando la prestación de un seguro tenga su origen en una situación de invalidez, entendida según lo señalado anteriormente, el rendimiento generado se calificará como rendimiento de capital mobiliario. En caso contrario se calificará como ganancia patrimonial.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+23.Un Plan Individual de Ahorro Sistemático (PIAS) es:
+
+a)  Un seguro de vida.
+
+b)  Un contrato bancario de depósito que invierte en un subyacente.
+
+c)  Un plan de pensiones.
+
+d)  Ninguno de los anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+Un Plan Individual de Ahorro Sistemático es un seguro de vida.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+¿Qué tratamiento fiscal tienen los planes individuales de ahorro sistemáticos (PIAS)?: a) El importe obtenido tributa como rendimiento del capital mobiliario.
+
+b)  El importe obtenido reduce el valor de adquisición de las acciones hasta anularlo y, el exceso, si lo hubiera, tributará como ganancia patrimonial.
+
+c)  Todo el importe obtenido tributa como rendimiento del capital mobiliario.
+
+d)  La venta de derechos de suscrición preferente no genera tributación en el IRPF
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+El importe obtenido en la transmisión de derechos de suscripción derivados de esta clase de acciones y participaciones no constituye ganancia patrimonial ni rendimientos del capital mobiliario, sino que dicho importe minorará el valor de adquisición de las acciones de las que proceden a efectos de futuras transmisiones de las mismas. Cuando no se transmita la totalidad de los derechos, se entenderá que los transmitidos corresponden a los valores adquiridos en primer lugar.
+
+No obstante, si el importe obtenido en la transmisión de los derechos de suscripción llegara a ser superior al valor de adquisición de los valores de los cuales procedan tales derechos, la diferencia tiene, en todo caso, la consideración de ganancia patrimonial para el transmitente que deberá imputarse al período impositivo en que se produzca la transmisión.
+
+**nota**: a partir de 01.01.2017 el importe de transmisión será ganancia patrimonial y estará sometido a retención del 19%
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+25. Las diferencias positivas obtenidas en la conversión de una posición en divisa tributa en el IRPF bajo la calificación fiscal de:
+
+```{=html}
+<!-- -->
+```
+a)  Rendimiento del capital mobiliario
+
+b)  Ganancia o pérdida patrimonial
+
+c)  Rendimiento el capital mobiliario o ganancia o pérdida patrimonial según el tipo de renta que genere el producto financiero que se haya contratado en divisa
+
+d)  Rendimiento del trabajo personal
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+Cuando se vende un bien denominado en divisas y se recibe una saldo en esta divisa, se imputará como ganancia o pérdida patrimonial el importe de la ganancia o perdida patrimonial obtenida en divisas y convertida a euros al tipo de cambio oficial del día de la transmisión.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+26. ¿Cómo tributan los rendimientos derivados de un seguro de vida de rentas vitalicias inmediatas que no hayan sido adquiridas por herencia, legado o cualquier otro título sucesorio en el IRPF?
+
+```{=html}
+<!-- -->
+```
+a)  Se integran en la base imponible del ahorro.
+
+b)  Se integran en la base imponible los rendimientos generados aplicando a cada anualidad los porcentajes correspondientes en función de la edad.
+
+c)  Se integran en la base imponible general.
+
+d)  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+En el Impuesto sobre la Renta de la Personas Físicas, los contratos de seguro de renta vitalicia inmediata generan para su perceptor, cuando este coincide con el contratante del seguro, rendimientos del capital mobiliario.
+
+La integración en la base imponible del Impuesto sobre la Renta de las Personas Físicas de los rendimientos generados se realizará aplicando a cada anualidad los porcentajes siguientes:
+
+40 por 100, cuando el perceptor tenga menos de 40 años. 35 por 100, cuando el perceptor tenga entre 40 y 49 años. 28 por 100, cuando el perceptor tenga entre 50 y 59 años. 24 por 100, cuando el perceptor tenga entre 60 y 65 años. 20 por 100, cuando el perceptor tenga entre 66 y 69 años. 8 por 100, cuando el perceptor tenga más de 70 años.
+
+Estos porcentajes serán los correspondientes a la edad del rentista en el momento de la constitución de la renta y permanecerán constantes durante toda su vigencia.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+27. Un contribuyente del IRPF que tiene 54 años de edad ha aportado el importe máximo legalmente permitido a un plan de pensiones. ¿Cuál es el importe máximo que puede reducir de su base imponible en el IRPF si percibe unos rendimientos netos del trabajo personal de 20.000 euros:
+
+```{=html}
+<!-- -->
+```
+a)  10.000 euros
+
+b)  12.500 euros
+
+c)  6.000 euros
+
+d)  ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+Recordemos que la cantidad límite es el menor de:
+
+-   8.000 euros.
+
+-   o el 30% de los rendimientos del trabajo y actividades económicas, independientemente de la edad.
+
+Por tanto,
+
+$$20000\cdot0.3=6000$$ $$6000<8000$$ Cojemos el menor: 6.000 euros
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+28. Un contribuyente recién jubilado:
+
+```{=html}
+<!-- -->
+```
+a)  Puede seguir haciendo aportaciones para la cobertura de fallecimiento.
+
+b)  Ya no puede seguir haciendo aportaciones al plan de pensiones.
+
+c)  Puede seguir haciendo aportaciones para la cobertura de fallecimiento y también para la cobertura de jubilación, siempre y cuando no perciba cantidad alguna de planes de pensiones por la contingencia de jubilación.
+
+d)  Debe solicitar de la gestora del fondo de pensiones el pago inmediato de sus derechos económicos en el plan de pensiones.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+Estar jubilado no es impedimiento para seguir ahorrando en los productos de pensiones del sistema privado. La ley permite a las personas retiradas seguir aportando capital a sus productos de ahorro de pensiones, pero con una condición muy clara: no pueden haber iniciado aún el cobro de la prestación por jubilación de ése u otro plan. En caso contrario, esa posibilidad está vetada.
+
+La ley de pensiones impide simultanear la condición de beneficiario y partícipe de un plan de pensiones individual o en razón de la pertenencia a varios planes ante la misma contingencia, de forma que si un ahorrador tiene dos planes de pensiones y en uno de ellos ha iniciado el cobro de la prestación correspondiente por jubilación, ya no podrá seguir realizando aportaciones al otro por el mismo motivo. En general, un jubilado solo podrá seguir realizando aportaciones a cualquiera de sus planes de pensiones siempre que no haya iniciado el cobro de la prestación en ninguno de ellos. "Es incompatible realizar aportaciones y cobrar prestaciones por la misma contingencia simultáneamente", explican los expertos.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+29. Indique cuál de las siguientes rentas no pertenece a la denominada "renta general" en el IRPF:
+
+```{=html}
+<!-- -->
+```
+a)  Rendimientos del capital mobiliario.
+
+b)  Rendimientos del trabajo.
+
+c)  Rendimientos de actividades económicas.
+
+d)  Rendimientos del capital inmobiliario.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+La renta del ahorro queda compuesta por:
+
+-   Los rendimientos de capital mobiliario
+
+-   Ganancias y pérdidas patrimoniales.
+
+Mientras que la renta general, se compone de:
+
+-   Rendimientos del trabajo.
+
+-   Rendimientos de actividades económicas.
+
+-   Rendimientos del capital inmobiliario.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+30. En la actualidad (2017), ¿cuál es el tipo máximo al que pueden llegar a tributar los rendimientos del trabajo personal?:
+
+```{=html}
+<!-- -->
+```
+a)  Al 45%.
+
+b)  Al 52%.
+
+c)  Al 27%.
+
+d)  Al 42%.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+Los tipos mínimo y máximo de la escala progresiva de gravamen del IRPF en su base general es:
+
+-   Mínimo 19%
+
+-   Máximo 45%.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+31. Si se adquiere un inmueble por 100.000 euros y se vende por 200.000 euros a los 9 años, se produce:
+
+```{=html}
+<!-- -->
+```
+a)  Una ganancia patrimonial.
+
+b)  Un rendimiento de capital inmobiliario.
+
+c)  Un rendimiento de actividad económica.
+
+d)  Un rendimiento del capital mobiliario.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+Por la venta del inmueble se produce una ganancia patrimonial. Ésta se calculará, a partir de 2015, restando al valor de transmisión el valor de adquisición según el siguiente esquema:
+
+-   (+) Importe real de la adquisición (o valor de adquisición a efectos del Impuesto sobre Sucesiones y Donaciones).
+
+-   (+) Inversiones y mejoras efectuadas en los bienes adquiridos.
+
+-   (+) Gastos y tributos inherentes a la adquisición (excepto intereses), satisfechos por el adquirente.
+
+-   ( - ) Amortizaciones (inmuebles o muebles arrendados y derechos sobre los mismos, así como en los supuestos de prestación de asistencia técnica que no constituya actividad económica).
+
+= **Valor de adquisición**
+
+-   (+) Importe real de la transmisión (o valor de transmisión a efectos del Impuesto sobre Sucesiones y Donaciones).
+
+-   ( - ) Gastos y tributos inherentes a la transmisión satisfechos por el transmitente.
+
+= **Valor de transmisión**
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+32. Indicar cuál de los siguientes gastos NO son deducibles en los rendimientos de capital mobiliario:
+
+```{=html}
+<!-- -->
+```
+a)  Los gastos de administración y custodia de valores negociables.
+
+b)  Los gastos necesarios para la obtención de rendimientos por el alquiler de un vehículo personal
+
+c)  La amortización por deterioro del bien mueble alquilado.
+
+d)  Las comisiones por mantenimiento de cuentas corrientes.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+NO son deducibles en los rendimientos de capital mobiliario las comisiones por mantenimiento de cuentas corrientes.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+33. Indicar de cuál de los siguientes negocios jurídicos derivan rendimientos del capital inmobiliario:
+
+```{=html}
+<!-- -->
+```
+a)  El alquiler de un bien inmueble.
+
+b)  La concesión de uso de un bien inmueble por una empresa a un empleado suyo.
+
+c)  La compra de un bien inmueble.
+
+d)  La venta de un bien inmueble.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+34. Los dividendos obtenidos por Si una persona física derivados de la la titularidad de acciones de una sociedad de capital son:
+
+```{=html}
+<!-- -->
+```
+a)  Un rendimiento del capital mobiliario en el IRPF.
+
+b)  Un rendimiento de actividad económica en el IRPF.
+
+c)  Una ganancia patrimonial en el IRPF.
+
+d)  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+Los dividendos obtenidos por la titularidad de acciones de una sociedad de capital serán un rendimiento del capital mobiliario.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+35. Si una persona física recibe una prestación por el rescate de un seguro de vida, se obtiene:
+
+```{=html}
+<!-- -->
+```
+a)  Una ganancia patrimonial.
+
+b)  Un rendimiento de actividad económica.
+
+c)  n rendimiento de capital inmobiliario.
+
+d)  Un rendimiento del capital mobiliario.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Si una persona física recibe una prestación por el rescate de un seguro de vida, se obtiene un rendimiento del capital mobiliario sujeto al IRPF.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+36. Si una persona física vende unas acciones de una sociedad de capital por 3.000 euros cuando se compraron por 2.450 euros se obtiene:
+
+```{=html}
+<!-- -->
+```
+a)  Una ganancia patrimonial.
+
+b)  Un rendimiento de capital inmobiliario.
+
+c)  Un rendimiento del capital mobiliario.
+
+d)  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+Las transmisiones onerosas como la venta de acciones, tendrán la consideración de ganancia patrimonial a efectos del IRPF.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+37. Podrá gravarse en algún caso como ganancias o pérdidas patrimoniales las rentas producidas con ocasión de:
+
+```{=html}
+<!-- -->
+```
+a)  Las transmisiones lucrativas producidas a la muerte del contribuyente.
+
+b)  Una donación que otorgue derecho a deducción en la cuota.
+
+c)  La transmisión de la vivienda habitual.
+
+d)  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+38. Los intereses obtenidos por el dinero cedido en préstamo son, por lo general serán:
+
+```{=html}
+<!-- -->
+```
+a)  Rendimientos de capital mobiliario.
+
+b)  Ganancias patrimoniales.
+
+c)  Rendimientos de actividades económicas.
+
+d)  Ganancias patrimoniales.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+Los intereses obtenidos por el dinero cedido en préstamo son, por lo general, serán rendimientos de capital mobiliario.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+39. Las plusvalías obtenidas por la venta de acciones, participaciones en fondos de inversión, derivados, ETF's, inmuebles, etc.los tipos a pagar serán:
+
+```{=html}
+<!-- -->
+```
+a)  Entre 0 y 6.000 euros: se paga el 19%;entre 6.000,01 y 50.000 euros: se paga el 21%; más de 50.000 euros: se paga el 23%.
+
+b)  Entre 0 y 3.000 euros: se paga el 18.5%;entre 3.000,01 y 30.000 euros: se paga el 20.5%; más de 30.000 euros: se paga el 22.5%.
+
+c)  Entre 0 y 9.000 euros: se paga el 20.5%;entre 9.000,01 y 60.000 euros: se paga el 22.5%; más de 60.000 euros: se paga el 25.5%.
+
+d)  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+La nueva tabla (ejercicios 2016/2017/2018) de tipos a pagar por las plusvalías obtenidas por la venta de acciones (y fondos de inversión, derivados, ETF's, inmuebles, etc.) es la siguiente:
+
+-   Entre 0 y 6.000 euros: se paga el 19%.
+
+-   Entre 6.000,01 y 50.000 euros: se paga el 21%.
+
+-   Más de 50.000 euros: se paga el 23%.
+
+Estos porcentajes se aplican al total de plsuvalías (restando las minusvalías correspondientes) de todos los productos (acciones, fondos de inversión, opciones y futuros, CFD's, etc).
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+40. Referente a la fiscalidad de las personas físicas por la venta de acciones: se han generado unas plusvalías de 5.000 euros con acciones y de otros 3.000 euros con futuros, la suma total son 8.000 euros, ¿Cuánto habrá que pagar a Hacienda en la declaración del IRPF en del ejercicio 2016?:
+
+```{=html}
+<!-- -->
+```
+a)  El 18.5% de 3.000 euros más el 20.5% de 5.000 euros.
+
+b)  El 20.5% de 8.000 euros.
+
+c)  El 19% de 6.000 euros más el 21% de 2.000 euros.
+
+d)  Ninguna de las anteriores
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+Para unas plusvalías de 5.000 euros con acciones y de otros 3.000 euros con futuros, la suma total son 8.000 euros, y por tanto habrá que pagar a Hacienda el 19.5% de 6.000 euros más el 21.5% de 2.000 euros.
+
+La nueva tabla (ejercicios 2016/2017/2018) de tipos a pagar por las plusvalías obtenidas por la venta de acciones (y fondos de inversión, derivados, ETF's, inmuebles, etc) es la siguiente:
+
+-   Entre 0 y 6.000 euros: se paga el 19%.
+
+-   Entre 6.000,01 y 50.000 euros: se paga el 21%.
+
+-   Más de 50.000 euros: se paga el 23%.
+
+Estos porcentajes se aplican al total de plsuvalías (restando las minusvalías correspondientes) de todos los productos (acciones, fondos de inversión, opciones y futuros, CFD's, etc.).
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+41. ¿Que tipo de rendimientos generará la transmisión de activos representativos de la cesión a terceros de capitales propios?
+
+```{=html}
+<!-- -->
+```
+a)  Una ganancia patrimonial.
+
+b)  Un rendimiento de capital inmobiliario.
+
+c)  Un rendimiento del capital mobiliario.
+
+d)  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+Las rentas derivadas de la transmisión, reembolso, amortización, canje o conversión de activos financieros se califican de rendimientos de capital mobiliario. El rendimiento se computará por diferencia entre el valor de transmisión, y su valor de adquisición o suscripción, computándose los gastos accesorios de adquisición y enajenación en tanto se justifiquen adecuadamente.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+42. ¿Cuál será el límite máximo que se podrá reducir un contribuyente individual, en la base imponible general, por las aportaciones a un plan de pensiones?:
+
+```{=html}
+<!-- -->
+```
+a)  El menor de estas 2 cifras: 30 por 100 de la suma de los rendimientos netos del trabajo y de actividades económicas del ejercicio; 9.000 euros.
+
+b)  El menor de estas 2 cifras: 30 por 100 de la suma de los rendimientos netos del trabajo y de actividades económicas del ejercicio; 8.000 euros.
+
+c)  La mayor de estas 2 cifras: 30 por 100 de la suma de los rendimientos netos del trabajo y de actividades económicas del ejercicio; 10.000 euros.
+
+d)  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+El límite máximo que se puede reducir la base imponible general será el límite es la menor de estas 2 cifras:
+
+-   El 30% de la suma de los rendimientos netos del trabajo y de las actividad económicas.
+
+-   8.000 euros.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+43. En relación a la fiscalidad de depósitos, cuentas corrientes y renta fija, ¿Cuál será la retención aplicable para el ejercicio 2016?:
+
+```{=html}
+<!-- -->
+```
+a)  19,5%.
+
+b)  21%.
+
+c)  19%.
+
+d)  Ninguna de las anteriores
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+La retención en 2016 y 2017 para los rendimientos de depósitos, cuentas corrientes y renta fija es del 19%
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+44. ¿En qué supuestos es posible el rescate de un plan de pensiones?:
+
+```{=html}
+<!-- -->
+```
+a)  Jubilación, fallecimiento, enfermedad grave, paro de larga duración y derechos consolidados que deriven de aportaciones que tengan más de 10 años de antigüedad.
+
+b)  Jubilación, fallecimiento, enfermedad grave y paro de larga duración.
+
+c)  Jubilación, fallecimiento y enfermedad grave.
+
+d)  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+Además de los casos de jubilación, fallecimiento, enfermedad grave y paro de larga duración, como novedad, se podrán rescatar los derechos consolidados (es decir, lo que se tenga acumulado) que deriven de aportaciones que tengan más de 10 años de antigüedad. Es decir, si se hace una aportación de 1.000 euros y a los 10 años se han convertido en 2.000 euros (por la rentabilidad obtenida), se pueden sacar esos 2.000 euros. Este nuevo supuesto se aplica a las aportaciones realizadas a partir del 1 de enero de 2015, por lo que hasta el 1 de enero de 2025 ninguna aportación cumplirá este nuevo supuesto (y para entonces es muy probable que haya cambiado la ley, incluso varias veces, así que no es aconsejable aportar dinero a planes de pensiones pensando que dentro de 10 años se podrá sacar con total seguridad, ya que podría no ser así).
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+45. ¿Es posible integrar en la base imponible del IRPF los rendimientos negativos ?
+
+```{=html}
+<!-- -->
+```
+a)  Sí, se integrarán en la base imponible todos los rendimientos, tanto los positivos como los negativos, con algunas particularidades.
+
+b)  No se integrarán, en ningún caso, en la base imponible los rendimientos los negativos derivados de la transmisión de activos financieros.
+
+c)  Sí. Se integrarán en la base imponible todos los rendimientos, tanto los positivos como los negativos, pero sólo cuando contribuyente hubiera adquirido activos financieros homogéneos en los dos meses anteriores o posteriores a aquella transmisión.
+
+d)  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+Sí. Se integrarán en la base imponible todos los rendimientos, tanto los positivos como los negativos, pero se establece un supuesto de diferimiento de la integración de rendimientos negativos cuando el contribuyente hubiera adquirido activos financieros homogéneos dentro de los dos meses anteriores o posteriores a aquella transmisión. En este supuesto los rendimientos negativos se integrarán a medida que se enajenen los que permanezcan en su patrimonio.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+46. El Sr. López, contribuyente del IRPF, adquirió 5.000 acciones de una empresa cotizada en la Bolsa a un precio unitario de 100 euros/acción. En el presente ejercicio fiscal ha adquirido 500 nuevas acciones totalmente liberadas en una operación de las denominadas "scrip dividend". Si, una vez adquiridas las nuevas acciones liberadas, realiza una venta de 1.000 acciones a un precio de cotización de 120 euros/acción, ¿cuál sería la ganancia patrimonial integrable en la base imponible del IRPF?
+
+```{=html}
+<!-- -->
+```
+a)  29.090 euros.
+
+b)  20.000 euros.
+
+c)  120.000 euros.
+
+d)  No se integra ganancia patrimonial alguna en la base imponible del IRPF porque las acciones transmitidas proceden de un scrip dividend.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+En realidad, la fiscalidad de los scrips dividends es la misma que la de las ampliaciones de capital liberadas y la de los dividendos (aunque no sean realmente dividendos).
+
+El contribuyente tenía 5.000 acciones compradas por 500,000 euros (50,000 x 100 = 500,000), al recibir las 500 acciones nuevas totalmente liberadas, pasa a tener 5,500 acciones compradas a 90.90909091 euros (500,000 / 5,500 = 90.90909091). Las 5,500 acciones son todas exactamente iguales, no hay diferencia entre ellas ni de precio de compra ni de fecha de compra (que es la de la compra de las 5,000 acciones originales).
+
+El precio de compra del contribuyente ha bajado (antes era 100 y ahora es de 90.90), y cuando vende las acciones tendrá que calcular la plusvalía o minusvalía utilizando como precio de compra los nuevos 90.90 euros, en lugar de los 100 euros originales.
+
+Por tanto,
+
+$P _{compra}=90.90909091$
+
+$P _{venta}=120$
+
+Plusvalía/Minusvalía (unitaria):
+
+$$ P/M = P _{venta}-P _{compra}=120-90.90909091=29.09090909 \,\, euros$$
+
+Ganancia patrimonial integrable en la base imponible del IRPF:
+
+$$1,000\,\, acciones \times 29.09090909\,\, euros/acci\acute { o }n = 29.090 \,\,euros$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+47. En el ejercicio 2016, una pérdida patrimonial generada en más de un año podrá compensarse con:
+
+```{=html}
+<!-- -->
+```
+a)  Exclusivamente con ganancias patrimoniales generadas en más de un año.
+
+b)  Exclusivamente con ganancias patrimoniales, tanto si se han generado en más de un año como si no.
+
+c)  En primer lugar con las ganancias patrimoniales generadas en el ejercicio con independencia de su plazo de generación y, si tras dicha compensación aun resultase un saldo negativo, el mismo podrá compensarse, en su caso, con el saldo positivo de rendimientos del capital mobiliario, si bien con el límite del 15 por 100 de este último saldo positivo.
+
+d)  Exclusivamente con ganancias patrimoniales generadas en un plazo de un año o menos.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+Las ganancias y pérdidas patrimoniales se integran en la base imponible del ahorro. Si el saldo de la integración y compensación de este tipo de rendimientos fuera negativo, ahora su importe se podrá compensar con el saldo positivo del otro componente de la base imponible del ahorro, rendimientos de capital mobiliario, con el límite del 25% de dicho saldo positivo, según explica la Agencia Tributaria.
+
+Eso sí, la reforma ha marcado un **periodo transitorio y durante los años 2015, 2016 y 2017 el porcentaje de compensación no será del 25%, sino del 10%, 15% y 20% respectivamente**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+48. Un contribuyente del IRPF ha percibido 6.000 euros en concepto de dividendos procedentes de una cartera de valores cotizados en bolsa. ¿Qué coste fiscal tendrá la obtención de la citada renta?:
+
+```{=html}
+<!-- -->
+```
+a)  1.200 euros.
+
+b)  945 euros.
+
+c)  1.140 euros.
+
+d)  1.260 euros.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+Los tipos que se pagan por dividendos y demás rendimientos del capital mobiliario en 2016 y 2017 quedan en:
+
+-   Entre 0 y 6.000 euros: se paga el 19%.
+
+-   Entre 6.000,01 y 50.000 euros: se paga el 21%.
+
+-   Más de 50.000 euros: se paga el 23%.
+
+Por lo tanto el cálculo quedaría como sigue,
+
+$$CF=6000\cdot0.19=1140$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+49. ¿Cómo ha de incorporarse en el IRPF la tenencia de una vivienda?:
+
+```{=html}
+<!-- -->
+```
+a)  Como imputación de renta inmobiliaria si no es vivienda habitual y no se alquila.
+
+b)  Como rendimiento del capital inmobiliario si esta arrendada.
+
+c)  No se incorpora si se trata de vivienda habitual.
+
+d)  Todas las respuestas anteriores son correctas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+La tenencia de una vivienda hade incorporarse en el IRPF cómo una imputación de renta inmobiliaria si no es vivienda habitual y no se alquila; como rendimiento del capital inmobiliario si esta arrendada; y, en el caso de que se trate de la vivienda habitual del contribuyente, estará sujeta pero exenta del IRPF. Por lo que no se incorporará.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+50.Un contribuyente del IRPF que percibe unas rentas del trabajo de 22.000 euros ha aportado 7.500 euros a un plan de pensiones individual. Indique qué importe podrá reducir de la base imponible general del IRPF.
+
+a)  7.500 euros.
+
+b)  6.600 euros.
+
+c)  11.00 euros.
+
+d)  1.260 euros.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+Recordemos que, un contribuyente del IRPF, podrá reducir su base imponible general teniendo en cuenta un determinado límite. Siendo esta cantidad la menor de:
+
+-   8.000 euros.
+
+-   o el 30% de los rendimientos del trabajo y actividades económicas, independientemente de la edad.
+
+Por lo tanto, en este caso tenemos que:
+
+$$L_1=8000$$
+
+$$L_2=RDT\cdot30\%=22000\cdot0.3=6600$$ Donde,
+
+$$L_1<L_2$$ Nos quedamos con el menor que son 6600.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+51. Antonio ha obtenido unos rendimientos netos del trabajo en el año de 25.000€, un rendimiento negativo de una actividad empresarial de -3.000€ y una pérdida patrimonial de la transmisión de un elemento patrimonial de -2.300€. ¿Cuál sería el resultado de una eventual compensación de rentas en la BIG?
+
+```{=html}
+<!-- -->
+```
+a.  19.700€.
+
+b.  25.000€.
+
+c.  22.000€.
+
+d.  22.700€.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La **respuesta correcta es la c**.
+
+RNTP = 25.000€ → Rendimientos de la RENTA GENERAL
+
+RAE = -- 3.000€ → Rendimientos de la RENTA GENERAL
+
+Compensación = 25.000 -- 3.000 = 22.000€
+
+GPP = -- 2.300€ → GPP de la TEP de la RENTA del AHORRO (a compensar en 4 años ss)
+
+Total BIG = 22.000€
+
+Total BIA = 0
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+52. Indicar cuál de los siguientes rendimientos del trabajo personal podría integrarse con una reducción del 30%:
+
+```{=html}
+<!-- -->
+```
+a.  Indemnización por resolución de mutuo acuerdo de la relación laboral.
+
+b.  Prima variable de productividad vinculada a los resultados obtenidos por la empresa en los últimos 3 años, cobrada por primera vez.
+
+c.  Ambos.
+
+d.  A partir del 1 de enero de 2015 no hay reducciones de los rendimientos .
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La **respuesta correcta es la c**.
+
+Reducción del 30% sobre los rendimientos con periodo de generación superior a 2 años o que califican de notoriamente irregulares, que se imputen en un único período impositivo (siempre que no se haya tenido un rendimiento reducido fiscalmente en este mismo sentido en los 5 años anteriores).
+
+En el caso de rendimientos derivados de la extinción de una relación laboral, común o especial, se considerará como período de generación, el número de años de servicio del trabajador. En caso de que estos rendimientos se cobren de forma fraccionada, el cómputo del período de generación deberá tener en cuenta el número de años de fraccionamiento, en los términos que reglamentariamente se establezcan.
+
+La resolución de mutuo acuerdo se asimila a la indemnización por ser notoriamente irregular.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+53. ¿Qué gastos son deducibles de los rendimientos del trabajo personal?
+
+```{=html}
+<!-- -->
+```
+a.  Cotizaciones del trabajador a la Seguridad Social.
+
+b.  Cuotas sindicales.
+
+c.  Gastos de DEFENSA JURÍDICA, hasta un límite de 300 euros al año.
+
+d.  Todos los anteriores .
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La **respuesta correcta es la d**.
+
+Gastos deducibles: Seguridad Social, detracciones por derechos pasivos, cotizaciones a colegios de huérfanos, cuotas sindicales, colegiación obligatoria (límite 500€), defensa jurídica (límite de 300€) y en concepto de otros gastos distintos de los anteriores, 2.000€ anuales (con el límite del rendimiento íntegro del trabajo minorado por el resto de gastos deducibles), que se incrementarán en los siguientes casos:
+
+-   Por movilidad geográfica: 2.000€ adicionales.
+
+-   Personas con discapacidad: 3.500€ adicionales anualmente, y 7.750€ anuales para las personas con discapacidad que siendo trabajadores activos acrediten necesitar ayuda de terceras personas, o movilidad reducida, o un grado de discapacidad igual o superior al 65%.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+54. ¿Cuál será el rendimiento neto procedente del arrendamiento del siguiente inmueble (no vivienda)?
+
+|                   |
+|:------------------|
+| Rentas: 1.000     |
+| Intereses: 800    |
+| Reparaciones: 250 |
+
+a.  Cero.
+
+b.  -50
+
+c.  750 (interés no deducible).
+
+d.  Ninguna de las anteriores: hay que calcularlo en función de la duración del contrato .
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La **respuesta correcta es la a**.
+
+INGRESOS: 1.000€
+
+Gastos financiación y reparación: 800€ + 250€ = 1.050€
+
+Pero como NO pueden hacer rendimiento negativo del inmueble =
+
+**Gastos financiación y reparación: 1.000€**
+
+**RCI Neto** = 1.000 -- 1.000 Gastos financiación y reparación (límite) = **0**
+
+(\*) Quedaría pendiente de compensar en los 4 siguientes ejercicios los Gastos financiación y reparación no deducidos por el límite de los ingresos (1.050 -- 1.000 = 50€ pendientes)
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+55. ¿Cuál será el rendimiento neto procedente del arrendamiento del siguiente inmueble (sí vivienda)?
+
+|                   |
+|:------------------|
+| Rentas: 2.000     |
+| Intereses: 800    |
+| Reparaciones: 250 |
+
+a.  Cero.
+
+b.  950
+
+c.  380
+
+d.  -50 (1000 X 50% de reducción -800 -250)
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La **respuesta correcta es la c**.
+
+INGRESOS: 2.000€
+
+Gastos financiación y reparación: 800€ + 250€ = 1.050€
+
+RCI Neto = 2.000 -- 1.050 = 950€
+
+-   Reducción del 60% del rendimiento neto positivo **por ser vivienda**:
+
+    -   **RCI** = 950 x (1 -- 0,60) = **380€**
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+56. Indique cuál de las siguientes afirmaciones es correcta en relación con los Planes de Ahorro a Largo Plazo.
+
+```{=html}
+<!-- -->
+```
+a)  La rentabilidad obtenida tributa como rendimiento del capital mobiliario derivado de la participación en fondos propios de entidades.
+
+b)  La rentabilidad obtenida, que se califica como rendimiento del capital mobiliario derivado de la cesión a terceros de capitales propios, se encuentra exceptuada de gravamen a condición de que la misma se perciba en forma de capital a partir del quinto año desde la formalización del Plan, y siempre y cuando durante dicho plazo no se haya efectuado disposición anticipada alguna de la inversión ni se hayan invertido más de 5.000 euros en cada año.
+
+c)  Las cantidades invertidas en cada año no pueden exceder de 8.000 euros.
+
+d)  Aunque la cantidad máxima que se puede invertir cada año no puede superar 5.000 euros, sin embargo puede reducirse de la base imponible general.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+En los Planes de Ahorro a Largo Plazo la rentabilidad obtenida, que se califica como rendimiento del capital mobiliario derivado de la cesión a terceros de capitales propios, se encuentra exceptuada de gravamen a condición de que la misma se perciba en forma de capital a partir del quinto año desde la formalización del Plan, y siempre y cuando durante dicho plazo no se haya efectuado disposición anticipada alguna de la inversión ni se hayan invertido más de 5.000 euros en cada año.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+57. ¿Cuál es el límite de la reducción por aportaciones y contribuciones a sistemas de previsión social?
+
+```{=html}
+<!-- -->
+```
+a.  La menor de las siguientes cantidades: 8.000 euros anuales o 30% de los rendimientos netos del trabajo más los rendimientos de actividades económicas.
+
+b.  La menor de las siguientes cantidades: 8.000 euros o 20% de los rendimientos netos del trabajo más los rendimientos de actividades económicas.
+
+c.  La menor de las siguientes cantidades: 8.000 euros por las aportaciones empresariales imputadas al trabajador y 8.000 euros por las aportaciones individuales.
+
+d.  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La **respuesta correcta es la a**.
+
+Límite conjunto de las reducciones por aportaciones y contribuciones a sistemas de previsión social (**Planes de Pensiones, PPA, Planes de Previsión Social Empresarial, Seguros de Dependencia y Mutualidades de Previsión Social**) → la menor de las siguientes cantidades:
+
+-   8.000€ anuales.
+
+-   30% de los Rendimientos Netos Trabajo (RNT) más los Rendimientos Actividades Económicas (RAE).
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+58. ¿Por cuál de los siguientes impuestos tiene que tributar el importe recibido por la viuda de un trabajador del plan de pensiones de empleo correspondiente a su marido?
+
+```{=html}
+<!-- -->
+```
+a.  Por impuesto de patrimonio.
+
+b.  Por IRPF.
+
+c.  Por impuesto de sucesiones y donaciones.
+
+d.  Por ninguno de ellos por su condición de viuda.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La **respuesta correcta es la b**.
+
+Las prestaciones de un Plan de Pensiones tributan, en todo caso, como Rendimiento de Trabajo en el IRPF
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+59. ¿Cuál de los siguientes productos no influye en el tipo aplicable de la escala de la base general del IRPF?
+
+```{=html}
+<!-- -->
+```
+a)  Planes de pensiones
+
+b)  Planes de previsión asegurados
+
+c)  Planes individuales de ahorro sistemático
+
+d)  Todos los anteriores influyen
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La **respuesta correcta es la c**.
+
+La normativa del IRPF establece una serie de rentas concretas que declara como exentas, esto es, que no deben tenerse en cuenta para conformar la base imponible y, en consecuencia, quedan liberadas de tributación.
+
+Entre ellas, se encuentran los rendimientos que se pongan de manifiesto en el momento de la constitución de rentas vitalicias aseguradas resultantes de los planes individuales de ahorro sistemático (PIAS).
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+60. ¿Cuál será la tributación de la venta del siguiente fondo de inversión siempre que no se hayan realizado transmisiones desde enero de 2015 superiores a 400.000 euros acogidas a los coeficientes de abatimiento?
+
+|                                      |
+|:-------------------------------------|
+| Coste adquisición el 20/11/1988: 100 |
+| Valor liquidativo al 31/12/2005: 250 |
+| Valor venta el 21/03/2016: 220       |
+
+a.  120
+
+b.  17,18
+
+c.  Habrá una minusvalía de 30 para compensar con otras ganancias patrimoniales.
+
+d.  Cero.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La **respuesta correcta es la c**.
+
+La fecha de adquisición es anterior al 31/12/1994 y no se han realizado transmisiones desde enero de 2015 por un valor superior a 400.000€, por tanto, son aplicables los coeficientes de abatimiento a toda la plusvalía:
+
+-   Para los fondos de inversión el coeficiente de abatimiento es 14,28%
+
+-   El número de años, redondeando por exceso, desde la fecha de adquisición (20/11/1988) hasta 31/12/1994 es 7
+
+-   Abatimiento del 14,28% x 7 = 100% de la ganancia generada hasta el 20/01/2006
+
+-   Como el Valor IP 2005 = 250 \> Valor de Transmisión = 220 se considera que toda la ganancia patrimonial se ha generado con anterioridad a 20 de enero de 2006.
+
+Por tanto, **la tributación será 0**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+61. Don Manuel contrata un seguro de prima única de 10.000€. La prestación consiste en una renta anual vitalicia de 2.000€, que empezará a percibirse trascurridos 10 años desde el pago de la prima. La edad del Sr. Don Manuel en el momento de constitución de la renta es de 55 años. La rentabilidad acumulada en el momento de constitución de la renta asciende a 3.000€, ¿qué rendimiento integrará en la base imponible?
+
+```{=html}
+<!-- -->
+```
+a.  860 euros durante los diez primeros años y el resto, 560 euros.
+
+b.  560 euros cada año.
+
+c.  860 euros en el ejercicio, con reducción del 40%, y 560 euros el resto de ejercicios.
+
+d.  3.000 euros por un porcentaje en función de la duración de la renta.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La **respuesta correcta es la a**.
+
+**Contrato de seguro individual de renta vitalicia diferida** con una prima única de 10000€. La renta anual vitalicia de 2000€ se empieza a percibir transcurridos 10 años desde el pago de la prima, siendo la edad del rentista 55 años.
+
+La Rentabilidad acumulada = valor actual financiero-actuarial de la renta que se constituye menos el importe de las primas satisfechas = 3000€ (dato)
+
+El RCM a imputar será:
+
+-   Durante los 10 primeros años = (28% \* 2000€) + (3000€/10) = 860€
+
+-   Para el resto = 28% \* 2000€ = 560€
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+62. Un Fondo Monetario inscrito en la CNMV, ¿cómo tributa en el Impuesto sobre Sociedades?
+
+```{=html}
+<!-- -->
+```
+a.  Tributa al tipo del 25% a partir del 1 de enero de 2007.
+
+b.  Tributa en el Impuesto sobre Sociedades al tipo del 1%.
+
+c.  No tributan en el Impuesto sobre Sociedades, al no tener personalidad jurídica.
+
+d.  Tributan en el Impuesto sobre Sociedades al tipo general del 30%.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La **respuesta correcta es la b**.
+
+Las SICAVs y los FI mobiliarios tributan en el IS al 1%
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+63. La diferencia entre la renta fija y la renta variable es...
+
+```{=html}
+<!-- -->
+```
+a.  Que la renta variable puede ser negociable pero la renta fija no.
+
+b.  La única diferencia está en la retención aplicable.
+
+c.  Que la renta variable retribuye una participación y la renta fija se refiere a una retribución al capital ajeno.
+
+d.  Ninguna de las anteriores es correcta.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La **respuesta correcta es la c**.
+
+La diferencia entre la renta fija y la renta variable es que la renta variable retribuye una participación y la renta fija se refiere a una retribución al capital ajeno.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+64. En los planes de pensiones y a efectos del Impuesto de la Renta de la Personas Físicas (IRPF), existe un régimen transitorio que permite aplicar una reducción del 40% sobre los derechos consolidados:
+
+```{=html}
+<!-- -->
+```
+a)  Por la parte correspondiente a aportaciones realizadas hasta el 31 de diciembre de 2016.
+
+b)  Para el caso de prestaciones en forma de renta.
+
+c)  Exclusivamnete para prestaciones derivadas de contingencias acaecidas antes del 1 de enero de 2007.
+
+d)  Si la primera aportación tiene una antigüedad de dos años, como mínimo desde que se realizo hasta la fecha de la contingencia.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+**Respueta correcta la d**
+
+En los planes de pensiones, y a efectos del Impuesto de la Renta de la Personas Físicas (IRPF), en el caso de prestaciones de forma de capital, existe un **régimen transitorio para prestaciones derivadas de contingencias** acaecidas antes del 1 de enero de 2007, y de aquellas producidas a partir de esa fecha, por la parte correspondiente a aportaciones realizadas hasta el 31 de diciembre de 2006.
+
+En ambos casos, con carácter general, **los beneficiarios podrán aplicar una reducción del 40% sobre los derechos consolidados, si la primera aportación tiene una antigüedad de dos años, como mínimo, desde que se realizó hasta la fecha de la contingencia**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+65. El reembolso de una IIC´s (que no sea ETF) por parte de un clientese destina a laadquisición o suscripción de otras participaciones en otras IIC´s, ¿qué estatus mantendrán las nuevas participaciones del nuevo fondo contratado?
+
+```{=html}
+<!-- -->
+```
+a)  El mismo valor y la misma fecha de adquisición de las participaciones reembolsadas (las de la primera IIC).
+
+b)  El valor de adquisición de las nuevas participaciones, y la misma fecha de adquisición de las participaciones reembolsadas (las de la primera IIC).
+
+c)  El mismo valor y fecha de adquisición de las participaciones nuevas.
+
+d)  El valor de adquisición de las nuevas participaciones y la misma fecha de adquisición de las nuevas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+**Respueta correcta la a**
+
+El **tratamiento fiscal** de los fondos de inversión, en lo que a **traspasos de fondos** se refiere, responde a la siguiente regla:
+
+-   Si el reembolso de IIC se destina a la adquisición o suscripción de otras participaciones en IIC, el participe NO computará en su IRPF la ganancia o pérdida obtenida, y **las nuevas participaciones conservan el valor y fecha de adquisición de las participaciones anteriores (las de la primera IIC)**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+66. Una entidad financiera realiza una promoción consistente en la entrega de una vajilla a todos aquellos clientes que realicen una imposición por un importe de 6.000 euros o más y mantengan las cantidades depositadas durante 18 meses. Para beneficiarse de esta promoción, el Sr. Fernández realizó la imposición de 6.000 euros, cumpliendo el requisito de mantenimiento de la inversión. ¿Qué impacto fiscal tendría esta imposición para el Sr. Fernández en en su TIR
+
+```{=html}
+<!-- -->
+```
+a.  No se genera renta alguna en el IRPF.
+
+b.  Se generará una ganancia patrimonial que tributará en la base imponible del ahorro aplicando el tipo de gravamen del 19%.
+
+c.  Se generará un rendimiento del capital mobiliario que tributará en la parte general de la base imponible una vez reducido en un 40%.
+
+d.  Se generará un rendimiento del capital mobiliario que tributará en la base imponible del ahorro.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+**Respueta correcta la d**
+
+Para las personas físicas que tributan en IRPF los depósitos bancarios se consideran una cesión a terceros de capitales propios del sujeto pasivo. Las utilidades o contraprestaciones de todo tipo, dinerarias o en especie, como **los intereses y cualquier otra forma de retribución pactada como remuneración (obsequios, etc.), derivadas de los mismos tributan como rendimientos de capital mobiliario por cesión a terceros de capitales propios**.
+
+Estos rendimientos derivados de la cesión a terceros de capitales propios **pasan a formar parte de la base imponible del ahorro**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+67. En ISD la deuda por un préstamo:
+
+```{=html}
+<!-- -->
+```
+a.  Es deducible si se trata de una deuda del causante reconocida en sentencia judicial firme.
+
+b.  Es deducible si corresponde la misma al causante fallecido, sin excepción.
+
+c.  Es deducible exclusivamente si se trata de una deuda del causante con un heredero, legatario, cónyuge o pariente.
+
+d.  No es deducible en una donación si corresponde al donante, aunque esté garantizada con derecho real que recaiga sobre el bien o derecho transmitido y el adquirente haya asumido fehacientemente la obligación de pagarla.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+**Respueta correcta la a**
+
+En ISD la deuda por el préstamo es deducible para determinar la base imponible en el supuesto mortis causa (herencias y similares) en los siguientes casos: Sea deuda del causante fallecido reconocida en sentencia judicial firme; Sea deuda contraída antes del fallecimiento si su existencia se acredita por documento público o privado, o se justifica de cualquier modo su existencia, salvo las deudas que lo fueren a favor de herederos, legatarios, cónyuges y parientes, aunque renuncien a la herencia (éstas no son nunca deducibles).
+
+En el supuesto inter vivos (donaciones y equivalentes) la deuda del préstamo es deducible si corresponde al garantizada con derecho real que recaiga sobre el bien o derecho transmitido y el adquirente ha asumido fehacientemente la obligación de pagarla.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+68. Un residente fiscal en España reembolsa en marzo de 2016 por 5.000 euros, con destino a su cuenta de ahorros, diversas participaciones en un Fondo de Inversión español que había comprado en abril de 2015 por 4.000 euros. La tributación de esta operación en el IRPF 2016:
+
+```{=html}
+<!-- -->
+```
+a.  Es una ganancia patrimonial generada en más de un año que, por tanto, se reducirá en un 40%. Es decir, la ganancia patrimonial neta será de 600 euros.
+
+b.  Es una ganancia patrimonial de 1.000 euros que se integrará en la base imponible del ahorro.
+
+c.  Es una ganancia patrimonial de 1.000 euros, generada en más de un año no sujeta a tributación pues se le aplica el diferimiento por reinversión en otros fondos.
+
+d.  Es una ganancia patrimonial de 1.000 euros que se integrará en la base imponible general.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+**Respueta correcta la b**
+
+Determinada la ganancia o pérdida patrimonial obtenida por la enajenación de estas acciones o participaciones de IIC, se integra en la renta del ahorro, con independencia de su período de generación.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+69. Ana (con rendimientos netos del trabajo de 100.000 euros) aporta 1.500 euros al plan de pensiones individual de su cónyuge Antonio, que no trabaja aunque obtiene un rendimiento neto del capital inmobiliario de 6.000 euros al año por el alquiler de un local de su propiedad. En el IRPF de Ana, ¿qué reducción en la base imponible corresponde por la aportación al plan de pensiones de su marido?
+
+```{=html}
+<!-- -->
+```
+a.  0 euros.
+
+b.  2.000 euros.
+
+c.  1.500 euros.
+
+d.  2.500 euros.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+**Respueta correcta la c**
+
+Adicionalmente, la Ley del IRPF (artículo 51.7) permite, bajo ciertos requisitos y límites, reducir en la base imponible general del sujeto pasivo las aportaciones realizadas a Sistemas de Previsión Social de los que sea partícipe, mutualista o tomador su cónyuge.
+
+Tal reducción se puede hacer con independencia de las reducciones realizadas por las aportaciones del partícipe y por las contribuciones empresariales imputadas, respetando el orden legal de aplicación de las reducciones. Para ello el cónyuge no ha de obtener rendimientos netos del trabajo o de actividades económicas, o si los obtiene que no superen 8.000 euros anuales. El límite único y máximo para esta reducción será de 2.500 euros anuales y por su aplicación no se puede dar lugar a una base liquidable general negativa.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+70. En el caso de que una persona física no residente en España herede bienes o derechos situados en territorio español, el impuesto aplicable es...
+
+```{=html}
+<!-- -->
+```
+a)  IRNR
+
+b)  ISD
+
+c)  Se trata de adquisiciones exentas para no residentes
+
+d)  Ninguna de las anteriores
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+**Respueta correcta la b**
+
+Para una persona física no residente en España herede bienes o derechos situados en territorio español, el impuesto aplicable será el ISD.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+71. El reparto de beneficios por parte de una SICAV a sus accionistas, supone para éstos...
+
+```{=html}
+<!-- -->
+```
+a)  No tributa
+
+b)  Ganancia patrimonial
+
+c)  Rendimiento de capital mobiliario
+
+d)  Minorar el precio de adquisición de las acciones
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+**Respueta correcta la c**
+
+El reparto de beneficios por parte de una SICAV a sus accionistas, supone para éstos un rendimiento de capital mobiliario.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+72. Una persona aportó a un seguro con prestación en forma de capital una prima única de 10.000 euros, al vencimiento del contrato percibe 15.000 euros, el RCM a declarar es de:
+
+```{=html}
+<!-- -->
+```
+a.  15.000 euros con la reducción del 40% por rendimiento generado en más de 2 años.
+
+b.  15.000 euros multiplicados por un porcentaje según la edad del perceptor.
+
+c.  5.000 euros.
+
+d.  15.000 euros.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La **respuesta correcta es la c**.
+
+Seguros de vida con prestación **en forma de capital**:
+
+-   RCM = 15.000 -- 10.000 = 5.000€
+
+(\*) Se elimina con efectos uno de enero de 2015 el mecanismo compensatorio existente para prestaciones de capital diferido derivadas de un contrato de seguro de vida o invalidez contratado antes del 20 de enero de 2006, cuando el nuevo régimen resulte menos favorable.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+73. ¿Qué régimen fiscal es aplicable a los inversores en los Exchanged Traded Funds (ETF)?
+
+```{=html}
+<!-- -->
+```
+a.  Se aplica la misma fiscalidad que los Fondos de Inversión.
+
+b.  Se aplica la fiscalidad correspondiente a las acciones, salvo en lo relativo a los dividendos, los cuales no disfrutan de la exención de los primeros 1.500 euros desde el año 2014.
+
+c.  Se aplica la fiscalidad correspondiente a las acciones, salvo en lo relativo a las plusvalías, las cuales tributan como rendimiento del capital mobiliario.
+
+d.  Se aplica la fiscalidad correspondiente a las acciones sin ninguna excepción.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La **respuesta correcta es la b**.
+
+**Se le aplica el mismo régimen de fiscalidad que a la transmisión de acciones**. Las ganancias (precio de venta menos precio de compra) se integran en la base del ahorro como Ganancia Patrimonial aplicándose una tarifa progresiva en el 2017 del 19% / 21% / 23%, **sin retención**.
+
+La principal diferencia estriba en que para **los dividendos otorgados por ETFs no era en 2014 de aplicación la exención fiscal en los primeros 1.500 €**. Todo dividendo recibido por ETFs tributaba como rendimiento del capital mobiliario con retención fiscal.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+74. Que tienen en común fiscalmente los fondos cotizados (o ETFs) con los contratos por diferencia (o CFDs):
+
+```{=html}
+<!-- -->
+```
+a.  Que no se encuentran sujetos a retención.
+
+b.  Que los rendimientos se califican como ganancias o pérdidas patrimoniales a integrar en la base imponible del ahorro.
+
+c.  Reciben el mismo tratamiento fiscal que las acciones.
+
+d.  Todas las respuestas son correctas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La **respuesta correcta es la d**.
+
+**Tanto los fondos cotizados (o ETFs) como los contratos por diferencia (o CFDs) reciben el mismo tratamiento fiscal que las acciones**, y se califican como **ganancias o pérdidas patrimoniales** al 19% / 21% / 23% (en 2017) a integrar en la **base** imponible **del ahorro y sin retención**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+75. Cuál de las siguientes afirmaciones es cierta en relación a los beneficios fiscales de los planes de pensiones y los Planes Individuales de Ahorro Sistemático (PIAS):
+
+```{=html}
+<!-- -->
+```
+a.  Los beneficios fiscales de los planes de pensiones se producen en el momento de la aportación, a diferencia de los Planes Individuales de Ahorro Sistemático (PIAS), que se producen en la salida.
+
+b.  Los beneficios fiscales de los Planes Individuales de Ahorro Sistemático (PIAS) se producen en el momento de la aportación, a diferencia de los planes de pensiones, que se producen en la salida.
+
+c.  En ambos casos los beneficios fiscales se producen en el momento de la aportación.
+
+d.  En ambos casos los beneficios fiscales se producen en el momento de salida.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La **respuesta correcta es la a**.
+
+Los beneficios fiscales de los planes de pensiones se producen en el momento de la aportación, a diferencia de los Planes Individuales de Ahorro Sistemático (PIAS), que se producen en la salida.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+76. ¿Cómo tributan las primas de emisión de acciones o participaciones?
+
+```{=html}
+<!-- -->
+```
+a.  Depende de si las acciones cotizan o no en bolsa.
+
+b.  En acciones cotizadas, partir del 1 de Enero de 2017 el importe de la transmisión será Ganancia Patrimonial, sometida en principio a una retención del 19%.
+
+c.  En acciones no cotizadas, el importe obtenido en la transmisión de derechos tendrá la consideración de Ganancia Patrimonial para el transmitente, en el periodo en el que se produzca la transmisión de dichos derechos.
+
+d.  Todas las respuestas son correctas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La **respuesta correcta es la d**.
+
+El tratamiento fiscal de estos derechos **depende de si las acciones cotizan o no en bolsa**:
+
+1.  Acciones que **cotizan en Bolsa**:
+
+```{=html}
+<!-- -->
+```
+a)  Si el importe obtenido por la transmisión de los derechos NO ES \> Valor de Adquisición de las acciones de las que proceden (situación más normal), la venta no tiene efectos fiscales hasta que se transmitan las acciones. En dicho momento el importe de los derechos vendidos minorará el valor de adquisición para calcular la ganancia o pérdida patrimonial. Hasta 31 de diciembre de 2016. Ya que **a partir del 1 de Enero de 2017 el importe de la transmisión será GANANCIA PATRIMONIAL, sometida en principio a una retención del 19%**.
+
+b)  Si el importe obtenido por la transmisión de los derechos ES \> Valor de Adquisición de las acciones de las que proceden (situación remota), el exceso tiene la consideración de Ganancia Patrimonial. Posteriormente, cuando se vendan las acciones el valor de adquisición de las mismas será cero, a efectos de calcular la ganancia o pérdida patrimonial.
+
+```{=html}
+<!-- -->
+```
+2.  Acciones **sin cotización**:
+
+**El importe obtenido en la transmisión de derechos tendrá la consideración de Ganancia Patrimonial para el transmitente, en el periodo en el que se produzca la transmisión de dichos derechos**.
+
+Nota: **en los dos casos se le aplica retención en el año 2017 (a diferencia de lo que ocurría en 2016)**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+77. ¿Cuál de las siguientes afirmaciones es falsa?
+
+```{=html}
+<!-- -->
+```
+a.  Se entenderá por cuota íntegra la cantidad resultante de aplicar a la base imponible el tipo de gravamen.
+
+b.  La exención por doble imposición de dividendos interna será aplicable cuando los dividendos o participaciones en beneficios procedan de entidades residentes en las que el porcentaje de participación, directo o indirecto, sea igual o superior al cinco por ciento, siempre que dicho porcentaje se hubiere tenido de manera ininterrumpida durante el año anterior al día en que sea exigible el beneficio que se distribuya o, en su defecto, que se mantenga durante el tiempo que sea necesario para completar un año.
+
+c.  Los dividendos se integran en la base imponible por su importe bruto.
+
+d.  Como regla general, cuando entre las rentas del sujeto pasivo se computen dividendos o participaciones en beneficios de otras entidades residentes en España se deducirá el 80 por ciento de la cuota íntegra que corresponda a la base imponible derivada de dichos dividendos o participaciones en beneficios.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La **respuesta correcta es la a**.
+
+La Cuota Íntegra = Base Imponible x tipo de gravamen (A es correcta).
+
+Exención por Doble Imposición de Dividendos: cuando la participación, directa o indirecta, sea del 5%, o valor de adquisición superior a 20 millones de euros y se cumpla un año de tenencia (+/- 1 año). Se elimina el requisito relativo a que la entidad participada realice actividad económica. (B es correcta).
+
+Los dividendos se integran en la base imponible por su importe bruto. (C es correcta).
+
+Desaparece la deducción para evitar la doble imposición económica interna, incluyéndose en su lugar el método de exención.
+
+> La ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades (en vigor desde 1 de enero de 2015) ha introducido en el ordenamiento español importantes novedades en materia tributaria. Entre ellas, destaca la regulación de una nueva exención como método para evitar la doble imposición de dividendos y plusvalías obtenidos de filiales espa- ñolas y la reformulación de la exención aplicable a dividendos y plusvalías de filiales no-residentes (todo ello en un mismo artículo).
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+78. En el caso del cónyuge que no trabaja, las aportaciones a un plan de pensiones realizadas por el cónyuge que sí trabaja:
+
+```{=html}
+<!-- -->
+```
+a)  Son deducibles fiscalmente en la declaración del cónyuge que no trabaja.
+
+b)  Son deducibles fiscalmente en la declaración del cónyuge que trabaja.
+
+c)  Se deducen al 50% entre el cónyuge que trabaja y el que no trabaja.
+
+d)  Está prohibido realizar aportaciones a un plan que no sea el propio.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La **respuesta correcta es la b**.
+
+Las aportaciones a un plan de pensiones realizadas por el cónyuge que sí trabaja serán fiscalmente deducibles en su propia declaración de la renta.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+79. La reducción de la base imponible del ISD en el caso de adquisiciones de empresas familiares...
+
+```{=html}
+<!-- -->
+```
+a)  Se aplica en idénticas condiciones en los casos de sucesión y en los de donación
+
+b)  Se aplica en condiciones diferentes en los casos de sucesión y en los de donación
+
+c)  Se aplica sólo en los casos de sucesión
+
+d)  Se aplica sólo en los casos de donación
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La **respuesta correcta es la b**.
+
+La reducción de la base imponible del ISD en el caso de adquisiciones de empresas familiares se aplicara en diferentes condiciones en caso de sucesión o donación.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+80. El banco me ha regalado una tablet al contratar una cuenta corriente, ¿tengo que declararla en el IRPF?
+
+```{=html}
+<!-- -->
+```
+a)  Sí, se considera un rendimiento del capital mobiliario en especie sometida a una retención del 19%.
+
+b)  Sí, se considera un rendimiento del capital inmobiliario en especie sometida a una retención del 19%.
+
+c)  Sí, deberá declararlo en el IRPF por el valor de la entrega aumentado en un 20% el valor de adquisición o el coste de la tablet para la entidad financiera.
+
+d)  Estará exenta en todos los casos por tratarse de un regalo.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La **respuesta correcta es la a**.
+
+A efectos fiscales, la tablet tiene la consideración de **rendimiento del capital mobiliario en especie por lo que, por una parte, quedará sometida a una retención del 19%**, que practicará la entidad financiera y que le cargarán en su cuenta corriente, y, por otra parte, **deberá declararlo en el IRPF por el valor de mercado**. En estos casos se entiende que el valor de mercado es el resultado de aumentar en un 20% el valor de adquisición o el coste de la tablet para la entidad financiera.
+
+En caso de que el contribuyente no obtenga otros rendimientos del capital mobiliario en el ejercicio, la Tablet tributaría al 19%, pues se entiende que su valor no llegaría a los 6.000€.
+
+No obstante, en caso de que se tratara de otro bien más caro, se tributaría según los tramos indicados anteriormente. En caso de que obtuviera en el mismo ejercicio otros rendimientos del capital mobiliario adicionales, se aplicarían idénticos tramos a la suma de todos los rendimientos del capital mobiliario obtenidos.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+81. ¿Cuál de las siguientes personas NO podrá aplicarse una reducción por parentesco en la base imponible del impuesto de sucesiones y donaciones?
+
+```{=html}
+<!-- -->
+```
+a.  Un primo.
+
+b.  El cónyuge.
+
+c.  Un tío.
+
+d.  Un hijo adoptado recientemente.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+Un primo es un familiar colateral de cuarto grado (1er grado: Sujeto a su padre; 2do grado: padre al abuelo; 3er grado: abuelo al tío; 4to grado: tío al primo). Según la ley del ISD las personas pertenecientes al grupo IV (colaterales de cuarto grado o más y extraños) no tienen derecho a reducción por parentesco. El cónyuge pertenece al grupo II, un tío sería del grupo III y un hijo adoptado será del grupo I o del grupo II dependiendo si es menor de 21 años o no.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+82. ¿Cuál es el límite para la exención parcial en la vivienda habitual en el Impuesto sobre el Patrimonio, según la normativa estatal?
+
+```{=html}
+<!-- -->
+```
+a.  108.182 euros
+
+b.  150.253 euros
+
+c.  300.000 euros
+
+d.  700.000 euros
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+En el Impuesto sobre el Patrimonio (restablecido para los ejercicios 2011 a 2016) se aumentó el mínimo exento por vivienda habitual, pasando de 150.253 euros (veinticinco millones de pesetas) hasta los 300.000 euros.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+83. En una transmisión lucrativa mortis causa, a la cuota tributaria del ISD se le aplica un coeficiente multiplicador que tiene en cuenta (señala la incorrecta):
+
+```{=html}
+<!-- -->
+```
+a.  La masa hereditaria
+
+b.  El grado de parentesco con el causante
+
+c.  El patrimonio preexistente del beneficiario
+
+d.  Son correctas b) y c)
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+Para obtener la base liquidable del ISD, una vez calculada la masa hereditaria, se puede reducir en función del grado de parentesco que exista con el transmitente. Esta reducción no se aplica en las donaciones (transmisión lucrativa inter vivos).
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+84. ¿Cuál de las siguientes afirmaciones relativas al Régimen Fiscal de la empresa Familiar NO es correcta?
+
+```{=html}
+<!-- -->
+```
+a.  El régimen Fiscal de la Empresa Familiar se apoya en incentivos fiscales aplicables en el ISD (reducción del 95% del valor de los bienes afectos) y en el IP (exención sobre dichos bienes afectos).
+
+b.  Ante una persona física con diversas participaciones en diferentes entidades, el régimen Fiscal de la Empresa Familiar permite su aplicación indistintamente a todas y cada una de las participaciones de forma individual siempre que se cumplan los requisitos establecidos en cada una de ellas.
+
+c.  El régimen Fiscal de la Empresa Familiar se apoya en incentivos fiscales aplicables principalmente en el IRPF (reducciones en base) y en el IP (bienes exentos).
+
+d.  Es posible que por aplicación del régimen fiscal de la Empresa Familiar una persona física deba presentar declaración de IP aunque con cuota cero.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+No hay incentivos fiscales en el IRPF derivados del RF Empresa Familiar. Y el resto de opciones son correctas.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+85. Un hijo quiere ayudar a su padre jubilado con pensión mínima y sin ingresos suficientes. Tiene 45 años y un inmueble alquilado (renta anual por alquiler 15.000 Euros) cuyo valor de mercado es de 200.000 Euros. Decide donar el usufructo temporal por 5 años a su padre de 70 años. ¿Sobre cuánto deberá tributar el padre beneficiario de la donación (donatario)?
+
+```{=html}
+<!-- -->
+```
+a.  Base liquidable: 20.000 Euros.
+
+b.  Base liquidable: 20.000 Euros menos la reducción por parentesco que resulte de aplicación.
+
+c.  Base liquidable: 10.000 Euros.
+
+d.  El sujeto pasivo es el donante HIJO.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+La base liquidable será el resultado de aplicar 2% \* 5 años = 10% sobre el valor del inmueble. Las reducciones por parentesco en donaciones no aplican y las reglas de cálculo del usufructo temporal no son las mismas que las del cálculo del usufructo vitalicio (89- edad usufructuario).
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+86. ¿Cuál es la principal diferencia en el IRPF de tener un Rendimiento de Capital (RC) Inmobiliario derivado del alquiler de bienes inmuebles o bien que ello tenga la consideración de Rendimiento de Actividad (RA) Económica?:
+
+```{=html}
+<!-- -->
+```
+a.  Cuando son RC Inmobiliario existen gastos que son deducibles con un límite y son de aplicación unas reducciones según la naturaleza del inmueble alquilado mientras en RAE económica no es así.
+
+b.  Siempre y en todo caso los rendimientos provinentes del alquiler de bienes inmuebles generan en el IRPF del perceptor RC Inmobiliario.
+
+c.  Cuando son RA Económica son de aplicación unas reducciones según la naturaleza del inmueble alquilado y los gastos deducibles lo son sin límite mientras que cuando son RC Inmobiliario no son de aplicación reducciones sobre el rendimiento neto.
+
+d.  Los RCM se integran en la Base Imponible General (BIG) del IRPF mientras que los RAE se integran en la BIA.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+La opción b) no es cierta porque si una persona física alquila bienes inmuebles disponiendo de medios mínimos para su gestión (empleado a jornada completa desde 2015) los rendimientos que obtiene son de Actividad Económica y la c) y la d) no son correctas.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+87. La sociedad Vival residente en Marruecos y sin EP en España vendió en marzo del 2018 unas acciones de una sociedad española que cotiza en bolsa por 150.000€ cuando los compró en 1990 por 80.000€. ¿Cuál es la cuota tributaria?
+
+```{=html}
+<!-- -->
+```
+a.  Cuota tributaria 12.600 €
+
+b.  Cuota tributaria 13.300 €
+
+c.  Cuota tributaria 14.700 €
+
+d.  Cuota tributaria 15.500 €
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+Ganancia patrimonial = 70.000; cuota = (70.000\*0,19) = 13.300 euros
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+88. El Señor Marqués residente en Francia, ha vendido en el mes de octubre de 2018 acciones de una sociedad española por 10.000€ habiéndolas adquirido en julio del 2001 por 8.000€. ¿Cómo tributan en España?
+
+```{=html}
+<!-- -->
+```
+a.  Los intereses o ganancias patrimoniales derivados de la transmisión de acciones que correspondan a personas físicas o entidades con la residencia habitual en estados miembros de la UE y que no operen en España por medio de EP están exentos.
+
+b.  Podrá aplicar los coeficientes de abatimiento y no tributará por ello.
+
+c.  Tributará al tipo general de gravamen del 24%.
+
+d.  Tributará al tipo general de las ganancias patrimoniales del 14%, 21%, 23%, por haberse generado la plusvalía en un periodo superior al año.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+Los intereses o ganancias patrimoniales derivados de la transmisión de acciones que correspondan a personas físicas o entidades con la residencia habitual en estados miembros de la UE y que no operen en España por medio de EP están exentos. Precisamente ese es el caso de las rentas exentas del IRNR.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+89. En cuanto al IRNR, ¿Cuál de las siguientes afirmaciones es correcta?
+
+```{=html}
+<!-- -->
+```
+a.  Se considera residente aquella persona física que permanezca más de 183 días durante el año natural en territorio español, y por ende, se le aplicará el régimen de IRNR.
+
+b.  Las personas jurídicas que tengan su domicilio social en España pero que obtengan más del 50% de sus ingresos de terceros países se les aplica el régimen de IRNR.
+
+c.  Los intereses y ganancias patrimoniales derivados de deuda pública obtenidos por personas físicas o jurídicas no residentes y que no operan en España por medio de un establecimiento permanente (EP), forman parte de las rentas exentas en el IRNR.
+
+d.  Cuando un no residente obtiene rentas sin mediación de establecimiento permanente (EP), hace una declaración única, la cual puede dar lugar a compensaciones entre rentas o ganancias patrimoniales positivas con las negativas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+Los intereses y ganancias patrimoniales derivados de la Deuda Pública obtenidos por personas físicas o jurídicas no residentes y que no operen en España por medio de EP, tienen la consideración de rentas exentas del IRNR. Las demás afirmaciones son incorrectas.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+90. En el IRNR el representante es obligatorio cuando:
+
+```{=html}
+<!-- -->
+```
+a.  El no residente opere por medio de EP.
+
+b.  El no residente realice actividades o explotaciones económicas en España sin mediación de EP.
+
+c.  Se trate de entidades en régimen de atribución de rentas constituidas en el extranjero con presencia en territorio español.
+
+d.  Es obligatorio en todos los casos indicados.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+El representante es obligatorio cuando:
+
+(1) El no residente opere por medio de EP (Establecimiento permanente).
+
+(2) El no residente realice actividades o explotaciones económicas en España sin mediación de EP.
+
+(3) Se trate de entidades en régimen de atribución de rentas constituidas en el extranjero con presencia en territorio español.
+
+(4) Cuando así lo requiera la Administración tributaria. También se puede nombrar de forma voluntaria.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+91. ¿Cuál es el tipo de gravamen especial sobre bienes inmuebles de entidades no residentes?
+
+```{=html}
+<!-- -->
+```
+a.  19%
+
+b.  20%
+
+c.  24%
+
+d.  Ninguno de los anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Las entidades No Residentes que sean propietarias o posean en España bienes inmuebles o derechos reales de goce o disfrute sobre éstos, estarán sujetas al impuesto mediante un gravamen especial del 3%. (La transmisión de bienes inmuebles situados en territorio español: (En las ventas de inmuebles hechas por no residentes, el comprador tendrá que (retener el tipo del 3% sobre el importe de la venta en todo caso).
+
+La persona que adquiere el inmueble, sea o no residente, está obligada a retener e ingresar en el Tesoro Público el 3% de la contraprestación acordada.
+
+Esta retención tiene para el vendedor el carácter de pago a cuenta del impuesto que corresponda por la ganancia derivada de la transmisión.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+92. ¿Qué rentas están exentas en el IRNR si se obtienen sin mediación de EP (Establecimiento Permanente)?
+
+```{=html}
+<!-- -->
+```
+a.  Las que estén exentas en el IRPF
+
+b.  Los intereses de la Deuda Pública
+
+c.  Las ganancias derivadas de la Deuda Pública
+
+d.  Todas las respuestas anteriores son correctas
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Las rentas exentas, y siempre sin mediación de EP, son:
+
+(1) Las rentas exentas en el IRPF.
+
+(2) Los intereses o ganancias patrimoniales derivados de bienes muebles obtenidos por residentes en otro estado miembro de la UE.
+
+(3) Los intereses y ganancias patrimoniales derivados de la Deuda Pública.
+
+(4) Los rendimientos de capital mobiliario y ganancias patrimoniales derivadas de valores emitidos en España por no residentes.
+
+(5) Los rendimientos de cuentas de no residentes.
+
+(6) Los beneficios distribuidos por las sociedades filiales a sus matrices situadas en la UE.
+
+(7) Las rentas derivadas de la transmisión de valores o el reembolso de participaciones en fondos (de inversión realizadas en un mercado secundario.
+
+(8) Las becas y otras cantidades.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+93. Un inversor ruso, residente en Grecia, adquirió, en abril de 2018, un Bono del Estado Español a cinco años que paga cupones anuales del 2% cada 31 de mayo. ¿Cómo tributará en España?
+
+```{=html}
+<!-- -->
+```
+a.  A la escala de gravamen progresiva del IRPF
+
+b.  Al tipo general de los rendimientos del 24%.
+
+c.  Al tipo general de las ganancias del 21%.
+
+d.  Estará exento
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Estará exento porque los cupones de Deuda pública obtenidos por personas físicas o jurídicas no residentes y que no operan en España por medio de Establecimiento Permanente están exentos en el IRNR.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+94. ¿Qué rentas NO están exentas en el IRNR si se obtienen sin mediación de EP (Establecimiento Permanente)?
+
+```{=html}
+<!-- -->
+```
+a.  Becas y otras cantidades
+
+b.  Intereses de la Deuda Pública
+
+c.  Rendimientos de cuentas de no residentes
+
+d.  Todas las respuestas anteriores están exentas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Las rentas exentas, y siempre sin mediación de EP, son:
+
+(1) Las rentas exentas en el IRPF.
+
+(2) Los intereses o ganancias patrimoniales derivados de bienes muebles obtenidos por residentes (en otro estado miembro de la UE.
+
+(3) Los intereses y ganancias patrimoniales derivados de la Deuda Pública.
+
+(4) Los rendimientos de capital mobiliario y ganancias patrimoniales derivadas de valores emitidos en España por no residentes.
+
+(5) Los rendimientos de cuentas de no residentes.
+
+(6) Los beneficios distribuidos por las sociedades filiales a sus matrices situadas en la UE.
+
+(7) Las rentas derivadas de la transmisión de valores o el reembolso de participaciones en fondos (de inversión realizadas en un mercado secundario.
+
+(8) Las becas y otras cantidades.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+95. Una persona física residente en Alemania dispone de una vivienda de uso propio en Mallorca. ¿Tiene algún tipo de implicación fiscal en territorio español?:
+
+```{=html}
+<!-- -->
+```
+a.  Deberá declarar por el IRNR la imputación de rentas inmobiliarias igual que cualquier residente en su IRPF.
+
+b.  Ninguna dado que no obtiene Rentas en territorio español y el IRNR no aplicaría
+
+c.  Únicamente quedaría obligada a satisfacer el IBI como cualquier residente.
+
+d.  Debería tributar por el IRNR considerándose que obtiene rendimientos a través de un Establecimiento Permanente (EP) con motivo del inmueble radicado en territorio español.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+Deberá declarar por el IRNR la imputación de rentas inmobiliarias igual que cualquier residente en su IRPF.
+:::
+
+</details>
+
+------------------------------------------------------------------------

@@ -1,1 +1,1079 @@
 # Módulo 7 {.unnumbered}
+
+## Crédito y Financiación
+
+1.  En la concesión de crédito, ¿cuáles son las categorías en que se ha clasificado tradicionalmente de riesgo?
+
+```{=html}
+<!-- -->
+```
+a)  Riesgo intrínseco y riesgo extrínseco.
+
+b)  Riesgo de crédito, riesgo jurídico y riesgo operativo.
+
+c)  Riesgo singular y riesgo plural.
+
+d)  Riesgo de crédito y riesgo de débito.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+En la concesión de crédito las categorías en que se ha clasificado tradicionalmente de riesgo son:
+
+-   Riesgo de crédito
+
+-   Riesgo jurídico
+
+-   Riesgo operativo.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+2.  ¿Cómo puede definirse el riesgo operativo o técnico en la concesión de créditos y cómo puede aminorarse?
+
+```{=html}
+<!-- -->
+```
+a)  El riesgo ocasionado por el posible incumplimiento de las obligaciones de pago asumidas por el deudor en la concesión de préstamos, créditos o avales. Puede aminorarse mediante el estudio de la titularidad de los bienes del deudor.
+
+b)  El riesgo derivado de la falta de capacidad jurídica y de obrar y que puede aminorarse mediante
+
+c)  El riesgo de pérdida resultante de fallos o disfunciones en los procesos internos, recursos humanos o sistemas o bien derivado de circunstancias externas. Puede aminorarse mediante el desarrollo por parte de las entidades bancarias de políticas de gestión de riesgos identificando, mitigando y/o eliminando aquellos fallos o disfunciones.
+
+d)  Ninguna de las anteriores respuestas es correcta.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+El riesgo operativo o técnico en la concesión de créditos puede definirse cómo:
+
+-   Aquel riesgo de pérdida resultante de fallos o disfunciones en los procesos internos, recursos humanos o sistemas o bien derivado de circunstancias externas.
+
+Y, podrá minorarse mediante:
+
+-   El desarrollo por parte de las entidades bancarias de políticas de gestión de riesgos identificando, mitigando y/o eliminando aquellos fallos o disfunciones.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+3.  Para conceder un crédito, la entidad analiza los bienes del deudor o garantes. Dicho análisis se centra en:
+
+```{=html}
+<!-- -->
+```
+a)  El recuento e inventario de los bienes existentes.
+
+b)  Únicamente en el estado en el que los bienes del deudor o garantes se encuentran.
+
+c)  Verificar que el deudor o garantes son realmente los titulares de los bienes analizados.
+
+d)  En la titularidad del bien, la capacidad de disposición sobre él y el estado en el que el bien se encuentra.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Para conceder un crédito, la entidad analiza los bienes del deudor o garantes. Dicho análisis se centra en la titularidad del bien, la capacidad de disposición sobre él y el estado en el que el bien se encuentra.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+4.  ¿Qué ocurre en el caso de un menor de edad emancipado que quiere suscribir un crédito si tiene la capacidad de obrar incompleta?
+
+```{=html}
+<!-- -->
+```
+a)  El menor de edad emancipado podrá suscribir el crédito con el consentimiento paterno para completar su capacidad de obrar.
+
+b)  En ningún caso puede un menor de edad emancipado suscribir un crédito.
+
+c)  El menor de edad emancipado podrá suscribir el crédito con el consentimiento de la entidad bancaria concedente.
+
+d)  Ninguna de las anteriores es correcta.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+En el caso de un menor de edad emancipado quiera suscribir un crédito, si tiene la capacidad de obrar incompleta, podrá suscribir el crédito con el consentimiento paterno para completar su capacidad de obrar.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+5.  El riesgo de crédito es:
+
+```{=html}
+<!-- -->
+```
+a)  El riesgo de pérdida resultante de fallos o disfunciones en los procesos internos, recursos humanos o sistemas o bien derivado de circunstancias externas.
+
+b)  El riesgo que asume el deudor al que se le ha concedido un crédito.
+
+c)  Aquel ocasionado por el posible incumplimiento de las obligaciones de pago asumidas por el deudor en la concesión por parte de la entidad acreedora de préstamos, créditos o avales.
+
+d)  Ninguna de las anteriores es correcta.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+El riesgo de crédito es aquel ocasionado por el posible incumplimiento de las obligaciones de pago asumidas por el deudor en la concesión por parte de la entidad acreedora de préstamos, créditos o avales.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+6.  ¿En qué se diferencian el leasing y el renting?
+
+```{=html}
+<!-- -->
+```
+a)  Ambos son contratos en los que se cede el uso de un bien pero únicamente en el leasing se concede al cliente una opción de compra y en el caso del renting, éste se completa con un contrato de prestación de servicios.
+
+b)  En el leasing se cede el uso de bienes muebles mientras que en el renting se cede el uso de bienes inmuebles.
+
+c)  La única diferencia consiste en la entidad que cede el uso: en el caso del leasing se trata de una entidad aseguradora y en el caso del renting de una entidad financiera.
+
+d)  En el leasing el cliente puede ser un consumidor mientras que en el renting el cliente puede ser un consumidor y una entidad financiera o aseguradora.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+El leasing y el renting se diferencian en que ambos son contratos en los que se cede el uso de un bien pero únicamente en el leasing se concede al cliente una opción de compra y en el caso del renting, éste se completa con un contrato de prestación de servicios.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+7.  ¿Qué es un contrato de crédito al consumo?
+
+```{=html}
+<!-- -->
+```
+a)  Es un contrato en virtud del cual un prestatario concede o se compromete a conceder a un consumidor un crédito bajo la forma de pago aplazado, préstamo, apertura de crédito o cualquier medio equivalente de financiación.
+
+b)  Es un contrato en virtud del cual un prestamista concede o se compromete a conceder a un consumidor un crédito bajo la forma de pago aplazado, préstamo, apertura de crédito o cualquier medio equivalente de financiación.
+
+c)  Es un contrato en virtud del cual una entidad de crédito concede un crédito a un empresario.
+
+d)  Es un contrato de financiación utilizado por las asociaciones de consumidores en el curso ordinario de sus actividades.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+Un contrato de crédito al consumo es un contrato en virtud del cual un prestamista concede o se compromete a conceder a un consumidor un crédito bajo la forma de pago aplazado, préstamo, apertura de crédito o cualquier medio equivalente de financiación.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+8.  ¿Cuál es la diferencia entre un préstamo y un crédito?
+
+```{=html}
+<!-- -->
+```
+a)  En el préstamo el prestamista recibe una determinada cantidad de dinero de una entidad con la obligación de devolverla junto con los intereses y en el crédito únicamente tiene que devolver la cantidad prestada más las comisiones bancarias aplicadas.
+
+b)  Son iguales.
+
+c)  En el préstamo el deudor efectúa una única disposición mientras que en el crédito puede ir realizando diversas disposiciones.
+
+d)  El préstamo tiene un plazo determinado mientras que el crédito no se encuentra sujeto a plazo alguno.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+La diferencia entre un préstamo y un crédito es que en el préstamo el deudor efectúa una única disposición mientras que en el crédito puede ir realizando diversas disposiciones.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+9.  ¿Puede un consumidor desistir de un contrato de crédito al consumo?. En caso afirmativo, ¿en qué plazo podría ejercerse el desistimiento?
+
+```{=html}
+<!-- -->
+```
+a)  No, nunca.
+
+b)  Sí, siempre y sin sujeción a ningún plazo.
+
+c)  Sí, el consumidor puede desistir en el plazo de catorce días laborables a contar desde la fecha de celebración del contrato o, si fuera posterior, desde la fecha en que el consumidor recibe toda la información contractual.
+
+d)  Sí, el consumidor puede desistir en el plazo de catorce días naturales a contar desde la fecha de celebración del contrato o, si fuera posterior, desde la fecha en que el consumidor recibe toda la información contractual.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Sí, el consumidor puede desistir en el plazo de catorce días naturales a contar desde la fecha de celebración del contrato o, si fuera posterior, desde la fecha en que el consumidor recibe toda la información contractual.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+10. Un contrato de crédito por importe de 150 Euros, ¿se considera un contrato de crédito al consumo y, por tanto, regulado por la Ley 16/2011, de 24 de junio de contratos de crédito al consumo?
+
+```{=html}
+<!-- -->
+```
+a)  Sí, siempre.
+
+b)  Sí, siempre y cuando el prestatario sea un consumidor.
+
+c)  No, se encuentra expresamente excluido del ámbito de aplicación de la Ley de contratos de crédito al consumo.
+
+d)  A veces.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+Un contrato de crédito por importe de 150 Euros NO se considera un contrato de crédito al consumo ya que se encuentra expresamente excluido del ámbito de aplicación de la Ley 16/2011, de 24 de junio de contratos de crédito al consumo.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+11. ¿Qué significa la "concesión responsable de préstamos por parte de las entidades de crédito"?
+
+```{=html}
+<!-- -->
+```
+a)  Que las entidades de crédito sean responsables de los créditos asumidos.
+
+b)  Que las entidades de crédito respondan de los préstamos frente a terceros afectados.
+
+c)  Que las entidades de crédito sólo concedan préstamos a aquellos que reúnan las condiciones necesarias para poder pagarlos, tratando de atender además los intereses y necesidades concretas de cada cliente.
+
+d)  Ninguna de las anteriores es correcta.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+La concesión responsable de préstamos por parte de las entidades de crédito significa que las entidades de crédito sólo concedan préstamos a aquellos que reúnan las condiciones necesarias para poder pagarlos, tratando de atender además los intereses y necesidades concretas de cada cliente.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+12. ¿En qué consiste el "Credit Scoring"?
+
+```{=html}
+<!-- -->
+```
+a)  Son sistemas o métodos rápidos de estudio que las entidades de crédito han establecido para dar mayor agilidad de respuesta a la aprobación o denegación automatizada de la concesión de créditos a sus clientes.
+
+b)  Son métodos que pretenden obtener una puntuación o scoring a partir de determinada información estadística que permite clasificar el riesgo de las entidades de crédito.
+
+c)  Es un producto bancario.
+
+d)  Ninguna de las anteriores es correcta.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+El *Credit Scoring* son sistemas o métodos rápidos de estudio que las entidades de crédito han establecido para dar mayor agilidad de respuesta a la aprobación o denegación automatizada de la concesión de créditos a sus clientes.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+13. ¿Qué es el rating?
+
+```{=html}
+<!-- -->
+```
+a)  Sistemas o métodos rápidos de estudio que las entidades de crédito han establecido para dar mayor agilidad de respuesta a la aprobación o denegación automatizada de la concesión de créditos.
+
+b)  Una calificación que las agencias dan a las entidades de crédito en atención a su facturación.
+
+c)  Una calificación que las entidades de crédito otorgan a sus clientes en atención a su solvencia y en función de determinados parámetros previa e internamente definidos.
+
+d)  Ninguna de las respuestas anteriores es correcta.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+El *rating* es una calificación que las entidades de crédito otorgan a sus clientes en atención a su solvencia y en función de determinados parámetros previa e internamente definidos.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+14. ¿Qué ventajas presenta el Credit Scoring?
+
+```{=html}
+<!-- -->
+```
+a)  Está sujeto a apreciaciones subjetivas del analista que analiza la concesión del crédito.
+
+b)  Es un método beneficioso para las instituciones europeas.
+
+c)  El coste.
+
+d)  Sistematicidad, objetividad y universalidad.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Las principales venatjas del *Credit Scoring* son:
+
+-   Sistematicidad
+
+-   Objetividad
+
+-   Universalidad.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+15. La fase de concesión de préstamos:
+
+```{=html}
+<!-- -->
+```
+a)  Está sujeta al procedimiento establecido en la Ley 1/1984, de concesión de préstamos a particulares.
+
+b)  Está sujeta a la operativa que cada entidad haya convenido internamente.
+
+c)  Es libremente negociable por los clientes y la entidad.
+
+d)  Ninguna de las respuestas anteriores es correcta.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+La fase de concesión de préstamos está sujeta a la operativa que cada entidad haya convenido internamente.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+16. Los derechos reales de garantía que presentan más relevancia en las operaciones de crédito son:
+
+```{=html}
+<!-- -->
+```
+a)  Anticresis.
+
+b)  La fianza, la confianza y la subfianza.
+
+c)  Las garantías a primer requerimiento y las cartas de patrocinio.
+
+d)  Ninguna de las respuestas anteriores es correcta.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+El Código civil regula en los artículos 1.864 y siguientes los derechos reales de garantía (hipoteca, prenda y anticresis), si bien **los derechos de hipoteca y de prenda son los que presentan más relevancia en las operaciones de crédito**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+17. ¿Qué se entiende por garantía?
+
+```{=html}
+<!-- -->
+```
+a)  Es un documento que legitima al comprador de un bien para exigir el cumplimiento a una entidad de crédito.
+
+b)  Cualquier medio jurídico que asegure el cumplimiento de una obligación por parte del deudor evitando el perjuicio que su incumplimiento ocasionaría al acreedor.
+
+c)  Cualquier medio jurídico que asegure el cumplimiento de una obligación por parte del acreedor evitando el perjuicio que su incumplimiento ocasionaría al deudor.
+
+d)  Ninguna de las anteriores es correcta.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+Por garantia entendemos cualquier medio jurídico que asegure el cumplimiento de una obligación por parte del deudor evitando el perjuicio que su incumplimiento ocasionaría al acreedor.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+18. En la prenda, el acreedor pignoraticio tiene los siguientes derechos:
+
+```{=html}
+<!-- -->
+```
+a)  Derecho de orden, exclusión y división.
+
+b)  No goza de ningún derecho.
+
+c)  Derecho de retención de la cosa hasta que la obligación garantizada haya sido cumplida y derecho a percepción de los frutos y ejercicio de acciones.
+
+d)  Ninguna de las respuestas anteriores es correcta.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+En la prenda, el acreedor pignoraticio tiene los siguientes derechos:
+
+-   Derecho de retención de la cosa hasta que la obligación garantizada haya sido cumplida
+
+-   y, derecho a percepción de los frutos y ejercicio de acciones.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+19. El derecho de hipoteca:
+
+```{=html}
+<!-- -->
+```
+a)  Puede recaer sobre bienes muebles o inmuebles.
+
+b)  Recae siempre sobre bienes inmuebles y debe inscribirse siempre en el Registro de la Propiedad.
+
+c)  Recae siempre sobre bienes inmuebles y puede, a elección del titular, inscribirse en el Registro de la Propiedad.
+
+d)  Ninguna de las respuestas anteriores es correcta.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+El derecho de hipoteca recae siempre sobre bienes inmuebles y debe inscribirse siempre en el Registro de la Propiedad.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+20. En la fianza, ¿en qué consisten el beneficio de orden o excusión y división?
+
+```{=html}
+<!-- -->
+```
+a)  El beneficio de excusión es el derecho del fiador a negarse al pago mientras no se acredite la insolvencia total o parcial del deudor y el beneficio de división es el derecho que asiste a cada cofiador --cuando existen dos o más fiadores‐ para oponerse a la reclamación íntegra de la obligación principal o en la que exceda de la parte que proporcionalmente le corresponda.
+
+b)  En mecanismos mediante los cuales el acreedor se asegura el pago de la deuda por parte del garante.
+
+c)  Son garantías reales de las fianzas.
+
+d)  Ninguna de las respuestas anteriores es correcta.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+El beneficio de excusión es el derecho del fiador a negarse al pago mientras no se acredite la insolvencia total o parcial del deudor y el beneficio de división es el derecho que asiste a cada cofiador --cuando existen dos o más fiadores‐ para oponerse a la reclamación íntegra de la obligación principal o en la que exceda de la parte que proporcionalmente le corresponda.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+21. ¿Cuál de los siguientes aspectos se incluye en la gestión de la insolvencia de un particular?:
+
+|                                                                                |
+|:-----------------------------------------------------------------------|
+| I: Clasificar el grado de cumplimiento de la devolución del crédito concedido. |
+| II: Diseñar el mejor modo de negociar entre el cliente y la entidad.           |
+| III: Seguir el proceso de impago y sus vicisitudes.                            |
+
+a)  Solamente la I.
+
+b)  Solamente la II.
+
+c)  La I y II
+
+d)  I, II y III.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+1.  Las operaciones de préstamo se **clasifican en función del riesgo de insolvencia** imputable al cliente o a la operación en alguna de las siguientes categorías:
+
+-   Riesgo normal
+
+-   Riesgo subefa16estándar
+
+-   Riesgo dudoso por razón de la morosidad del cliente
+
+-   Riesgo dudoso por razones distintas de la morosidad del cliente
+
+-   Riesgo fallido
+
+2.  Cuando las operaciones de préstamo presenten situaciones que pongan en peligro su desarrollo natural conforma a las condiciones inicialmente pactadas entre el cliente y la entidad se deberán **utilizar mecanismos de gestión de riesgo de crédito con el objetivo de regularizar dicha situación**. Entre los instrumentos disponibles los más importantes son;
+
+-   La refinanciación
+
+-   La reestructuración
+
+-   La renovación o la renegociación de la operación
+
+3.  El tratamiento del proceso de impago debe tratarse de forma diferenciada dependiendo del tipo de problema de cobro y de la fase en que se encuentra el mismo. Desde un punto de vista general se pueden establecer **cinco fases en el proceso de impago**:
+
+-   Incidencias en el cobro
+
+-   Impagado
+
+-   Crédito moroso
+
+-   Crédito litigioso
+
+-   Fallido
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+22. ¿Cuál de las siguientes afirmaciones sobre protección al inversor no es correcta?
+
+```{=html}
+<!-- -->
+```
+a)  Más allá de las reclamaciones ante la entidad, el inversor podrá dirigirse a alguno o a varios de los siguientes organismos: Banco de España, CNMV y Dirección General de Seguros.
+
+b)  El grado de protección se establece en función del importe y duración del servicio/producto que la entidad ofrezca al inversor.
+
+c)  Los test de idoneidad y el test de adecuación permiten la evaluación de los clientes y de la adecuación de sus características de los distintos productos y servicios ofrecidos (perfil de riesgo Vs características del cliente).
+
+d)  Las entidades están obligadas a aprobar un Reglamento para la Defensa del Cliente.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+La Directiva MiFID contempla tres niveles de protección al inversor (cliente), **en función de su categoría**. Se establecen tres categorías de inversores (clientes), que, clasificadas siguiendo el mayor grado de protección que la norma les concede, son:
+
+-   Minorista: se incluye todo cliente MiFID que no sea profesional.
+
+-   Profesional: cliente con la experiencia, los conocimientos y la cualificación necesarios para tomar sus propias decisiones de inversión y para valorar correctamente los riesgos inherentes a dichas decisiones.
+
+-   Contraparte elegible: dentro de esta categoría se incluyen los grandes inversores institucionales (ejemplo: entidades de crédito, empresas de servicios de inversión, etc.). Se trata de una subcategoría de los clientes profesionales.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+23. En relación al leasing financiero, indique cual de las siguientes afirmaciones es correcta:
+
+```{=html}
+<!-- -->
+```
+a)  La propiedad del bien corresponde en todo momento al arrendatario.
+
+b)  Hasta que se ejecuta la opción de compra, la propiedad del bien corresponde a la entidad arrendadora.
+
+c)  El mantenimiento del bien corre a cargo de la compañía de leasing.
+
+d)  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+El leasing es un contrato de arrendamiento financiero, con opción de compra obligatoria a ejercitar a decisión del arrendatario que se utiliza para la puesta a disposición de inmovilizado dentro de empresas y particulares. Este tipo de contrato se caracteriza por la obligatoriedad de dicha opción sobre el bien puesto a disposición y, porque la propiedad del bien corresponde a la entidad arrendadora hasta que el arrendatario ejecuta la opción de compra.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+24. ¿Qué se entiende por morosidad en las operaciones de crédito?
+
+```{=html}
+<!-- -->
+```
+a)  La morosidad se da en el momento que el deudor atiende puntualmente una obligación de pago.
+
+b)  La morosidad se da en el momento que el deudor no atiende a una determinada obligación de pago y únicamente va referida al pago de capital.
+
+c)  La morosidad se da en el momento que el deudor no atiende a una determinada obligación de pago, bien sea ésta de capital e intereses o simplemente de intereses.
+
+d)  Ninguna de las respuestas anteriores es correcta.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+La morosidad en las operaciones de crédito se da en el momento que el deudor no atiende a una determinada obligación de pago, bien sea ésta de capital e intereses o simplemente de intereses.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+25. La mora contable:
+
+```{=html}
+<!-- -->
+```
+a)  Se produce antes de los 90 días desde el momento del impago.
+
+b)  Se produce a partir de los 90 días desde el momento del impago.
+
+c)  Es aquella mora que queda reflejada en los estados contables independientemente del plazo transcurrido desde el momento del impago.
+
+d)  Ninguna de las respuestas anteriores es correcta.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+La mora contable se produce a partir de los 90 días desde el momento del impago.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+26. La reunificación de las deudas permite al deudor:
+
+```{=html}
+<!-- -->
+```
+a)  Reestructurar la deuda existente de manera que pueda atender las deudas contraídas.
+
+b)  Abrir distintas líneas de crédito para obtener mayor liquidez.
+
+c)  Reducir el importe debido sin coste alguno para el deudor.
+
+d)  Ninguna de las respuestas anteriores es correcta.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+La reunificación de las deudas permite al deudor reestructurar la deuda existente de manera que pueda atender las deudas contraídas.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+27. La concesión de quitas:
+
+```{=html}
+<!-- -->
+```
+a)  Es una práctica habitual bancaria.
+
+b)  Es una manera de reunificar las deudas aunque a un coste determinado para el deudor.
+
+c)  A pesar de ser una práctica bancaria poco habitual, en ocasiones es utilizada para evitar una pérdida mayor para la entidad de crédito.
+
+d)  Ninguna de las respuestas anteriores es correcta.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+A pesar de ser una práctica bancaria poco habitual, la concesión de quitas en ocasiones es utilizada para evitar una pérdida mayor para la entidad de crédito.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+28. En el caso de impago de cuotas en un préstamo hipotecario, ¿a partir de cuándo podría el acreedor declarar el vencimiento anticipado de la totalidad del préstamo?
+
+```{=html}
+<!-- -->
+```
+a)  Puede hacerlo en cualquier momento a pesar de no existir incumplimiento en el pago de las cuotas.
+
+b)  Puede hacerlo a partir de los noventa días desde que se produjo el impago de cuotas.
+
+c)  Puede hacerlo a partir del momento en que se produce el impago de cuotas.
+
+d)  Ninguna de las respuestas anteriores es correcta.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+En el caso de impago de cuotas en un préstamo hipotecario, el acreedor podrá declarar el vencimiento anticipado de la totalidad del préstamo a partir de los noventa días desde que se produjo el impago de cuotas.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+29. Las políticas de gestión del riesgo de impago de las entidades financieras deberán:
+
+```{=html}
+<!-- -->
+```
+a)  Disponer de una política de refinanciación, reestructuración, renovación o renegociación de las operaciones.
+
+b)  Aplicarse únicamente cuando la operación alcanza los 90 días impagada.
+
+c)  Estar sustentadas en unos criterios de concesión vinculados con las garantías aportadas.
+
+d)  Evitar incorporar excepciones a las mismas
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+Las políticas de gestión del riesgo de impago de las entidades financieras deberán disponer de una política de refinanciación, reestructuración, renovación o renegociación de las operaciones.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+30. El valor de mercado en un informe de tasación es:
+
+```{=html}
+<!-- -->
+```
+a)  El valor a efectos de crédito hipotecario
+
+b)  El valor por el que podría venderse el inmueble mediante contrato privado.
+
+c)  El valor que indica el precio máximo de venta del inmueble.
+
+d)  El valor de reemplazamiento a nuevo del inmueble.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+El valor de mercado en un informe de tasación es aquel valor por el que podría venderse el inmueble mediante contrato privado.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+31. Determine cuál de los siguientes gastos ligados a los préstamos al consumo son específicos del contrato de Leasing:
+
+```{=html}
+<!-- -->
+```
+a.  Intereses.
+
+b.  Impuesto sobre Actos Jurídicos Documentados.
+
+c.  Valor residual.
+
+d.  Coste de cancelación anticipada.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+El Valor Residual es el valor a pagar para ejercer la opción de compra, algo que sólo es posible en el caso del Leasing.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+32. Determine cuál de las siguientes afirmaciones, referentes al riesgo del crédito, NO es correcta:
+
+```{=html}
+<!-- -->
+```
+a.  La entidad bancaria siempre asume el riesgo de impago de todos los créditos que concede.
+
+b.  Generalmente la rentabilidad de la cartera crediticia será mayor cuanto menor sea la calidad de los créditos concedidos.
+
+c.  El cálculo de pérdida anticipada depende de la tasa de morosidad anticipada, la exposición y la severidad.
+
+d.  El riesgo de crédito es el más importante de los que han de gestionar las instituciones bancarias en el desarrollo de su actividad tradicional.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+No necesariamente es la entidad bancaria la que asume todo el riesgo crediticio. Éste puede ser asumido, cedido o transformado.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+33. Determine cuál de las siguientes frases referentes a las garantías crediticias, NO es correcta:
+
+```{=html}
+<!-- -->
+```
+a.  Una garantía será crediticia si es valorable, de valor estable, real y fácilmente transferible.
+
+b.  La valoración de las garantías reales debe ser reciente y realizada por expertos reconocidos.
+
+c.  Las garantías hipotecarias están consideradas como garantías reales.
+
+d.  No puede constituirse una garantía hipotecaria si no hay una tasación previa.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+Una garantía no siempre es real (aunque sí es la categoría más importante). También puede ser personal o pignoraticia.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+34. Si una empresa desea obtener financiación de una entidad financiera y ésta le exige algún tipo de garantía...
+
+```{=html}
+<!-- -->
+```
+a.  La empresa sólo podrá presentar garantías reales.
+
+b.  La empresa sólo podrá hipotecar alguno de sus inmuebles para conseguir financiación.
+
+c.  La empresa podrá presentar tanto garantías reales como pignoraticias, pero no personales.
+
+d.  La empresa podrá contratar un seguro de caución.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la d**.
+
+Además de las garantías reales o las pignoraticias, la empresa podría recurrir a avales, fianzas o al seguro de caución para garantizar el crédito demandado.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+35. Respecto a las provisiones bancarias por insolvencia, determine cuál de las siguientes afirmaciones no es correcta:
+
+```{=html}
+<!-- -->
+```
+a.  Los contratos dudosos por morosidad del cliente deberán estar cubiertos con provisiones específicas en un determinado porcentaje.
+
+b.  Los contratos dudosos por razones distintas de la morosidad del cliente deberán estar dotados con provisiones específicas en un determinado porcentaje.
+
+c.  Los contratos con garantía real, dudosos por morosidad del cliente, deberán tener cubierta la totalidad del importe del crédito después de doce meses.
+
+d.  Los contratos sin riesgo aparente estarán cubiertos por provisiones anticíclicas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+Si existe una garantía real, sólo se debe provisionar la diferencia entre el crédito concedido y el precio de mercado del inmueble. Por tanto, el valor a provisionar será inferior al importe concedido.
+:::
+
+</details>
+
+------------------------------------------------------------------------

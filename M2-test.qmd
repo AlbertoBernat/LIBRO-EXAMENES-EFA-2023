@@ -4,9 +4,8 @@
 
 1.  Señalar alguna de las ventajas de los Fondos de Inversión
 
-```{=html}
 <!-- -->
-```
+
 a)  Una gestión profesional
 
 b)  Posibilidad de inversión en prácticamente cualquier mercado
@@ -33,9 +32,8 @@ Las tres son ventajas de la inversión en Fondos.
 
 2.  A la hora de selecciona entre un universo de inversión es necesario tener presente:
 
-```{=html}
 <!-- -->
-```
+
 a)  El elegido será el de mayor rentabilidad.
 
 b)  El elegido será el de menor riesgo.
@@ -62,9 +60,8 @@ La comparativa debe hacerse con Fondos homogéneos y con ratios que combinen la 
 
 3.  Atendiendo a las inversiones de las IIC´s, esta pueden ser:
 
-```{=html}
 <!-- -->
-```
+
 a)  De activos mobiliarios y activos monetarios.
 
 b)  De activos mobiliarios, activos monetarios Inmobiliarios.
@@ -91,9 +88,8 @@ En la actualidad las IIC´s se dividen en financieras y no financieras.
 
 4.  Los partícipes son:
 
-```{=html}
 <!-- -->
-```
+
 a)  Personas jurídicas o físicas a las que pertenece la IIC en todas las situaciones.
 
 b)  Persona jurídica o física a la que pertenece la IIC que reviste la forma de Fondos de Inversión.
@@ -120,9 +116,8 @@ La figura del partícipe se ajusta a la definición de esta respuesta, puesto qu
 
 5.  La aportación de cada inversor a un Fondo de Inversión se documenta a través de:
 
-```{=html}
 <!-- -->
-```
+
 a)  Derechos de propiedad
 
 b)  Acciones
@@ -149,9 +144,8 @@ Puesto que los derechos de propiedad se les denomina participaciones.
 
 6.  La principal diferencia entre los Fondos de Inversión y las SICAV es:
 
-```{=html}
 <!-- -->
-```
+
 a)  El destino de la inversión.
 
 b)  El órgano de supervisión.
@@ -178,9 +172,8 @@ La personalidad jurídica de la cual carecen los Fondos de Inversión y no las S
 
 7.  Los Fondos de Inversión:
 
-```{=html}
 <!-- -->
-```
+
 a)  Capitalizan los beneficios.
 
 b)  Reparten los beneficios.
@@ -207,9 +200,8 @@ Los Fondos se dividen en: de capitalización y de reparto.
 
 8.  Los fondos de inversión en la actualidad deben tener al menos:
 
-```{=html}
 <!-- -->
-```
+
 a)  Siempre 100 partícipes en los FI y 150 en F Monetarios.
 
 b)  Sea cual sea el fondo 100 partícipes.
@@ -238,9 +230,8 @@ Los Fondos especiales son las Instituciones de Inversión Colectiva libre Estas 
 
 9.  Una Institución de Inversión Colectiva Libre:
 
-```{=html}
 <!-- -->
-```
+
 a)  Necesita tener como máximo 25 partícipes.
 
 b)  Necesita tener como mínimo 100 partícipes.
@@ -267,9 +258,8 @@ Una Institución de Inversión Colectiva Libre necesita como mínimo 25 partíci
 
 10. Definimos a los partícipes de un Fondo de Inversión como:
 
-```{=html}
 <!-- -->
-```
+
 a)  Los propietarios del Fondo
 
 b)  La persona física o jurídica que aporta al Fondo
@@ -296,9 +286,8 @@ La definición y características de un partícipe coincide con las respuestas a
 
 11. Dentro de los derechos de los partícipes podríamos señalar:
 
-```{=html}
 <!-- -->
-```
+
 a)  Participar en la gestión financiera
 
 b)  Acudir a la Junta General de Partícipes
@@ -331,9 +320,8 @@ El posible malentendido puede pasar por las IIC´s extranjeras que se comerciali
 
 12. La Sociedad Gestora presenta las siguientes características:
 
-```{=html}
 <!-- -->
-```
+
 a)  Sociedad Anónima
 
 b)  Gestiona y administra el Fondo exclusivamente
@@ -360,9 +348,8 @@ Pues la B no es cierta al gestionar también los traspasos y las suscripciones d
 
 13. Una sociedad gestora puede:
 
-```{=html}
 <!-- -->
-```
+
 a)  Gestionar cualquier cartera de inversiones incluida las pertenecientes a fondos de pensiones.
 
 b)  Asesorar en inversiones.
@@ -389,9 +376,8 @@ Pues puede realizar las labores expuesta en a, b y c.
 
 14. Señalar cual de las siguientes funciones no es necesaria realizarla por una Sociedad Gestora:
 
-```{=html}
 <!-- -->
-```
+
 a)  Calcular el valor de las participaciones.
 
 b)  Elaborar la información necesaria para distribuir a los partícipes.
@@ -418,9 +404,8 @@ Dado que al ser entidad de crédito le corresponde al Banco de España o CNMV de
 
 15. Señalar cual de las siguiente funciones no le corresponde a la Entidad Depositaria:
 
-```{=html}
 <!-- -->
-```
+
 a)  Redactar el reglamento
 
 b)  Vigilar y supervisar la gestión
@@ -447,9 +432,8 @@ Dado que el resto son funciones de la entidad depositaria.
 
 16. De acuerdo con la Ley y sobre la pertenencia de Gestora y Depositaria al mismo grupo, la Ley marca que:
 
-```{=html}
 <!-- -->
-```
+
 a)  Pueden pertenecer y de hecho lo son
 
 b)  No pueden pertenecer
@@ -476,9 +460,8 @@ Tal y como lo recoge la Ley, la pertenencia de Gestora y Depositaria al mismo gr
 
 17. En caso de Deudas de la Entidad Gestora o Depositaria los Fondos bajo su dominio:
 
-```{=html}
 <!-- -->
-```
+
 a)  Responden con su patrimonio de estas deudas
 
 b)  No responden nunca con su patrimonio
@@ -505,9 +488,8 @@ Nunca responden con su patrimonio de las deudas de la entidad Gestora o Deposita
 
 18. En el caso de impago, quiebra, fallo, etc... de un activo incorporado a la cartera del Fondo:
 
-```{=html}
 <!-- -->
-```
+
 a)  Responde la Entidad Gestora que es la encargada de la Gestión.
 
 b)  Responde la Entidad Depositaria que es la encargada de la Custodia.
@@ -534,9 +516,8 @@ El impago, quiebra, fallo, etc... de una inversión en cartera representa un imp
 
 19. Una participación es:
 
-```{=html}
 <!-- -->
-```
+
 a)  Parte alícuota en la que se divide el capital de la Gestora.
 
 b)  El título de propiedad del Fondo.
@@ -563,9 +544,8 @@ Dado que la actual legislación reconoce la posibilidad de diferentes tipos de p
 
 20. La valoración de una participación:
 
-```{=html}
 <!-- -->
-```
+
 a)  No puede ser diferente para un partícipe de un mismo Fondo
 
 b)  Es el valor liquidativo
@@ -592,9 +572,8 @@ Dado que al existir compartimentos dependerá de en que compartimiento esté el 
 
 21. Referido a la comisión de gestión señalar que aspecto no es cierto:
 
-```{=html}
 <!-- -->
-```
+
 a)  Es percibido por la Gestora
 
 b)  Puede ser fija o variable
@@ -621,9 +600,8 @@ Pueden ser fijas, variable y combinadas ambas.
 
 22. Los límites de la comisión de gestión en los FI según el nuevo reglamento son:
 
-```{=html}
 <!-- -->
-```
+
 a)  Un 18% como mínimo si son sobre resultados
 
 b)  Un 15% como máximo si son sobre resultados
@@ -648,9 +626,8 @@ La respuesta **correcta es la d**.
 
 23. Los límites de la comisión de gestión en los FI según el nuevo reglamento son:
 
-```{=html}
 <!-- -->
-```
+
 a)  Un 2.50% como mínimo
 
 b)  Un 2.25% como máximo
@@ -677,9 +654,8 @@ El límite es de 2.25% como máximo si es sobre patrimonio.
 
 24. Los límites de la comisión mixta de gestión en los FI según el nuevo reglamento son:
 
-```{=html}
 <!-- -->
-```
+
 a)  Un 2.50% sobre patrimonio y un 18% sobre resultados
 
 b)  Un 2.25% sobre patrimonio y un 18% sobre resultados
@@ -706,9 +682,8 @@ Los límites de la comisión mixta de gestión en los FI según el nuevo reglame
 
 25. En el caso de las comisiones de gestión de un fondo:
 
-```{=html}
 <!-- -->
-```
+
 a)  Están incluidas en el cálculo del valor liquidativo
 
 b)  Son soportadas individualmente por cada partícipes
@@ -735,9 +710,8 @@ Todas son ciertas.
 
 26. La rentabilidad obtenida por un Fondo y que se traslada a un partícipe depende de:
 
-```{=html}
 <!-- -->
-```
+
 a)  La cartera del Fondo.
 
 b)  La calidad de la Gestión.
@@ -762,9 +736,8 @@ La respuesta **correcta es la d**.
 
 27. De los siguientes activos señalar en cual no pueden invertir los FI:
 
-```{=html}
 <!-- -->
-```
+
 a)  Depósitos bancarios
 
 b)  Títulos que se vayan a admitir a cotización
@@ -791,9 +764,8 @@ Derivados de crédito ya que el crédito no es un activo financiero.
 
 28. Las participaciones en IIC´s serán activos aptos siempre que:
 
-```{=html}
 <!-- -->
-```
+
 a)  En todos los casos
 
 b)  En cualquiera que tenga pasaporte comunitario
@@ -820,9 +792,8 @@ Puesto que la respuesta B se ve matizada por la necesidad de que esta institucio
 
 29. El límite de diversificación es:
 
-```{=html}
 <!-- -->
-```
+
 a)  Fijo para todas las IIC´s.
 
 b)  Una medida de seguridad para los partícipes.
@@ -849,9 +820,8 @@ Pues el límite es del 5 % si bien es ampliable al 10 % cuando la suma de las po
 
 30. Señalar la incorrecta. El concepto de fondo índice no se ajusta a:
 
-```{=html}
 <!-- -->
-```
+
 a)  Intentar replicar los resultados de un índice financiero
 
 b)  Sus límites de diversificación son más amplio que los Fondos normales
@@ -878,9 +848,8 @@ Los fondos índices no son fondos de gestión alternativa.
 
 31. Cuando una persona ha adquirido participaciones y decide reembolsar parte de ellas, fiscalmente se identifican las participaciones que salen atendiendo al método:
 
-```{=html}
 <!-- -->
-```
+
 a)  Más beneficios para el partícipe
 
 b)  Menos beneficioso para el partícipe
@@ -907,9 +876,8 @@ La ley obliga a la aplicación del FIFO.
 
 32. El traspaso de participaciones está permitido entre:
 
-```{=html}
 <!-- -->
-```
+
 a)  Fondos de Inversión y SICAV.
 
 b)  Fondos con Fondos y SICAV con SICAV.
@@ -936,9 +904,8 @@ El traspaso de participaciones está permitido entre Fondos de Inversión y SICA
 
 33. La delegación total de la gestión en terceras entidades es una característica:
 
-```{=html}
 <!-- -->
-```
+
 a)  Que no es legal.
 
 b)  Que pertenece al ordenamiento anterior.
@@ -965,9 +932,8 @@ Que se contempla en la actualidad dado que anteriormente no se podía realizar d
 
 34. El coeficiente de liquidez:
 
-```{=html}
 <!-- -->
-```
+
 a)  Garantiza la liquidación de ordenes de compra y venta de activos
 
 b)  Garantiza la liquidación normal de ordenes de traspasos reembolsos
@@ -994,9 +960,8 @@ Se establece para asegurar la liquidación normal de los traspasos y reembolsos.
 
 35. En los traspasos, el partícipe se dirige a qué entidad, para que inicie ésta los procesos necesarios:
 
-```{=html}
 <!-- -->
-```
+
 a)  A la gestora origen.
 
 b)  A la gestora destino.
@@ -1023,9 +988,8 @@ La encargada de activas los procedimientos para que se cumpla el traslado es la 
 
 36. ¿Cuál de las siguientes afirmaciones es verdadera sobre el partícipe?
 
-```{=html}
 <!-- -->
-```
+
 a)  Es accionista del Fondo
 
 b)  Tiene un derecho de propiedad sobre una parte del Fondo.
@@ -1052,9 +1016,8 @@ El derecho de propiedad del partícipe se documenta a través de las participaci
 
 37. La Sociedad Gestora
 
-```{=html}
 <!-- -->
-```
+
 a)  Gestiona siempre la totalidad del Fondo.
 
 b)  No está obligada a ejercer los derechos económicos del Fondo.
@@ -1081,9 +1044,8 @@ Una de las funciones de la Sociedad Gestora es el cálculo del valor liquidativo
 
 38. La Entidad Depositaria:
 
-```{=html}
 <!-- -->
-```
+
 a)  Deposita y custodia los valores y activos líquidos del Fondo
 
 b)  Liquida las ordenes de compra y venta de valores que ha ordenado la Gestora
@@ -1110,9 +1072,8 @@ Todas ellas son funciones de la Entidad Depositaria.
 
 39. La gestión alternativa se basa en:
 
-```{=html}
 <!-- -->
-```
+
 a)  Una no correlación de los resultados obtenidos frente al resultados de los mercados de inversión
 
 b)  La obtención, al menos de una rentabilidad objetivo, dentro de unos parámetros de volatilidad
@@ -1139,9 +1100,8 @@ Tanto la A, la B y la C son características o definición de gestión alternati
 
 40. La gestión alternativa está justificada por:
 
-```{=html}
 <!-- -->
-```
+
 a)  Una obtención de resultados siempre positivos
 
 b)  Un factor de incorrelación de las carteras frente al mercado
@@ -1168,9 +1128,8 @@ Puesto que el objetivo es la obtención de resultados pero existe riesgo de pér
 
 41. En la gestión alternativa:
 
-```{=html}
 <!-- -->
-```
+
 a)  El riesgo viene marcado por los activos en los que invierte
 
 b)  Se sustituye el riesgo de mercado, sistémico, por el de gestión
@@ -1197,9 +1156,8 @@ En la gestión alternativa el gestor tiene libertad de inversión, la disciplina
 
 42. Los Hedge Fund o Institución de Inversión Colectiva libre:
 
-```{=html}
 <!-- -->
-```
+
 a)  Buscan maximizar la rentabilidad por encima de cualquier concepto
 
 b)  No tiene definido grado de riesgo
@@ -1226,9 +1184,8 @@ Ya que a, b y c son características de la gestión de hedge fund.
 
 43. Cual de las siguientes afirmaciones no es cierta:
 
-```{=html}
 <!-- -->
-```
+
 a)  Los niveles de apalancamiento de los Hedge Fund suelen ser muy considerables.
 
 b)  En la gestión tradicional el riesgo fundamental del partícipe es el sistémico.
@@ -1255,9 +1212,8 @@ Puesto que busca la maximización del binomio rentabilidad riesgo.
 
 44. La característica fundamental de los Fondos denominados Neutral Market Fund es:
 
-```{=html}
 <!-- -->
-```
+
 a)  Buscar movimientos direccionales.
 
 b)  No exponerse a los posibles movimientos de mercado.
@@ -1284,9 +1240,8 @@ Intentan no exponerse al mercado si bien pueden tomar decisiones sistemáticas o
 
 45. Un fondo de situaciones especiales es:
 
-```{=html}
 <!-- -->
-```
+
 a)  Búsqueda de valores afectados por alguna característica que influye en la formación del precio.
 
 b)  Buscan situaciones especiales que permitan el arbitraje.
@@ -1313,9 +1268,8 @@ Invierte en valores que ven su precio presionado por alguna característica: pri
 
 46. Un fondo Long -- short:
 
-```{=html}
 <!-- -->
-```
+
 a)  Toma posiciones largas cuando el mercado va a subir y viceversa
 
 b)  Suele buscar una horquilla de valores e invierte largo o corto en ambos en función de las expectativas
@@ -1342,9 +1296,8 @@ Es la característica de inversión de estos fondos.
 
 47. Un fondo de arbitraje es:
 
-```{=html}
 <!-- -->
-```
+
 a)  Toma posiciones en activos cuyo precio no está bien formado y necesariamente el mercado corregirá esta situación
 
 b)  Generalmente se realiza a través de inversiones en divisa y tipos de interés
@@ -1371,9 +1324,8 @@ Ya que en a, b y c se define lo que es un fondo de arbitraje.
 
 48. La gestión alternativa es una forma:
 
-```{=html}
 <!-- -->
-```
+
 a)  De diversificación.
 
 b)  De tener siempre rendimientos positivos.
@@ -1400,9 +1352,8 @@ La gestión alternativa se debe considerar como diversificadora.
 
 49. Hedge - Fund son:
 
-```{=html}
 <!-- -->
-```
+
 a)  Fondos de muy bajo riesgo al no presentar correlación con los mercados.
 
 b)  Fondos con betas cercanas a 1.
@@ -1429,9 +1380,8 @@ Dado que la gestión de un Hedge - Fund no se caracteriza por ninguna de las tre
 
 50. La gestión Alternativa busca:
 
-```{=html}
 <!-- -->
-```
+
 a)  Maximizar la Beta
 
 b)  Apalancarse en el mercado
@@ -1458,9 +1408,8 @@ Ya que el objetivo que busca la gestión Alternativa es maximizar la rentabilida
 
 51. Las estrategias de "Market Neutral"
 
-```{=html}
 <!-- -->
-```
+
 a)  No están invertidas en mercado porque son neutrales
 
 b)  Buscan tener una Beta = 0
@@ -1487,9 +1436,8 @@ Al renunciar al riesgo sistémico la beta de la cartera es 0.
 
 52. La correlación de la gestión alternativa con las inversiones tradicionales:
 
-```{=html}
 <!-- -->
-```
+
 a)  Sube cuando el mercado cae.
 
 b)  Cae cuando el mercado sube.
@@ -1516,9 +1464,8 @@ Busca precisamente la descorrelación con la evolución de los mercados.
 
 53. La fondos de gestión alternativa los podemos dividir en:
 
-```{=html}
 <!-- -->
-```
+
 a)  Renta fija, renta variable.
 
 b)  De alta o baja volatilidad.
@@ -1545,9 +1492,8 @@ Que da la característica de inversión en las diferentes estrategias.
 
 54. El comportamiento de los fondos de Gestión alternativa se mide por:
 
-```{=html}
 <!-- -->
-```
+
 a)  Ratio Sharpe.
 
 b)  Comparación con respecto a su Benchmark.
@@ -1572,9 +1518,8 @@ La respuesta **correcta es la a**.
 
 55. Los fondos de Gestión Alternativa domiciliados en España:
 
-```{=html}
 <!-- -->
-```
+
 a)  Tienen que estar registrados en la CNMV.
 
 b)  Venden en corto para ganar cuando el mercado baja.
@@ -1599,9 +1544,8 @@ La respuesta **correcta es la a**.
 
 56. La diferencia principal entre un FI de Renta Fija y un Fondo Monetario consiste en:
 
-```{=html}
 <!-- -->
-```
+
 a.  La liquidez mínima exigida.
 
 b.  Las limitaciones en las Inversiones.
@@ -1626,9 +1570,8 @@ La **respuesta correcta es la b**.
 
 57. ¿Qué le ocurrirá a un FI de renta fija a largo plazo si suben los tipos de interés a largo plazo?
 
-```{=html}
 <!-- -->
-```
+
 a.  Nada, pues no van a comprar activos hasta que vuelvan a bajar los tipos de interés.
 
 b.  Subirá el valor de las Participaciones.
@@ -1653,9 +1596,8 @@ La **respuesta correcta es la c**.
 
 58. ¿Cuál es el plazo máximo de reembolso de un FI?
 
-```{=html}
 <!-- -->
-```
+
 a.  1 mes.
 
 b.  10 días hábiles.
@@ -1816,9 +1758,8 @@ La **respuesta correcta es la d**.
 
 63. En un fondo garantizado, la rentabilidad:
 
-```{=html}
 <!-- -->
-```
+
 a.  Es totalmente desconocida, ya sea de renta fija o de renta variable.
 
 b.  Puede alcanzar cualquier cifra, la garantía no ejerce ninguna influencia en el nivel máximo de rendimiento esperado.
@@ -1843,9 +1784,8 @@ La **respuesta correcta es la c**.
 
 64. Los fondos globales...
 
-```{=html}
 <!-- -->
-```
+
 a.  Son una categoría muy heterogénea.
 
 b.  Se subdividen en globales nacionales y globales internacionales.
@@ -1876,9 +1816,8 @@ En esta categoría es posible encontrar fondos con elevados niveles de riesgo.
 
 65. En el entorno de los fondos de inversión, el concepto "marca de agua" se refiere a:
 
-```{=html}
 <!-- -->
-```
+
 a.  La forma como se liquida la comisión de gestión en el caso que sea una comisión por resultados.
 
 b.  Al valor liquidativo máximo que ha alcanzado el fondo en los últimos tres años.
@@ -1898,9 +1837,9 @@ La respuesta **correcta es la a**.
 
 La normativa española permite **diferentes formas en el cobro de comisiones** recurrentes a los fondos de inversión. Un porcentaje **fijo** (comisión de gestión), en función de los **resultados** (comisión sobre resultados o performance fee) o un sistema **mixto**. Los **límites** máximos están claramente fijados y son los siguientes:
 
-```{r, echo=FALSE, fig.align='center', out.width='75%'}
-knitr::include_graphics("images/watermark.png")
+!\[\](images/watermark.png)
 
+```{}
 ```
 
 Asimismo, **cuando se aplica la comisión sobre resultados, la normativa establece lo que conocemos como Marca de Agua, o High-Watermark en su término anglosajón. El concepto de Marca de Agua sirve para impedir que un inversor pague dos veces por la misma rentabilidad obtenida**, y por tanto establece que la comisión sobre rentabilidad solo puede aplicarse cuando el fondo está por encima de un nivel previamente alcanzado. Así, según el Real Decreto 1082/2012, de 13 de julio, por el que se aprueba el Reglamento de desarrollo de la Ley 35/2003, de 4 de noviembre, de instituciones de inversión colectiva:
@@ -1916,9 +1855,8 @@ Fuente: [www.morningstar.es](http://www.morningstar.es/es/news/113975/%C2%BFqu%C
 
 66. Los *Exchanged Traded Funds* (ETF) se caracterizan por:
 
-```{=html}
 <!-- -->
-```
+
 a.  A diferencia de los fondos tradicionales, pueden ser objeto de compra-venta intradía.
 
 b.  Los ETF son gestionados activamente.
@@ -1945,9 +1883,8 @@ Los **ETF (*ExchangedTraded Funds*)** se carecterizan, a diferencia de los fondo
 
 67. La gestión consistente en ajustar en cada momento la composición de la cartera a las expectativas que tenga el gestor sobre la evolución del mercado en su conjunto y de valores determinados es conocida como...
 
-```{=html}
 <!-- -->
-```
+
 a)  Gestión activa
 
 b)  Gestión pasiva
@@ -1972,9 +1909,8 @@ La respuesta **correcta es la a**.
 
 68. La gestión consistente, básicamente, en comprar activos que se consideran baratos es conocida como....
 
-```{=html}
 <!-- -->
-```
+
 a)  Gestión activa
 
 b)  Gestión pasiva
@@ -1999,9 +1935,8 @@ La respuesta **correcta es la c**.
 
 69. ¿Cuál de las siguientes afirmaciones es errónea?
 
-```{=html}
 <!-- -->
-```
+
 a)  Los fondos de gestión pasiva suelen estar totalmente invertidos en el mercado sin posiciones de liquidez significativas
 
 b)  Los costes asociados a fondos de gestión activa son superiores a los de gestión pasiva
@@ -2026,9 +1961,8 @@ La respuesta **correcta es la d**.
 
 70. La gestión consistente en determinar la composición de una cartera en el momento de constituirla, sin posteriormente tomar apenas decisiones para alterar esta composición inicial se denomina...
 
-```{=html}
 <!-- -->
-```
+
 a)  Gestión activa
 
 b)  Gestión pasiva
@@ -2053,9 +1987,8 @@ La respuesta **correcta es la b**.
 
 71. Se denomina stockpickers a...
 
-```{=html}
 <!-- -->
-```
+
 a)  Los gestores bottom‐up
 
 b)  Los gestores top‐down
@@ -2080,9 +2013,8 @@ La respuesta **correcta es la a**.
 
 72. ¿Cuál de las siguientes características es común en la gestión activa?:
 
-```{=html}
 <!-- -->
-```
+
 A)  El gestor piensa que los precios de algunas acciones no reflejan toda la información existente en el mercado.
 
 B)  El gestor podrá utilizar la estrategia de asset allocation.
@@ -2107,9 +2039,8 @@ La respuesta **correcta es la D**.
 
 73. Un Fondo con una beta igual a 1 y con alfa igual a cero, supone que:
 
-```{=html}
 <!-- -->
-```
+
 a.  El fondo replica al índice perfectamente.
 
 b.  El fondo tiene una volatilidad superior al índice.
@@ -2136,9 +2067,8 @@ En este caso tenemos que la beta igual a la unidad ($\beta_{fondo}=1$), de modo 
 
 74. Dados dos fondos: A, con una rentabilidad media del 7% y una desviación tipica del 10%, y B, con una rentabilidad media del 5% y una desviacion tipica del 4,5% ¿Que gestor ha sido mas eficiente si la tasa libre de riesgo es del 2,5%?
 
-```{=html}
 <!-- -->
-```
+
 a.  El del fondo A.
 
 b.  El del fondo B.
@@ -2182,12 +2112,10 @@ Así,
 
 $$S_{p,\ 2}>S_{p,\ 1}$$
 
-```{block2, type='rmdnote'}
+
+Del valor numérico del ratio de Sharpe podemos extraer algunas conclusiones. En términos de rentabilidad, mientras mayor sea el índice de Sharpe, mejor es la rentabilidad del fondo comparado directamente a la cantidad de riesgo que se ha asumido en la inversión. Si el índice o ratio de Sharpe es negativo, indica un rendimiento inferior a la rentabilidad sin riesgo. Todo ratio de Sharpe inferior a uno significa que el rendimiento del activo es inferior al riesgo que estamos asumiendo al invertir en un activo determinado. Cuando la volatilidad del fondo de inversión es grande, asumimos más riesgo y por ende el ratio de Sharpe será menor, a no ser que el rendimiento del fondo en concreto compense esa mayor rentabilidad.
 
 
-Del valor numérico del ratio de Sharpe podemos extraer algunas conclusiones. En términos de rentabilidad, mientras mayor sea el índice de Sharpe, mejor es la rentabilidad del fondo comparado directamente a la cantidad de riesgo que se ha asumido en la inversion. Si el índice o ratio de Sharpe es negativo, indica un rendimiento inferior a la rentabilidad sin riesgo. Todo ratio de Sharpe inferior a uno significa que el rendimiento del activo es inferior al riesgo que estamos asumiendo al invertir en un activo determinado. Cuando la volatilidad del fondo de inversión es grande, asumimos más riesgo y por ende el ratio de Sharpe será menor, a no ser que el rendimiento del fondo en concreto compense esa mayor rentabilidad.
-
-```
 :::
 
 </details>
@@ -2196,9 +2124,8 @@ Del valor numérico del ratio de Sharpe podemos extraer algunas conclusiones. En
 
 75. Sobre las instituciones de inversión colectiva inmobiliaria podemos afirmar que:
 
-```{=html}
 <!-- -->
-```
+
 a.  Los FII deben ofrecer liquidez, al menos, cada mes.
 
 b.  La fiscalidad de los fondos inmobiliarios es mejor que la de los fondos de inversión ordinarios.
@@ -2225,9 +2152,8 @@ La respuesta A) es incorrecta porque la sociedad gestora de un FII tiene que gar
 
 76. En el seguimiento pasivo de una cartera...
 
-```{=html}
 <!-- -->
-```
+
 a.  La evolución de la ponderación de las diferentes categorías de activos está directamente determinada por el asset allocation inicial y el comportamiento del precio de los activos.
 
 b.  El asset allocation inicial se toma como benchmark en el proceso de reequilibrio.
