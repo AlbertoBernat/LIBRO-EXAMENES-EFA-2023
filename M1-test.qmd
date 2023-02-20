@@ -82,7 +82,7 @@ d)  Paso de 45 a 55 en el ISM.
 
 </summary>
 
-::: {FOO .callout-tip appearance="simple"}  
+::: {.FOO .callout-tip appearance="simple"}  
 La respuesta **correcta es la d**.
 
 El Indicador ISM es un indicador avanzado de producción americano. Se elabora mensualmente una encuesta a los jefes de compra de 250 empresas en la cual se les pide que respondan si la actividad será igual, mayor o inferior a la del mes anterior. A partir de los resultados se interpretará si va a haber una **tendencia expansiva** (en el caso de que la actividad sea mayor) o recesiva (en el caso de que la actividad sea menor) en la economía.
