@@ -1,0 +1,1903 @@
+# Casos prácticos 2020 {.unnumbered}
+
+## Gestión de carteras (nuevo)
+
+-   Ignacio aprovecha la reunión que mantiene con su asesor para solicitarle que diseñe un plan de inversión para su hijo Santiago.
+
+El objetivo de inversión es obtener una rentabilidad mínima del 4,5%, con una volatilidad del 10%.
+
+Se dispone de las siguientes alternativas de inversión:
+
+-   Fondo de Renta Variable Global (sesgo Growth), con rentabilidad esperada del 8% y volatilidad del 17%
+
+-   Fondo de Renta Fija que invierte en bonos del gobierno alemán, cupón cero, con rentabilidad esperada del 0,5%. Considerarse como el activo libre de riesgo
+
+-   Rentabilidad y volatilidad del índice MSCI World de 6% y 16% respectivamente.
+
+Se pide:
+
+1\. ¿Cómo distribuiría estratégicamente la cartera entre los activos de renta variable y renta fija para lograr una cartera con una Volatilidad del 10%?
+
+a\. RV = 58,82% y RF = 41,18%
+
+b\. RV = 41,18% y RF = 58,82%
+
+c\. RV = 55,00% y RF = 45,00%
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**
+
+Vamos a plantear cuál sería el riesgo de la cartera,
+
+$$\sigma_p=w_1\cdot \sigma_1+w_2 \cdot  \sigma_2$$
+
+teniendo en cuenta que solamente uno de los dos activos que la conformarán, es un activo arriesgado la expresión anterior quedaría de la siguiente forma:
+
+$$\sigma_p=w_1\cdot \sigma_1$$
+
+Evidentemente, el riesgo de la cartera construida de esta forma, estará en proporción al riesgo que presente este título 1 exclusivamente, ya que el activo libre de riesgo, por lógica, no puede añadir riesgo a la cartera. Por lo tanto, la composición de la cartera, en nuestro caso será:
+
+$$0.1=w_1\cdot 0.17\quad \:w_1=0.58823(58.80\%)$$
+
+Que si la ponderación del activo arriesgado es, W1 bastará restarle a la unidad, el valor de esta. De manera que la ponderación del activo dos queda de la siguiente forma:
+
+$$w_2=(1-w_1)=(1-0.58823)=0.41177(41.17\%)$$
+
+Al ser Correlación nula, la volatilidad de esta cartera es 9,98% (casi 10%):
+
+$$\sigma_p=0.58823\cdot \:0.17=0.0999991(10\%)$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+2\. ¿Cuál sería la rentabilidad esperada de la cartera?
+
+a\. 4,90%
+
+b\. 3,58%
+
+c\. 4,62%
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**
+
+Tenemos que calcular la rentabilidad esperada de la cartera, teniendo en cuenta las ponderaciones del apartado anterior:
+
+$$E_p=w_1\cdot E_1+w_2\cdot E_2+...+w_n\cdot E_n$$
+
+Donde,
+
+-   $E_p$, es la rentabilidad esperada de la cartera.
+
+-   $w_n$, es la ponderación (o proporción) del activo $n$ dentro de la cartera.
+
+-   $E_n$, es rentabilidad esperada del activo $n$.
+
+$$E_p=0.58823\cdot \:0.08+0.41177\cdot \:0.005=0.04911725(4.9\%)$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+3\. ¿Calcular el ratio de Información de la cartera resultante, sabiendo que la correlación de la cartera con respecto al indice MSCI World es 0,65?
+
+a\. +0,15
+
+b\. -0,25
+
+c\. +0,33
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**
+
+Nos piden calcular el ratio de información, el cuál deberemos de calcular a través de su expresión, que es la siguiente:
+
+$$RI=\frac{\alpha_p}{\sigma_{\alpha,p}}$$
+
+donde,
+
+-   $\alpha_p$, es el alfa de la cartera $p$.
+
+-   $TE$, Tracking Error (desviación típica (volatilidad o riesgo) del alfa respecto de la cartera $p$.
+
+Ojo, que para **obtener el ratio de información**, debemos **calcular el alfa de la cartera** en primer lugar. Para ello tenemos que utilizar la siguiente expresión:
+
+$$\alpha_p=R_p-\beta_p \cdot R_m$$
+
+donde,
+
+-   $\alpha_p$, es el alpha de la cartera $p$.
+
+-   $R_p$, es la rentabilidad obtenida de la cartera $p$.
+
+-   $\beta_p$, es la beta de la cartera $p$.
+
+-   $R_m$, es la rentabilidad de la cartera de mercado $m$.
+
+Observamos que **necesitamos calcular previamente la beta de la cartera** ya que esta la desconocemos y, debemos de incluirla en la expresión del alfa para el cálculo de este. De forma que vamos a calcular también la beta, condicionados a los datos que nos da el problema, ya que tenemos **dos expresiones que nos conducen al resultado** de la beta:
+
+$$\beta_{i,m}=\frac{\sigma_{i,m}}{\sigma_m^2}=\frac{\sigma_i}{\sigma_m}\cdot\rho_{i,m}$$
+
+donde,
+
+-   $\beta_{i, m}$, es la beta del activo $i$ respecto del mercado $m$.
+
+-   $\sigma_{i,m}$, es la covarianza entre las rentabilidades del activo $i$ y el mercado $m$.
+
+-   $\sigma_m^2$, es la varianza del mercado $m$.
+
+-   $\sigma_i$, es la volatilidad del activo $i$.
+
+-   $\sigma_m$, es la volatilidad del mercado $m$.
+
+-   $\rho_{i,m}$, es el coeficiente de correlación entre el activo $i$ y el mercado $m$.
+
+**tomamos la segunda expresión** y calculamos,
+
+$$\beta_{i,m}=\frac{0.10}{0.16}\cdot \:0.65=0.40625$$
+
+calculada beta, **podemos calcular ahora el alfa** como:
+
+$$\alpha _p=0.049-0.40625\:\cdot 0.06=0.024625\left(2.46\%\right)$$
+
+Conocido el numerador del RI, **calculamos ahora el Tracking error**, que será el denominador del ratio de información:
+
+$$TE_{\alpha,p}=\sqrt{\sigma_p^2-\beta_p^2\cdot \sigma_m^2}$$
+
+donde,
+
+-   $TE$, es la desviación típica (volatilidad o riesgo) del alfa respecto de la cartera $p$.
+
+-   $\sigma_p^2$, es la varianza de la cartera $p$.
+
+-   $\beta_p^2$, es la beta al cuadrado de la cartera $p$.
+
+-   $\sigma_m$, es la varianza al cuadrado de la cartera de mercado (o *benchmark*) $m$.
+
+de forma que el calculo del TE queda como sigue:
+
+$$TE=\sqrt{0.1^2-0.40625^2\cdot \:0.16^2}=0.07599$$
+
+**Calculamos el ratio de información**, a través del cociente entre el alfa y el tracking error
+
+$$RI=\frac{\alpha_p}{{TE}}=\frac{0.024625}{0.07599}=0.32405(0.33)$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+## Gordon-Shapiro (nuevo)
+
+Usted, como asesor financiero, dispone de la siguiente información sobre la compañía DELTA:
+
+Dividendo por acción pagado y durante los últimos tres años y el correspondiente al presente ejercicio, asumiento que t=0
+
+| Tiempo                       | -3    | -2    | -1    | t=0   |
+|------------------------------|-------|-------|-------|-------|
+| dividendo por acción (euros) | 4,350 | 4,524 | 4,704 | 4,892 |
+
+-   Beta de la empresa DELTA: 1,3
+
+-   Tipo de interés del activo libre de riesgo: 1%
+
+-   Rentabilidad del mercado: 9%
+
+Se pide:
+
+1\. Calcular la tasa de crecimiento de los dividendos
+
+a\. 4,00%
+
+b\. 4,10%
+
+c\. 3,90%
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a.**
+
+Vamos a calcular la tasa de crecimiento de los dividendos como la tasa de variación que existe entre cada uno de los cuatro periodos que nos propone el enunciado para asegurarnos cuál es el porcentaje al que estos crecen:
+
+$$
+\Delta d_{(-2,-3)}=\frac{4.524-4.35}{4.35}=4\%
+$$
+
+$$
+\Delta d_{(-1,-2)}=\frac{4.704-4.524}{4.524}=3.978(4\%)
+$$
+
+$$
+\Delta d_{(0,-1)}=\frac{4.892-4.704}{4.704}=3.996(4\%) 
+$$
+
+Movemos los dividendos crecen al 4 %, es un dividendo creciente por tanto a una tasa constante.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+2\. Utilizando el modelo de Gordon-Shapiro, calcule el precio teórico de la acción de la empresa DELTA, considerando que la tasa de crecimiento del dividendo obtenido en el apartado anterior, se mantenga constante
+
+a\. 66,00 euros
+
+b\. 68,74 euros
+
+c\. 67,75 euros
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta correcta es la b.
+
+Nos piden calcular el valor intrínseco o precio teórico según el modelo de Gordon, de forma que emplearemos la siguiente expresión:
+
+$$P_O=\frac{D_1}{k-g}$$
+
+donde,
+
+-   $P_0$, es el precio teórico de la acción en el momento 0 (o valor actual).
+
+-   $D_1$, es el el dividendo que paga el título en el momento 1 (final del primer periodo).
+
+-   $k$, es la tasa de descuento o la rentabilidad mínima exigida por los accionistas a la empresa.
+
+-   $g$, es la tasa constante a la que crecerá el diviendo en cada periodo.
+
+En nuestro caso como nos dan el dividendo en el momento cero, tenemos que calcular el dividendo en el momento uno del tiempo para introducirlo en el modelo, de forma que la expresión anterior, en nuestro caso concreto, queda de la siguiente forma:
+
+$$
+P_0=\frac{D_0\left(1+g\right)}{k-g}
+$$
+
+Hemos laca es decir que con el modelo CAPM obtenemos cuál será la tasa de descuento que exigirán los accionistas conocida como K:
+
+$$K_e=R_f+(E_m-R_f)\cdot\beta_i$$
+
+Donde,
+
+-   $Ke$, es la rentabilidad exigida por los accionistas a la empresa emisora del título $e$.
+
+-   $R_f$, es la rentabilidad del activo sin riego.
+
+-   $E_m$, es la rentabilidad esperada de la cartera de mercado.
+
+-   $\beta_i$, es la beta del título $i$.
+
+de donde, al sustituir y calcular obtenemos:
+
+$$
+K_e=0.01+\left(0.09-0.01\right)\cdot \:1.3=0.114(11.40\%)
+$$
+
+Ya podemos calcular cuál será el precio teórico:
+
+$$
+P_0=\frac{4.892\left(1+0.04\right)}{0.114-0.04}=68.75243 \ euros
+$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+## Gestión de carteras (dic-20)
+
+Disponemos de la siguiente información relativa a dos acciones A y B:
+
+| Activo | Rentabilidad esperada (%) | Volatilidad esperada (%) | Coeficiente de correlación entre A y B |
+|-----------------|-----------------|-----------------|-----------------------|
+| A      | 18                        | 20                       | 0,50                                   |
+| B      | 12                        | 10                       |                                        |
+
+Del presupuesto destinado a la inversión bursátil se invierte el 80% en el activo A y el resto en el B.
+
+**Se pide:**
+
+1.  Rentabilidad media que se espera obtener con la cartera así construida
+
+a\. 16,00%
+
+b\. 15,90%
+
+c\. 17,00%
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+La rentabilidad media esperada es del 16,80 % que redondeando no sale un 17 %
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+2.  Volatilidad de la cartera
+
+a\. 16,25%
+
+b\. 17,09%
+
+c\. 16,99%
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+3.  En el caso de que el presupuesto del que se dispone se destinara a invertir en el activo A y en un activo libre de riesgo que ofreciera una rentabilidad del 2%, ¿cómo distribuiría estratégicamente la cartera entre los activos de renta variable y el activo libre de riesgo para lograr una cartera con una volatilidad del 10%?
+
+a\. Renta variable = 60% y Activo libre de riesgo = 40%
+
+b\. Renta variable = 55% y Activo libre de riesgo = 45%
+
+c\. Renta variable = 50% y Activo libre de riesgo = 50%
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+Como la volatilidad del activo libre de riesgo es del 0 %, los pesos deberán ser del 50 % en cada activo para que la volatilidad sea del 10 %; digamos que es la mitad de la desviación típica del activo A.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+## Futuros Especulación (dic-20)
+
+El 02-02-2020, un inversor, conocedor del uso de los contratos de futuros, tiene expectativas de incremento de las cotizaciones bursátiles de las acciones de las principales bolsas europeas, con el consiguiente aumento del valor del índice bursátil EuroStoxx 50. Por ello, decide invertir en 20 contratos de futuros sobre EuroStoxx 50 con vencimiento febrero de 2020
+
+Estos son los datos de la operación en su inicio:
+
+-   Indice EuroStoxx 50 contado: 3.447,09
+
+-   Futuro EuroStoxx 50 vto. febrero de 2020: 3.460
+
+-   Valor monetario del tick: 10€
+
+-   Depósito de garantía inicial: 3.350€
+
+El 14-02-2020 decide cerrar su posición. Éstas con las cotizaciones, tanto de futuro como de contado en el momento que el inversor cancela la operación:
+
+-   Indice EuroStoxx 50 contado: 3.791,45
+
+-   Futuro EuroStoxx 50 vto. febrero 2020: 3.806
+
+Se pide:
+
+1.  Calcular el o beneficio o pérdida de la operación
+
+a\. +69.200€
+
+b\. -65.000€
+
+c\. +66.290€
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+El beneficio se obtiene por diferencia de 3806 y 3460. Al ser 20 contratos y el multiplicador 10 €, se obtiene así un beneficio de 69.200 € con esta operación.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+2.  Calcular la rentabilidad absoluta de la operación
+
+a\. 20,65%
+
+b\. 103,20%
+
+c\. 10,32%
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+La rentabilidad absoluta será el cociente de 3460 € ganados entre los 3350 € adelantados en concepto de depósito o garantía. De forma que lo que obtenemos es, una rentabilidad absoluta de la operación del 103,28 %
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+3.  Calcular el efecto multiplicativo de las plusvalías/minusvalías (factor de apalancamiento)
+
+a\. 9,90 veces
+
+b\. 10,32 veces
+
+c\. 1,032 veces
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+El apalancamiento es 10,32 veces (34.600 euros / 3.350)
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+4.  Calcular la variación del precio del futuro necesaria para obtener una rentabilidad de +/-125%
+
+a\. +12,11%
+
+b\. -12,11%
+
+c\. +12,90%
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+Si el futuro sube 335 puntos (9,68%), ganará un 100%. Para ganar un 125% deberá subir 418,75 puntos (hasta 3.878,75)
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+## Fiscalidad (2020)
+
+Margarita es una contribuyente del IRPF que a comienzos del ejercicio 2020 es titular de las siguientes posiciones financieras.
+
+• 2.000 participaciones del fondo de inversión ALFA FI, que fueron adquiridas a un valor unitario de 10 euros por participación.
+
+• 5.000 participaciones del fondo de inversión GAMMA FI, que fueron adquiridas a un valor unitario de 10 euros por participación.
+
+• 10.000 acciones de TELEFÓNICA.
+
+• 15.000 bonos emitidos por ENDESA, que fueron adquiridos a un valor unitario de 4 euros/bono.
+
+En el presente ejercicio 2020 se han producido las siguientes operaciones:
+
+1.  Se han traspasado las participaciones tenidas en ALFA FI en una fecha en la que el valor liquidativo unitario de cada participación era de 15 euros. Como consecuencia del traspaso, D. Margarita ha recibido 5.000 participaciones del fondo de inversión BETA FI.
+
+2.  Se han percibido dividendos de TELEFÓNICA por un importe de 40.000 euros.
+
+3.  Se han vendido los bonos de ENDESA a un precio de 2 euros/bono
+
+4.  Se han reembolsado las participaciones tenidas en GAMMA FI a un valor de reembolso de 15 euros por participación
+
+Con la Información disponible.
+
+Se pide:
+
+1.  Indique qué efectos fiscales tiene la operación de traspaso de las participaciones en ALFA FI y cuál es el valor de adquisición, a efectos fiscales, de las nuevas participaciones recibidas del fondo BETA FI
+
+<!-- -->
+
+a.  El traspaso no se puede beneficiar fiscalmente del régimen de diferimiento por traspasos. El valor de adquisición a efectos fiscales de las participaciones recibidas del fondo BETA FI es de 30.000 euros
+
+b.  El traspaso si se puede beneficiar fiscalmente del régimen de diferimiento por traspasos. El valor de adquisición a electos fiscales de las acciones recibidas del fondo BETA FI es de 20.000 euros
+
+c.  El traspaso si se puede beneficiar fiscalmente del régimen de diferimiento por traspasos.
+
+d.  El valor de adquisición a efectos fiscales de las del Fondo BETA FI es de 30.000€
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la: b**.
+
+Un traspaso es un reembolso de un fondo y la posterior suscripción de otra IIC, conservando la antigüedad de la primera inversión a efectos fiscales.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+2.  ¿Cuál es el saldo neto, de rendimientos del capital mobiliario obtenidos por D' Margarita en el ejercicio 2020?
+
+<!-- -->
+
+a.  40.000
+
+b.  30.000
+
+c.  10.000
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la: c**.
+
+Los RCM son 10.000 (+40.000 - 30.000 de los bonos) y los 40.000 de dividendos.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+3.  ¿Cuál es el importe de la base imponible del ahorro que deberá declarar Da Margarita en el IRPF del año 2020?
+
+<!-- -->
+
+a.  35.000
+
+b.  40.000
+
+c.  30.000
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la: a**.
+
+A La BASE DEL AHORRO será de 35.000 euros. Suma de los 10.000 en RCM + la ganancia en la venta del fondo (25.000), y si una de las partes fuera negativa, se puede compensar el 25% de la PARTE POSITIVA
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+## Futuros (2020)
+
+Un cliente con acciones de la bolsa española por valor de 785.670,80 euros, ante la incierta situación de los mercados, decide reducir el riesgo sistemático o de mercado de su cartera a 0,50, utilizando para ello contratos de futuros sobre el IBEX-35.
+
+El cliente deshará su posición en la fecha de vencimiento del futuro.
+
+La situación de los mercados es la siguiente:
+
+**Al iniciar la operativa**:
+
+• IBEX-35 al contado: 9.101,10
+
+• Beta de la cartera: 1,15
+
+• Futuro IBEX-35 vencimiento más próximo: 9.033 (El tick del contrato es 1 punto y su valor monetario unitario es de 10 euros)
+
+**Al momento de cerrar su posición la situación del mercado era la siguiente**:
+
+• Valor efectivo de la cartera: 715.380,50 euros
+
+• IBEX-35 al contado: 8.521,80
+
+• Futuro IBEX-35 mismo vencimiento que el contratado: 8.515
+
+Se pide.
+
+1.  Determinar el ratio de cobertura
+
+<!-- -->
+
+a.  Vender 10 contrato
+
+b.  Comprar 10 contratos
+
+c.  Vender 6 contratos
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la: c**.
+
+En este ejercicio nos piden que calculemos el Ratio de Cobertura, para ello empleamos el valor efectivo de las acciones de la bolsa, por valor de 785.670,80 euros, en el momento de hacer la operación de cobertura:
+
+$$RC=\frac{785670.8\cdot \:\:1.15}{8521.80\cdot \:\:10}=10.60247$$
+
+de forma que si queremos cubrir el 100% de nuestra cartera (beta = 1,15) deberíamos vender 10 contratos sobre el Ibex. Pero como en este caso, el gestor quiere reducir su exposición al riesgo de mercado hasta conseguir una beta de 0,50, de manera que tenemos que hacer el ajuste pertinente como sigue:
+
+$$RC=\frac{785670.8\cdot \:\:1.15}{8521.80\cdot \:\:10}=10.60247\cdot \:0.5=5.301235 \approx 6 \ contratos$$
+
+Redondeamos a **6 contratos redondeando al alza**, y ya que no nos da la posibilidad de vender 5.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+2.  Determinar el resultado bruto de la operación con futuros.
+
+<!-- -->
+
+a.  Beneficio de 51.800 euros
+
+b.  Perdida de 51.800 euros
+
+c.  Beneficio de 30.672 euros
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la: c**.
+
+$$
+B=\left(9033-8521.8\right)\left(6 \ contratos\right)\left(10 \ euros \right )=30672
+$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+3.  Obtener el resultado neto de la operación (contado-futuro)
+
+<!-- -->
+
+a.  Pérdida de 88.320 euros
+
+b.  Beneficio de 88.320 euros
+
+c.  Pérdida de 39.618 euros
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la: c**.
+
+Por suma de lo que gana con 6 contratos 30.672 y lo que pierde al contado 70.290
+
+$$
+P=-70.290 + 30.672 = - 39.618
+$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+## Octubre I (2020)
+
+1.  Con la información que aparece en el cuadro y utilizando el modelo SML.
+
+| Acciones               | Rentabilidad Esperada | Beta |
+|:-----------------------|:---------------------:|:----:|
+| A                      |          26%          | 1,8  |
+| B                      |          16%          | 0,9  |
+| C                      |          14%          | 1,2  |
+| D                      |        16,15%         | 1,1  |
+| Activo libro de riesgo |         3,50%         |      |
+| Índice del Mercado     |        15,00%         |  1   |
+
+Se pide:
+
+1.  Determine qué acciones se encuentran infravaloradas.
+
+<!-- -->
+
+a.  La acción A y la acción D
+b.  La acción A y la acción B
+c.  La acción C y la acción D
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+Respuesta **correcta: b**.
+
+Utilizando el modelo SML (Security Market Line)
+
+$$E_i=R_f+(E_m-R_f)\cdot\beta_i$$
+
+Donde,
+
+-   $E_p$, es la rentabilidad esperada del título $i$.
+
+-   $R_f$, es la rentabilidad del activo sin riego.
+
+-   $E_m$, es la rentabilidad esperada de la cartera de mercado.
+
+-   $\beta_i$, es la beta del título $i$.
+
+luego, tendremos que calcular las rentabilidades esperadas según el modelo para establecer si las acciones se encuentran sobre la línea, por encima o por debajo; es decir, infra o sobrevaloradas en función de si la diferencia es positiva o negativa:
+
+$$E_i>SML\Rightarrow el\ activo\ se\ encuentra\ infravalorado$$
+
+$$E_i<SML\Rightarrow el\ activo\ se\ encuentra\ sobrevalorado$$
+
+$$E_i=SML\Rightarrow el\ activo\ se\ encuentra\ correctamente \ valorado$$
+
+Calculamos para A,
+
+$$E_A=R_f+(E_m-R_f)\cdot\beta_A$$ $$E_A=0.035+\left(0.15-0.035\right)\cdot 1.8\ : \ E_A=0.242(24,20\%)$$ La rentabilidad esperada de A es 26% (mayor que la 24,20%) por tanto su alfa de Jensen es +1,80%.
+
+Calculamos para B,
+
+$$E_B=R_f+(E_m-R_f)\cdot\beta_B$$ $$E_B=0.035+\left(0.15-0.035\right)\cdot \:0.9 \ : \ E_B=0.1385(13,85\%)$$
+
+La Rentabilidad esperada de B es 16% (mayor que la 13,85%) por tanto su alfa de Jensen es +2,15%.
+
+Calculamos para C,
+
+$$E_C=R_f+(E_m-R_f)\cdot\beta_C$$
+
+$$E_c=0.035+\left(0.15-0.035\right)\cdot 1.2\ : \ E_c=0.173(17,30\%)$$
+
+Las Acciones C están sobrevaloradas, la Rentabilidad esperada de c es de 14% (menor que el 17,30%) por tanto su alfa de Jensen es -3,30%.
+
+y, finalmente, calculamos para D
+
+$$E_D=R_f+(E_m-R_f)\cdot\beta_D$$
+
+$$E_D=0.035+\left(0.15-0.035\right)\cdot 1.1\ : \ E_D=0.1615(16,15\%)$$
+
+Las Acciones D están perfectamente valoradas.
+
+**Están INFRAVALORADAS A y B ya que sus Rentabilidades están por encima de las Rentabilidades que marca la SML**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+2.  Un cliente desea diseñar una cartera con las dos acciones que se encuentran infravaloradas. Si el cliente quiere que la Beta de la cartera sea igual a 1,3, ¿cuáles serán los pesos de cada una de las acciones en la cartera?
+
+<!-- -->
+
+a.  Acción A = 44,44% y acción B = 55,56%
+b.  Acción C = 55,56% y acción D = 44,44%
+c.  Acción A = 45,00% y acción D = 55,00%
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+Respuesta **correcta:** .
+
+Para calcular la beta de la cartera formada por las dos acciones que se encuentran infravaloradas del apartado anterior, es decir, la beta de la cartera formada por las acciones A y B, y además que esta beta sea igual a 1.3, plantearemos la siguiente ecuación:
+
+$$
+\beta _c=w_A\cdot \beta _A+w_B\cdot \beta _B
+$$
+
+donde sabemos que el peso de cada una de las acciones será, $w_A$ y $w_B$, pero para simplificar los cálculos, asumimos que $w_B=(1-w_A)$, ya que la suma de dichos pesos deben de sumar la unidad (lo que es asumir que se invierte el 100% del patrimonio). De esta forma podemos plantear la fórmula anterior solamente en función de $w_A$ como se muestra a continuación:
+
+$$
+\beta _c=w_A\cdot \beta _A+(1-w_A)\cdot \beta _B
+$$
+
+luego si igualamos la beta de la cartera a 1.3, y resolvemos la ecuación por el peso de la acción A ($w_A$), tenemos que:
+
+$$
+1.3=w_A\cdot \:1.8+\left(1-w_A\right)\cdot \:0.9\quad :\quad w_A=0.44444\ (44.44\%)
+$$
+
+entonces,
+
+$$
+w_B=(1-w_B)=1-0.44444=0.55556\ (55.56\%)
+$$
+
+así, los pesos de cada una de las acciones en la cartera quedarían como sigue:
+
+$$
+w_A=44.44\% \ ; \ w_B=55.56\%
+$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+## Octubre II (2020)
+
+Una empresa exportadora española va a recibir el pago de 80 millones de dólares dentro de 90 días. Decide cubrirse totalmente del riesgo de cambio asociado a esa operación mediante un seguro de cambio.
+
+Se pide:
+
+1.  Dadas las condiciones del mercado que se detallan a continuación, calcular la cantidad de euros que la empresa puede asegurarse para la fecha en que va a recibir los dólares.
+
+-   Número de días desde la contratación hasta el vencimiento de la operación: 90 días
+-   Tipo de cambio al contado EUR/USD: 1,1800
+-   Tipo de interés del euro a tres meses: 0,24%
+-   Tipo de interés del dólar a tres meses: 0,35%
+
+a.  68.574.090 euros
+b.  66.666.974 euros
+c.  67.779.378 euros
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+Respuesta **correcta: c**.
+
+El **Forward** es **1,1803 USD** por Euro.
+
+$$
+F_{EUR/USD}=1.18\cdot \frac{1+0.0035\cdot \frac{90}{360}}{1+0.0024\cdot \frac{90}{360}}\quad :\ F_{EUR/USD}=1.1803
+$$
+
+Luego, los 80 millones de USD aplicando el tipo forward **se cambiarán a**:
+
+$$
+\frac{80000000}{1.1803}=67779378.1242
+$$
+
+**67.779.378 euros.**
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+2.  Si al vencimiento de la operación, el euro hubiera registrado una depreciación del 6% respecto al nivel en el momento de la contratación, ¿cuál habría sido el resultado (beneficio/pérdida) que experimentaría la empresa por haber cubierto la operación?
+
+<!-- -->
+
+a.  Beneficio 4.346.073 euros
+b.  Pérdida 4.344.675 euros
+c.  Beneficio 3.820.307 euros
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+Respuesta **correcta: b**.
+
+<div>
+
+Si al vencimiento de la operación, el euro hubiera registrado un **depreciación del 6% respecto al nivel en el momento de la contratación**, tendríamos un tipo de cambio al vencimiento igual a:
+
+$$
+TC_{ven.}=1.18\left(1-0.06\right)=1.1092
+$$
+
+**1,1092 USD por euro**
+
+De forma que de haber cambiado a vencimiento aplicando este nuevo tipo de cambio, tenemos que
+
+$$
+\frac{80000000}{1.1092}=72124053.37179
+$$
+
+de forma que el resultado de la operación sería:
+
+$$
+\left(\frac{80000000}{1.1803}\right)-\left(\frac{80000000}{1.1092}\right)=-4344675.24759
+$$
+
+donde, la **pérdida por el seguro de cambio es de 4.344.675 euros**
+
+</div>
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+## WEB EFPA I (2020)
+
+Un cliente desea invertir 100.000€ en dos tipos de fondos, cuya información aparece en el cuadro siguiente:
+
+| Fondo      | Rentabilidad esperada | Volatilidad |
+|:-----------|:----------------------|:------------|
+| Fondo Alfa | 11%                   | 25%         |
+| Fondo Beta | 4%                    | 9%          |
+
+Se pide:
+
+1\. Calcular la rentabilidad esperada de la cartera formada por un 80% en Fondo Alfa y un 20% en Fondo Beta.
+
+a\. 9,40%
+
+b\. 9,6%
+
+c\. 9,70%
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+Nota: llamaremos activo uno al fondo alfa y activo dos al fondo beta.
+
+Calcularemos la rentabilidad esperada de la cartera con la siguiente fórmula
+
+$$E_p=w_1\cdot E_1+w_2\cdot E_2+...+w_n\cdot E_n$$
+
+Donde,
+
+-   $E_p$, es la rentabilidad esperada de la cartera.
+
+-   $w_n$, es la ponderación (o proporción) del activo $n$ dentro de la cartera.
+
+-   $E_n$, es rentabilidad esperada del activo $n$.
+
+$$E_p=0.8\cdot \:0.11+0.2\cdot \:0.04=0.096$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+2\. Calcular la volatilidad de la cartera del apartado anterior suponiendo que la correlación entre la rentabilidad de ambos fondos es de 0,20.
+
+a\. 20,43%
+
+b\. 21,05%
+
+c\. 20,75%
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+Hay que recordar en este punto que la volatilidad de una cartera la podemos calcular en función del dato que nos den en primer lugar podríamos calcular lo con la covarianza cómo se muestra a continuación
+
+$$\sigma_p=\sqrt{w_{1}^2\cdot\sigma_1^2+w_2^2\cdot\sigma_2^2+2\cdot w_1\cdot w_2\cdot\sigma_{1,2}}$$
+
+Donde,
+
+-   $\sigma_p$, es la volatilidad (riesgo) de la cartera $p$.
+
+-   $w_1$, es la ponderación (o proporción) del activo $1$ dentro de la cartera $p$.
+
+-   $\sigma_1$, es la volatilidad del título $1$.
+
+-   $w_2$, es la ponderación (o proporción) del activo $2$ dentro de la cartera $p$.
+
+-   $\sigma_2$, es la volatilidad del título $2$.
+
+-   $\sigma_{1,2}$, es la covarianza entre los activos 1 y 2 (o 2 y 1, puesto que estas son simétricas).
+
+También podemos escribir la volatilidad de la cartera en función del coeficiente de correlación:
+
+$$\sigma_p=\sqrt{w_{1}^2\cdot\sigma_1^2+w_2^2\cdot\sigma_2^2+2\cdot w_1\cdot w_2\cdot\rho_{1,2}\cdot\sigma_{1}\cdot\sigma_{2}}$$ Donde,
+
+-   $\sigma_p$, es la volatilidad (riesgo) de la cartera $p$.
+
+-   $w_1$, es la ponderación (o proporción) del activo $1$ dentro de la cartera $p$.
+
+-   $\sigma_1$, es la volatilidad del título $1$.
+
+-   $w_2$, es la ponderación (o proporción) del activo $2$ dentro de la cartera $p$.
+
+-   $\sigma_2$, es la volatilidad del título $2$.
+
+-   $\rho_{1,2}$, es el coeficiente de correlación entre los activos 1 y 2.
+
+> **nota**: Si partimos de la relación que existe entre la covarianza de los activos 1 y 2 y el coeficiente de correlación tenemos que,
+
+$$\rho_{1,2}=\frac{\sigma_{1,2}}{\sigma_1\cdot\sigma_2}$$ Luego al despejar la covarianza tenemos que,
+
+$$\sigma_{1,2}=\rho_{1,2}\cdot\sigma_1\cdot\sigma_2$$
+
+Por lo que podremos calcular la volatilidad (riesgo) de una cartera tanto si conocemos su covarianza como si conocemos su coeficiente de correlación.
+
+**En este caso lo que conocemos es la correlación o coeficiente de correlación** de modo que utilizaremos la segunda expresión:
+
+$$\sqrt{0.8^2\cdot \:0.25^2+0.2^2\cdot \:0.09^2+2\cdot \:0.8\cdot \:0.2\cdot \:0.2\cdot \:0.25\cdot \:0.09}=0.20436(20.43\%)$$ **Y el resultado es 20,43%**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+3\. Suponiendo que la correlación entre la rentabilidad de ambos fondos fuera -1, ¿qué cartera construiría al cliente si el único objetivo fuese obtener el mínimo riesgo?, ¿cuál sería la rentabilidad esperada?
+
+a\. 6,01%
+
+b\. 5,85%
+
+c\. 5,75%
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+En este caso tenemos que calcular, en primer lugar, las ponderaciones del activo 1 y del activo dos, con el modelo de **Markowitz** cuando la correlación es perfecta y negativa.
+
+[Ver fórmula en el formulario](https://formulario-efpa.netlify.app/gestion-de-carteras.html#cartera-de-m%C3%ADnimo-riesgo-correlaci%C3%B3n-negativa-perfecta-rho-1)
+
+Para ello emplearemos la siguiente expresión
+
+$$w_1=\frac{\sigma_{2}}{\sigma_1+ \sigma_2 }$$
+
+$$w_2=\frac{\sigma_{1}}{\sigma_1+ \sigma_2 }$$
+
+Donde,
+
+$w_1$, es la ponderación (o proporción) del activo $1$ dentro de la cartera $p$.
+
+$w_2$, es la ponderación (o proporción) del activo $2$ dentro de la cartera $p$.
+
+$\sigma_1$, es la varianza del título $1$.
+
+$\sigma_2$, es la varianza del título $2$.
+
+$$
+w_1=\frac{0.09}{0.09+0.25}=0.26470(26.47\%)
+$$
+
+Ahora que conocemos la ponderación del activo 1, y sabemos que la suma de ambas ponderaciones debe de sumar la unidad, podemos calcular la ponderación del activo 2 si hacemos la diferencia entre 1 y la ponderación del activo dos tenemos que
+
+$$
+w_2=(1-w_1)=1-0.2647=0.7353(73.53\%)
+$$
+
+Con las ponderaciones ya podemos calcular la rentabilidad esperada de la cartera como:
+
+::: {.FOO .callout-tip appearance="simple"}2 $$E_p=w_1\cdot E_1+w_2\cdot E_2+...+w_n\cdot E_n$$
+
+Donde,
+
+-   $E_p$, es la rentabilidad esperada de la cartera.
+
+-   $w_n$, es la ponderación (o proporción) del activo $n$ dentro de la cartera.
+
+-   $E_n$, es rentabilidad esperada del activo $n$.
+:::
+
+Así,
+
+$$
+E_p=0.2647\cdot \:0.11+\left(1-0.2647\right)\cdot \:0.04=0.058529(5.85\%)
+$$ :::
+
+</details>
+
+------------------------------------------------------------------------
+
+## WEB EFPA I (2020)
+
+Dada la siguiente información sobre tres tipos de fondos de inversión:
+
+|                             | Fondo A | Fondo B | Índice de Mercado | Activo libre de riesgo |
+|---------------|---------------|---------------|---------------|---------------|
+| Rentabilidad anual a 3 años | 9,10%   | 11,20 % | 8,90%             | 0,50%                  |
+| Volatilidad 3 años          | 10,0%   | 13,30%  | 11,00%            |                        |
+| Beta                        | 0,85    | 1,11    |                   |                        |
+
+Se pide:
+
+1\. Teniendo en cuenta los cálculos de ratio de Sharpe y Treynor seleccionar el fondo mas adecuado
+
+a\. Fondo B por tener mayor Ratio de Sharpe y de Treynor
+
+b\. Fondo B por tener mayor Ratio de Sharpe y menor ratio de Treynor
+
+c\. Fondo A por tener mayor Ratio de Sharpe y mayor Ratio de Treynor.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+2\. Calcular el alfa de Jensen para cada uno de los fondos.
+
+a\. Fondo A = 3,05% y Fondo B = 1,60%
+
+b\. Fondo A = 2,56% y Fondo B = 2,40%
+
+c\. Fondos A = 1,46% y Fondo B = 1,376%
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+## Renta variable (julio 2020)
+
+ASTER es una empresa que se dedica a la producción de componentes de aparatos sanitarios. El analista de su Banco prevé una tasa de crecimiento de los dividendos del 2% anual acumulado indefinido. Los dividendos por acción que acaba de repartir ASTER son de 2,5 euros, mientras que otras acciones con riesgo similar son valoradas de tal manera que proporcionan un rendimiento esperado del 7%.
+
+1.  ¿Cuál es el valor teórico de la acción?
+
+<!-- -->
+
+a.  50 euros
+b.  51 euros
+c.  52 euros
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+Aplicamos la fórula del descuento de dividendos crecientes a una tasa g (modelo de Gordon)
+
+$$P_O=\frac{D_1}{k-g}$$ tenemos en cuenta que el dividendo se "prevé" por lo tanto nos están dando el dato del dividendo en el momento cero, luego lo llevamos al momento uno multiplicando por uno más la tasa de crecimiento anual del dividendo (g):
+
+$$P_O=\frac{D_0(1+g)}{k-g}$$ Ahora si sustituimos los datos del enunciado y calculamos tenemos que:
+
+$$P_O=\frac{2.5\left(1+0.02\right)}{0.07-0.02}=51$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+2.  Suponga que las acciones de la compañía ASTER se están vendiendo por 57,25 euros. Si la acción estuviese perfectamente valorada, ¿cuál sería la tasa implícita de crecimiento de los dividendos?
+
+<!-- -->
+
+a.  2,45%
+b.  2,50%
+c.  2,54%
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+$$P_O=\frac{D_0(1+g)}{k-g}$$
+
+$$57.25=\frac{2.5\left(1+g\right)}{0.07-g}\ : g=0.02523(\approx2.54\%)$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+3.  ¿Cuál es el PER implícito estimado con relación a los beneficios del año próximo, si suponemos que se mantiene esta tasa de crecimiento de los dividendos y que su tasa de reparto es igual al 25% de los beneficios?
+
+<!-- -->
+
+a.  5,0
+b.  5,6
+c.  6,0
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+La relación del PER con el crecimiento (g), con la rentabilidad exigida a las acciones (Ke) y con la rentabilidad sobre recursos propios (ROE) en una empresa con crecimiento constante es:
+
+$$PER =\frac{Pay-out}{(K-g)}$$
+
+Así podremos conocer el PER conocido el *Pay-out*, la tasa de crecimiento esperada de los dividendos g, y la tasa de descuento:
+
+$$PER = \frac{0.25}{0.07-0.0254}=5.60538 \approx 5.6$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+## Fiscalidad (julio 2020)
+
+Javier es un contribuyente del IRPF que a comienzos del del ejercicio 2020 es titular de las siguientes posiciones financieras.
+
+-   1.000 participaciones de SUPER RENTABLE FI, que fueron adquiridas a un valor unitario de 10€ por participación
+
+-   3.000 participaciones de SUPERAGRESIVO FI que fueron adquiridas a un valor unitario de 15€ por participación
+
+-   10.000 acciones de TELEFONICA
+
+En el presente ejercicio 2020 se han producido las siguientes Operaciones:
+
+-   1ª Se han traspasado participaciones tenidas en SUPER RENTABLE FI en una fecha en la que el valor liquidativo unitario de cada participación era de 15€ .Como consecuencia del traspaso. Javier ha recibido 5.000 acciones de SUPERMODERADA SICAV.
+
+-   2ª Se han reembolsado las participaciones tenidas de SUPERAGRESIVO FI a un valor de reembolso de 10€ por participación.
+
+-   3ª Se han percibido dividendos de TELEFONICA por un importe de 20.000€
+
+-   4ª Se han obtenido ganancias patrimoniales por venta de las acciones de TELEFONICA .Las ganancias patrimoniales obtenidas ascienden a 30.000€
+
+Con la información disponible se pide:
+
+1.  Indique qué efectos fiscales tiene la operación de traspaso de las participaciones en SUPER RENTABLE FI y cuál es el valor de adquisición, a efectos fiscales, de las nuevas acciones recibidas de SUPER MODERADA SICAV
+
+<!-- -->
+
+a.  El traspaso no se puede beneficiar fiscalmente del régimen de diferimiento por traspasos. El valor de adquisición a efectos fiscales de las acciones recibidas de SUPER-MODERADA SICAV es de 15.000 euros.
+
+b.  El traspaso sí se puede beneficiar fiscalmente del régimen de diferimiento por traspasos. El valor de adquisición a efectos fiscales de las acciones recibidas de SUPER-MODERADA SICAV es de 10.000 euros.
+
+c.  El traspaso sí se puede beneficiar fiscalmente del régimen de diferimiento por traspasos. El valor de adquisición a efectos fiscales de las acciones recibidas de SUPER-MODERADA SICAV es de 15.000 euros.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+> El traspaso sí se puede beneficiar fiscalmente del régimen de diferimiento por traspaso. El valor de adquisición a efectos fiscales de las acciones recibidas de SUPER-MODERADA SICAV es de 10.000 euros.
+
+Un traspaso es un reembolso de un fondo y la posterior suscripción de otra IIC, conservando la antigüedad de la primera inversión a efectos fiscales. De forma que se mantiene la fecha de compra de las participaciones y cuando VENDA las acciones de la SICAV, se computará la Ganancia o pérdida patrimonial en el IRPF.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+2.  ¿Cuál es el saldo neto de ganancias y pérdidas patrimoniales derivadas de transmisiones patrimoniales obtenido por Javier en el ejercicio 2020?
+
+<!-- -->
+
+a.  15.000
+b.  30.000
+c.  -15.000
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+$$+30.000 - 15.000 = 15.000 \ euros$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+3.  ¿Cuál es el importe de la base imponible del ahorro que deberá declarar Javier en el IRPF del año 2020?
+
+<!-- -->
+
+a.  5.000
+b.  45.000
+c.  35.000
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+15.000 euros de Ganancias Patrimoniales + 30.000 euros de RCM (dividendos)
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+## Performance de fondos (julio 2020)
+
+Usted tiene un cliente que, según el test de idoneidad aplicado por su entidad, encaja dentro de un perfil "moderado". Su cliente tiene disponibles para invertir 350.000 euros. Para simplificar, supondremos que la inversión se canalizará solamente en dos fondos de inversión, uno de RF y otro de RV. Basándonos en la situación actual del mercado, para el caso de la RF se utilizarán los fondos de renta fija corporativa y para la RV los del sector Tecnología.
+
+Se adjunta la siguiente información.
+
+**Renta Variable Tecnología**
+
+|                      | Rentabilidad anual a 3 años | Volatilidad | Beta |
+|----------------------|:---------------------------:|:-----------:|:----:|
+| FONDO A              |           18,37%            |   11,37%    | 1,05 |
+| FONDO B              |           17,27%            |   10,23%    | 0,97 |
+| Índice de Referencia |           17,00%            |    9,52%    | 1,00 |
+
+**Renta Fija Corporativa**
+
+|                      | Rentabilidad anual a 3 años | Volatilidad |
+|----------------------|:---------------------------:|:-----------:|
+| FONDO C              |            6,67%            |    4,45%    |
+| FONDO D              |            5,40%            |    3,76%    |
+| Índice de Referencia |            4,20%            |    4,00%    |
+
+**Rentabilidad libre de riesgo: 0,50%**
+
+Se pide:
+
+1.  Teniendo en cuenta los cálculos del ratio de Sharpe y del de Información, seleccionar un fondo de cada categoría. **RV Tecnología**
+
+<!-- -->
+
+a.  Fondo A por tener mayor Ratio de Sharpe y mayor Ratio de información.
+b.  Fondo B por tener mayor Ratio de Sharpe y menor Ratio de información
+c.  Fondo B por tener mayor Ratio de Sharpe y mayor Ratio de información
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+Calculamos los ratios de sharpe,
+
+$$S_A=\frac{E_A-R_f}{\ \sigma_A}=\frac{0,1837-0,005}{0,1137}=1,572$$ $$S_B=\frac{E_B-R_f}{\ \sigma_B}=\frac{0,1727-0,005}{0,1023}=1,639$$
+
+$$S_B>S_A$$ Calculamos primero el alfa,
+
+$$\alpha_{A}=E_A-\beta_A \cdot E_m=0,1837-1,05 \cdot 0,17=0,0052$$ $$\alpha_{B}=E_B-\beta_B \cdot E_m=0,1727-0,97 \cdot 0,17=0,0078$$
+
+Después, el Tracking error,
+
+$$\sigma_{\alpha,A}=\sqrt{\sigma_A^2-\beta_A^2\cdot \sigma_m^2}$$
+
+$$
+\sigma_=\sqrt{0,1137^2-1,05^2\cdot 0,0952^2}=0,0542(5,42\%)
+$$
+
+$$\sigma_{\alpha,B}=\sqrt{\sigma_B^2-\beta_B^2\cdot \sigma_m^2}$$
+
+$$
+\sigma_{\alpha,B}=\sqrt{0,1023^2-0,97^2\cdot 0,0952^2}=0,0440(4,44\%)
+$$
+
+y, finalmente, el ratio de información,
+
+$$RI_A=\frac{\alpha_A}{\sigma_{\alpha,A}}=\frac{0,0052}{0,0542}=0,0960(9,6\%)$$
+
+$$RI_B=\frac{\alpha_B}{\sigma_{\alpha,B}}=\frac{0,0078}{0,0440}=0,1772(17,72\%)$$
+
+$$RI_B>RI_A$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+2.  Teniendo en cuenta los cálculos del ratio de Sharpe y del de Información, seleccionar un fondo de cada categoría. **RF Corporativa**
+
+<!-- -->
+
+a.  Fondo C por tener mayor Ratio de Sharpe y menor Ratio de información
+b.  Fondo D por tener mayor Ratio de Sharpe y mayor Ratio de información
+c.  Se debería calcular el alfa de Jensen para tomar la decisión
+
+<details>
+
+<summary>
+
+</summary>
+
+La respuesta **correcta es la a**.
+
+::: {.FOO .callout-tip appearance="simple"}
+Calculamos los ratio de Sharpe de los fondos C y D,
+
+$$S_C=\frac{E_C-R_f}{\ \sigma_C}=\frac{0,0667-0,005}{0,0445}=1,387$$
+
+$$S_D=\frac{E_D-R_f}{\ \sigma_D}=\frac{0,0540-0,005}{0,0376}=1,303$$ Donde C, presenta un mayor ratio de sharpe
+
+$$S_C>S_D$$
+
+Con los datos aportados solamente podemos calcular el ratio de Sharpe.
+
+Las betas de los fondos de renta fija, por coherencia con las respuestas planteadas, hemos supuesto 1 para ambos. Aunque esto es poco probable que se dé en la realidad, ya que el fondo C ha tenido una rentabilidad muy superior al *benchmark* (casi un 60% mayor).
+
+Si consideramos beta 1 ya que no lo indica el enunciado, y calculamos el alfa de Jensen,
+
+para C
+
+$$\alpha_{J,C}=E_C-\left[R_f+\left(E_m-R_f\right)\cdot\beta_C\right]$$
+
+$$\alpha_{J,C}=0,0667-\left[0,005+\left(0,0420-0,005\right)\cdot 1 \right]$$
+
+$$\alpha_{J,C}=0,0247$$
+
+para D
+
+$$\alpha_{J,D}=E_D-\left[R_f+\left(E_m-R_f\right)\cdot\beta_D\right]$$ $$\alpha_{J,D}=0,0540-\left[0,005+\left(0,0420-0,005\right)\cdot 1 \right]$$ $$\alpha_{J,D}=0,0120$$
+
+nos encontramos que no podemos calcular el TE de D, luego tampoco podemos calcular el RI del fondo D. Así consideremos que el alfa de Jensen del fondo C será mayor que el del fondo D.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+3.  Calcular el alfa de Jensen de cada uno de los distintos tipos de fondos. **RV Tecnología**
+
+<!-- -->
+
+a.  Fondo A = 0,545% y Fondo B = 0,76%
+b.  Fondo A = 0,565% y Fondo B = 0,74%
+c.  Fondos A = 0,/30% y Fondo B = 0,79%
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+-   para A
+
+$$\alpha_{J,A}=E_A-\left[R_f+\left(E_m-R_f\right)\cdot\beta_A\right]$$ $$\alpha_{J,A}=0,01837-\left[0,005+\left(0,017-0,005\right)\cdot 1,05 \right]$$
+
+$$\alpha_{J,A}=0,0054$$
+
+-   para B
+
+$$\alpha_{J,B}=E_B-\left[R_f+\left(E_m-R_f\right)\cdot\beta_B\right]$$ $$\alpha_{J,A}=0,1727-\left[0,005+\left(0,017-0,005\right)\cdot 0,97 \right]$$ $$\alpha_{J,A}=0,0076$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+4.  Calcular el alfa de Jensen de cada uno de los distintos tipos de fondos. **RF Corporativa**
+
+<!-- -->
+
+a.  Fondo C = 2,35% y Fondo D = 1,60%
+b.  Fondo C = 2,65% y Fondo D = 1,40%
+c.  Fondo C =2,47% y Fondo D =1,20%
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la c**.
+
+-   para C
+
+$$\alpha_{J,C}=E_C-\left[R_f+\left(E_m-R_f\right)\cdot\beta_C\right]$$ $$\alpha_{J,C}=0.0667-\left(0.005+\left(0.042-0.005\right)\cdot \:1\right)$$ $$\alpha_{J,C}=0.0247$$
+
+-   para D
+
+$$\alpha_{J,D}=E_D-\left[R_f+\left(E_m-R_f\right)\cdot\beta_D\right]$$ $$\alpha_{J,D}=0.054-\left(0.005+\left(0.042-0.005\right)\cdot \:1\right)$$ $$\alpha_{J,D}=0.012$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+5.  Supóngase que, al ser un cliente moderado, le propone una cartera ponderada por el 40% del fondo de RV seleccionado y por el 60% del fondo de RF. ¿Calcular la rentabilidad de la cartera y también su volatilidad suponiendo una correlación entre el fondo de RV y el de RF del 0,25%
+
+<!-- -->
+
+a.  Rentabilidad 11,00% y volatilidad 6,42%
+b.  Rentabilidad 10,91% y volatilidad 5,42%
+c.  Rentabilidad 7,50% y volatilidad 4,52%
+
+<details>
+
+<summary>
+
+</summary>
+
+La respuesta **correcta es la b**.
+
+:::
+
+En primer lugar calcularemos la rentabilidad esperada de la cartera
+
+$$E_p=w_1\cdot E_1+w_2\cdot E_2+...+w_n\cdot E_n$$
+
+Donde,
+
+-   $E_p$, es la rentabilidad esperada de la cartera.
+
+-   $w_n$, es la ponderación (o proporción) del activo $n$ dentro de la cartera.
+
+-   $E_n$, es rentabilidad esperada del activo $n$.
+
+Calculamos su rentabilidad,$$E_p=0.4\left(0.1727\right)+0.6\left(0.0667\right) \\
+E_p=0.1091(10.91\%)$$
+
+Y su volatilidad, que la calculamos con la siguiente fórmula:
+
+$$\sigma_p=\sqrt{w_{1}^2\cdot\sigma_1^2+w_2^2\cdot\sigma_2^2+2\cdot w_1\cdot w_2\cdot\rho_{1,2}\cdot\sigma_{1}\cdot\sigma_{2}}$$ Donde,
+
+-   $\sigma_p$, es la volatilidad (riesgo) de la cartera $p$.
+
+-   $w_1$, es la ponderación (o proporción) del activo $1$ dentro de la cartera $p$.
+
+-   $\sigma_1$, es la volatilidad del título $1$.
+
+-   $w_2$, es la ponderación (o proporción) del activo $2$ dentro de la cartera $p$.
+
+-   $\sigma_2$, es la volatilidad del título $2$.
+
+-   $\rho_{1,2}$, es el coeficiente de correlación entre los activos 1 y 2.
+
+de forma que,
+
+$$
+\sigma_p=\sqrt{0.4^2\cdot \:0.1023^2+0.6^2\cdot \:0.0445^2+2\cdot \:0.4\cdot \:0.6\cdot \:0.25\cdot \:0.1023\cdot \:0.0445} \\ \sigma_p=0.05416(\approx5.42\%)
+$$
+
+En este caso hemos escogido, de renta variable el fondo B (que supera claramente al fondo a), y de renta fija el fondo C (teniendo en cuenta que con los datos que nos dan solamente podemos calcular el ratio de Sharpe). Las betas de los fondos de renta fija, por coherencia con las respuestas planteadas, hemos supuesto 1 para ambos). Aunque esto es poco probable que se dé en la realidad, ya que el fondo C ha tenido una rentabilidad muy superior al *benchmark* (casi un 60% mayor). :::
+
+</details>
+
+------------------------------------------------------------------------
+
+## Yield Curve o ETTI (julio 2020)
+
+Como asesor financiero dispone la siguiente información del mercado de bonos cupón cero, con valor nominal 1.000 euros.
+
+| Precios del Bono Cupón cero | Vencimientos (en años) |
+|:---------------------------:|:----------------------:|
+|            990€             |           1            |
+|            988€             |           2            |
+|            979€             |           3            |
+|            950€             |           4            |
+
+Se pide:
+
+1.  Calcular la ETTI (estructura temporal de los tipos de interés) según la información de la tabla.
+
+<!-- -->
+
+a.  1,01%, 0,60%, 0,71% y 1,29%
+b.  1,10%, 0,75%, 0,85% y 1,50%
+c.  0,90%, 0,45%, 0,55% y 1,05%
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la a**.
+
+Para saber que el perfil adoptará la ETTI simplemente deberemos calcular el valor que toma la TIR de los 3 bonos cupón cero referidos y, ordenarlos en función de su plazo de vencimiento. De forma que si el precio de un bono cupón cero viene dado por:
+
+$$P_0(\%)=\frac{Reembolso(\%)}{(1+TIR)^{n}}$$
+
+-   **BONO 1 AÑO**
+
+$$990=\frac{1000}{(1+TIR)^{1}}=>TIR=1.01\%$$ - **BONO 2 AÑO**
+
+$$988=\frac{1000}{(1+TIR)^{2}}=>TIR=0.60\%$$
+
+-   **BONO 3 AÑO**
+
+$$979=\frac{1000}{(1+TIR)^{3}}=>TIR=0.71\%$$
+
+-   **BONO 4 AÑO**
+
+$$950=\frac{1000}{(1+TIR)^{4}}=>TIR=1.29\%$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+2.  Calcular los tipos implícitos a 1 año a partir del 1°, 2° y 3° año.
+
+<!-- -->
+
+a.  0,17%, 0,88% y 2,85%
+b.  0,20%, 0,93% y 3,00%
+c.  0,15%, 0,70%, y 1,95%
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+La respuesta **correcta es la b**.
+
+Calculamos los tipos implícitos
+
+$$\left(1+0.0101\right)\left(1+f\right)=\left(1+0.006\right)^2\quad f=0.00191$$ $$\left(1+0.006\right)^2\left(1+f\right)=\left(1+0.0071\right)^3 \quad  f=0.00930$$ $$\left(1+0.0071\right)^3\left(1+f\right)=\left(1+0.0129\right)^4\quad f=0.03050$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+## Seguro de cambio
+
+Una empresa exportadora española va ha recibir el pago de 50 millones de dólares, dentro de 180 días.
+
+Decide cubrirse totalmente del riesgo de cambio asociado a esa operación mediante un seguro de cambio.
+
+a.  Dadas las condiciones del mercado que se detallan a continuación, calcular la cantidad de euros que que la empresa puede asegurarse para la fecha que va ha recibir los dólares.
+
+|                                                                                     |
+|:-----------------------------------------------------------------------|
+| Numero de días desde la contratación hasta el vencimiento de la operación: 180 días |
+| Tipo de cambio al contado EUR/USD 1,2800                                            |
+| Tipo de interés del euro a seis meses 1,84%                                         |
+| Tipo de interés del dólar a seis meses 1,26%                                        |
+
+b.  Si al vencimiento de la operación, el euro hubiera registrado una apreciación del 5% respecto al nivel del contado en el momento de la contratación, ¿cuál habrá sido el resultado (beneficio/pérdida) que experimentaría la emnpresa por haber cubierto la operación?
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+**Respuesta apartado "a"**
+
+La paridad cubierta de los tipos de interés establece que la diferencia existente entre el tipo de cambio al contado y el tipo de cambio a plazo está relacionada con los tipos de interés a dicho plazo en los mercados financieros correspondientes.
+
+$$F_{EUR/USD}=S_{EUR/USD}\cdot \frac{1+ i_{USD}\cdot n}{1+ i_{EUR}\cdot n}$$
+
+En concreto, si el tipo de interés en los mercados monetarios nacionales es inferior al existente en los mercados monetarios del otro país, la moneda nacional presenta una prima en el mercado a plazo (la moneda extranjera un descuento en el mercado a plazo):
+
+$$i_{Euro} < i_{USD} => F_{USD/EUR} > S_{USD/EUR}$$
+
+Por el contrario, si el tipo de interés en los mercados monetarios nacionales es superior al existente en los mercados monetarios del otro país, la moneda nacional presenta un descuento en el mercado a plazo (la moneda extranjera una prima en el mercado a plazo):
+
+$$i_{Euro} > i_{USD} => F_{USD/EUR} < S_{USD/EUR}$$
+
+Luego, sui sustituimos en la fórmula y calculamos tenemos que,
+
+$$F_{EUR/USD}=1,2800\cdot \frac{1+ 0,0126\cdot \frac{6}{12}}{1+ 0,0184\cdot \frac{6}{12}}=1,2763$$
+
+Por lo tanto, el tipo de cambio *forward* para el plazo de seis meses es: $EUR/USD=1,2763$
+
+Como a la divisa base (euro) le corresponde un tipo de interés superior al de la divisa cotizada (dólar), el tipo de cambio *forward outright* es inferior al *spot*. Luego la divisa base (euro) cotiza con descuento respecto al dólar.
+
+En el mercado de divisas, se denomina "puntos swap" a la diferencia entre el tipo de cambio a plazo (forward) y el tipo de cambio al contado (spot). En concreto, el descuento en puntos swap es de:
+
+$$Puntos swap=F_{EUR/USD}-S_{EUR/USD}=1,2763-1,2800=-0,0037$$
+
+Si la empresa contrata un seguro de cambio para los 50 millones de dólares que espera recibir en t=6 meses, la cantidad de euros que puede asegurarse en la fecha en que va ha recibir los dólares será de:
+
+$$C_6=\frac{50.000.000}{1,2763}=39.175.742,38\ euros$$
+
+**Respuesta apartado "b"**
+
+Si al vencimiento de la operación, el euro hubiera registrado una **apreciación del 5% respecto al nivel del contado** en el momento de la contratación,
+
+$$S^*=S\cdot (1+\Delta\%)=1,2800\cdot(1+0,05)=1,344$$
+
+El **resultado** (beneficio/pérdida) que experimentaría la emnpresa por haber cubierto la operación será de:
+
+$$C_6^*=\frac{50.000.000}{1,344}=37.202.380,95\ euros$$
+
+Luego la **ganancia** hubiera sido de,
+
+$$G/P=C^*_6-C_6=39.175.742,38- 37.202.380,95=1.973.361,43$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+## Ratios bursátiles
+
+Disponemos del siguiente balance de una compañía (cifras en euros):
+
+| ACTIVO                    | Año X     | Año X-1   |
+|:--------------------------|:----------|:----------|
+| Terrenos y construcciones | 1.800.000 | 1.650.000 |
+| Instalaciones técnicas    | 650.000   | 580.000   |
+| **Activo no corriente**   | 2.450.000 | 2.230.000 |
+| Existencias               | 650.000   | 620.000   |
+| Deudores comerciales      | 400.000   | 385.000   |
+| Tesoreria                 | 750.000   | 620.000   |
+| **Activo corriente**      | 1.800.000 | 1.625.000 |
+| Total activo              | 4.250.000 | 3.855.000 |
+
+| PASIVO                 | Año X     | Año X-1   |
+|:-----------------------|:----------|:----------|
+| Capital social         | 400.000   | 365.000   |
+| Reservas               | 1.800.000 | 1.710.000 |
+| **Fondos propios**     | 2.200.000 | 2.075.000 |
+| Deuda financiera       | 1.800.000 | 1.650.000 |
+| Acreedores comerciales | 250.000   | 220.000   |
+
+-   El Beneficio Netos para el año x ha ascendido a 685.00 euros.
+
+-   El *pay-out* de la empresa es del 35%
+
+-   La capitalización bursátil es de 6.576.000 euros.
+
+-   Tiene 1.500.000 de acciones ebn circulación.
+
+-   El precio de la acción a fecha de hoy es de 4,38 euros/acción
+
+-   La rentabilidad de la renta fija (obligaciones del estado a 10 años) es del 3,75%.
+
+Se pide:
+
+1.  Calcular los siguientes ratios bursátiles **para el año x**:
+
+-   PER
+
+-   Precio sobre valor contable (PCV)
+
+-   *Earnings Yield Gap*
+
+-   *Dividend Yield*
+
+-   Rentabilidad sobre fondos propios (ROE)
+
+2.  Basándose e los resultados obtenidos, y teniendo en cuenta que los siguientes datos corresponden ala **media del sector**, determinar, con base en la información suministrada, si es adecuado invertir en acciones de esta compañía.
+
+| **Datos del sector:**                         |
+|:----------------------------------------------|
+| PER = 12,50                                   |
+| Precio sobre valor contable (PVC) 3,12        |
+| RENTABILIDAD SOBRE FONDOS PROPIOS (ROE) = 28% |
+
+<details>
+
+<summary>
+
+</summary>
+
+::: {.FOO .callout-tip appearance="simple"}
+**Respuesta**
+
+Los ratios son descritos en la siguiente tabla:
+
+| **INDICADOR**          |    **FÓRMULA**     |                      **CÁLCULO**                       |
+|:-----------------|:----------------:|:-----------------------------------:|
+| Price to Earning Ratio | $\frac{P_0}{BPA}$  |    $\frac{4,38 }{ \frac {685.000}{1.500.000}}=9,59$    |
+| Price to Book Value    |  $\frac{P_0}{VC}$  |   $\frac{4,38}{ \frac{2 .200.000}{1.500.000}}=2,99$    |
+| Earnings Yield Gap     | $EYG = EYR - R _f$ |                $0,10426-0,0375=0,06676$                |
+| Dividend Yield         | $\frac{DPA}{p_0}$  | $\frac{\frac{0,35 *6 85.00 0}{1.500.000}}{4,38}=0,036$ |
+| Return over Equity     |  $\frac{BDI}{RP}$  |          $\frac{ 685.000}{2.200.000}=0,3114$           |
+
+Para calcular el Earning Yield Gap (EYG), primero necesitamos calcular o conocer el Earning Yield Ratio (EYR). Este ratio, conocido en inglés como Earnings Yield (Ratio de Rentabilidad de Beneficios si lo traducimos al español), realmente es un derivado del popular ratio PER y, se obtiene, dividiendo los beneficios de la empresa por su precio de mercado (vamos, lo contario o la inversa del PER):
+
+**Earning Yield Ratio (EYR)**
+
+$$EYR=\frac { 1 }{ PER } =\frac {BPA}{P_0}=\frac {\left(\frac{685.000}{1.500.000}\right)}{ 4,38 }=0,10426$$
+
+Nos indica la rentabilidad que la acción genera por cada euro invertido, es decir, qué rentabilidad generan los euros invertios en esa empresa, con independencia de que se distribuyan o no de la evolución de la cotización de la acción.
+
+**Earning Yield Gap (EYG)**
+
+$$EYG = EYR - R _f=0,10426-0,0375=0,06676$$
+
+Al comparar el EYR (Earning Yield Ratio), y su rentabilidad, con la de los supuestos activos sin riesgo, con la rentabilidad de la renta fija (alemana a 10 años por ejemplo), a la que debe batir. Así el EYG (Earning Yield Gap) es negativo, deberíamos pensar si tiene sentido invertir en una empresa que no es capaz de batir los rendimientos de la renta fija.
+
+El *Price Erning Ratio -PER* del sector, ubicado en 12,50x, sugiere que la empresa está subvaluada al presentar el mismo ratio en 9,59x. La empresa mantiene una estructura saludable con una relación deuda/patrimonio de solo 0,82x y un aumento en la capitalización en el último año. Asimismo, presenta altos niveles de liquidez evidenciada con una relación de activos de corto plazo/pasivos de corto plazo de más 7,0x. Es una compañía pagadora de dividendos con un *pay-out ratio* de 35% que implica una tasa de retención elevada que sugiere nuevas inversiones para generar crecimiento.
+
+Para inversionistas agresivos, cuyo perfil sea sofisticado, maximizadores de patrimonio o tomadores de riesgo, que reconocen el riesgo o volatilidad en el mercado de renta variable, la empresa es una buena alternativa dado el análisis de sus estados financieros, sus indicadores, su posición respecto a los comprables en la industria y sus perspectivas de crecimiento. Para aquellos inversionistas aversos al riesgo, conservadores y preservadores de patrimonio, una mejor alternativa podrá ser los bonos de renta fija del estado que a 10 años rinden 3,75%, 15 puntos básicos más que el dividend yield de la acción de la empresa, representa menores niveles de volatilidad y bajo riesgo de crédito.
+:::
+
+</details>
+
+------------------------------------------------------------------------

@@ -30,10 +30,14 @@ book:
       - ano_2020.qmd
       - ano_2019.qmd
       - ano_2018.qmd
+      - ano_2017.qmd
+      - ano_2016.qmd
     - part: EXÁMENES PRÁCTICA
       chapters:
-      - caso-dic_22.qmd
-      - caso-sep_22.qmd
+      - caso-practicos_21.qmd
+      - caso-practicos_20.qmd
+      - caso-practicos_19.qmd
+      - caso-practicos_18.qmd
 
 format:
   html:
