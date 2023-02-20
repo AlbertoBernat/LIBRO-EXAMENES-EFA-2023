@@ -1,0 +1,3906 @@
+# Año 2018 {-}
+
+## Examen diciembre
+
+1.  La empresa XXX cotiza con un PER = 15x y tiene un ratio de Pay Out del 15% y un coste de capital del 12%. ¿Qué tasa de descuento residual está descontando implícitamente el precio?
+
+```{=html}
+<!-- -->
+```
+a.  11%
+
+b.  Negativo
+
+c.  5%
+
+d.  Ninguna de las anteriores
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la a**.
+
+Tenemos que conocer la relación existente entre el modelo de Gordon y el PER ...partiendo de la fórmula del modelo de Gordon tenemos,
+
+$$P_0=\frac{D_1}{k-g}=\frac{PayOut\cdot BPA}{k-g}$$ si dividimos ahora a ambos lados de la igualdad porel BPA,
+
+$$\frac{P_0}{BPA}=PER=\frac{PayOut\cdot BPA}{k-g \cdot BPA}=\frac{PayOut}{k-g}$$
+
+luego si,
+
+$$PER=\frac{PayOut}{k-g}$$
+
+al despejar la tasa de descuento $g$,
+
+$$PER \cdot ({k-g})=PayOut$$
+
+$$g=\left(\frac{PayOut}{PER}-k\right)$$
+
+donde al sustituir y calcular,
+
+$$g=\left(\frac{0,15}{15}-0,12\right)=0,11(11\%)$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+2.  Cuando valoramos una compañía mediante un descuento de flujos de caja podríamos enmarcar el tipo de análisis realizado como:
+
+```{=html}
+<!-- -->
+```
+a.  Análisis técnico.
+
+b.  Análisis fundamental.
+
+c.  Análisis cuantitativo.
+
+d.  La c y la b son ciertas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la b**.
+
+El análisis fundamental es uno de los dos métodos principales que se utilizan para analizar los activos. El otro es el análisis técnico. Los inversores que emplean el análisis técnico obtienen toda la información que necesitan para operar desde los gráficos en los activos. En cambio, los inversores que se basan en el análisis fundamental se fijan en factores externos, ajenos a los movimientos del precio del propio activo.
+
+El **análisis fundamental consiste en utilizar diversos factores cualitativos y cuantitativos para evaluar un activo**. En el caso de las **acciones**, puede tratarse de **estudiar** las cifras del informe de **resultados** de una **empresa**: ingresos, beneficios por acción, crecimiento previsto (descuento de flujos de caja) o márgenes de beneficio, por ejemplo.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+3.  Si el ROE de una compañía es del 20%, el P/Valor en libros es de 3X y el precio de la acción es de 20 euros, ¿cuál es el PER al que está cotizando la acción?
+
+```{=html}
+<!-- -->
+```
+a.  6,67X
+
+b.  10X
+
+c.  15X
+
+d.  Es necesario conocer el valor del BPA para poder calcular el PER
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la c**.
+
+En este caso tenemos que recordar la **estrecha relación que existe entre el ratio VM/VC (valor de mercado/valor contable) con el PER y con la rentabilidad sobre recursos propios, el ROE**.
+
+$$\frac {VM}  {VC} = \frac {Valor\  mercado } {Valor\   contable}  = \frac {Valor\   mercado}  {Beneficio} \cdot \frac {Beneficio}{Valor\   contable} = PER \cdot ROE$$ luego si,
+
+$$\frac {VM}  {VC} =  PER \cdot ROE$$ al despejar el PER tenemos que,
+
+$$ PER=\frac { \frac {VM}  {VC}}  {ROE}$$
+
+que al sustituir y calcular,
+
+$$ PER=\frac {3}  {0,20}=15x$$ **tenemos un PER de 15x**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+4.  ¿Cuál de las siguientes afirmaciones no es una característica de la fase primera de la planificación financiera?: Establecimiento y definición de la relación entre el cliente y el asesor financiero:
+
+```{=html}
+<!-- -->
+```
+a.  Identificar al cliente la gama de servicios a ofrecer.
+
+b.  Aclarar las comisiones a aplicar.
+
+c.  Definir las responsabilidades de las partes.
+
+d.  Preparar recomendaciones alternativas apropiadas para hacer frente a los objetivos del cliente.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+
+La elaboración de recomendaciones alternativas es propia de la fase tercera de la planificación financiera.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+5.  ¿Cuál de los siguientes elementos no se considera al determinar el perfil del inversor?
+
+```{=html}
+<!-- -->
+```
+a.  Tipo marginal en renta y patrimonio
+
+b.  Plazo de la inversión
+
+c.  Coyuntura de los tipos de interés
+
+d.  Conocimientos financieros
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la c**.
+
+No debe ser un factor determinante o condicionante del perfil del inversor la situación puntual de los tipos, puesto que el perfil del inversor es un carácter que varía poco en el tiempo, mientras que los mercados son cambiantes, aunque sí es cierto que pueden psicológicamente tener impacto en el momento del análisis: euforia o negativismo.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+6.  Hace unos días compramos unas acciones y en tan solo 3 días su precio ha caído en un 17,85%. Nos habíamos fijado un objetivo en rentabilidad sobre el precio de compra de un 12%, ¿en qué porcentaje han de subir las acciones para cumplir el objetivo previsto?
+
+```{=html}
+<!-- -->
+```
+a.  29,85%
+
+b.  21,73%
+
+c.  36,34%
+
+d.  Ninguna de las respuestas es correcta.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la c**.
+
+$$(1+i)\cdot(1-0,1785)=1,12$$
+
+$$i=\frac{1,12}{(1-0,1785)}-1$$
+
+$$i=0,3634(36,34\%)$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+7.  Si las rentabilidades de un activo tiene una volatilidad del 2,89% mensual y una media en rentabilidad anualizada del 10%. ¿Cuál es la probabilidad de no incurrir en pérdidas en un año? Supóngase normalidad.
+
+```{=html}
+<!-- -->
+```
+a.  16%
+
+b.  68%
+
+c.  84%
+
+d.  Ninguna de las respuestas es correcta.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la c**.
+
+Si la volatilidad mensual es de 2,89% para anualizarla la multiplicamos por la raíz cuadrada de 12 y este resultado nos da aproximadamente un 10%. Luego hacemos, rentabilidad -- volatilidad= 10%-10% =0%, en la cola izquierda de la distribución nos queda el 16% de probabilidad y de esta manera también nos quedaría un 84% de probabilidad en cola derecha, que es lo que buscábamos.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+8.  ¿Qué nos indica los Precios a la Producción Industrial?:
+
+```{=html}
+<!-- -->
+```
+a.  Nivel de precios pagados por los consumidores en bienes y servicios.
+
+b.  Precio pagado por hora trabajada.
+
+c.  Precios pagados por los productos importados.
+
+d.  Es la media del nivel de precios pagados por una cesta de bienes y capital por los fabricantes.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+
+La respuesta correcta es la media de precios pagados por los fabricantes o productores. Es un indicador muy seguido por el mercado porque el incremento de precios que paguen los fabricantes se trasladará al minorista que lo repercutirá al consumidor final.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+9.  ¿Qué podemos afirmar de una cartera con coeficiente beta igual a 1,45?
+
+```{=html}
+<!-- -->
+```
+a.  Que es agresiva.
+
+b.  Que es defensiva.
+
+c.  Que tiene un comportamiento independiente del mercado.
+
+d.  Que tiene un comportamiento igual que el mercado.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la a**.
+
+La beta nos indica cómo variará la rentabilidad de la cartera, si la comparamos con la evolución del índice de referencia o benchmark. O dicho de otra forma, la beta muestra la exposición al mercado que está asumiendo el gestor de la cartera. Luego ppodemos afirmar de una cartera con coeficiente beta igual a 1,45 será agresiva (\>1).
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+10. Los Planes de Previsión Asegurados:
+
+```{=html}
+<!-- -->
+```
+a.  Son productos de Seguro Clónicos de los seguros denominados Unit Linked.
+
+b.  Son productos de seguro Clónicos de los Planes Individuales de Ahorro Sistemático.
+
+c.  Son Planes de Pensiones Individuales con garantía de tipo de interés.
+
+d.  Todas las respuestas son falsas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+
+Los **planes de previsión asegurados** (PPA) son un **vehículo de ahorro a largo plazo** con unas características y un régimen muy **similar al de los planes de pensiones**. La principal **diferencia** es que los **planes de pensiones están instrumentalizados en fondos de pensiones**, mientras que los **planes de previsión asegurados se integran en una póliza de seguros**.
+
+Las **principales figuras de los PPA** son:
+
+-   el tomador (el contribuyente),
+
+-   el asegurado (que coincide con el tomador)
+
+-   y el beneficiario (en caso de fallecimiento pueden ser terceras personas designadas por el tomador).
+
+En el caso del **plan de pensiones (PP), las principales figuras son**:
+
+-   el promotor (el encargado de promover la creación del plan, pudiendo ser una entidad, una empresa o una asociación),
+
+-   el partícipe (persona física a favor de la que se crea el plan, es decir, el ahorrador)
+
+-   y el beneficiario (persona con derecho a percibir las pensiones o beneficios otorgados por el plan, pudiendo ser el mismo que el partícipe)
+
+**Los planes de previsión asegurados tienen que tener una rentabilidad garantizada** mediante técnicas actuariales. **Es otra diferencia con los planes de pensiones**, los cuales pueden tenerla (caso de los planes garantizados) o pueden no tenerla.
+
+Los **derechos acumulados son los derechos que se derivan de las aportaciones del partícipe**. Son el **equivalente a los derechos consolidados de los planes de pensiones**. A diferencia de estos últimos, **los derechos acumulados no son embargables** hasta que no se produzca la causa que provoque su transformación en prestación.
+
+Los derechos acumulados gozan de **movilidad, bien hacia otro PPA o bien hacia otros productos de previsión privada como planes de pensiones o PPSE (planes de previsión social empresarial)**. Los derechos consolidados de **los planes de pensiones** disfrutan **también** de esta posibilidad.
+
+Aspectos legales y fiscales
+
+Los PPA, como producto de previsión privado enfocado al ahorro para la jubilación, contemplan para su **rescate** las **mismas contingencias que los planes de pensiones**. Estas son:
+
+-   jubilación,
+
+-   incapacidad laboral,
+
+-   gran dependencia,
+
+-   fallecimiento,
+
+-   enfermedad grave,
+
+-   desempleo de larga duración
+
+-   y encontrarse en situación de desahucio.
+
+**Además, desde 1 de enero de 2015, podrán rescatarse aquellas aportaciones con una antigüedad mínima de 10 años (los primeros rescates podrán realizarse a partir de 1 de enero de 2025)**.
+
+**Las aportaciones tienen los mismos límites que los planes de pensiones**. De hecho, el límite máximo de aportación anual para un ahorrador aplica como **límite conjunto**. Estos límites son:
+
+**Territorio común**:
+
+La **menor** de estas cantidades: **8.000 euros o el 30% de los rendimientos del trabajo y actividades económicas**.
+
+**País Vasco**:
+
+Límite (independiente de la edad) para aportaciones individuales de 5.000 euros anuales, para las aportaciones del promotor 8.000 euros anuales y, como límite conjunto, 12.000 euros anuales.
+
+**Navarra**:
+
+Hasta 50 años, el menor de 8.000 euros o el 30% de la suma de rendimientos del trabajo y actividades económicas.
+
+Desde 50 años, el menor de 12.500 euros o el 50% de la suma de rendimientos del trabajo y actividades económicas.
+
+Las prestaciones, al **igual que en los planes de pensiones**, tienen la consideración de **rentas del trabajo** y como tal pasarán a integrarse en la **base imponible** general.
+
+Tenemos por tanto una **alternativa a los planes de pensiones** donde además, ambas opciones se ven favorecidas por la **posibilidad de movilizar derechos entre productos de previsión privada equivalentes**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+11. ¿Cuál es la distancia que recorrerá el precio una vez rota una bandera?
+
+```{=html}
+<!-- -->
+```
+a.  La altura de la bandera medida desde el punto de rotura
+
+b.  La altura del mástil medida desde el punto de rotura
+
+c.  La altura de la bandera medida desde el soporte de la misma
+
+d.  La altura del mástil medida desde el soporte de la misma
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la b**.
+
+En el siguiente gráfico otra buena prueba de la estructura de una bandera, aquí incluido el cálculo o proyección de la subida del precio.
+
+
+![](images/bandera.png)
+
+
+Para calcular la proyección de la subida del precio o primer objetivo del impulso al alza, se coge la altura del mástil (que es el movimiento fuerte y repentino que se produce antes de empezar a formarse el rectángulo y que puede estar formado por una barra o vela o varias) y se proyecta hacia arriba desde la zona en que el precio rompe el rectángulo.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+12. Un fondo con estrategia Event Driven:
+
+```{=html}
+<!-- -->
+```
+a.  Ante un evento determinado puede dejar de cotizar.
+
+b.  Son inversiones en empresas de representación.
+
+c.  Invierten en empresas con problemas.
+
+d.  Exclusivamente pueden invertir en empresas de comunicación.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la c**.
+
+Son estrategias que consisten en invertir empresas con problemas.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+13. Si la cartera de mercado en el modelo CAPM está compuesta por los siguientes 3 títulos: un 25% del título A, un 25% del título B y un 50% del título C. ¿Cuál de las siguientes carteras pertenece a la recta CML (Capital Market Line)?
+
+```{=html}
+<!-- -->
+```
+a.  Un 50% de A, un 25% de B y un 25% de C.
+
+b.  Un 25% de A, un 50% de B y un 25% de C.
+
+c.  Un 40% en el activo sin riesgo, un 24% de A, un 12% de B y un 24% de C.
+
+d.  Un 40% en el activo sin riesgo, un 15% de A, un 15% de B y un 30% de C.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+
+Si la cartera destina un 40% en el activo libre de riesgo, el resto (un 60%) lo invertirá en la cartera de mercado. Como la cartera de mercado está compuesta por 3 títulos en las proporciones 40% de A, 20% de B y 40 % de C, en su cartera el título A supondrá un 15% (0,6 x 0,25 = 0,15 = 15%), el título B supondrá un 15% (0,6 x 0,25 = 0,15 = 15%) y el título C un 30% (0,6 x 0,5 = 0,30 = 30%).
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+14. Si la TIR de una cartera en el último semestre ha sido del 8% y la TGR del 13%, podemos concluir que:
+
+```{=html}
+<!-- -->
+```
+a.  El inversor se ha equivocado en la elección de los momentos de compra y venta de los activos de la cartera.
+
+b.  El inversor ha acertado en la elección de los momentos de compra y venta de los activos de la cartera.
+
+c.  El inversor ha acertado en la selección de los títulos que forman la cartera.
+
+d.  El inversor se ha equivocado en la selección de los títulos que forman la cartera.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la a**.
+
+Comparando la TIR y la TGR se puede analizar el grado de acierto de la política de entradas y salidas de capital de la inversión llevada a cabo:
+
+-   Si TIR \> TGR, el inversor ha acertado en sus decisiones.
+
+-   Si TIR = TGR, el resultado es indiferente de la política llevada a cabo.
+
+-   Si TIR \< TGR, el inversor se ha equivocado en su política.
+
+Como la TIR = 8% \< 13% = TGR podemos concluir que el inversor se ha equivocado en su política.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+15. En un mercado con una recta SML (Security Market Line) representada por:
+
+$$E_i=4\% + 0,1\cdot \beta_i$$
+
+Un activo con un coeficiente beta ($\beta_i$) igual a 0,4:
+
+a.  No debe comprarse nunca.
+
+b.  Sólo debe comprarse si ofrece una rentabilidad esperada inferior al 8%.
+
+c.  Sólo debe comprarse si ofrece una rentabilidad esperada superior al 8%.
+
+d.  No tenemos suficientes datos para decidir sobre su compra.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la c**.
+
+La rentabilidad esperada de equilibrio proporcionada por la SML será:
+
+$$E_i=4\% + 0,1\cdot 0,4=8\%$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+16. Que mide el coeficiente de determinación en una regresión lineal:
+
+```{=html}
+<!-- -->
+```
+a.  La correlación explicada por el modelo.
+
+b.  Lo que varían en % la variable dependiente cuando la independiente varía un 1%.
+
+c.  Es la cuantía del término independiente de la regresión.
+
+d.  Ninguna de las respuestas es correcta.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+
+El coeficiente de determinación $R^2$ es igual al coeficiente de correlación al cuadrado y mide el porcentaje en que la recta de regresión se ajusta al modelo de la nube de puntos. Oscila entre \[0,1\].
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+17. En el caso de un fondo por compartimentos:
+
+```{=html}
+<!-- -->
+```
+a.  El número de partícipes no puede ser menor de 15
+
+b.  El número de partícipes no puede ser menor de 20
+
+c.  El número de partícipes no puede ser menor de 25
+
+d.  Puede ser cualquiera siempre que sumen todos 100.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la b**.
+
+Nunca pueden ser menores el número de participes a 20 y la suma de todos los compartimentos superar los 100
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+18. ¿En qué consiste la llamada diversificación ingenua (o naïve)?
+
+```{=html}
+<!-- -->
+```
+a.  Que la cartera está compuesta por pocos activos y una cuidada selección de los mismos para que la correlación sea lo más baja posible.
+
+b.  Que la cartera está compuesta por muchos activos y una cuidada selección de los mismos para que la correlación sea lo más baja posible.
+
+c.  Que la cartera está formada por muchos valores de diferentes sectores sin ningún tipo de criterio en cuanto a la correlación entre ellos.
+
+d.  Que la cartera está formada por muchos valores de los mismos sectores con criterio de descorrelación entre ellos.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la c**.
+
+Existen diferentes **tipos de diversificación**, entre los cuales destacamos:
+
+a)  **Diversificación no ingenua**: también denominada diversificación eficiente o inteligente, constituye uno de los principios fundamentales de la teoría moderna de cartera. Sostiene que cualquier inversor averso al riesgo perseguirá la máxima rentabilidad esperada para cualquier nivel de riesgo. Para ello, trata de **reducir el riesgo de las carteras, incluyendo en ellas activos con ciertas características de rentabilidades y correlaciones distintas**. En esta clase de diversificación se puede llegar incluso a eliminar el riesgo.
+
+b)  **Diversificación ingenua (o naïve): aquella que trata de reducir el riesgo de las carteras de valores, aumentando el número de títulos que integran las mismas, sin seguir ningún criterio de selección concreto**. Una cuestión fundamental a resolver en este tipo de diversificación es cuál es el número óptimo de títulos que tienen que integrar las carteras diseñadas de manera que el riesgo sea mínimo. Si se empieza por un número reducido de títulos, la disminución del riesgo global de la cartera resultante no suele ser significativo.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+19. ¿Cuál ha sido la rentabilidad efectiva de la siguiente operación si suponemos que el inversor reinvierte los cupones anuales, y amortiza el bono a vencimiento?
+
+-   Compra: 15-05-2017.
+
+-   Vencimiento: 15-05-2021.
+
+-   Cupón anual: 4,5%.
+
+-   Valor nominal: 1.000 euros.
+
+-   TIR de adquisición: 5,45%
+
+-   Precio de compra: 96,67%.
+
+| **Tipos de interés a un año:** |
+|:-------------------------------|
+| 15-05-2017: 4,50%              |
+| 15-05-2018: 3,80%              |
+| 15-05-2019: 4,20%              |
+| 15-05-2020: 3,05%              |
+
+a.  4,65%
+
+b.  5,33%
+
+c.  4,45%
+
+d.  5,25%
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la b**.
+
+En este caso TIR Y TRE no coinciden, lay que calcular el valor futuro de los cupones según la estructura temporal de los tipos de interés (ETTI) para cada periodo.
+
+-   Primer cupón cobrado y reinversión
+
+$$FC_1=4,5\cdot 1,038\cdot 1,042\cdot 1,0305=5,0156$$
+
+-   Segundo cupón cobrado y reinversión
+
+$$FC_2=4,5\cdot 1,042\cdot 1,0305=4,83201$$
+
+-   Tercer cupón cobrado y reinvertido
+
+$$FC_3=4,5\cdot 1,0305=4,63725$$
+
+-   Principal y último cupón cobrado
+
+$$FC_4=100+4,5=104,5$$
+
+Luego si **sumamos los flujos totales de la inversión tenemos el valor final** ($V_f$) de la misma:
+
+$$V_f=FC_1+FC_2+FC_3+FC_4$$
+
+$$V_f=5,0156+4,83201+4,63725+104,5=118,984896$$
+
+Conocido el valor final de la inversión ($V_f$) y el capital inicial invertido ($P_o=96,67\%$) , **podemos calcular la rentabilidad efectiva o Tasa de Rentabilidad Efectiva (TRE)** a partir de su ecuación:
+
+$${ V }_{ f }={ C }_{ 0 }{ (1+TRE) }^{ n }$$
+
+Luego, **despejamos** de la ecuación la TRE,
+
+$${ { { TRE=}\left[ \frac { { V}_{ f } }{ { C }_{ 0 } }  \right]  }^{ \frac { 1 }{ t }  } }-1$$
+
+Y finalmente **sustituimos y calculamos**,
+
+$${ { { TRE=}\left[ \frac {118,984896}{ 96,67 }  \right]  }^{ \frac { 1 }{ 4 }  } }-1=0,5329(5,33\%)$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+20. ¿Cuál de las siguientes operaciones financieras que puede realizar una entidad de crédito es una operación de pasivo?
+
+```{=html}
+<!-- -->
+```
+a.  Préstamos hipotecarios.
+
+b.  Concesión de avales.
+
+c.  Certificados de depósito.
+
+d.  Descuento de letras de cambio.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la c**.
+
+Las **operaciones de pasivo reflejan los recursos financieros captados** por los que se compromete a dar una rentabilidad (a los clientes o depositantes). Siendo operaciones de pasivo para las Entidades de Crédito, por ejemplo:
+
+-   Las **cuentas corrientes o depósitos a la vista**,
+
+-   las **cuentas de ahorr**o ordinario,
+
+-   los **depósitos** o **imposiciones** a plazo fijo,
+
+-   los **certificados de depósito**, etc.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+21. La Sociedad Gestora de un Fondo de inversión Inmobiliaria tendrá entre otras funciones:
+
+```{=html}
+<!-- -->
+```
+a.  Responsabilizarse de la custodia de todos los valores del Fondo.
+
+b.  Realizar las tasaciones de los inmuebles.
+
+c.  Designar la Sociedad de Tasación.
+
+d.  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la c**.
+
+Art. 26. Funciones de la Sociedad Gestora.
+
+Además de las funciones atribuidas en el artículo 54 del Reglamento de la Ley 46/1984, **las Sociedades Gestoras de Fondos de Inversión Inmobiliaria tendrán las siguientes funciones**:
+
+a)  Selección, adquisición y venta de los bienes inmuebles que integren el patrimonio del Fondo.
+
+b)  Contratar toda clase de servicios vinculados con los bienes inmuebles.
+
+c)  Administrar los inmuebles.
+
+d)  Ejercer como representante del Fondo todos los derechos que la legislación vigente conceda al propietario, de los bienes inmuebles que integran el patrimonio del Fondo.
+
+e)  La contratación, formalización, modificación y cancelación de créditos con garantía hipotecaria.
+
+f)  **Designar, con arreglo a lo establecido en el Reglamento de Gestión, la Sociedad de Tasación que realizará la valoración de los bienes inmuebles del Fondo**.
+
+g)  Conservación, mejora y asesoramiento de los bienes inmuebles del Fondo.
+
+h)  La comercialización de las participaciones.
+
+i)  Custodia de los documentos públicos o privados, representativos de los derechos sobre los bienes inmuebles del Fondo.
+
+j)  En general, cualquier actividad de administración y disposición de bienes y derechos del Fondo dirigida a lograr un aumento del valor del patrimonio y que resulte conforme con la normativa reguladora.
+
+k)  Concertar con terceros, mediante el correspondiente contrato de arrendamiento de obra, la rehabilitación de bienes inmuebles. Dicho tercero no podrá ser una Entidad del grupo de la Sociedad Gestora, conforme al concepto de grupo del artículo 4.º de la Ley 24/1988, de 28 de julio, del Mercado de Valores.
+
+Fuente: https://www.boe.es/buscar/act.php?id=BOE-A-1993-24301&p=19990604&tn=1
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+22. ¿Qué tiene más importancia en Análisis Técnico?
+
+```{=html}
+<!-- -->
+```
+a.  El volumen y sus posibles divergencias con el precio.
+
+b.  Un hombro-cabeza-hombro.
+
+c.  Un triángulo simétrico.
+
+d.  Las líneas de tendencia.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+
+Las líneas de tendencia son la base en el análisis técnico y están relacionadas con los movimientos de avance y retroceso de los precios.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+23. Un fondo de inversión denominado en CHF (Francos Suizos) obtiene durante un semestre una rentabilidad del 4,52%, a la vez que el CHF (Francos Suizos) se deprecia en ese plazo un 5,20%, ¿Cuál será la rentabilidad anualizada de esta operación?:
+
+```{=html}
+<!-- -->
+```
+a.  -1,82%.
+
+b.  -0,68%.
+
+c.  -0,92%.
+
+d.  -1,36%.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la a**.
+
+En primer lugar nos planteamos la equivalencia de tantos, donde un tipo de interes anual ha de ser igual al tipo efectivo semestral elevado al número de subperiodos que se mantiene la inversión dentro del año (en este caso 2 semestres que son un año); tal que,
+
+$$(1+i)=(1+i_2)^2$$ Ahora bien, en la parte derecha de la igualdad tenemos que considerar que la inversión se ha denominado en una divisa y ésta estará sujeta a la fluctuación de su precio en el mercado. De forma que, este término estará compuesto por la rentabilidad del activo multiplicada por la rentabilidad de la divisa para ese mismo periodo; luego,
+
+$$(1+i_2)^2=[(1+i_2^{activo})\cdot(1+i_2^{divisa})]^2$$ Ahora, bastará con despejar en la equivalencia de tantos $i$,
+
+$$i=(1+i_2)^2-1$$ Sustituir,
+
+$$i=[(1+i_2^{activo})\cdot(1+i_2^{divisa})]^2-1$$ Y calcular,
+
+$$i=[(1+0.0452)\cdot(1+(-0.052))]^2-1=-0.01821(-1.82\%)$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+24. Una opción tipo put vendida, cuando estará ITM:
+
+```{=html}
+<!-- -->
+```
+a.  Cuando la correspondiente put comprada esté OTM.
+
+b.  Cuando el precio del subyacente esté por encima del strike.
+
+c.  Cuando su valor temporal sea positivo
+
+d.  Cuando tenga valor intrínseco positivo
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+
+Cuando una opción tiene un **valor intrínseco positivo, se dice que está "In The Money"** ($=ITM$). Si su **valor intrínseco es nulo, entonces está OTM -Out of The Money-** ó "fuera de dinero" y, para opciones cuyo **strike (precio de ejercicio) está muy cercano al precio del subyacent**e ($S=P_{subyacente}$), se usa el término **ATM -At The Money**-
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+25. La compra de subyacente y la venta de call sobre ese subyacente con un precio de ejercicio igual al precio del subyacente equivale a:
+
+```{=html}
+<!-- -->
+```
+a.  Compra call sintética
+
+b.  Venta futuro sintético
+
+c.  Venta de put sintética
+
+d.  Ninguna de las anteriores
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la c**.
+
+Se le conoce con el nombre de **venta de una put sintética y esta compuesta de la compra del activo subyacente y la venta de una Call**. El objetivo de la estrategia es la entrada mas rápida en la zona de ganancias, si la previsión ha fallado. Sin embargo las ganancias obtenidas son constantes y no es posible superar a pesar de las subida del precio del activo.
+
+$$- Put = - Call + Futuro$$
+
+La relación que existe entre el precio del futuro, el precio de la Call, y el precio de la Put, es el siguiente:
+
+Precio del Futuro = Precio de la Call - Precio de la Put + Precio Ejercicio
+
+Precio de la Call = Precio del Futuro + Precio de la Put - Precio de Ejercicio
+
+Precio de la Put = Precio de la Call - Precio del Futuro + Precio de Ejercicio
+
+A esta expresión se le conoce como paridad Put - Call
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+26. En los Planes de Pensiones de aportación definida, la cuota parte correspondiente al partícipe determinada a partir de las aportaciones realizadas, rentabilidades obtenidas y gastos aplicados se denomina:
+
+```{=html}
+<!-- -->
+```
+a.  Derecho económico.
+
+b.  Cuenta de posición.
+
+c.  Derecho consolidado.
+
+d.  No tiene denominación específica.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la c**.
+
+Los derechos consolidados son un concepto frecuentemente utilizado en el ámbito de los planes de pensiones y otros productos de previsión. Podemos intuir a qué se refieren pero, ¿qué son exactamente?
+
+**Podemos definir los derechos consolidados de un plan de pensiones como aquellos derechos económicos pertenecientes al partícipe y que son resultado de las aportaciones realizadas así como de los rendimientos producidos en las mismas y que se derivan del sistema financiero de capitalización**.
+
+Es decir, los derechos consolidados **se componen de la suma de las aportaciones económicas realizadas más la revalorización que dichas aportaciones han experimentado**. El valor de los derechos consolidados será equivalente al número de participaciones que el partícipe posee a una fecha por el valor liquidativo del fondo a esa fecha.
+
+**En el momento en que el partícipe se convierte en beneficiario** de un plan por acaecer cualquiera de las contingencias contempladas en la ley, **estos derechos consolidados pasarán a denominarse derechos económicos**.
+
+Fuente: http://www.inverco.es/28/0/95
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+27. El valor del coeficiente beta de un activo:
+
+```{=html}
+<!-- -->
+```
+a.  No depende del índice seleccionado.
+
+b.  No depende del tamaño de la muestra histórica.
+
+c.  Depende del plazo temporal con que se hayan calculado las rentabilidades.
+
+d.  Ninguna de las respuestas es correcta
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la c**.
+
+**La pendiente de línea del mercado de valores**, línea del mercado de títulos o línea del mercado de activos (también conocida por su nombre en inglés, security market line, de la que derivan las siglas **SML**) es lo que **se conoce habitualmente como el coeficiente beta del título**, que es una medida de la relación entre la evolución de la rentabilidad del título y la del mercado cuya expresión viene dada por:
+
+$$\beta_{i,m}=\frac{\sigma_{i,m}}{\sigma_m^2}=\frac{\sigma_i}{\sigma_m}\cdot\rho_{i,m}$$
+
+y en su cálculo influye el índice seleccionado, el tamaño de la muestra tomada y por supuesto el horizonte temporal considerado. Si tomamos las rentabilidades del activo en un plazo de 6 meses el valor de beta será, muy probablemente, distinto al que tomaría considerando las rentabilidades en un plazo de un año.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+28. ¿Cuál es la rentabilidad esperada de un Fondo de Renta Variable española altamente correlacionado con el IBEX--35, que está totalmente cubierto con futuros sobre el IBEX-35?
+
+```{=html}
+<!-- -->
+```
+a.  Cero.
+
+b.  La rentabilidad esperada del IBEX --35.
+
+c.  La rentabilidad del activo sin riesgo.
+
+d.  La TIR del bono a 10 años.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la c**.
+
+Si tienes un fondo de renta variable totalmente cubierto, no ganarás ni perderás por los movimientos del mercado por lo que, a priori, puede pensarse que no habrá rentabilidad pero, esto es erróneo.
+
+Al tener dos posiciones, una larga (fondo) y otra corta (la del futuro vendido) el resultado neto será la diferencia entre los precios de ambas. Para poder hacer la diferencia, calcularemos los precios de ambas magnitudes. Por partes, el razonamiento sería:
+
+1.  El patrimonio del fondo habrá aumentado en x% como consecuencia de los movimientos del mercado. Es decir, las acciones del Ibex suben (no necesitamos el dato para responder a esta pregunta).
+
+2.El precio del futuro, sin embargo, tiene más factores a tener en cuenta. Se calcula de la siguiente forma:
+
+$$F= S \cdot ( 1+ i\cdot \frac{n}{360})$$
+
+Atendiendo a esta fórmula y teniendo en cuenta que estamos en el momento del vencimiento, el precio del futuro tendrá como variables:
+
+-   $S$, es el precio del subyacente en el momento del vencimiento (precio del conjunto de acciones del Ibex sobre los que establecemos la posición) que será igual que el precio del fondo.
+
+-   $i$, la rentabilidad del activo libre de riesgo
+
+-   $n$, 1 día (se entiende que es el día anterior a la liquidación)
+
+El resultado nos dirá que el precio del futuro será muy próximo al del subyacente, únicamente aumentado por la rentabilidad del activo libre de riesgo a 1 día.
+
+Si hacemos la diferencia que comentábamos al principio tendremos:
+
+Resultado = Precio del fondo (cotización del Ibex) - Precio del futuro (Cotización del Ibex multiplicada por (1 + i x 1/360))
+
+Resultado neto de la operación (se anulan las variables "Cotización del Ibex") = i/360 (**la rentabilidad del activo libre de riesgo**)
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+29. Contratamos el siguiente préstamo con un sistema de amortización francés:
+
+| **Datos:**                           |
+|:-------------------------------------|
+| Plazo: 15 años                       |
+| Tipo interés nominal anual: 1,40%    |
+| Principal a amortizar: 165.000 euros |
+| Cuotas mensuales a mes vencido       |
+
+¿Cuál será el capital pendiente de amortizar después de transcurrido el primer mes?
+
+a)  164.175,74 euros.
+
+b)  179.700,64 euros.
+
+c)  142.450,48 euros
+
+d)  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la a**.
+
+Calculamos el tipo efectivo mensual, ya que las cuotas van a ser mensuales:
+
+$$i_m=\frac{j\left(m\right)}{m}=\frac{j\left(4\right)}{4}=\frac{0.014}{12}=0.001167$$
+
+Calculamos la mensualidad a pagar, apartir de la fórmula de una renta constante, inmediata y pospagable de 180 términos(15x12):
+
+$$V_0=c\cdot\frac{1-\left(1+i_m\right)^{-(n\cdot m)}}{i_m}$$ De donde despejamos $c$,
+
+$$c=\frac{V_0 }{\frac{1-\left(1+i_m\right)^{-(n\cdot m)}}{i_m} }$$ Y sustituimos y calculamos,
+
+$$c=\frac{165000 }{\frac{1-\left(1+0.001167\right)^{-(15\cdot 12)}}{0.001167} }=1016.81$$ Ahora calculamos los intereses del primer mes. Que al tratarse de la primera cuota, el capital inicial y el capital pendiente de amortizar coinciden. Por lo tanto, bastará con multiplicar el tipo de interés efectivo mensual por el capital inicial:
+
+$$I_1=C_{pendiente,0}\cdot i_{12}=165000\cdot0.001167=192.5$$ Por tanto, el principal amortizado será la diferencia entre la mensualidad 1 y los intereses en 1:
+
+$$P_{amortizado,1}=c_1-I_1=1016.81-192.555=824.255$$ Y el caital pendiente de amortizar en 1, será la diferencia entre el caital pendiente de amortizar en 0 y el principal amortizado en 1 (en este caso coincide con el capital inicial):
+
+$$C_{pendiente,1}=C_{pendiente,0}-P_{amortizado}=\\=165000-824.255=164175.74$$
+
+Con la calculadora financiera Casio FC200V, se calcularía de la siguiente forma:
+
+-   Función: "AMRT"
+
+-   Set:END (son cuotas postpagables)
+
+-   PMN1= 1 + EXE (queremos saber sólo el periodo comprendido en el primer pago)
+
+-   PMN2= 1 + EXE (queremos saber sólo el periodo comprendido en el primer pago)
+
+-   n = 180 + EXE (15 años x 12 meses, del plazo)
+
+-   I% = 1.4 + EXE (introducimos el nominal anual aquí)
+
+-   PV = +165000 + EXE (principal a amortizar)
+
+-   PMT = 0 + EXE (no conocemos la cuantía o cuota; véase la nota al pie)
+
+-   FV = 0 + EXE (no conocemos el valor futuro)
+
+-   P/Y = 12 + EXE (número de pagos anuales)
+
+-   C/Y = 12 + EXE (número de compuestos anuales, corrige el nominal y lo transforma en efectivo mensual)
+
+-   Vamos abajo, situandonos con el cursor sobre la variable "BAL" y pulsamos la tecla "solve".
+
+Resultado:
+
+-   **BAL = 164175.6844 (que será el caital pendiente de amortizar en el momento 1)**
+
+-   **INT = -192.5 (que serán los intereses pagados en el momento 1)**
+
+-   **PRN = -824.3156 (que será el principal amortizado en el momento 1)**
+
+Nota: es importante que una vez que se han introducido todos los datos para el cálculo del préstamo, vaya sobre la función "CMPD" en el menú de funciones y pulse "SOLVE" cuando el cursor esté sobre la variable "PMT"; de esta manera se calcula la cuota mensual y ya se puede ir de nuevo a la función "AMRT". Esto es debido a que en este caso particular no conocemos el valor de la mensualidad a pagar y previamente ha de calcularse de la forma indicada, una vez calculada la información (valor de la mensualidad) ésta se cruza autamáticamente conla función "AMRT" y entoces será posible resolver todas las variables que aparecen en la función "AMRT".
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+30. La beta de una acción es de 1,20, el tipo de interés libre de riesgo es de 1,90% y se espera un rentabilidad del mercado del 8%, adicionalmente se sabe que el año, pasado la acción pago un dividendo de 0,60 euros y que los mismo crecerán a razón del 4,5%. ¿Determinar el valor teórico de la acción?
+
+```{=html}
+<!-- -->
+```
+a.  12,71 euros.
+
+b.  13,28 euros.
+
+c.  12,20 euros.
+
+d.  11,76 euros.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la b**.
+
+Según el método de Gordon-Shapiro:
+
+$$P_0=\frac{D_1}{K_e-g}$$ Y, calculando primero la tasa de descuento de la empresa con el CAPM:
+
+$$K_e=R_f+(E_m-R_f)\cdot \beta_e$$ tenemos que,
+
+$$K_e=1,90+(8-1,90)\cdot 1,20=9,22\%$$
+
+con lo que si sustituimos ahora en la fórmula de Gordon,
+
+$$P_0=\frac{0,60\cdot(1+0,045)}{0,092-0,04}=13,28$$
+
+tenemos que el **valor teórico de la acción es de 3,28 euros**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+31. Si en el último trimestre el indicador de confianza del consumidor está en niveles mínimos de los últimos cinco años, esto quiere decir que:
+
+```{=html}
+<!-- -->
+```
+a.  Los consumidores son pesimistas con respecto a la situación económica y se espera que la demanda futura será menor que la actual.
+
+b.  Los empresarios son pesimistas con respecto al nivel de consumo de la población y se espera que la demanda futura será menor que la actual.
+
+c.  El nivel de consumo en el último trimestre es el más bajo en los últimos cinco años.
+
+d.  Se espera que el próximo trimestre el nivel de consumo sea el más bajo de los últimos cinco años.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la a**.
+
+Cuando el último trimestre el indicador de confianza del consumidor está en sus niveles mínimos de los últimos cinco años, se puede interpretar que los consumidores son pesimistas con respecto a la situación económica y, que se espera que la demanda futura será menor que la actual.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+32. El Free-float (capital flotante) de un valor hace referencia a lo siguiente:
+
+```{=html}
+<!-- -->
+```
+a.  Porcentaje del capital social que se encuentra en manos de accionistas de referencia.
+
+b.  Porcentaje de los accionistas con derechos politicos de voto en la compañía, de forma que da una idea de cuantos accionistas deben tomar de forma conjunta las decisiones de la empresa.
+
+c.  Porcentaje del total de acciones de una sociedad que es susceptible de ser negociado habitualmente en bolsa y que no está controlado por accionistas de forma estable.
+
+d.  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la c**.
+
+El **capital flotante, también conocido por la locución inglesa free float, se refiere al porcentaje del total de acciones de una sociedad que es susceptible de ser negociado habitualmente en bolsa y que no está controlado por accionistas de forma estable**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+33. En los Mercados de Valores se pueden negociar:
+
+|                                         |
+|:----------------------------------------|
+| I. Derechos de suscripción preferentes. |
+| II\. Activos de renta fija.             |
+| III\. ETF´s.                            |
+
+a.  Solamente I.
+
+b.  I y III.
+
+c.  I y II.
+
+d.  I, II y III.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+
+El mercado de valores es un tipo de mercado de capitales de los que operan alrededor del mundo en el que se negocia la renta variable y la renta fija de una forma estructurada, a través de la compraventa de valores negociables. Permite la canalización de capital a medio y largo plazo de los inversores a los usuarios
+
+De acuerdo con los artículos 2º y 3° de la Ley del Mercado de Valores, ésta afecta a los valores negociables emitidos por personas o entidades, públicas o privadas, y agrupados en emisiones, cuya emisión, negociación o comercialización tenga lugar en el territorio nacional (español). Se consideran valores negociables, en todo caso (art 2.1 TRLMV):
+
+-   Las acciones de sociedades y los valores negociables equivalentes a las acciones, así como cualquier otro tipo de **valores negociables que den derecho a adquirir acciones o valores equivalentes a las acciones, por su conversión o por el ejercicio de los derechos que confieren**.
+
+-   Las cuotas participativas de las cajas de ahorros y las cuotas participativas de asociación de la Confederación Española de Cajas de Ahorros.
+
+-   **Los bonos, obligaciones y otros valores análogos, representativos de parte de un empréstito, incluidos los convertibles o canjeables (Renta Fija)** .
+
+-   Las cédulas, los bonos y participaciones hipotecarias.
+
+-   Los bonos de titulización.
+
+-   **Las participaciones y acciones de instituciones de inversión colectiva (ETF´s)**.
+
+-   Los instrumentos del mercado monetario entendiendo por tales las categorías de instrumentos que se negocian habitualmente en el mercado monetario tales como las letras del Tesoro, certificados de depósito y pagarés, salvo que sean librados singularmente, excluyéndose los instrumentos de pago que deriven de operaciones comerciales antecedentes que no impliquen captación de fondos reembolsables.
+
+-   Las participaciones preferentes.
+
+-   Las cédulas territoriales.
+
+-   Los "warrants" y demás valores negociables derivados que confieran el derecho a adquirir o vender cualquier otro valor negociable, o que den derecho a una liquidación en efectivo determinada por referencia, entre otros, a valores negociables, divisas, tipos de interés o rendimientos, materias primas, riesgo de crédito u otros índices o medidas.
+
+-   Los demás a los que las disposiciones legales o reglamentarias atribuyan la condición de valor negociable.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+34. Un contribuyente del IRPF ha percibido 6.000 euros en concepto de dividendos procedentes de una cartera de valores cotizados en bolsa. ¿Qué coste fiscal tendrá la obtención de la citada renta?
+
+```{=html}
+<!-- -->
+```
+a.  1.200 euros.
+b.  945 euros.
+c.  1.140 euros.
+d.  1.260 euros.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la c**.
+
+Los tipos que se pagan por dividendos y demás rendimientos del capital mobiliario en 2016 y 2017 quedan en:
+
+-   Entre 0 y 6.000 euros: se paga el 19%.
+
+-   Entre 6.000,01 y 50.000 euros: se paga el 21%.
+
+-   Más de 50.000 euros: se paga el 23%.
+
+Por lo tanto el cálculo quedaría como sigue,
+
+$$CF=6000\cdot0.19=1140$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+35. Cuando, como consecuencia del fallecimiento del asegurado, el cónyuge beneficiario percibe una cierta cantidad procedente de un contrato de seguro de vida, ¿tiene el beneficiario derecho a alguna reducción en el impuesto de sucesiones?
+
+```{=html}
+<!-- -->
+```
+a.  No tiene derecho a reducción alguna.
+
+b.  Tiene derecho a una reducción del 100% de la cantidad percibida.
+
+c.  Tiene derecho a una reducción del 100%, pero con límite.
+
+d.  Tiene derecho a una reducción del 75% de la cantidad percibida.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la c**.
+
+En el caso de la tributación en el ISD de los seguros de vida en que las figuras de tomador y beneficiario no sean la misma persona, se produce un hecho imponible que está sujeto al Impuesto sobre Sucesiones y Donaciones (I.S.D.):
+
+-- Si la contingencia que origina el cobro de la prestación es la supervivencia del asegurado, el hecho imponible corresponde a la modalidad de Donaciones.
+
+-- Si la contingencia que origina el cobro de la prestación es el fallecimiento del asegurado, el hecho imponible corresponde a la modalidad de Sucesiones.
+
+Respecto de las prestaciones de seguros liquidadas por Donaciones, debe señalarse que:
+
+-- La base imponible la constituye el importe del capital recibido o el valor actual de la renta.
+
+-- Si la prestación se percibe en forma de renta, la tributación por este Impuesto no impide que el beneficiario tribute anualmente en su IRPF por el RCM derivado del cobro de la renta, cuantificado aplicando el coeficiente de integración correspondiente (como renta inmediata).
+
+Respecto de las **prestaciones de fallecimiento**, debe destacarse que:
+
+-- La base imponible la constituye el importe del capital recibido o el valor actual de la renta.
+
+-   Existe una **reducción** establecida por la normativa estatal específica para las prestaciones derivadas de contratos de seguro de vida cuando el beneficiario sea el cónyuge, ascendiente o descendiente del contratante fallecido. La cuantía estatal de esta reducción **está limitada a 9.145.49 euros**, pero este importe puede ser mayor si la Comunidad Autónoma de residencia fiscal del fallecido así lo ha previsto.1
+
+-- En caso de que la prestación se perciba en forma de renta, la tributación por este Impuesto es definitiva: el beneficiario de la renta no debe declarar la renta anual en el IRPF. Además, existe la posibilidad de fraccionar el pago del impuesto en el número de años de duración de la renta (temporal) o 15 años (vitalicia).
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+36. ¿Con cuál de los siguientes factores NO está positivamente correlacionado el precio de una opción call sobre una acción?
+
+```{=html}
+<!-- -->
+```
+a.  El precio de la acción.
+
+b.  El tiempo a vencimiento.
+
+c.  La volatilidad de la acción.
+
+d.  El precio de ejercicio.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+
+| Los factores que determinan el valor de una opción ante un aumento de: | Call | Put  |
+|:----------------------------------------|:--------------:|:--------------:|
+| Precio de ejercicio                                                    |  \-  |  \+  |
+| Cotización de la acción subyacente                                     |  \+  |  \-  |
+| Volatilidad de la acción subyacente                                    |  \+  |  \+  |
+| Tipo de interés                                                        |  \+  |  \-  |
+| Tiempo a vencimiento                                                   |  \+  | +/-  |
+| Dividendos a pagar hasta vencimiento                                   |  \-  |  \+  |
+| Pago del dividendo                                                     | nulo | nulo |
+
+Por lo tanto, el precio de ejercicio NO está positivamente correlacionado el precio de una opción call sobre una acción.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+37. Una sociedad holding, y que por tanto tiene al menos una participación en el capital de otra sociedad operativa (más del 5% de los derechos de voto):
+
+```{=html}
+<!-- -->
+```
+a.  Puede percibir dividendos que en la mayoría de casos estarán exentos de tributación, en la medida que se podrá aplicar la deducción por doble imposición del cien por cien.
+
+b.  Se considera que es una sociedad "operativa", esto es, que realiza una actividad empresarial de gestión y dirección de participaciones.
+
+c.  Las acciones y/o participaciones de los socios pueden alcanzar los beneficios fiscales de la empresa familiar (exención en el Impuesto sobre el Patrimonio y reducción del 95% en el Impuesto sobre Sucesiones).
+
+d.  Todas las respuestas son correctas.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+
+Las **ventajas fiscales de un holding son significativas y se aplican a diferentes impuestos**, siempre que se cumplan los requisitos exigidos en cada uno de ellos:
+
+-   **Se evita la doble imposición en el Impuesto sobre Sociedades** (art. 21 nueva LIS): ni la distribución del beneficio de las sociedades filiales a la matriz, ni la venta de las participaciones que la matriz ostenta sobre las filiales genera renta gravable en la primera, por aplicación de la exención prevista para evitar la doble imposición; y ello, con independencia de que la filial se encuentre en domiciliada en territorio nacional o en el extranjero;
+
+-   **Posibilidad de optar por tributar a través del régimen de grupo de consolidación en el IS** (art. 55 y ss LIS): mediante la aplicación de este régimen, el contribuyente es el grupo como unidad, y el responsable del pago de la deuda tributaria es la sociedad dominante; asimismo, este régimen permite la compensación de los beneficios generados en unas sociedades con las eventuales pérdidas que se produzcan en otras.
+
+-   **Reducciones en el Impuesto sobre Sucesiones y Donaciones** (art. 20 LISD): en caso de sucesión mortis causa, y cumpliéndose los requisitos establecidos al efecto, la incorporación del valor de las participaciones de entidades que constituyan una actividad económica en la base imponible del impuesto estará reducida en un 95% (cantidad que puede aumentar al 99% en determinadas comunidades autónomas).
+
+-   **Reducciones en el Impuesto sobre el Patrimonio** (art. 4 LIP): cumpliendo los requisitos exigidos, las participaciones en entidades que desarrollen actividades económicas en las que esté involucrado de manera efectiva el titular de las mismas, ejerciendo funciones de dirección, estará exenta del Impuesto sobre el Patrimonio.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+38. Cuál es el precio entero (precio efectivo) de un bono del Estado el día 18/12/2021, sabiendo que su cotización (precio ex cupón) es 101,275%, que paga cupones constantes anuales del 3,20% y que su vencimiento es el 31/1/2025?
+
+```{=html}
+<!-- -->
+```
+a.  101,661%
+
+b.  98,461%
+
+c.  101,275%
+
+d.  104,089%
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+
+Para resolver esta pregunta hemos de calcular el cupón corrido y sumarlo a su precio de cotización (o precio ex cupón) que es conocido e igual a 101,275%. Por tanto, planteamos la fórmula del cupón corrido,
+
+$$CC=\frac{D_c}{D_t}\cdot C$$
+
+donde,
+
+-   $CC$, es el cupón corrido.
+
+-   $D_{c}$, es el tiempo transcurrido desde el pago del último cupón.
+
+-   $D_{t}$, es el tiempo que transcurre entre el pago de dos cupones consecutivos
+
+-   $C$, es el importe del cupón que se paga periódicamente.
+
+Ahora debemos realizar el cálculo para conocer el tiempo (en días) que ha transcurrido desde el pago del último cupón hasta la fecha presente (18/12/2021), y para ello sabemos que la próxima fecha del cupón que se paga periódicamente es el 31/1/2022 (ya que el vencimiento es el 31/1/2025).
+
+Por tanto calculamos su diferencia, sabiendo que desde el 18/12/2021 al 31/1/2022 van 43 días más el día corriente. Es decir 44 días, luego habrán transcurrido un total de 321 días (365-44) desde que se cobrara el último cupón. Lo que implica que el cupón devengado y no cobrado es un rendimiento implícito que acumula este bono a la fecha de su valoración.
+
+Ahora sustituimos en la fórmula y calculamos,
+
+$$CC=\frac{321}{365}\cdot 0.032=0.02814(2.82\%)$$ Luego, el precio efectivo será la suma del precio ex cupón más el cupón corrido,
+
+$$P_{efectivo}=101.275\%+2.814\%=104.089\%$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+39. Un asesor financiero ha obtenido las siguientes rentabilidades por subperiodos en la gestión de una cartera:
+
+| **Plazo:** | **tipos de interés (%):** |
+|:----------:|:-------------------------:|
+|   1 año    |            12             |
+|   2 años   |            10             |
+|   3 años   |            -8             |
+|   4 años   |             2             |
+
+¿Cuál será la rentabilidad geométrica obtenida por el gestor?
+
+a.  6,39%.
+
+b.  3,96%.
+
+c.  3,69%.
+
+d.  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la c**.
+
+La rentabilidad geométrica entre el momento actual y el momento n se define a partir de las rentabilidades de cada uno de los subperiodos en que puede dividirse el periodo global.
+
+$$\left(1+i_{0,1}\right)\cdot\left(1+i_{1,2}\right)\cdot......\cdot\left(1+i_{n-1,n}\right)=\left(1+i_{0,n}^{geometrica}\right)^n$$ Si adaptamos la expresión general a nuestro caso y sustituimos los valores tenemos qué:
+
+$$\left(1+i_{0,4}^{geometrica}\right)^4=\left(1+0.12\right)\cdot\left(1+0.10\right)\cdot\left(1+(-0.08)\right)\cdot\left(1+0.02\right)$$ Despejando $i_{0,4}^{geometrica}$ y calculando obtenemos un resultado de,
+
+$$i_{0,4}^{geometrica}=\left[\left(1+0.12\right)\cdot\left(1+0.10\right)\cdot\left(1+(-0.08)\right)\cdot\left(1+0.02\right)\right]^{1/4}-1=\\=0.03693(3.69\%)$$
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+40. Un seguro de cambio:
+
+```{=html}
+<!-- -->
+```
+a.  Vincula a ambas partes contratantes.
+
+b.  La cámara de compensación que regula en España este tipo de contratos es MEFF
+
+c.  Es una operación de compra o venta de divisas al contado.
+
+d.  Reduce pero no elimina el riesgo de tipo de cambio.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la a**.
+
+Un seguro de cambio es un compromiso mediante el cual el cliente y el banco se obligan mutuamente a intercambiar una cantidad de divisa a un precio fijado en una fecha futura.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+41. El tipo al contado EUR/USD es 1,30 usd por 1 euro y los tipos de interés a vencimiento del forward del USD y del EUR son respectivamente el 3% y el 2%. Indique cuál de las siguientes respuestas NO corresponde con seguridad con la cotización del tipo de cambio forward:
+
+```{=html}
+<!-- -->
+```
+a.  1,2936
+
+b.  1,3064
+
+c.  1,3085
+
+d.  1,3110
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la a**.
+
+Para calcular el tipo de cambio forward planteamos:
+
+$$F_{EUR/USD}=S_{EUR/USD}\frac{1+i_{USD}\cdot n}{1+i_{EUR}\cdot n}$$ Como el tipo de interés del USD (3%) es mayor que el tipo de interés del EUR (2%) el forward será mayor que el spot. Si el spot EURUSD es 1,3000 el forward NO puede ser 1,2936 (a).
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+42. ¿Cómo se realizan las liquidaciones de dinero en el sistema TARGET2?
+
+```{=html}
+<!-- -->
+```
+a.  Base bruta y tiempo real.
+
+b.  Base bruta y tiempo diferido.
+
+c.  Base neta y tiempo real.
+
+d.  Base neta y tiempo diferido.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la a**.
+
+**Las liquidaciones de dinero en el sistema TARGET se llevan a cabo en base bruta y tiempo real**, ya que se liquidan las operaciones una por una (a diferencia de lo que podría ser **la liquidación de operaciones bursátiles donde se agrupan todas las operaciones contratadas en un día y se denomina liquidación en base neta) y se liquidan** de forma inmediata a la negociación de las mismas (a diferencia de lo que sería la liquidación de operaciones bursátiles, que se hacen **con fecha valor D+2**, o lo que es lo mismo, dos días laborables después de su contratación).
+
+**Nota**: Hasta el mes de abril de 2016 que entró en funcionamiento el nuevo sistema de compensación, liquidación y registro de transacciones sobre acciones, la fecha de liquidación de las operaciones en el mercado había sido de tres días hábiles después a la fecha de contratación, D+3, pero **desde el mes de septiembre de 2016 la fecha de liquidación en el mercado se acorta un día y se realizan en D+2**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+43. Los emisores de bonos con mayor riesgo crediticio:
+
+```{=html}
+<!-- -->
+```
+a.  Tienen rating AAA.
+
+b.  El tipo de interés de sus emisiones es menor.
+
+c.  Tienen mayor liquidez.
+
+d.  Ninguna de las anteriores es cierta.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La **respuesta correcta es la d**.
+
+**El rating es la calificación que se otorga a los emisores en función de su calidad crediticia**. El más elevado corresponde, por lo general, a los estados y aquellos organismos a los que el Estado avala sus emisiones. Las grandes compañías, en función de su volumen y buen nombre suelen también recibir calificaciones altas.
+
+**La calificación más bajas, se otorgan a aquellas emisiones de mayor riesgo**, es decir, las efectuadas por emisores a los que se les imputa mayor riesgo de impago. **Se suelen denominar bonos de alta rentabilidad ("high yield"") aquellos que son emitidos por emisores de baja calificación**.
+
+La importancia de estas calificaciones es que a **mayor riesgo** obligan al emisor a efectuar sus emisiones con un **tipo de interés más elevado**, es decir, una **mayor remuneración para el inversor**.
+
+Estos suele medirse en términos de **referencia con los bonos de la Deuda Pública**, de forma que la diferencia respecto de la rentabilidad de los bonos soberanos **se llama prima de riesgo de calidad,** y fluctúa en función de la **percepción** que tengan los **inversores sobre el riesgo** de las emisiones.
+
+De ahí que en épocas de crisis o incertidumbres los inversores acuden en mayor medida a los **bonos públicos**, algo que se suele denominar en el argot financiero como **"flight to quality"**, huida hacia la calidad o hacia un menor riesgo.
+
+Las agencias de rating especializadas de más notoriedad son Moody's, Standard & Poor's y Fitch. Su sistema de clasificación es alfabético con añadidos numéricos. La **máxima calificación** de un bono para Moody's es Aaa, para Standard&Poor's **(S&P) es AAA**. **La calificación CCC ó Caa considera la emisión como muy especulativa, con grave riesgo y fuertes incertidumbres; CC sería la calificación cuando se ha interrumpido el pago del cupón por parte del emisor y DD cuando lleva impagado varios cupones**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+44. Una opción de compra CALL, sobre acciones individuales, con precio de ejercicio a 12 euros, cuando el precio del subyacente es de 10,50 euros se consideraría:
+
+```{=html}
+<!-- -->
+```
+a.  In the money.
+
+b.  At the money.
+
+c.  Out of the money.
+
+d.  No se puede negociar esa opción.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La **respuesta correcta es la c**.
+
+Opción CALL: Como el $PS=10,\ 50<PE=12$ la opción CALL está OTM
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+45. Si el contado Ibex cotiza a 9.487, el tipo de interés sin riesgo es el 2,5% y el Futuro que vence dentro de 6 meses cotiza a 9.590, el Futuro estará:
+
+```{=html}
+<!-- -->
+```
+a.  Sobrevalorado.
+
+b.  Infravalorado.
+
+c.  Estará correctamente valorado.
+
+d.  Ninguna de las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La **respuesta correcta es la b**.
+
+Calculamos primero el valor teórico del Futuro:
+
+$$F=PC\left(1+t\cdot i\right)-d\left(1+t´\cdot i´\right)=9.487\cdot\left(1+\frac{6}{12}\cdot0,025\right)=9.605,58$$
+
+Como el precio del Futuro en el el mercado es de 9.590, es inferior al precio que está cotizando, es decir, está se encuentra infravalorado.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+46. En una estrategia Long/Short:
+
+```{=html}
+<!-- -->
+```
+a.  Al tomar posiciones largas y cortas tiene una Beta neutral.
+
+b.  Compensa las posiciones largas con las cortas de modo que el riesgo asumido se reduce.
+
+c.  Adopta posiciones largas en valores que van a subir y cortas en valores que van a bajar pudiendo asumir riesgo de mercado.
+
+d.  No utilizan apalancamiento.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la c**.
+
+En una **estrategia Long/Short** el fondo toma posiciones largas (compradas) en determinados índices o valores, y posiciones cortas (vendidas) en otros (no los mismos), de forma que el **riesgo neto de exposición al mercado sea menor que con una cartera 100% long o 100% short** (NO confundir con la estrategia Market Neutral donde el riesgo neto de exposición al mercado será prácticamente nulo).
+
+Ojo, la estrategia Long/Short se diferencia de la Market Neutral en que el número de posiciones largas o cortas no tienen que formar un 50% de la cartera cada una, y por ello se dice que dependiendo del mayor porcentaje de unas u otras, el fondo tiene una polarización global alcista o bajista.
+
+**La finalidad del fondo cuando implementa una estrategia Long/Short es generar rentabilidad a partir de la apuesta por estar largo en unos valores (supuestamente con potencial alcista), al mismo tiempo que corto en otros valores (supuestamente con potencial bajista), y poder así aprovecharse de los movimientos del mercado en ambas direcciones, junto con el efecto de minimización del riesgo de mercado por el hecho de incluir ambas posibilidades en una misma cartera de valores**.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+47. Indique qué afirmación es cierta sobre los tipos de órdenes en el SIBE:
+
+```{=html}
+<!-- -->
+```
+a.  Las órdenes limitadas, de mercado y por lo mejor pueden ser de volumen oculto.
+
+b.  Las órdenes con condiciones de ejecución solo se pueden introducir en periodos de mercado abierto.
+
+c.  Una orden de Volumen mínimo puede ser también de Volumen oculto.
+
+d.  Todas las anteriores.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+
+Condiciones de ejecución de las órdenes
+
+Los tres tipos de órdenes (limitadas, de mercado y por lo mejor), pueden estar sujetas a las siguientes condiciones de ejecución, aunque están pensadas más para los inversores profesionales que para los minoristas:
+
+-   Volumen mínimo: en el momento de entrar al mercado se debe ejecutar una cantidad mínima especificada. Si no se ejecuta esa cantidad, el sistema la rechaza.
+
+-   Todo o nada: Se ejecutan en su totalidad o se rechazan. Es un tipo especial de orden con volumen mínimo, donde el mínimo es la totalidad de las acciones.
+
+-   Ejecutar o anular: Se ejecutan automáticamente para la que exista contrapartida en el momento de la introducción, y la parte no ejecutada se elimina del sistema.
+
+Estas condiciones son de ejecución instantánea, por lo que no se pueden introducir en las subastas, sino **sólo en mercado abierto**.
+
+-   Volumen oculto: **En las ordenes limitadas, de mercado y por lo mejor (tengan o no alguna de las condiciones de ejecución volumen mínimo, todo o nada, ejecutar o anular) puede añadirse esta condición**. Se introducen mostrando al sistema sólo una parte del volumen a negociar. Una vez ejecutada esta parte, el resto va saliendo al mercado en paquetes de igual volumen que el primero. Esta posibilidad es especialmente interesante para las órdenes de gran tamaño, porque así no se aprecia el interés en comprar o vender una gran cantidad y se evitan movimientos adversos contra el valor.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+48. A fin de identificar el perfil financiero del inversor es necesario definir su propensión al riesgo. ¿Qué se entiende con tal expresión?
+
+```{=html}
+<!-- -->
+```
+a.  El periodo de tiempo durante el cual el cliente está dispuesto a inmovilizar su inversión con el objetivo de conseguir una determinada rentabilidad esperada.
+
+b.  La expectativa de rendimiento basada en el principio de que no es posible maximizar el rendimiento y, al mismo tiempo, minimizar el riesgo.
+
+c.  La capacidad psicológica y financiera de soportar pérdidas en las inversiones realizadas.
+
+d.  Es una medida de la cultura financiera del cliente. A mayor conocimientos, mayor propensión al riesgo.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+Por definición la **propensión al riesgo es "la capacidad psicológica y financiera de soportar pérdidas en las inversiones realizadas"**.
+
+La respuesta a) es incorrecta, ya que alude al horizonte temporal y no a la propensión al riesgo del inversor. La respuesta b) tampoco es correcta, ya que nos habla del binomio rentabilidad-riesgo y no del perfil financiero del inversor. La reaspuesta d), aunque cita textualmente el perfil financiero del inversor, no es correcta porque no necesariamente a mayores conocimientos, mayor propensión al riesgo. Un inversor podría ser perfectamente averso al riesgo y tener una enormne cultura financiera.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+49. En relación al leasing financiero, indique cual de las siguientes afirmaciones es correcta:
+
+```{=html}
+<!-- -->
+```
+a.  La propiedad del bien corresponde en todo momento al arrendatario.
+
+b.  Hasta que se ejecuta la opción de compra, la propiedad del bien corresponde a la entidad arrendadora.
+
+c.  El mantenimiento del bien corre a cargo de la compañía de leasing.
+
+d.  Ninguna de las respuestas es correcta.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la b**.
+
+El leasing es un contrato de arrendamiento financiero, con opción de compra obligatoria a ejercitar a decisión del arrendatario que se utiliza para la puesta a disposición de inmovilizado dentro de empresas y particulares. Este tipo de contrato se caracteriza por la obligatoriedad de dicha opción sobre el bien puesto a disposición y, porque la propiedad del bien corresponde a la entidad arrendadora hasta que el arrendatario ejecuta la opción de compra.
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+50. ¿Cuál de los siguientes aspectos se incluye en la gestión de la insolvencia de un particular?:
+
+|                                                                                |
+|:-----------------------------------------------------------------------|
+| I: Clasificar el grado de cumplimiento de la devolución del crédito concedido. |
+| II: Diseñar el mejor modo de negociar entre el cliente y la entidad.           |
+| III: Seguir el proceso de impago y sus vicisitudes.                            |
+
+a.  Solamente la I.
+
+b.  Solamente la II.
+
+c.  La I y II
+
+d.  I, II y III.
+
+<details>
+
+<summary>
+
+</summary>
+
+::: FOO
+La respuesta **correcta es la d**.
+
+1.  Las operaciones de préstamo se **clasifican en función del riesgo de insolvencia** imputable al cliente o a la operación en alguna de las siguientes categorías:
+
+-   Riesgo normal
+
+-   Riesgo subestandar
+
+-   Riesgo dudoso por razón de la morosidad del cliente
+
+-   Riesgo dudoso por razones distintas de la morosidad del cliente
+
+-   Riesgo fallido
+
+2.  Cuando las operaciones de préstamo presenten situaciones que pongan en peligro su desarrollo natural conforma a las condiciones inicialmente pactadas entre el cliente y la entidad se deberán **utilizar mecanismos de gestión de riesgo de crédito con el objetivo de regularizar dicha situación**. Entre los instrumentos disponibles los más importantes son;
+
+-   La refinanciación
+
+-   La reestructuración
+
+-   La renovación o la renegociación de la operación
+
+3.  El tratamiento del proceso de impago debe tratarse de forma diferenciada dependiendo del tipo de problema de cobro y de la fase en que se encuentra el mismo. Desde un punto de vista general se pueden establecer **cinco fases en el proceso de impago**:
+
+-   Incidencias en el cobro
+
+-   Impagado
+
+-   Crédito moroso
+
+-   Crédito litigioso
+
+-   Fallido
+:::
+
+</details>
+
+------------------------------------------------------------------------
+
+
+
+## Examen septiembre
+
+
+
+
+1. Las provisiones técnicas tienen como principal función:
+
+a) Autoasegurar a la compañías de seguro.
+
+
+b) Garantizar el cumplimiento de los compromisos de las compañías
+de seguro.
+
+
+c) Cubrir el impago de las primas por parte de los asegurados.
+
+
+d) Calcular el beneficio de las aseguradoras.
+
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la b**.
+
+Las provisiones técnicas tienen como principal función garantizar el cumplimiento de los compromisos de las compañías de seguro.
+
+</div></details>
+
+
+***
+
+
+
+2. “El coeficiente de alfa de Jensen es un índice de performance en términos de
+riesgo, que se obtiene utilizando el indicador de máxima caída como parámetro
+del grado de riesgo”. Tal afirmación es:
+
+
+a) Correcta, pues coincide con la definición de alfa de Jensen.
+
+
+b) Falsa, pues como medida de riesgo se utiliza el tracking error.
+
+
+c) Falsa, pues la corrección del riesgo se efectúa utilizando la desviación
+típica.
+
+
+d) Falsa, pues la alfa de Jensen no es un indicador de riesgo.
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la d**.
+
+El alfa de Jensen es un parámetro de rentabilidad y no de riesgo.
+
+</div></details>
+
+
+***
+
+3. Determinar la variación aproximada del precio de un bono de cupones fijos que
+cotiza a la par, inducida por un aumento de medio punto porcentual en el nivel
+de los tipos de interés, teniendo en cuenta que dicho bono tiene una duración
+corregida igual a 3:
+
+
+a) -1,50%
+
+
+b) -15%
+
+
+c) +1,5%
+
+
+d) +15%
+
+
+
+<details><summary></summary><div class="FOO">
+
+
+La respuesta **correcta es la a**.
+
+
+$$\frac{\Delta P}{P}=-D_c\cdot\Delta TIR=-3\cdot0.005=-0.015\left(-1.5\%\right)$$
+
+</div></details>
+
+
+***
+
+
+
+
+4.En la valoración de un fondo de inversión, ¿cuál de los siguientes aspectos NO
+se tiene en cuenta?
+
+
+a) Los gastos de auditoría que se vayan a ocasionar en el ejercicio.
+
+b) La comisión de gestión.
+
+c) El precio de adquisición de los activos de renta variable.
+
+d) El valor de mercado de los activos.
+
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la c**.
+
+En la valoración de un fondo de inversión no se tiene en cuenta el precio de adquisición de los activos de renta variable. Ya que estos cambian, por lo general, cada instante y se tendrá en cuenta su valor de mercado.
+
+</div></details>
+
+
+***
+
+
+5. Dentro del ciclo de vida de los inversores, aquellos que se encuentran en la
+fase de protección se caracterizan por:
+
+|                                                                                   |
+|:-----------------------------------------------------------------------------------------|
+|I.  Tener un horizonte temporal más corto.|
+|II.  La necesidad de protegerse contra la inflación es más importante que en otras fases.|
+|III.  La optimización fiscal es el aspecto de mayor importancia.|
+
+
+
+
+a) I.
+
+b) I y II.
+
+c) I, II y III.
+
+d) I y III.
+
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la b**.
+
+Dentro del ciclo de vida de los inversores, aquellos que se encuentran en la
+fase de protección se caracterizan por la necesidad de protegerse contra la inflación , ya que tienen su horizonte temporal suele ser más corto.
+
+
+
+</div></details>
+
+
+***
+
+
+6. En el mercado de derivados, la cámara de compensación NO le exige la aportación de un depósito en garantía a un:
+
+a) Comprador de opciones.
+
+b) Comprador de futuros.
+
+c) Vendedor de opciones.
+
+d) Ninguna de las anteriores. 
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la a**.
+
+La garantía es el depósito que la Cámara de Compensación calcula y **exige** en función de las obligaciones potenciales que se desprenden de **operaciones de venta de opciones, nunca de compra**. La razón de la garantía es evitar riesgos en caso de incumplimiento por quienes tienen obligaciones, es decir, por aquéllos que mantienen posiciones vendidas.
+
+Para el caso de los futuros, la Cámara exige garantías **siempre, tanto a compradores como a vendedores**.
+
+</div></details>
+
+
+***
+
+
+
+7. Una acción presenta las siguientes rentabilidades anuales durante los últimos
+cuatro años: 4%, 0%, -8%, 16%. ¿Cuál es la desviación estándar anual para
+esta acción?:
+
+
+
+a) 7,5%
+
+b) 8,7%
+
+c) 3,0%
+
+d) Ninguna de las anteriores.
+
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la b**.
+
+Calculamos la media:
+
+$$\overline { x } =\frac { 1 }{ n } \sum _{ i=1 }^{ n }{ x_{ i } } \\\overline { x }=\frac { \sum _{ i=1 }^{ n }{ x_{ i } } }{ n }=\frac { 0.04+0+(-0.08)+0.16 }{ 4 }=0.03$$
+
+Calculamos la varianza,
+
+
+$$\sigma^2=\frac { \sum _{ i=1 }^{ n }{ ({ x }_{ i }-\overline { x } } )^{ 2 } }{ n }\\\sigma^2=\frac { (0.04-0.03)^2+(0.1-0.03)^2+(0-0.03)^2+(-0.16-0,03)^2 }{4}=0.075$$
+Calculamos la desviación típica (volatilidad), que es la raíz cuadrada de la varianza.
+
+
+$$\sigma =\sqrt { \frac { \sum _{ i=1 }^{ n }{ ({ x }_{ i }-\overline { x } )^{ 2 } } }{ n } } =\sqrt { { \sigma }^{ 2 } } =\sqrt { 0.0075 }=0.0866(8.66\%)$$
+Con la calculadora Casio FC-200V:
+
+1. Función "STAT" (pulsamos sobre ella)
+
+2. 1-var:EXE (pulsamos sobre la tecla "EXE")
+
+3. Introducimos las rentabilidades anuales en % en el editor de flujos (bajo la columna "x"):
+
++ 1 = 4% + "EXE"
+
++ 2 = 0% + "EXE"
+
++ 3 = -8% + "EXE"
+
++ 4 = 16% + "EXE"
+
++ 5 = simplemente dejamos el cursor sobre esta casilla para más tarde obtener en ella el resultado
+
+4. "SHIFT" + "S-MENU" (pulsamos primero "SHIFT" y luego "S-MENU", por este orden)
+
+5. 5:VAR + 5 (pulsamos el número 5 en el teclado numérico)
+
+6. 3:x$\sigma$n + 3 + "EXE" (pulsamos el número 3 en el teclado numérico y la tecla "EXE" a continuación)
+
+Nos muestra el resultado (desviación típica poblacional -volatilidad) en la casilla 5 del editor $8.6602$ expresado en porcentaje (%).
+
+</div></details>
+
+
+***
+
+
+
+8.Si en el mercado nos encontramos los siguiente tipos de cambio:
+
+|**Tipos**|
+|:---------------------------:|
+|EUR/USD 1,4649|
+|CHF/USD 0,9077|
+
+
+
+a) EUR/CHF 1,3297
+
+b) EUR/CHF 0,6196
+
+c) EUR/CHF 1,6139
+
+d) Ninguna de las anteriores.
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la c**.
+
+
+$$EUR/CHF=EUR/USD\cdot USD/CHF=1.4694\cdot (\frac{1 }{0.9077 })=1.61386$$
+
+</div></details>
+
+
+***
+
+
+9. La liquidez de un activo financiero hace referencia a:
+
+a) La posibilidad de obtener el 100% de su nominal antes de vencimiento.
+
+b) La posibilidad de convertirlo en efectivo, sin una merma significativa
+de su valor.
+
+c) La posibilidad de comprarlo o venderlo en un mercado organizado, por esta
+razón, todos los activos que cotizan en mercados organizados son muy
+líquidos.
+
+d) Ninguna de las anteriores.
+
+<details><summary></summary><div class="FOO">
+
+
+La respuesta **correcta es la b**.
+
+La liquidez de un activo financiero hace referencia a la posibilidad de convertirlo en efectivo, sin una merma significativa de su valor.
+
+
+</div></details>
+
+
+***
+
+
+
+
+
+
+10. Una función de la CNMV como regulador del mercado bursátil es:
+
+
+a) Controlar la admisión, supervisión y exclusión de los valores
+cotizados.
+
+b) Llevar el registro contable de los valores representados por anotaciones en
+cuenta admitidos a cotización.
+
+c) La gestión y dirección del SIBE (Sistema de Interconexión Bursátil
+Español).
+
+d)  Todas las anteriores.
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la a**.
+
+Una de las funciones de la CNMV como regulador del mercado bursátil es controlar la admisión, supervisión y, en su caso, la exclusión de los valores cotizados.
+
+
+</div></details>
+
+
+***
+
+
+11. ¿Cuál es el tipo forward o implícito a tres meses para una inversión dentro de
+seis meses según la información del mercado interbancario que aparece a
+continuación?:
+
+
+|                              |
+|:----------------------------|
+|Tipo a 3 meses 4,75%|
+|Tipo a 6 meses 4,70%|
+|Tipo a 9 meses 4,67%|
+
+
+a) 4,610%
+
+b) 4,367%
+
+c) 4,504%
+
+d) 4,571%
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la c**.
+
+Planteamos la siguiente ecuación:
+
+$$\left(1+S_{0,9}\cdot\frac{9}{12}\right)=\left(1+S_{0,6}\cdot\frac{6}{12}\right)\cdot\left(1+f_{6,9}\cdot\frac{3}{12}\right)$$
+Despejamos el tipo forward a tres meses para una inversión dentro de
+seis meses,
+
+$$f_{6,9}=\left[\frac{(1+S_{0,9}\cdot\frac{9}{12})}{(1+S_{0,6}\cdot\frac{6}{12})}-1\right]\cdot \frac{12}{3}$$
+Sustituimos y calculamos,
+
+$$f_{6,9}=\left[\frac{(1+0.0467\cdot\frac{9}{12})}{(1+0.047\cdot\frac{6}{12})}-1\right]\cdot \frac{12}{3}=0.04504(4.504\%)$$
+
+</div></details>
+
+
+***
+
+
+12. En cuanto a las estrategias de inversión utilizadas por la Instituciones de
+Inversión Colectiva de Inversión Libre (IICIL), ¿cuál de las siguientes
+afirmaciones es una característica de la estrategia Equity Market Neutral?:
+
+a) Busca  rentabilidades  estables  con  baja  volatilidad,
+independientemente del movimiento de los mercados, pues su
+rentabilidad depende de la relación de los precios de los activos entre
+sí.
+
+b) La posición neta entre las posiciones largas (compradas) y cortas
+(vendidas) puede estar, como máximo, entre un -20% y un 20%.
+
+c) Busca encontrar fuertes tendencias en los mercados, opera apalancándose
+para incrementar los beneficios.
+
+d) Es neutral ante el movimiento del mercado, pues sus activos suelen estar
+indexados.
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la a**.
+
+
+Esta estrategia consiste en tomar posición sobre acciones de un mismo sector que está “long”, por lo tanto compra aquellas que tienen el mejor potencial, y “short”, por lo tanto vende aquellas que tienen un menor buen potencial. Una de las dos posiciones será siempre ganadora ya sea que el sector se oriente al alza o a la baja. Así, la dirección del mercado no tiene importancia en este tipo de estrategia. El desempeño se sitúa en el análisis de las perspectivas de un título en relación a otros del mismo sector.
+
+</div></details>
+
+
+***
+
+
+
+
+
+13. Un fondo parcialmente garantizado se ha constituido con los siguientes activos
+invertidos:
+
+
+* Patrimonio inicial del fondo: 240.000.000 euros
+
+
+* Inversión de 191.190.000 euros en bonos cupón cero con vencimiento a 4 años 
+
+* TIR del 4,5%
+
+* Comisiones y gastos imputables al fondo: 15.810.000 euros
+
+* Opciones asiáticas call sobre índice bursátil, cuya prima es igual a 11 euros para un nominal de 100 euros.
+
+
+Elija el tipo de fondo al que se está haciendo referencia en el enunciado de
+esta pregunta.
+
+
+a) 100% de patrimonio garantizado y el 88% de la revalorización media del
+índice.
+
+b) 95% de patrimonio garantizado y el 125% de la revalorización
+media del índice.
+
+c) 100% de patrimonio garantizado y el 125% de la revalorización media
+del índice.
+
+d) 79% de patrimonio garantizado y el 200% de la revalorización media del
+índice.
+
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la b**.
+
+Si capitalizamos el cupón cero a vencimiento (4 años) la garantía es del 95%:
+
+$$P_4=P_0\cdot(1+i)^4=191190000\cdot(1+0.045)^4=227997631.3$$
+
+
+o lo que es lo mismo un 95% sobre 240.000.000,
+
+
+$$\%^s/total=\frac{227997631.3 }{240000000 }=0.9499(95\%)$$
+
+Por otro lado, para calcular el porcentaje de participación en la
+revalorización media (opción call asiática), haremos:
+
+Dinero disponible para la compra de opciones,
+
+
+$$240000000-191190000-15810000=33000000$$ 
+
+El precio de la opción en % será: 11/100 = 11% que aplicado al patrimonio inicial
+del fondo hacen 26.400.000€, que asegurará una participación del 100% sobre
+la revalorización media, pero como tenemos 33 millones, la participación es de
+33/26,4 =125%.
+
+</div></details>
+
+
+***
+
+
+
+14. Si el coeficiente correlación entre dos acciones (que forman un cartera) es
+igual a 1, con pesos del 50% cada una en la cartera, entonces la desviación
+típica de la rentabilidad de la cartera es:
+
+
+
+a) La media aritmética simple de las desviaciones típicas individuales.
+
+
+b) El doble de la media ponderada de las desviaciones típicas individuales.
+
+
+c) La suma ponderada de los cuadrados de las desviaciones típicas
+individuales.
+
+
+d) La semisuma ponderada de los cuadrados de las desviaciones típicas
+individuales.
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la a**.
+
+Para el caso genérico de la cartera de mínimo riesgo, con correlación positiva y perfecta $\rho=+1$ tenemos que,
+
+$$\sigma_p=w_1\cdot\sigma_1+w_2\cdot\sigma_2$$
+
+
+Donde,
+
++ $\sigma_p$, es la  volatilidad (riesgo) de la cartera $p$.
+
++ $w_1$, es la ponderación (o proporción) del activo $1$ dentro de la cartera $p$.
+
++ $\sigma_1$, es la varianza del título $1$.
+
++ $w_2$, es la ponderación (o proporción) del activo $2$ dentro de la cartera $p$.
+
++ $\sigma_2$, es la varianza del título $2$.
+
+Luego, si la correlación es 1 no existirá ninguna
+diversificación, por lo que la varianza de la cartera será, al igual que la
+rentabilidad, **una media ponderada**. Donde, la cartera de mínimo riesgo
+estará formada en su totalidad por el título de menor riesgo.
+
+Pero como nos dicen que las ponderaciones son iguales para los dos activos y del 50%,
+
+$$\sigma_p=\frac{1}{2}\cdot \sigma_1+ \frac{1}{2}\cdot\sigma_2=\frac{\sigma_1+\sigma_2}{2}$$
+En este caso tenemos que la la  volatilidad (riesgo) de la cartera $p$ es la media aritmética simple de las desviaciones típicas individuales.
+
+</div></details>
+
+
+***
+
+15. Una letra del tesoro público español tiene un precio hoy 982,55 € por letra y
+una rentabilidad de 4,35%. En su día fue emitida al plazo de un año.
+Cuantos días faltan para su vencimiento:
+
+
+a) 144.
+
+
+b) 147.
+
+
+c) 145.
+
+
+d) Ninguna de las anteriores.
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la b**.
+
+Partimos de la fórmula del precio de una letra para plazo inferior al año:
+
+$$P_0=\frac{1000}{\left(1+i\cdot\frac{d}{360}\right)}$$
+
+
+donde,  
+
++ $P_0$, es el precio de la letra expresado en euros.
+
++ $i$, es el tipo de interés en tantos por uno.
+
++ $d$, es el número de días que ha mantenido el inversor la letra en su cartera.
+
+
+Al desejar el el tiempo $n$, tenemos:
+
+
+$$n=\left(\frac{1000}{P_0}-1\right)\cdot\left(\cdot\frac{360}{i}\right)$$
+Sustituimos y calculamos,
+
+
+$$n=\left(\frac{1000}{982.55}-1\right)\cdot\left(\frac{360}{0.0435}\right)=146.978$$
+
+</div></details>
+
+
+***
+
+
+
+16. ¿Qué significa el concepto de “High Yield” en una escala de rating de renta
+fija?:
+
+
+a) Que se trata de bonos con un cupón alto, generalmente igual o mayor al
+6%.
+
+
+b) Que son emitidos por empresas que están en procesos de revisión de
+beneficios.
+
+
+c) Que son empresas que garantizan el pago del 100% del capital.
+
+
+d) Que son fondos con probabilidad de impago mayor que los de altos
+grado de inversión o solvencia.
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la d**.
+
+Los bonos de alto rendimiento, denominados «high yield», son activos de renta fija que ofrecen elevadas rentabilidades a los inversores, ya que los emiten empresas y Estados con una baja calificación crediticia (por debajo del grado de inversión).
+
+
+
+</div></details>
+
+
+***
+
+
+
+
+
+
+17. ¿Cuál es el importe de la cuota mensual a pagar al final de cada mes, para un
+préstamo hipotecario otorgado en las siguientes condiciones?:
+
+|                                       |
+|:----------------------------|
+|Importe del préstamo: 245.000,00 euros|
+|Tipo de interés nominal: 4,85%|
+|Plazo de amortización: 30 años|
+|Sistema de amortización Francés|
+
+
+
+a) 1.277,36 €
+
+b) 722,76 €
+
+c) 1.294,18 €
+
+d) 1.292,84 €
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la d**.
+
+
+
+Para calcular la cuota mensual que habrá que pagar al final de cada mes (empleando el sistema de amortización francés) utilizamos la fórmula del valor actual de una renta constante, temporal y postpagable. Que es la siguiente:
+
+
+$$ { V }_{ 0 }= C\cdot \frac { 1-{ (1+i) }^{ - n } }{ i } $$
+
+
+El tipo de interés que nos dan en el enunciado del problema está expresado en nominal anual $j _{(m)}$ y por tanto tendremos que convertirlo en un tipo efectivo mensual $i_m$. Para ello utilizamos la siguiente fórmula:
+
+$$i_m=\frac{j _{(m)}}{m}$$
+
+
+
+
+De donde obtenemos,
+
+
+$$i_{12}=\frac{0.0485}{12}=0.004041667$$
+
+
+
+
+Ahora transformamos el plazo de amortización en mensual, multiplicando el numero de años por los meses que tiene el año,
+
+
+$$n\times m=30\times 12=360$$
+
+
+
+
+Despejamos la cuota $C$, de la fórmula del valor actual,
+
+$$C=\frac { { V }_{ 0 } }{ \left[ \frac { 1-{ (1+i _{12}) }^{ - n\times m } }{ i _{12} }  \right]  } $$
+
+
+
+
+
+
+
+Finalmente sustituimos los valores y calculamos,
+
+
+$$C=\frac { 220000 }{ \left[ \frac { 1-{ (1+0.004041667) }^{ -360 } }{ 0.004041667 }  \right]  } =1292.84 $$
+
+
+</div></details>
+
+
+***
+
+
+
+
+
+
+
+
+18. Valorando el precio de una acción según el modelo de Gordon-Shapiro, ¿cuál
+es el valor intrínseco de la acción, cuando la tasa de rentabilidad exigida es del
+1,5%, el dividendo esperado vale 2 euros y la tasa de crecimiento de los
+dividendos es igual a 0,5%?:
+
+a) 50 euros.
+
+b) 200 euros.
+
+c) 100 euros.
+
+d) 20 euros.
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la b**.
+
+
+Aplicamos el modelo de Gordon-Shapiro,
+
+$$P_0=\frac{d_1}{k-g}$$
+
+
+Donde,
+
++ $P_0$, es el valor teórico de la acción.
+
++ $d_0$, es el dividendo del periodo actual.
+
++ $k$, es la tasa de descuento del mercado.
+
++ $g$, es la tasa de crecimiento de los dividendos.
+
+Sustituimos y calculamos,
+
+$$P_0=\frac{2}{0.015-0.005}=200$$
+
+</div></details>
+
+
+***
+
+
+
+19. ¿Qué rentabilidad se ha obtenido en la siguiente operación de compra de una
+opción call llevada hasta la fecha de vencimiento y liquidada por diferencias?:
+
+|                                                                          |
+|:----------------------------|
+|Prima pagada = 1,35 euros.|
+|Al momento de la compra, la opción estaba ATM|
+|Precio de ejercicio = 18 euros.|
+|Precio del subyacente al momento de la liquidación = 20,35 euros.|
+
+a) 2,35 euros de beneficio, con una rentabilidad del 174%.
+
+
+b) 1,35 euros de beneficio, con una rentabilidad del 100%.
+
+
+c) 1,00 euro de beneficio, con una rentabilidad del 74%.
+
+
+d) 2,35 euros de beneficio, con una rentabilidad del 74%.
+
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la c**.
+
+Para calcular el beneficio neto en euros, hacemos:
+$$Bº(€) = (20.35-18-1.35)=1$$
+
+Para calcular el beneficio neto en rentabilidad:
+
+
+$$R = \frac{1}{1.35} = 0.7707(74.07\%)$$
+
+</div></details>
+
+
+***
+
+
+
+20. Se presentan los siguientes datos sobre las compañías ABC y XYZ:
+
+
+
+
+
+||ABC  |XYZ|
+|:---------------------------|:---------------------------:|:---------------------------:|
+|Precio por acción   |25,78 |38,85|
+|Fondos propios   |315.150.250|208.659.874|
+|Dividendo por acción|1,35 |1,76|
+|Beneficio después de impuestos|47.650.250 |35.698.745|
+|Precio objetivo|34,2|42,2|
+|EBIT |60.587.125|37.845.178|
+||
+
+
+
+
+
+a) Según el criterio del ROE se prefiere ABC ya que tiene mayores
+beneficios después de impuestos.
+
+
+b) Según el criterio de rentabilidad por dividendo se prefiere XYZ pues
+reparte un dividendo más alto.
+
+
+c) A y B son correctas.
+
+
+d) Ninguna de las opciones es correcta.
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la d**.
+
+Si calculamos el ROE para cada empresa, tendríamos para ABC,
+
+$$ROE =\frac{BDI}{FP} =\frac{47650250}{315150250}=15.12\%$$
+
+Para XYZ,
+
+
+$$ROE = \frac{BDI}{FP} =\frac{35698745}{208659874}=17,11\%$$
+
+
+
+En este caso por el criterio del ROE elegiríamos a la empresa XYZ.
+
+Si calculamos la rentabilidad por dividendo (DY) para cada empresa, tendríamos para ABC,
+
+$$DY=\frac{DPA}{PPA}=\frac{1.35}{25.78}=5.24\%  $$
+
+Para XYZ,
+
+$$DY=\frac{DPA}{PPA}=\frac{1.76}{38.75}=4.53\%$$
+En este caso por el criterio del DY elegiríamos a la empresa ABC.
+
+
+</div></details>
+
+
+***
+
+
+
+
+21. Cuando una entidad presta el servicio de gestión discrecional de carteras a un
+cliente, es necesario que previamente realice:
+
+
+a) Test de conveniencia.
+
+b) Test patrimonial.
+
+c) Test de idoneidad.
+
+d) Cualquiera de los test anteriores, a elección de la entidad.
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la c**.
+
+El Test de idoneidad MIFID (Suitability test) es un documento, en forma de cuestionario, que evalúa los objetivos de inversión, la situación financiera  y los conocimientos sobre los mercados financieros del inversor. El test de idoneidad determina el perfil de riesgo del inversor.
+
+El test de idoneidad, se exige para todos los clientes minoristas a los que se les vaya a prestar un servicio de asesoramiento financiero o de gestión discrecional de carteras de inversión.
+
+A través del test de idoneidad, las entidades financieras evalúan a sus clientes sobre:
+
++ Sus objetivos de inversión
+
++ Su situación financiera
+
++ Sus conocimientos y experiencia en los mercados financieros
+
+
+En función de los resultados obtenidos en el test, se le atribuye al cliente un determinado perfil de riesgo.
+
+
+</div></details>
+
+
+***
+
+
+
+
+
+22. ¿Cuál es el dividendo por acción de una determinada empresa, cuya acciones
+cotizan a 60 €, tiene un PER de 15 y su ratio de pay-out es del 50%?:
+
+
+
+
+a) 2 euros.
+
+
+b) 4 euros.
+
+
+c) 8 euros.
+
+
+d) 3,5 euros.
+
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la a**.
+
+
+Mediante el PER obtenemos el b.p.a.
+
+$$PER=\frac{P_{aacion}}{BPA}$$
+Luego,
+
+$$ BPA=\frac{P_{aacion}}{PER}=\frac{60}{15}=4$$
+Ahora ya con la fórmula del pay-out despejamos el dpa:
+
+$$pay\,out=\frac{DPA}{BPA}$$
+Donde,
+
+$$DPA=pay\,out\cdot BPA=0.5\cdot4=2$$
+
+</div></details>
+
+
+***
+
+
+
+
+23. El valor de una opción put:
+
+a) Es independiente de la vida residual.
+
+
+b) Aumenta al disminuir el precio de mercado del activo subyacente.
+
+
+c) Disminuye al aumentar el precio de ejercicio.
+
+
+d) Cambia únicamente en función de la volatilidad.
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la b**.
+
+Una opción put es una opción de venta. Otorga al comprador el derecho (pero no la obligación) de vender en el futuro un activo al vendedor de la opción a un precio determinado previamente.
+
+El dueño o comprador de una opción put se beneficia de la opción si el **activo subyacente baja**, es decir, si cuando llega la fecha de vencimiento de la opción put, el activo (una acción por ejemplo) tiene un precio menor que el precio acordado. En ese caso, el comprador de la opción ejercerá su derecho y venderá el activo al precio acordado y después lo comprará al precio actual de mercado, ganando la diferencia.
+
+</div></details>
+
+
+***
+
+24. Con base al CAPM, si la rentabilidad esperada de una acción es igual al 9% y
+la prima de riesgo del mercado vale 3,5%, ¿cuál de las afirmaciones siguientes
+acerca del riesgo sistemático de la acción es correcta?:
+ 
+
+
+a) La acción presenta un elevado riesgo sistemático.
+
+
+b) La acción presenta un bajo riesgo sistemático.
+
+
+c) La acción presenta un riesgo sistemático igual al riesgo específico de la
+acción.
+
+
+d) La información proporcionada es insuficiente para responder a esta
+pregunta.
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la d**.
+
+Para responder a esta pregunta nos haría falta saber la rentabilidad del activo
+libre de riesgo.
+
+</div></details>
+
+
+***
+
+
+
+
+25. Los bonos cupón cero son bonos que:
+
+
+a) No se hayan sujetos al riesgo de reinversión.
+
+b) Cotizan sobre la par.
+
+c) Se emiten a la par.
+
+d) Son bonos emitidos por el Tesoro Público, principalmente para inversores
+institucionales.
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la a**.
+
+El riesgo de reinversión es el que asume el tenedor de un valor de renta fija, como consecuencia del efecto que pueda tener la evolución de los tipos de interés al volver a invertir los flujos derivados de su inversión. Se produce siempre por los flujos de caja generados, y también por el reembolso del principal o por el precio de mercado del activo, en caso de que el horizonte temporal de la inversión no coincida con la fecha de vencimiento de éste. Las variaciones de los tipos de interés producirán una mayor o menor rentabilidad en la reinversión de los flujos de caja, respecto de la inicialmente prevista; por otro lado, al vencimiento del activo, si es necesario reinvertir el capital, el nivel de los tipos de interés determinará una mayor o menor rentabilidad de la inversión en el último periodo. **En los bonos cupón cero no existe riesgo de reinversión porque se percibe un único flujo al vencimiento**.
+
+Hoy día, **el Tesoro español no emite bonos cupón cero**, aunque sí existe la posibilidad, por parte de algunos participantes en el mercado, de "crear" valores de este tipo mediante la segregación de los distintos flujos de caja de Bonos del Estado. 
+
+</div></details>
+
+
+***
+
+
+26.  Los ETF´s (Exchange Traded Funds) son:
+ 
+
+a) Fondos de fondos.
+
+b) Fondos paraguas.
+
+c) Fondos de inversion libre (Hedge Funds)
+
+d) Fondos índice.
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la d**.
+
+Los fondos cotizados son instituciones de inversión colectiva cuya política de inversión consiste en reproducir un índice. Las participaciones de estos fondos se negocian en las bolsas de valores igual que si se tratara de acciones. La denominación ETF corresponde al término en inglés *exchange traded funds*.
+
+Pueden invertir en fondos cotizados todo tipo de inversores, tanto institucionales como minoristas. Los rendimientos, positivos o negativos, suelen ser similares a los obtenidos por el índice que replican.
+
+Estos fondos, habituales en mercados extranjeros, ya pueden registrarse en España. Los primeros ETF comercializados en nuestro país replican el IBEX 35, el principal índice de referencia de la bolsa española, pero también se podrán encontrar fondos cotizados que utilicen como referencia otros índices nacionales o internacionales, o incluso índices de renta fija.
+
+
+</div></details>
+
+
+***
+
+
+
+
+
+27. En un Unit Linked garantizado, ¿cuál de los siguientes sujetos asume el riesgo,
+al vencimiento, de que la rentabilidad obtenida sea inferior a la rentabilidad
+mínima garantizada?:
+
+
+a) La compañía aseguradora.
+
+b) El contratante.
+
+c) El gestor de los fondos a quien se le confía la gestión del producto.
+
+d) El agente de seguros.
+
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la a**. 
+
+En un seguros unit linked el tomador asume el riesgo de inversión de las mismas, es decir, el resultado de la inversión. Ahora bien, en este caso nos hablan de un Unit Linked garantizado y por tanto a compañía aseguradora es que garantiza la citada rentabilidad
+mínima.
+
+</div></details>
+
+
+***
+
+
+
+
+
+28.En el análisis técnico, para trazar una tendencia alcista:
+ 
+a) Se unen los máximos descendentes.
+
+b) Se unen los mínimos ascendentes.
+
+c) Se unen los máximos ascendentes.
+
+d) Ninguna es correcta.
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la b**.
+
+Las líneas de tendencia alcista son las que unen los sucesivos mínimos ascendentes.
+
+
+</div></details>
+
+
+***
+
+
+
+
+
+
+
+29.  En el caso de una persona física con 45 años, con rendimientos del trabajo, y
+rendimientos provenientes de actividades profesionales, y un patrimonio
+valorado en más de 1.000.000 de euros, podemos optimizar en mayor medida
+la carga impositiva global:
+ 
+a) Aconsejando reducir al máximo la obtención de rendimientos
+provenientes del trabajo o actividades profesionales.
+
+b) Aconsejando una aportación anual al plan de pensiones superior a
+10.000 euros.
+
+c) Aconsejando una amortización anticipada de la hipoteca relativa a su
+vivienda habitual.
+
+d) Aconsejando la percepción masiva de dividendos provenientes de
+la participación en sociedades.
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la d**. 
+
+La percepción de dividendos tributarían como rendimientos del capital
+mobiliario en el IRPF (rentas del ahorrro), mientras que el rendimiento de
+rentas del trabajo y actividades profesionales formarían parte de la base
+imponible general en la a un tipo de gravamen que puede ser superior al de
+las rentas del ahorro.
+
+</div></details>
+
+
+***
+
+
+30. Un gestor tiene una cartera de renta variable nacional altamente diversificada
+con un patrimonio gestionado de 40 millones de euros. Decide cubrirlo con
+futuros sobre el IBEX-35. Determinar el número de contratos a vender,
+suponiendo que el gestor mantiene su posición hasta la fecha de vencimiento:
+
+
+|                                                              |
+|:-------------------------------------------------------------|
+|Valor nominal de la cartera de renta variable 25.000.000 euros|
+|Valor efectivo de la cartera de renta variable 36.000.000 euros|
+|IBEX-35 al contado 15.246,10|
+|Futuro IBEX-35 15.320,00|
+|Beta de la cartera 1,04|
+
+
+a) 235.
+
+b) 244.
+
+c) 246.
+
+d) 35.
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la c**.
+
+Calculamos el ratio de cobertura con la siguiente fórmula:
+
+$$RC=-\frac{Valor\ efectivo\ de\ la\ cartera\cdot\ \beta_{cartera}}{Indice\ al\ contado\cdot multiplicador}$$
+
+$$RC=-\frac{36000000\cdot1.04}{15246.1\cdot10}=-245.57$$
+
+</div></details>
+
+
+***
+
+
+
+
+31. Un triángulo simétrico es…
+
+
+a) Una figura de vuelta
+
+b) Un movimiento lateral.
+
+c) Un aviso de que el movimiento posterior a la ruptura va a ser fuerte.
+
+d) Puede ser una figura de vuelta o de continuación.
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la d**. 
+
+Un triángulo diagonal puede ser una figura de vuelta o continuación. Los precios están en una fase de indefinición en la que, a priori, no puede saberse si se impone la presión de dinero o la presión de papel.
+
+</div></details>
+
+
+***
+
+
+32. Un mercado será tanto más amplio cuanto…
+
+
+a) Mayor sea la cantidad de activos financieros negociados en el.
+
+b) Mayor sea la cantidad de operaciones negociadas en el.
+
+c) Menor sea la volatilidad de sus activos.
+
+d) Menor sea el riesgo que soporta el inversor por negociar sus activos.
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la a**. 
+
+Un mercado será tanto más amplio cuanto mayor sea la cantidad de activos, y más profundo cuantas más órdenes de compra- venta se produzcan.
+
+
+</div></details>
+
+
+***
+
+33. Al analizar contabilidad de una compañía, planteamos recelos sobre su endeudamiento. Con una Caja de 100, Capital 50, Clientes 300, Reservas 100, Existencias 250, Deudas a largo 350, Inmovilizado 150, Proveedores 300, Total activo 800, Total pasivo 800. ¿Cuál es su ratio de endeudamiento?:
+
+
+a) 0,1428
+
+b) 4,33
+
+c) 0,4285
+
+d) Ninguna respuesta anterior es correcta.
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la b**. 
+
+e = Deuda/Fondos Propios = (Deudas L/P + Proveedores)/(Capital + Reservas) = 650/150 = 4,33
+
+</div></details>
+
+
+***
+
+
+
+
+
+
+34. Consideremos un contrato de futuro a 10 meses sobre una acción cuyo precio actual es de 50 €. Supongamos que el tipo de interés de mercado libre de riesgo a 1 año es de 2,5%. También se espera que la acción pague un dividendo de 0,75 € 3 veces al año, dentro de 3, 6 y 9 meses. ¿Cuál es el valor del futuro?:
+
+
+a) 48,77.
+
+b) 49,5.
+
+c) 50,28.
+
+d) Ninguna es correcta.
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la a**.
+
+Primero calculamos D que es el valor presente, al tipo de interés libre de riesgo, del ingreso a recibir a lo largo de la vida del contrato. 
+
+$$D=\frac{Div}{\left(1+\left(i\cdot\frac{T}{base}\right)\right)}$$
+Que al sustituir y calcular,
+
+$$D=\frac{0.75}{\left(1+\left(0.025\cdot\frac{3}{12}\right)\right)}+\frac{0.75}{\left(1+\left(0.025\cdot\frac{6}{12}\right)\right)}+\frac{0.75}{\left(1+\left(0.025\cdot\frac{9}{12}\right)\right)}=2.22$$
+
+Y, el valor del Futuro será
+
+
+
+$$V_{futuro}=\left(50-2.22\right)\cdot\left(1+\left(0.025\cdot\frac{\cdot10}{12}\right)\right)=48.775$$
+
+</div></details>
+
+
+***
+
+
+
+35. De las siguientes parejas de factores, ¿cuál es la que más influye en la confección de un fondo de inversión garantizado?:
+
+
+a) La volatilidad y el banco que aporta la garantía.
+
+b) El subyacente y la volatilidad del mismo.
+
+c) La volatilidad y los tipos de interés.
+
+d) Los tipos de interés y el vencimiento del producto.
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la c**.
+
+Tipos de interés elevados, nos permitirán destinar un mayor importe al derivado. Al mismo tiempo, una volatilidad baja nos permitiría pagar primas más baratas.
+
+</div></details>
+
+
+***
+
+
+
+
+
+
+
+36. En un determinado Fondo Garantizado de Renta Variable ¿Qué puede hacer que disminuya su valor liquidativo?:
+
+
+a) Un incremento de la volatilidad y una disminución de los tipos de interés.
+
+b) Una disminución del valor del subyacente.
+
+c) Una disminución de la volatilidad y un incremento de los tipos de interés.
+
+d) Un aumento  en las primas  de las opciones.
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la c**.
+
+Un fondo garantizado se construye con la combinación de renta fija y compra de opciones CALL. Si se reduce la volatilidad, la prima de las opciones perderán valor (relación directa) y si se incrementan los tipos de interés la renta fija verá reducido su precio en el mercado (relación inversa).
+
+</div></details>
+
+
+***
+
+
+
+
+
+37. Si las rentabilidades anuales de un fondo para tres períodos temporales consecutivos han sido: 40%, 10% ,-2%. Su desviación estándar será:
+
+
+a) 17,66%.
+
+b) 3,90%.
+
+c) 16,00%.
+
+d) No se puede calcular.
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la a**.
+
+Calculamos la media:
+
+$$\overline { x } =\frac { 1 }{ n } \sum _{ i=1 }^{ n }{ x_{ i } } =\frac { \sum _{ i=1 }^{ n }{ x_{ i } } }{ n }=\frac { 0.4+0.10+(-0.02)}{ 3 }=0.16$$
+
+
+Calculamos la varianza,
+
+
+$$\sigma^2=\frac { \sum _{ i=1 }^{ n }{ ({ x }_{ i }-\overline { x } } )^{ 2 } }{ n }=\frac { (0.4-0.16)^2+(0.1-0.16)^2+(-0.02-0.16)^2}{3}=0.0312$$
+
+
+Calculamos la desviación típica (volatilidad), que es la raíz cuadrada de la varianza.
+
+
+$$\sigma =\sqrt { \frac { \sum _{ i=1 }^{ n }{ ({ x }_{ i }-\overline { x } )^{ 2 } } }{ n } } =\sqrt { { \sigma }^{ 2 } } =\sqrt { 0.00312 }=0.1766(17.66\%)$$
+
+
+Con la calculadora Casio FC-200V:
+
+1. Función "STAT" (pulsamos sobre ella)
+
+2. 1-var:EXE (pulsamos sobre la tecla "EXE")
+
+3. Introducimos las rentabilidades anuales en % en el editor de flujos (bajo la columna "x"):
+
++ 1 = 40% + "EXE"
+
++ 2 = 10% + "EXE"
+
++ 3 = -2% + "EXE"
+
++ 4 = simplemente dejamos el cursor sobre esta casilla para más tarde obtener en ella el resultado
+
+4. "SHIFT" + "S-MENU" (pulsamos primero "SHIFT" y luego "S-MENU", por este orden)
+
+5. 5:VAR + 5 (pulsamos el número 5 en el teclado numérico)
+
+6. 3:x$\sigma$n + 3 + "EXE" (pulsamos el número 3 en el teclado numérico y la tecla "EXE" a continuación)
+
+Nos muestra el resultado (desviación típica poblacional -volatilidad) en la casilla 4 del editor $17.6635$ expresado en porcentaje (%).
+
+</div></details>
+
+
+***
+
+
+38. ¿Cuál ha sido la rentabilidad efectiva de la siguiente operación si suponemos
+que el inversor reinvierte los cupones anuales, según las condiciones
+siguientes?:
+
+|**Bono**|
+|:----------------------------|
+|Compra del bono en fecha: 15-5-2009|
+|Vencimiento: 15-5-2013|
+|Cupón anual: 3,75%|
+|Valor nominal: 1.000 euros|
+|TIR de adquisición: 4,380%|
+|Precio de compra del bono: 97,733%|
+
+
+|**Tipos de interés a 1 año**|
+|:----------------------------|
+|15-5-2010: 4,55%|
+|15-5-2011: 4,67%|
+|15-5-2012: 4,75%|
+
+a) 4,397%.
+
+b) 4,425%.
+
+c) 4,356%.
+
+d) 3,750%.
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la a**.
+
+En este caso TIR Y TRE no coinciden. Hay que calcular el valor futuro de los cupones según la estructura temporal de los tipos de interés para cada periodo.
+
++ Primer cupón cobrado y reinversión:
+
+$$C_1=3.75\cdot1.0455\cdot1.0467\cdot1.0475=4.298645$$
++ Segundo cupón cobrado y reinversión:
+
+$$C_2=3.75\cdot1.0467\cdot1.0475=4.111568$$
+
++ Tercer cupón cobrado y reinversión:
+
+$$C_3=3.75\cdot1.0475=3.928125$$
++ Principal y último cupón cobrado:
+
+$$C_4=100+3.75$$
+Sumamos los flujos totales que serán nuestro valor final $V_f$,
+
+$$V_f=C_1+C_2+C_3+C_4=4.298645+4.111568+3.928125+103.75=116.088338$$
+Ahora planteamos la TRE,
+
+
+$$V_f=V_0\cdot\left(1+TRE\right)^n$$
+Que al despejar tenemos,
+
+$$TRE=\left(\frac{V_f}{V_0}\right)^{\frac{1}{n}}-1$$
+Sustituimos y calculamos,
+
+$$TRE=\left(\frac{116.088338}{97.733}\right)^{\frac{1}{4}}-1=0.043967(4.39\%)$$
+
+</div></details>
+
+
+***
+
+
+
+39. Una empresa descuenta una factura comercial de nominal 38.000 euros y
+vencimiento a 72 días aplicando un descuento comercial del 9%. La cuantía
+efectiva que percibirá la empresa en el momento del descuento será:
+
+a) 37.316,00 €
+
+b) 37.325,37 €
+
+c) 37.328,09 €
+
+d) 37.315,44 €
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la a**.
+
+Planteamos la fórmula del descuento simple comercial,
+
+$$V_0=V_f\cdot (1-d\cdot \frac{Act.}{360})$$
+
+Sustituimos y calculamos,
+
+$$V_0=38000\cdot (1-0.09\cdot \frac{72}{360})=37316$$
+
+</div></details>
+
+
+***
+
+
+
+
+
+40. Al final del año, un determinado fondo ha obtenido una rentabilidad del 10%, con una volatilidad del 7% y presenta un coeficiente de correlación con el mercado de 0,85. Si la rentabilidad del activo libre de riesgo es del 2% y la volatilidad del
+mercado es del 8% ¿Cuál sería el ratio de Treynor del Fondo?:
+
+
+a) 1,3445
+
+b) 0,0941
+
+c) 0,1076
+
+d) Ninguna de las anteriores.
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la c**.
+
+
+$$T=\frac{E_i-R_f}{\beta_i}=\frac{0.10-0.02}{0.74375}=0.10756303$$
+
+$$\beta_i=\frac{\sigma_{i,m}}{\sigma_m^2}=\frac{0.00476}{0.0064}=0.74375$$
+
+
+
+
+$$\rho_{i,m}=\frac{\sigma_{i,m}}{\sigma_i\cdot\sigma_m}\rightarrow\sigma_{i,m}=\rho_{i,m}\cdot\sigma_i\cdot\sigma_m=0.85\cdot0.07\cdot0.08=0.00476$$
+
+</div></details>
+
+
+***
+
+
+
+
+41. ¿Qué es el Asset Allocation?:
+
+
+a) Realización de análisis fundamental macro y micro.
+
+b) Confección de “benchmarks” adecuados a la cartera de inversión.
+
+c) Definición de una distribución del patrimonio entre grandes clases de activos.
+
+d) Ejecución de una cartera modelo.
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la c**.
+
+Entendemos por asset allocation (localización de activos en español) la estrategia por la que un inversor decide cómo distribuir sus inversiones entre las diferentes clases de activos que existen.
+
+
+</div></details>
+
+
+***
+
+
+
+
+
+
+
+42. La pensión de viudedad que percibe una persona por el fallecimiento de su cónyuge:
+
+a) Es Rendimiento del trabajo para el viudo/a en su IRPF.
+
+b) Es, en todo caso, renta exenta del IRPF.
+
+c) Es objeto de gravamen en ISD exclusivamente.
+
+d) Tributa en IRPF cuando el régimen matrimonial era el de gananciales.
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la a**.
+
+En principio están exentas de tributación la mayoría de las pensiones denominadas de muerte y superviviencia (auxilio por defunción, orfandad y a favor de familiares respecto a los beneficiarios menores de 22 años o incapacitados). Tampoco tributan las pensiones de viudedad que tienen su origen en actos terroristas, ni las pensiones de incapacidad permanente o gran invalidez.
+
+**Sin embargo sí están sujetas al IRPF las rentas que se perciben por pensión de viudedad, que no que tengan su origen en actos terroristas, considerándose estas como un Rendimiento del trabajo**
+
+</div></details>
+
+
+***
+
+
+43.  ¿Cuál será el Earning Yield Gap de un mercado que cotiza con un PER medio de 10, si la TIR de la deuda a 10 años es del 3%?
+
+
+a) 0.072
+
+
+b) 0.027
+
+
+c) 0.08
+
+
+d) 0.07
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la d**.
+
+
+$$EYG=\frac{1}{PER}-TIR=\frac{1}{10}-0.03=0.07$$
+
+
+
+
+</div></details>
+
+
+***
+
+
+
+
+
+
+
+
+44.  Un importador formaliza una compra de EEUU por importe de 100 dólares.
+
+
+a) Le perjudica que el dólar se deprecie respecto al euro.
+
+b) Le beneficia que el dólar se aprecie respecto al euro.
+
+c) Le perjudica que el euro se deprecie respecto al dólar.
+
+d) Las respuestas a) y b) son correctas.
+
+
+<details><summary></summary><div class="FOO">
+
+
+La respuesta **correcta es la c**.
+
+</div></details>
+
+
+***
+
+
+45. El beta de una acción es de 1,3. Si la rentabilidad del activo libre de riesgo es del 5% y la rentabilidad del mercado es del 15% cuál es la rentabilidad esperada del activo según la SML?:
+
+
+a) 15%.
+
+b) 18%.
+
+c) 9%.
+
+d) 11%.
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la B**.
+
+Planteamos la ecuación del SML:
+
+$$E_i=R_f+\left(E_m-R_f\right)\cdot\beta_i$$
+Sustituimos y calculamos,
+
+$$E_i=0.05+\left(0.15-0.05\right)\cdot 1.3=0.18(18\%)$$
+
+</div></details>
+
+
+***
+
+
+45. El beta de una acción es de 1,3. Si la rentabilidad del activo libre de riesgo es del 5% y la rentabilidad del mercado es del 15% cuál es la rentabilidad esperada del activo según la SML?:
+
+
+a) 15%.
+
+b) 18%.
+
+c) 9%.
+
+d) 11%.
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la B**.
+
+Planteamos la ecuación del SML:
+
+$$E_i=R_f+\left(E_m-R_f\right)\cdot\beta_i$$
+Sustituimos y calculamos,
+
+$$E_i=0.05+\left(0.15-0.05\right)\cdot 1.3=0.18(18\%)$$
+
+</div></details>
+
+
+***
+
+
+
+46. La transmisión de una letra del Tesoro genera en IRPF:
+
+
+a) Una ganancia o pérdida patrimonial.
+
+
+b) Un rendimiento del capital mobiliario siempre positivo.
+
+
+c) Un rendimiento del capital mobiliario siempre exento.
+
+
+d) Un rendimiento del capital mobiliario que puede ser positivo, cero o negativo.
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la d**.
+
+
+Las letras del Tesoro son activos financieros emitidos al descuento o de rendimiento implícito por lo que la diferencia entre el importe obtenido en la venta o amortización de la letra y el pagado en su compra tiene la consideración de rendimiento de capital mobiliario sujeto, en consecuencia, al IRPF.
+
+
+En el ejercicio 2016, el rendimiento generado entre el importe de compra y el de venta o amortización de las Letras del Tesoro, cualquiera que sea su plazo, se gravará al tipo del 19% hasta los 6.000 €, el tramo de la base liquidable entre 6.000 € y los 44.000 € tributa al 21% y el tramo que excede de 50.000 € tributa al 23%.
+
+
+No existe retención a cuenta sobre dicho rendimiento, cualquiera que sea el perceptor del mismo.
+
+
+</div></details>
+
+
+***
+
+
+47. En los mercados financieros:
+
+
+a) Los intermediarios financieros emiten títulos directos.
+
+
+b) Los dealers compran activos financieros y los revenden sin transformarlos.
+
+
+c) Los brokers obtienen su beneficio de la diferencia entre el precio de compra y el precio de venta.
+
+
+d) Ninguna de las afirmaciones es cierta.
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la b**.
+
+Los dealers son mediadores que compran y venden activos financieros por cuenta propia **sin transformarlos**, asumiendo cualquier riesgo en su movimiento.
+
+</div></details>
+
+
+***
+
+
+
+
+48. Hace dos años un cliente suyo realizó una inversión en acciones por valor de 10.000 euros. El primer año obtuvo 954 euros en concepto de dividendos, y amplió la inversión por valor de 2.000 euros. Al finalizar el segundo año, vendió las acciones por
+14.200 euros. ¿Cuál ha sido la TIR anual de la inversión?:
+
+
+a) 21%.
+
+b) 9.167%.
+
+c) 24.029%.
+
+d) 14.049%.
+
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la d**.
+
+La Tasa Interna de Rentabilidad (TIR) es el tipo de interés que iguala, en cualquier proyecto de inversión, el flujo de salida o inversión inicial con el valor actualizado de todos los flujos de entrada y salida que se van produciendo hasta el final de la vida de la inversión. La TIR supone que los flujos intermedios se reinvierten a la misma TIR, lo cual representa una limitación.
+
+$$\sum valor\,flujos\,recibidos=\sum valor\,flujos\,entregados$$
+
+Por tanto, para nuestro caso la equivalencia financiera quedaría de la siguiente manera:
+
+$$10000=\frac{\left(+954-2000\right)}{\left(1+TIR\right)}+\frac{14200}{\left(1+TIR\right)^2}=>TIR=0.14049(14.049\%)$$
+
+Nota: para resolver este ejercicio hemos utilizado la calculadora la Casio FC200V.
+
+Con la calculadora financiera Casio FC200V, se calcularía de la siguiente forma:
+
+* Función: "CASH"
+
+* I% = 0 + EXE
+
+* Csh = "D.Editor x" + EXE
+
+   * X1= -10000
+
+   * X2= +954-2000
+
+   * X3= +14200 +"ESC"
+
+* IRR: "Solve" + SOLVE (pulsamos la tecla "solve", situandonos con el cursor sobre "IRR")
+
+
+Resultado:
+
+
++ **IRR = 14.04846 (que será la TIR en porcentaje)**
+
+</div></details>
+
+
+***
+
+
+49.  Si un gestor de un FIM de renta fija tiene expectativas de una disminución en el tipo de interés ¿qué estrategia implementaría?:
+
+a) Aumentar la duración del fondo.
+
+
+b) Disminuir la duración del fondo.
+
+
+c) Igualar la duración con el horizonte temporal, es decir, inmunizar la cartera.
+
+
+d) Vender contratos de futuros como cobertura más eficiente.
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la a**.
+
+Fondos de Inversión Mobiliaria (FIM): Son fondos cuyo objeto exclusivo es la compra, tenencia, disfrute y venta de valores y otros activos financieros. Los FIM invierten más del 90% de su activo en valores cotizados en mercados de valores: deuda pública, renta fija privada, acciones e instrumentos derivados. El plazo y porcentaje invertido en estos activos dependen de la política de inversión del fondo. A su vez se pueden clasificar en fondos de renta variable, de renta fija y mixtos, admitiéndose dentro de los mismos otras posibilidades. También existen fondos garantizados que suelen exigir una inversión mínima y la garantía no suele ser por periodo indefinido.
+
+
+Recuerde la relación inversa existente entre los tipos de interés y el precio de los bonos.Y, recuerde también, que la duración actúa como un multiplicador dado que cuanto más
+grande sea, mayor será el impacto (de signo contrario) en el precio de los bonos ante
+un cambio de los tipos de interés.
+
+</div></details>
+
+
+***
+
+
+
+50. Durante las fases económicas expansivas, los tipos de interés tienden
+generalmente a:
+
+a) Aumentar, porque los Bancos Centrales tratan de contener la
+inflación que, por lo general, acompaña a los ciclos expansivos.
+
+b) Permanecer inalterados, porque los tipos de interés vienen influidos por
+el mercado financiero, pero no por las condiciones de la economía real.
+
+c) Reducirse, porque la producción aumenta.
+
+d) Aumentar, porque los Bancos Centrales aumentan los tipos de interés
+para intentar reactivar el crecimiento económico.
+
+
+<details><summary></summary><div class="FOO">
+
+La respuesta **correcta es la a**.
+
+Política monetaria restrictiva
+
+Cuando en el mercado hay un exceso de dinero en circulación (generalmente esto se produce durante las **fases económicas expansivas**, interesa reducir la cantidad de dinero, y para ello se puede aplicar una **política monetaria restrictiva**.
+
+Consiste en lo contrario que una política monetaria expansiva:
+
++ Aumentar la tasa de interés , para que el hecho de pedir un préstamo resulte más caro.
+
+
++ Aumentar el coeficiente de caja (encaje bancario), para dejar más dinero en el banco y menos en circulación.
+
+
++ Vender deuda pública, para retirar dinero de la circulación, cambiándolo por títulos de deuda pública.
+
+</div></details>
+
+
+***
+
+
+

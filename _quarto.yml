@@ -28,6 +28,8 @@ book:
       chapters:
       - ano_2021.qmd
       - ano_2020.qmd
+      - ano_2019.qmd
+      - ano_2018.qmd
     - part: EXÁMENES PRÁCTICA
       chapters:
       - caso-dic_22.qmd
