@@ -121,7 +121,7 @@ Como se aprecia en los programas EFPA anteriores, el temario del examen EFA incl
 Por lo tanto podemos optar por empezar esta formación de forma parcial, es decir **podemos acreditarnos como EIP y más tarde como EFA aprovechando lo común de los contenidos**. De forma que el examen EIP (o de nivel I):
 
 | **Módulo** | **Contenidos**                              | **Peso** | **Nº Preguntas** |
-|:---------------:|:-------------------|:---------------:|:---------------:|
+|:----------------:|:-------------------|:----------------:|:----------------:|
 |  Módulo 1  | Instrumentos y mercados financieros         |  40,00%  |        16        |
 |  Módulo 2  | Fondos y sociedades de inversión mobiliaria |  10,00%  |        4         |
 |  Módulo 3  | Gestión de carteras                         |  12,50%  |        5         |
@@ -160,11 +160,11 @@ Deben aprobarse ambas partes.
 
 Deben aprobarse ambas partes.
 
-**¿Necesito algún requisito para acceder a las acreditaciones profesionales de EFPA**
+## **¿Necesito algún requisito para acceder a las acreditaciones profesionales de EFPA**
 
 EFPA exige unos requisitos mínimos y que estos van en función de qué certificación queramos obtener. A continuación se presenta la comparativa entre la certificación EIP y EFA:
 
-## **Requisitos examen EIP**
+### **Requisitos examen EIP**
 
 Disponer de titulación completa de estudios secundarios.
 
@@ -174,7 +174,7 @@ Acreditar 6 meses de experiencia en el sector financiero.
 
 Realizar la inscripción al examen, a través de la Web de EFPA, cumplimentando los datos requeridos, adjuntando CV, la última titulación académica obtenida y realizar la transferencia de los derechos de examen para finalizar el proceso (181,50 IVA incluido).
 
-## **Requisitos examen EFA**
+### **Requisitos examen EFA**
 
 Disponer de titulación completa de estudios secundarios.
 
