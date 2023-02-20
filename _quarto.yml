@@ -7,6 +7,8 @@ book:
   author: "[_**Profesor Alberto Bernat**_](https://www.linkedin.com/in/albertobernat/) <br> Máster en Dirección y Planificación Financiera  <br> Universidad Europea Miguel de Cervantes <br>  Economista (Colegiado nº. 3.685) <br>   Asesor Financiero (EFA nº. 14.672)"
   cover-image: EFPA_logo.png"
   date: "now"
+  favicon: "images/favicon.ico"
+
 
     
   chapters:
